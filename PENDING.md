@@ -6,19 +6,26 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## In Progress
 
-- **2026-08-20 01:00** — Phase 1: Job market research — analyzing real UAE/Dubai job postings via LinkedIn + Indeed browser access. Parameters confirmed: Financial Analyst / FP&A / Finance Planning / Management Reporting, Dubai primary, 5-day week, 5k AED target, Jan 2027 deadline.
+- **2026-08-20 02:00** — Phase 1B: Expanding company universe — direct company career pages, freezone directories, LinkedIn people search to grow data beyond 18 postings. User flagged that 18 data points is insufficient; need 50+ companies identified.
 
 ---
 
 ## Backlog / To Do
 
-### Career Transition (Primary)
-- [ ] **Job market research** — Analyze 100+ real UAE/Dubai postings (Financial Analyst, FP&A, Finance Analyst, Finance BI, Finance Systems)
-- [ ] **Skill frequency analysis** — Create skills-frequency matrix (what % of jobs require each skill, importance levels)
-- [ ] **Career target ranking** — Rank roles by fit, entry barrier, salary potential, vacancy count, experience required
-- [ ] **Portfolio roadmap** — Design 5–8 projects addressing job posting requirements (business scenarios, datasets, tools, timeline)
-- [ ] **LinkedIn strategy** — Develop headline, about section, keywords, featured projects, content pillars based on research
-- [ ] **Job application strategy** — Define which roles to target, experience mismatch rules, CV tailoring approach
+### Phase 1B: Expand Company Universe (HIGH PRIORITY — user-requested)
+- [ ] **Target company list** — Build list of 50+ Dubai/UAE companies with finance functions (across DIFC, DAFZA, JAFZA, DMCC, mainland) who hire Financial Analysts / FP&A
+- [ ] **Direct career page research** — Visit top 20 company career pages to find live openings not on LinkedIn/Indeed
+- [ ] **LinkedIn people search** — Search "FP&A Analyst Dubai", "Financial Analyst Dubai" to find companies that have these roles
+- [ ] **Update skills frequency matrix** — Recalculate with 50+ data points (current 18 may not be representative)
+- [ ] **Freezone company directories** — Research DIFC, DMCC, DAFZA, JAFZA registered finance/professional services companies
+
+### Career Transition (Primary — Phase 1 deliverables DONE)
+- [x] ~~**Job market research** — 18 LinkedIn postings + Indeed salary data~~ *(Phase 1B will expand this)*
+- [x] **Skill frequency analysis** — RESEARCH_Deliverable2_Skill_Gap_Analysis.md
+- [x] **Career target ranking** — RESEARCH_Deliverable3_Career_Target_Ranking.md
+- [x] **Portfolio roadmap** — RESEARCH_Deliverable4_Portfolio_Roadmap.md
+- [x] **LinkedIn strategy** — RESEARCH_Deliverable5_LinkedIn_Strategy.md
+- [x] **Job application strategy** — RESEARCH_Deliverable6_Job_Application_Strategy.md
 - [ ] **Interview prep** — Build Q&A for "why should we hire you without formal FP&A experience?"
 
 ### Portfolio Projects (Secondary, after research)
@@ -59,7 +66,7 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ---
 
-## Cleared / Completed
+## Cleared / Completed (Recent)
 
 - ✅ **2026-08-20 00:20** — Create my_career repo on GitHub
 - ✅ **2026-08-20 00:20** — Create USER_PROFILE.md (detailed, evolving profile)
@@ -67,3 +74,5 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - ✅ **2026-08-20 00:30** — Resume reframing (Promotech role: chaos → order transformation story)
 - ✅ **2026-08-20 00:30** — Add Promotech transformation details to USER_PROFILE.md
 - ✅ **2026-08-20 00:40** — Read Career Transition Brief, clarify major strategy shift (accounting → FP&A transition, not permanent trading platform)
+- ✅ **2026-08-20 02:00** — RESEARCH_Phase1: Updated with Indeed salary data (avg AED 8,686/month confirmed)
+- ✅ **2026-08-20 02:00** — All 6 Phase 1 research deliverables written (Skill Gap, Career Target Ranking, Portfolio Roadmap, LinkedIn Strategy, Job Application Strategy)
