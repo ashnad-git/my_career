@@ -80,6 +80,19 @@ This file documents the collaboration model, conventions, and context for workin
 
 ---
 
+## Research Parameters (Confirmed 2026-08-20)
+
+| Parameter | Decision |
+|---|---|
+| **Primary target roles** | Financial Analyst, FP&A Analyst, Finance Planning Analyst, Management Reporting Analyst |
+| **Timeline** | Contract ends Jan 28 2027 · Notice deadline ~Oct 28 2026 · **5 months total** · Apply + build portfolio simultaneously |
+| **Company preference** | Reputable and stable · 5-day work week (non-negotiable) · No industry restriction |
+| **Salary** | Current: 4,000 AED · Target: 5,000 AED minimum · Below 5k only if strong growth trajectory |
+| **Qualification** | CMA (US) early stages — not a near-term credential, "pursuing" line only |
+| **Geography** | Dubai primary · UAE secondary · GCC as comparison only |
+
+---
+
 ## Critical Research Questions (To Answer via Job Market Analysis)
 
 These questions should be answered through analysis of 100+ real UAE/Dubai job postings:

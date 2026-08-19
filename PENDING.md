@@ -6,7 +6,7 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## In Progress
 
-- **2026-08-20 00:40** — Career transition research (analyze 100+ UAE/Dubai job postings for Financial Analyst / FP&A / Finance Analytics roles)
+- **2026-08-20 01:00** — Phase 1: Job market research — analyzing real UAE/Dubai job postings via LinkedIn + Indeed browser access. Parameters confirmed: Financial Analyst / FP&A / Finance Planning / Management Reporting, Dubai primary, 5-day week, 5k AED target, Jan 2027 deadline.
 
 ---
 
