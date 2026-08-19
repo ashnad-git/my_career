@@ -1,10 +1,10 @@
 # Phase 1 Research — UAE/Dubai Finance Job Market Report
 
-**Date:** 2026-08-20  
-**Research Method:** Live LinkedIn job postings (logged-in), past 30 days, Dubai/UAE  
+**Date:** 2026-08-20 (updated with Indeed data 2026-08-20)  
+**Research Method:** Live LinkedIn job postings (logged-in, past 30 days) + Indeed UAE salary aggregates + Indeed job postings  
 **Roles Targeted:** Financial Analyst, FP&A Analyst, Finance Planning Analyst, Management Reporting Analyst  
-**Sample Size:** 12 job postings analyzed in detail + 6 from Career Transition Brief (18 total data points)  
-**Source:** LinkedIn UAE (Indeed UAE blocked by Cloudflare during research)
+**Sample Size:** 12 job postings analyzed in detail + 6 from Career Transition Brief (18 total data points) + Indeed aggregate salary data (64 salary reports)  
+**Sources:** LinkedIn UAE (primary) + Indeed UAE (salary data + additional postings)
 
 ---
 
@@ -80,19 +80,27 @@ Based on 18 job postings. Frequency = approximate % of jobs mentioning this skil
 
 ---
 
-## 4. Salary Data (What Was Available)
+## 4. Salary Data
 
 | Source | Role | Experience | Salary |
 |---|---|---|---|
+| **Indeed aggregate (64 salaries, Aug 2026)** | **Financial Analyst — Dubai** | **All levels** | **AED 8,686/month avg; range AED 4,422–17,061** |
+| **Indeed aggregate** | **Junior Financial Analyst** | Entry–2 yrs | **AED 6,906/month avg** |
+| **Indeed aggregate** | **Senior Financial Analyst** | 5+ yrs | **AED 13,505/month avg** |
+| Indeed — NAFFCO (confirmed posting) | FP&A Analyst | 2–4 yrs | AED 8,000–12,000 |
 | Antal International | Financial Planning Analyst | 5–7+ yrs | AED 15,000–20,000 |
 | Strive Services Group | Financial Analyst | 3–6 yrs | "Competitive" (not stated) |
-| Market inference | FP&A Associate / entry | 0–2 yrs | ~AED 6,000–10,000 |
-| Market inference | Financial Analyst (junior) | 2–4 yrs | ~AED 8,000–15,000 |
-| Market inference | Financial Analyst (mid) | 4–6 yrs | ~AED 12,000–20,000 |
+| Indeed — Vanity Living | Financial Analyst | Not stated | AED 4,000–6,000 (outlier — small trading co.) |
+
+**Top-paying companies for Financial Analyst in Dubai (Indeed data):**
+- TASC Outsourcing: AED 156,000/yr (~AED 13,000/month)
+- TLM International FZE: AED 128,000/yr (~AED 10,667/month)
+- Saudi German Hospital Dubai: AED 108,000/yr (~AED 9,000/month)
+- Dutco Tennant: AED 102,000/yr (~AED 8,500/month)
 
 **Your current salary:** AED 4,000 (significantly below market for even junior analytical roles)  
-**Your target:** AED 5,000+  
-**Reality check:** Any FP&A / Financial Analyst role will pay more than your current salary. Even associate-level roles would likely start at AED 6,000–8,000. Your target of 5,000 AED is conservative — aim higher.
+**Your target:** AED 5,000+ (stated) → **Reality: raise this to AED 7,000–10,000**  
+**Reality check:** Indeed confirms junior Financial Analyst average is AED 6,906/month. Any legitimate FP&A / Financial Analyst role will pay at least AED 6,000–8,000. Your target of AED 5,000 is well below market — you'd be underpricing yourself.
 
 ---
 
@@ -272,4 +280,4 @@ Based on 18 job postings. Frequency = approximate % of jobs mentioning this skil
 
 ---
 
-*Report compiled: 2026-08-20. Based on live LinkedIn research. Next update: After additional Indeed/GulfTalent research or when new job postings captured.*
+*Report compiled: 2026-08-20. Sources: LinkedIn UAE (18 job postings) + Indeed UAE (salary aggregates, 64 data points). Next update: After GulfTalent/Bayt research or when new job postings captured.*
