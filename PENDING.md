@@ -6,18 +6,20 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## In Progress
 
-- **2026-08-20 02:00** — Phase 1B: Expanding company universe — direct company career pages, freezone directories, LinkedIn people search to grow data beyond 18 postings. User flagged that 18 data points is insufficient; need 50+ companies identified.
+*(Nothing currently in progress)*
 
 ---
 
 ## Backlog / To Do
 
-### Phase 1B: Expand Company Universe (HIGH PRIORITY — user-requested)
-- [ ] **Target company list** — Build list of 50+ Dubai/UAE companies with finance functions (across DIFC, DAFZA, JAFZA, DMCC, mainland) who hire Financial Analysts / FP&A
-- [ ] **Direct career page research** — Visit top 20 company career pages to find live openings not on LinkedIn/Indeed
-- [ ] **LinkedIn people search** — Search "FP&A Analyst Dubai", "Financial Analyst Dubai" to find companies that have these roles
-- [ ] **Update skills frequency matrix** — Recalculate with 50+ data points (current 18 may not be representative)
-- [ ] **Freezone company directories** — Research DIFC, DMCC, DAFZA, JAFZA registered finance/professional services companies
+### Phase 1B: Expand Company Universe — COMPLETED ✅
+- [x] **Target company list** — 57 companies identified (RESEARCH_Phase1B_Company_Universe.md)
+- [x] **LinkedIn job search** — Financial Analyst + FP&A Analyst, 3 pages each, ~130+ results processed
+- [x] **Bayt.com UAE** — 3 pages scraped, 90+ results
+- [x] **Indeed UAE FP&A** — 2 pages, salary data confirmed
+- [x] **Skills matrix update** — No major new categories; Jedox/Anaplan/IFS tools noted as emerging
+- [ ] **Direct career page research** — 8 priority companies identified; visit Al-Futtaim, Huda Beauty, NAFFCO, TotalEnergies, ENGIE, Ounass, Fresha, Checkout.com career pages directly
+- [ ] **Freezone company directories** — DMCC/DIFC blocked by browser automation; try DAFZA/JAFZA or use manual search
 
 ### Career Transition (Primary — Phase 1 deliverables DONE)
 - [x] ~~**Job market research** — 18 LinkedIn postings + Indeed salary data~~ *(Phase 1B will expand this)*

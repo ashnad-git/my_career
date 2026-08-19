@@ -49,6 +49,22 @@ Phase 1 research deliverables completed (1 of 6 from prior session + 5 added her
 
 ---
 
+## [2026-08-20 Phase 1B]
+
+### Added
+- **2026-08-20 04:00** — RESEARCH_Phase1B_Company_Universe.md: Expanded company universe to 57 identified UAE/Dubai employers (39 net new beyond Phase 1). Sources: LinkedIn job search (Financial Analyst + FP&A Analyst, 3 pages each), Bayt.com UAE (3 pages), Indeed UAE (2 pages).
+
+### Key Findings from Phase 1B
+- **Al-Futtaim Group** is the most active Dubai FP&A employer — multiple openings across retail, automotive, real estate, health divisions
+- **NAFFCO FP&A Analyst salary confirmed: AED 8,000–12,000/month** (primary target benchmark)
+- **Greenbull Dubai Junior FA: AED 15,000–18,000/month** (likely needs 2+ years despite "junior" title)
+- **Fixed-term / temp contracts exist** (Huda Beauty, Ounass, Shiseido) — valid entry points
+- **Retail/FMCG and Energy/Industrial** are most accessible sectors given accounting + ERP background
+- **Tier 1 targets identified:** NAFFCO, Al-Futtaim, Huda Beauty, Fresha, Ounass, GBM, Eaton, TotalEnergies, ENGIE, Mohamed Hilal, NFPC
+- **12 direct career pages** identified for companies that post outside job boards
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone
