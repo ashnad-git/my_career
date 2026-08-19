@@ -14,10 +14,13 @@ metadata:
 
 ## Identity & Role
 
-**Primary Role:** Trading Strategist + Product Visionary (non-technical founder)  
-**Technical Partnership:** Claude (implementation partner, architecture advisor)  
-**Career Stage:** Building production-grade quantitative trading platform  
-**Location/Context:** MacBook-based, independent builder
+**Current Position:** Accounts and Operations Executive at Promotech Advertising (Dubai)  
+**Career Goal:** Transition from accounting-operations → Financial Analyst / FP&A / Finance Analytics / Finance Systems  
+**Strategic Approach:** Build portfolio projects demonstrating analytical finance capabilities while leveraging technical/automation skills  
+**Technical Partnership:** Claude (career research, portfolio guidance, project development)  
+**Location/Context:** Dubai, UAE; MacBook-based, independent builder  
+
+**Key Distinction:** Not trying to become a software engineer or quant developer. Using technical capability to strengthen candidacy for analytical finance roles.
 
 ---
 
@@ -205,39 +208,82 @@ This role demonstrates your ability to:
 - **Bring order to chaos** (organizing inventory, establishing standardization)
 - **Think in processes** (filing frameworks, workflow standardization)
 
-This is **not** a passive "junior accountant" role — it's a systems transformation story. The resume currently undersells this.
+This is **not** a passive "junior accountant" role — it's a systems transformation story that bridges accounting operations into analytical/technical finance.
 
 ---
 
-## Current Projects & Priorities
+## Career Transition Strategy (2026–Next Phase)
 
-### Primary: Ultimate Trading Terminal
-**Status:** Live, actively evolving  
-**Modules:** Charts ✅ | Option Chain ✅ | Data ✅ | Backtester ✅ | Guide ✅ | Strategies Lab ✅
+### The Core Narrative
+**Accounting operations foundation** → (+ independent FP&A/analytics projects) → **Financial Analyst / FP&A role** → (+ real professional FP&A experience) → **Finance Analytics/Systems/Automation specialization**
 
-**Recent Work (2026-08-15):**
-- Strategy research campaigns (S02, S07, S10) with phase-based validation
-- Session close-outs documenting lessons learned
-- Dhan token refresh mechanics handling
-- Survivorship-free re-testing for strategy confirmation
+### Current Phase: Portfolio & Transition
+**Objective:** Move from accounting-heavy work into analytical finance (Financial Analyst, FP&A Analyst, Finance Analyst, Finance BI/Analytics, Finance Systems roles).
 
-**Active Backlog:**
-1. Info icons + "read more" (site-wide)
-2. Guide — run/strategy walkthrough chapters
-3. Backtester parameter-sweep / batch runs
-4. Crypto backtester V1
-5. Live/auto-refresh data
-6. TradingView-parity gaps (drawing tools, chart types, etc.)
+**Approach:** Reverse-engineer requirements from actual UAE/Dubai job postings; build portfolio projects demonstrating those specific capabilities; use projects to support job applications.
 
-### Secondary: Indicator Library
-**Status:** 15 Pine-to-Python ports, active expansion  
-**Current:** Squeeze Momentum Deluxe through Liquidity Magnet ICT  
-**Pattern:** INTEGRATION_CONTRACT.md playbook for future ports
+### Target Roles (Prioritized by Research)
+**Primary targets:** Financial Analyst, FP&A Analyst, Finance Analyst, Finance Planning Analyst, Finance BI/Analytics, Finance Systems Analyst  
+**Secondary targets:** Commercial Finance Analyst, Management Reporting Analyst, Treasury Analyst, FinTech Analytics  
+**Long-term direction:** Finance + Data + Technology + Automation + Financial Systems
 
-### Tertiary: Strategies Research Lab
-**Status:** Infrastructure built (2026-07-24+), active research underway  
-**Phase Gates:** TESTED → RED_TEAM → VALIDATED (enforced)  
-**Current Studies:** S02 (crypto reversion), S03/S04 (index reversion), S07, S10 (PEAD)
+### Why This Matters
+Promotech role gives you real finance foundation, but title/day-to-day don't reflect analytical capabilities you need to build. Strategy is to:
+1. Research what Dubai employers actually want (frequency analysis from 100+ job postings)
+2. Build 5–8 excellent portfolio projects directly addressing those requirements
+3. Use projects to demonstrate capability without claiming false professional experience
+4. Leverage technical/automation skills (Python, APIs, data pipelines) to differentiate candidacy
+
+### Role of Technical Projects (Trading Platform, etc.)
+**Not** the career itself. **Evidence of**:
+- Systems thinking and problem-solving
+- Technical depth (Python, APIs, automation, cloud deployment)
+- Data handling and pipeline design
+- Persistence in self-directed learning
+- Financial-market understanding
+
+**Should be framed as:** "Independent project demonstrating technical/automation capability" — strengthens FP&A/analytics candidacy by showing ability to automate processes and think systemically about data.
+
+---
+
+## Current Projects & Priorities (Career Transition Focus)
+
+### Priority 1: Career Transition Research & Strategy
+**Objective:** Reverse-engineer UAE/Dubai Financial Analyst / FP&A job market; identify high-ROI projects; map transition path  
+**Status:** IN PROGRESS (2026-08-20+)
+
+**Research deliverables:**
+1. UAE Finance Job Market Report (100+ real vacancies, skill frequency analysis)
+2. Skill Gap Analysis (what I have vs. employers want vs. demonstrable via projects)
+3. Career Target Ranking (which roles are realistic, entry barriers, salary potential)
+4. Portfolio Roadmap (5–8 projects, business scenarios, skills, timeline)
+5. LinkedIn Strategy (headline, about, keywords, content pillars, recruiter discovery)
+6. Job Application Strategy (which jobs to target, experience mismatch rules, CV tailoring)
+
+### Priority 2: Portfolio Project Development (Follow After Research)
+**Objective:** Build 5–8 excellent, realistic FP&A/analytics projects demonstrating job-market requirements  
+**Status:** PENDING (awaiting research completion)
+
+**Example projects (under research validation):**
+- Complete FP&A model (budgeting, forecasting, variance analysis, scenario modeling)
+- 13-week cash-flow forecast (collections, payments, stress scenarios)
+- CFO management dashboard (Power BI, KPIs, drilldowns, variance analysis)
+- Financial statement analysis (real public company, analyst-style report)
+- Business case / investment model (NPV, IRR, sensitivity analysis)
+- SQL finance analytics (customer/unit/margin analysis from transaction data)
+- Finance reporting automation (data pipeline: raw → cleaned → reporting → dashboard)
+
+**Outcome:** Publishable on LinkedIn, interview-ready explanations, directly addresses job posting requirements.
+
+### Secondary: Ultimate Trading Terminal (Continuing)
+**Status:** Live, actively evolving (lower priority during career transition)  
+**Role:** Evidence of technical capability (Python, APIs, data pipelines, automation) — may be leveraged as portfolio asset
+
+**Research question:** How should crypto trading system be positioned in FP&A/analytics context? As evidence of technical depth or separate from main career narrative?
+
+### Tertiary: Current Employment (Promotech)
+**Status:** Active (Feb 2025 – Present)  
+**Role:** Foundation for financial knowledge; systems transformation story; day job while building portfolio
 
 ---
 
