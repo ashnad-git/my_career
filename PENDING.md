@@ -6,7 +6,7 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## In Progress
 
-- **2026-08-20 00:20** — Resume updates (current job: Promotech Advertising role needs alignment with actual capabilities and interests)
+- **2026-08-20 00:30** — Career narrative refinement (translate systems transformation at Promotech → platform building mindset for next role)
 
 ---
 
@@ -34,3 +34,5 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - ✅ **2026-08-20 00:20** — Create my_career repo on GitHub
 - ✅ **2026-08-20 00:20** — Create USER_PROFILE.md (detailed, evolving profile)
 - ✅ **2026-08-20 00:20** — Establish version control discipline (CHANGELOG + PENDING)
+- ✅ **2026-08-20 00:30** — Resume reframing (Promotech role: chaos → order transformation story)
+- ✅ **2026-08-20 00:30** — Add Promotech transformation details to USER_PROFILE.md
