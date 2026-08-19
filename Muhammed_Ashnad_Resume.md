@@ -6,7 +6,7 @@ Dubai, UAE | +971 562303121 | muhammedashnad@gmail.com
 ---
 
 ## PROFESSIONAL SUMMARY
-Detail-oriented finance and accounting professional with an M.Sc. in Financial Economics and hands-on experience in accounting operations, invoice processing, reconciliations, reporting support, and financial documentation review. Currently working in Dubai in a finance and operations role involving sales and purchase invoice entry, account reconciliations, statement of account review, supplier and vendor payments, cash handling, and partial payroll support. Actively involved in ERP transition from Tally ERP to Odoo, including data validation, migration support, and system coordination. Previous experience at EY strengthened skills in high-volume financial review, discrepancy resolution, documentation accuracy, stakeholder coordination, and deadline-driven execution. Proficient in Microsoft Excel, PowerPoint, Odoo, Tally ERP, Power BI, and SQL. Currently pursuing CMA (US).
+Finance and operations professional with M.Sc. in Financial Economics, skilled in systems organization, process optimization, and accounting operations. Proven ability to transform chaotic finance functions into organized, scalable operations through initiative-driven implementation of filing frameworks, digital systems, and workflow standardization. Currently at Promotech Advertising (Dubai), where successfully led organizational restructuring and technical ERP migration (Tally → Odoo) while managing day-to-day accounting operations (invoicing, reconciliations, payments, SOAs, audit support). Previous experience at EY in tax analysis and financial review strengthened skills in high-volume data handling, discrepancy investigation, documentation accuracy, multi-stakeholder coordination, and deadline-driven execution. Proficient in Odoo, Tally ERP, Microsoft Excel, Power BI, PowerPoint, and SQL. Currently pursuing CMA (US).
 
 ---
 
@@ -29,15 +29,20 @@ Detail-oriented finance and accounting professional with an M.Sc. in Financial E
 ### **Accounts and Operations Executive**
 **Promotech Advertising** – *Dubai, UAE*  
 *Feb 2025 – Present*
-- Process sales and purchase invoices in the accounting system, ensuring accurate and timely recording of transactions.
-- Support day-to-day accounting operations across payables, receivables, and cash-related transactions.
-- Perform account reconciliations and statement of account reviews to identify mismatches, follow up on outstanding balances, and support timely resolution.
-- Coordinate supplier and vendor payments while maintaining proper supporting documentation and transaction accuracy.
-- Handle cash-related accounting activities and maintain reliable records for day-to-day finance operations.
-- Provide partial payroll support by coordinating payroll-related data and assisting with payroll processing activities.
-- Prepare operational and financial reports, summaries, and presentations to support internal management review and decision-making.
-- Play an active role in the migration from Tally ERP to Odoo, including data validation, record review, migration support, and coordination of system updates.
-- Work with internal stakeholders to resolve accounting issues, streamline workflows, and improve process efficiency.
+
+**Operational Transformation & Systems Organization**
+- Inherited chaotic finance operations with no standardized filing, scattered documents/invoices, and missing audit-critical records; took initiative to design and implement comprehensive filing framework.
+- **Led digitization initiative:** Implemented digital filing system from scratch, transitioning from scattered physical documents to organized, searchable digital repository.
+- **Established standardized processes:** Designed physical filing framework and digital workflow standards, enabling efficient document retrieval and audit readiness (previously took days to locate files; now minutes).
+- **Technical ERP migration:** Played key role in data migration from legacy Tally ERP to Odoo, including data validation, inventory cleansing (addressing duplications and miscategorizations), and system transition coordination.
+
+**Day-to-Day Accounting Operations**
+- Process sales and purchase invoices in Odoo with accuracy and timeliness; manage high-volume transaction recording across payables and receivables.
+- Execute monthly account reconciliations and statement of account (SOA) reviews; identify mismatches, coordinate with clients and suppliers on outstanding balances, resolve discrepancies.
+- Coordinate supplier and vendor payments; maintain complete transaction documentation and audit trail.
+- Manage petty cash accounting, cheque preparation, and cash reconciliation; support payroll processing activities.
+- Prepare operational and financial reports, summaries, and presentations to support management decision-making and stakeholder communication.
+- Support audit activities with well-organized, accessible documentation and responsive issue resolution.
 
 ### **Tax Analyst**
 **Ernst & Young (EY)** – *Bangalore, India*  

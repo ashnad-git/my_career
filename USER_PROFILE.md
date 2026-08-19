@@ -157,6 +157,58 @@ metadata:
 
 ---
 
+## Current Employment: Promotech Advertising
+
+**Role:** Accounts and Operations Executive (Feb 2025 – Present)
+
+### Situation When Joined
+- Finance operations were chaotic and poorly organized
+- No proper document filing system (physical or digital)
+- Files, invoices, and records scattered with no standardization
+- Inventory management in Tally ERP was a mess (duplications, wrong categorizations)
+- 2024 audit was a nightmare — auditors couldn't locate files; audit took days due to missing/misplaced documents
+- Previous staff had left processes in disarray
+
+### Transformation Work (2025–2026)
+**Year 1: Establishing Order**
+- Took initiative to digitize all files (no one asked; you identified the need)
+- Implemented **physical filing framework** (standardized, organized, findable)
+- Implemented **digital filing system** (complementary to physical)
+- Spent ~1 year understanding existing mess and systematizing processes
+
+**2026: Technical Migration**
+- Led **data migration from Tally ERP → Odoo** with colleagues
+- Handled data validation, cleansing, and transition coordination
+- Navigated inventory cleanup (duplications, categorizations) during migration
+
+### Current State (Post-Transformation)
+- Finance operations now organized and scalable
+- Audit support dramatically improved (files found quickly, complete)
+- Proper workflows established for invoices, reconciliations, payments
+- Technical infrastructure (Odoo) in place and working smoothly
+
+### Day-to-Day Responsibilities
+- Invoice posting (supplier/vendor invoices into accounting system)
+- Monthly account reconciliations
+- Payment processing and supplier coordination
+- Statement of Account (SOA) preparation and client follow-up
+- Petty cash management and posting
+- Cheque preparation
+- Payroll support
+- Audit assistance
+
+### Key Insight
+This role demonstrates your ability to:
+- **See broken systems and fix them** (not just "do my job")
+- **Take initiative** without being told (digitization, filing frameworks)
+- **Lead technical migrations** (Tally → Odoo transition)
+- **Bring order to chaos** (organizing inventory, establishing standardization)
+- **Think in processes** (filing frameworks, workflow standardization)
+
+This is **not** a passive "junior accountant" role — it's a systems transformation story. The resume currently undersells this.
+
+---
+
 ## Current Projects & Priorities
 
 ### Primary: Ultimate Trading Terminal
