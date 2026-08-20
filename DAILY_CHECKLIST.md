@@ -6,6 +6,22 @@
 
 ---
 
+## HOW TO START EACH SESSION WITH CLAUDE
+
+Type one of these — nothing else needed:
+
+| What you type | What happens |
+|---|---|
+| `Phase 2 session` | Full routine: job search + pipeline review + continue learning |
+| `Jobs only today` | Job search + pipeline only — no learning (short on time) |
+| `Learning session` | Skip job search, go straight to Excel/Power BI from where we left off |
+| `Interview at [Company]` | Drop everything — full interview prep mode |
+
+**Default every day: `Phase 2 session`**  
+Claude will read the three tracking files, run a fresh job search, check what you applied to, and pick up learning exactly where we stopped.
+
+---
+
 ## DAILY ROUTINE — 45-60 MINUTES/DAY
 
 ### MORNING (20 min) — Applications + Job Search
