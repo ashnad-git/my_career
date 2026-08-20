@@ -30,16 +30,22 @@
 
 *(Jobs found, not yet applied — apply within 24 hours of appearing here)*
 
-| # | Company | Role | Fit | Found | Deadline | URL |
-|---|---|---|---|---|---|---|
-| 3 | NAFFCO | FP&A Analyst | 🟡 GOOD | 2026-08-20 | Aug 22 | https://www.linkedin.com/jobs/view/4450359617 |
-| 4 | WSP Middle East | Financial Analyst (Dubai, Hybrid) | 🟡 GOOD | 2026-08-20 | Aug 23 | https://www.linkedin.com/jobs/search/?keywords=WSP+financial+analyst+Dubai |
-| 5 | Al Khayyat Investments | Finance Analyst FP&A – Central Finance | 🟡 GOOD | 2026-08-20 | Aug 23 | Search "AKI Finance Analyst FP&A LinkedIn" |
-| 6 | Eaton | FP&A Analyst (Manufacturing Finance) | 🟡 GOOD | 2026-08-20 | Aug 24 | https://www.linkedin.com/jobs/view/4438724370 |
-| 7 | TotalEnergies | FP&A and Economist | 🟡 GOOD | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/search/?keywords=TotalEnergies+FP%26A+Economist+Dubai |
-| 8 | Huda Beauty | Finance Analyst – MEAI (Fixed Term) | 🟡 GOOD | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4448961337 |
-| 9 | Ounass | Financial Analyst (Temp) | 🟡 GOOD | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4448560274 |
-| 10 | Sundus | Budget Analyst (Abu Dhabi) | 🟡 GOOD | 2026-08-20 | Aug 26 | Search "Sundus Budget Analyst Abu Dhabi LinkedIn" |
+**APPLY THIS SESSION — NAFFCO deadline Aug 22 (tomorrow)**
+
+| # | Company | Role | Fit | Found | Deadline | URL | JD Saved |
+|---|---|---|---|---|---|---|---|
+| 3 | NAFFCO | FP&A Analyst | 🟡 GOOD | 2026-08-20 | Aug 22 | https://www.linkedin.com/jobs/view/4450359617 | ✅ jds/ |
+| 5 | Al Khayyat Investments (AKI) | Finance Analyst FP&A – Central Finance | 🟠 STRETCH | 2026-08-20 | Aug 23 | https://www.linkedin.com/jobs/view/4451611807 | ✅ jds/ |
+| 6 | Eaton | FP&A Analyst (Manufacturing Finance) | 🟠 STRETCH | 2026-08-20 | Aug 24 | https://www.linkedin.com/jobs/view/4438724370 | ✅ jds/ |
+| 7 | TotalEnergies | FP&A and Economist | 🟠 STRETCH | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4440531428 | ✅ jds/ |
+| 8 | Huda Beauty | Finance Analyst – MEAI (Fixed Term) | 🟠 STRETCH | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4448961337 | ✅ jds/ |
+| 10 | Sundus | Budget Analyst (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4441466287 | ✅ jds/ |
+| 11 | Mohamed Hilal Group | Financial Analyst (Sharjah) | 🟡 GOOD | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4456432759 | ❌ Fetch |
+| 12 | ENGIE Middle East | Financial Analyst (Dubai) | 🟡 GOOD | 2026-08-20 | Aug 27 | https://www.linkedin.com/jobs/search/?keywords=ENGIE+Financial+Analyst+Dubai | ❌ Fetch |
+
+**Removed from Active — re-rated after reading full JDs:**
+- WSP Middle East (4406461268) → ❌ NOT SUITABLE (CFA/CPA/CA required, Oracle/Hyperion required) → jds/ saved
+- Ounass Financial Analyst (4448560274) → ❌ NOT SUITABLE (CA mandatory, SAP required) → jds/ saved
 
 ---
 
