@@ -12,6 +12,17 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## Backlog / To Do
 
+### Phase 1C: Deep Research — In Progress
+- [x] **crawl4ai installed + wired** — scraper/job_scraper.py working (Naukrigulf confirmed)
+- [x] **Naukrigulf financial-analyst-jobs-in-uae** — 21 jobs extracted, 3 new employers found
+- [ ] **Naukrigulf FP&A / planning analyst queries** — Run: "fp-a-analyst-jobs-in-uae", "planning-analyst-jobs-in-uae", "commercial-analyst-jobs-in-uae", "management-reporting-analyst-jobs-in-uae"
+- [ ] **LinkedIn Jobs pages 3-4** — Extract remaining job URLs not yet captured
+- [ ] **LinkedIn People pages 2-5** — 40+ more Dubai FP&A professionals
+- [ ] **Hiring post queries** — "looking for financial analyst UAE", "FP&A opening Dubai", "hiring finance dubai"
+- [ ] **Scrape full JDs for key Naukrigulf URLs** — Run crawl4ai on 5-8 top Naukrigulf job URLs to extract full job descriptions for skills analysis
+- [ ] **GulfTalent scrape** — Test crawl4ai on GulfTalent (not yet confirmed if blocked or accessible)
+- [ ] **Update RESEARCH_Phase1C with new employers** — CME Capital, Al Kabeer Group already added; check for others
+
 ### Phase 1B: Expand Company Universe — COMPLETED ✅
 - [x] **Target company list** — 57 companies identified (RESEARCH_Phase1B_Company_Universe.md)
 - [x] **LinkedIn job search** — Financial Analyst + FP&A Analyst, 3 pages each, ~130+ results processed

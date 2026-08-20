@@ -303,10 +303,35 @@ Companies not previously in our Phase 1B universe:
 - [x] LinkedIn Hiring Posts — 4 active UAE finance hiring posts found, 3 recruiter contacts captured
 - [x] LinkedIn Project Posts — Content patterns identified, AI tools insight captured
 - [x] LinkedIn Jobs — 100+ results confirmed, page 1 extracted (9 jobs with some URLs)
-- [ ] LinkedIn Jobs pages 2–4 — extract more job titles + URLs
+- [x] LinkedIn Jobs pages 2-3 — extracted, Al-Futtaim Senior FA and TotalEnergies Abu Dhabi confirmed
 - [ ] LinkedIn People pages 2–5 — extract 40+ more professional profiles
 - [ ] More post search queries ("looking for financial analyst UAE", "FP&A opening Dubai")
 - [ ] Run 5+ additional job search query variations
+
+---
+
+## 11. NAUKRIGULF SCRAPE (via crawl4ai)
+
+**Source:** Naukrigulf.com — Financial Analyst jobs in UAE — 133 vacancies advertised  
+**Tool:** crawl4ai (working — no anti-bot on Naukrigulf)  
+**Full data:** scraper/output/naukrigulf_jobs.md  
+
+**Finance Analyst-relevant jobs extracted (page 1 of Naukrigulf):**
+
+| Title | Company | Exp Required | URL |
+|---|---|---|---|
+| Financial Analyst | YAS PARTNER L.L.C-FZ | 5-6 yrs | https://www.naukrigulf.com/financial-analyst-jobs-in-dubai-uae-in-yas-partner-l-l-c-fz-5-to-6-years-n-cd-270772-jid-160826001365 |
+| **Lead Financial Analyst** | **CME Capital** | **3-6 yrs** | https://www.naukrigulf.com/lead-financial-analyst-jobs-in-dubai-uae-in-cme-capital-3-to-6-years-n-cd-361597-jid-190826000424 |
+| Senior Financial Analyst | Al Futtaim | 4-6 yrs | https://www.naukrigulf.com/senior-financial-analyst-jobs-in-dubai-uae-in-al-futtaim-private-company-4-to-6-years-n-cd-120015-jid-130826000525 |
+| Senior Financial Analyst | Al Futtaim | 2-5 yrs | https://www.naukrigulf.com/senior-financial-analyst-jobs-in-dubai-uae-in-al-futtaim-private-company-2-to-5-years-n-cd-120015-jid-190626001263 |
+| Finance Analyst (MEIA) | Huda Beauty | 5-10 yrs | https://www.naukrigulf.com/finance-analyst-jobs-in-uae-in-huda-beauty-5-to-10-years-n-cd-10001177-jid-060826501004 |
+| Financial Analyst | WSP | 3-5 yrs | https://www.naukrigulf.com/financial-analyst-jobs-in-dubai-uae-in-wsp-3-to-5-years-n-cd-40000074-jid-160626501438 |
+| **Financial Planning Analyst (Sales Business Partnering)** | **Al Kabeer Group** | **4-6 yrs** | https://www.naukrigulf.com/financial-planning-analyst-jobs-in-dubai-uae-in-al-kabeer-group-4-to-6-years-n-cd-243156-jid-070826000155 |
+| Business / Data Analyst | Dicetek LLC | 5-8 yrs | https://www.naukrigulf.com/business-data-analyst-jobs-in-dubai-uae-in-dicetek-llc-5-to-8-years-n-cd-41691-jid-140826000410 |
+
+**New employers from Naukrigulf (not in previous universe):**
+- **CME Capital** — Capital markets firm, Lead Financial Analyst, Dubai, 3-6 yrs
+- **Al Kabeer Group** — FMCG/Food group, Financial Planning Analyst (Sales BP), Dubai, 4-6 yrs ⭐ Strong sector fit
 
 ---
 

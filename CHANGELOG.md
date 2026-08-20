@@ -103,6 +103,20 @@ Swiss Arabian Perfumes Group, Sobha Realty, Star Metropolis Clinical Laboratorie
 
 ---
 
+## [2026-08-20 Phase 1C — Naukrigulf Scraper + crawl4ai]
+
+### Added
+- **2026-08-20 08:30** — scraper/job_scraper.py: crawl4ai-based job scraper wired up and tested. Works for Naukrigulf (133 vacancies in UAE). Documented limitations: Bayt.com (anti-bot blocked), Indeed UAE (anti-bot timeout), LinkedIn (needs auth — use browser automation).
+- **2026-08-20 08:30** — scraper/output/naukrigulf_jobs.md: 21 unique jobs extracted from Naukrigulf page 1 — Financial Analyst in UAE query.
+- **2026-08-20 08:30** — RESEARCH_Phase1C_LinkedIn_Deep_Research.md: Added Section 11 — Naukrigulf scrape results with full URLs for 8 finance-relevant roles.
+
+### New Employers from Naukrigulf
+- **CME Capital** — Lead Financial Analyst, Dubai, 3-6 yrs (capital markets firm, new to universe)
+- **Al Kabeer Group** — Financial Planning Analyst (Sales Business Partnering), Dubai, 4-6 yrs (FMCG/food group — strong sector fit given ERP background)
+- **YAS PARTNER L.L.C-FZ** — Financial Analyst, Dubai, 5-6 yrs
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone
