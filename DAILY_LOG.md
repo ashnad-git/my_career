@@ -42,16 +42,18 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 ---
 
-### 2026-08-20 | Day 0 — Session 3: First Application
+### 2026-08-20 | Day 0 — Session 3: First Applications (x2)
 
 **Session type:** Application + resume tailoring
-**Jobs applied:** Chalhoub Group — FP&A Associate I (Zimmermann) via LinkedIn Easy Apply
+**Jobs applied:**
+1. Chalhoub Group — FP&A Associate I (Zimmermann) via LinkedIn Easy Apply (tailored resume 74/100, cover letter)
+2. GBM — Financial Analyst via LinkedIn Easy Apply (STRETCH — applied standard CV after JD confirmed 5yr requirement + 200+ applicants)
 **Connections sent:** None
 **LinkedIn activity:** None
 **Learning outside session:** None
 **Responses received:** None
-**Blockers/notes:** GBM Financial Analyst deadline is Aug 21 (tomorrow) — must apply first thing next session. LinkedIn profile still not updated.
-**Claude notes:** Tailored resume built for Chalhoub (74/100 on hr-audit, up from 58). Two audit rounds. Cover letter rewritten from AI-sounding to natural human voice after Ashnad flagged it. PDF built via reportlab (matching master resume style). Process documented in CLAUDE.md + scripts/build_resume_pdf.py. ACCA clarified — only appears in files as market research data, not as Ashnad's qualification. CMA is the only qualification being pursued.
+**Blockers/notes:** LinkedIn profile still not updated — headline says "Aspiring Financial Analyst". NAFFCO deadline Aug 22 = next urgent application.
+**Claude notes:** Tailored resume built for Chalhoub (74/100 on hr-audit, up from 58). Two audit rounds. Cover letter rewritten from AI-sounding to natural human voice after Ashnad flagged it. PDF built via reportlab (matching master resume style). Process documented in CLAUDE.md + scripts/build_resume_pdf.py. JD archive process established — both JDs saved to jds/. ACCA clarified — only appears in files as market research data, not as Ashnad's qualification. CMA is the only qualification being pursued.
 
 ---
 

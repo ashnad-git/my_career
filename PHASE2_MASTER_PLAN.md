@@ -17,9 +17,9 @@
 | **Current Phase** | Phase 2A — Excel Foundations (not yet begun) |
 | **Current Task** | 2 applications sent. NAFFCO next (deadline Aug 22). |
 | **Last Session Date** | 2026-08-20 |
-| **Last Session Summary** | Chalhoub Group FP&A Associate I (Zimmermann) — tailored resume built, audited twice (58→74/100), PDF generated via reportlab, cover letter written, applied via LinkedIn Easy Apply. PDF build process documented in CLAUDE.md + scripts/build_resume_pdf.py. ACCA clarified — Ashnad pursues CMA only, not ACCA (ACCA in files is market research data only). |
-| **Next Session: Start With** | 1. Catch-up Q&A 2. GBM Financial Analyst — find URL, tailor, apply (deadline Aug 21) 3. NAFFCO — tailor + apply (deadline Aug 22) 4. LinkedIn headline + About update 5. Excel if time remains |
-| **Blockers** | LinkedIn profile not updated. GBM URL not confirmed — need to search LinkedIn for current posting. |
+| **Last Session Summary** | Session 3: Chalhoub FP&A Associate I applied (tailored resume 74/100, reportlab PDF, cover letter). GBM Financial Analyst applied (Easy Apply, STRETCH). JD archive established — jds/ directory created, Chalhoub + GBM JDs saved with Portfolio Relevance. PDF build script permanent at scripts/build_resume_pdf.py. Session 2: Master resume completed (PDF + MD). Session 1: Full Phase 2 infrastructure built. |
+| **Next Session: Start With** | 1. Catch-up Q&A 2. Fetch + save JDs for all 8 pipeline jobs (NAFFCO first — deadline Aug 22) 3. NAFFCO apply 4. Continue pipeline applications 5. LinkedIn headline update 6. Excel if time remains |
+| **Blockers** | LinkedIn profile not updated — headline says "Aspiring Financial Analyst". JDs for 8 pipeline jobs not yet saved to jds/. |
 | **Applications Sent** | 2 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
@@ -570,14 +570,41 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 | Date | Company | Role | Status | Notes |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-08-20 | Chalhoub Group | FP&A Associate I (Zimmermann) | Applied | Tailored resume 74/100, cover letter written. Follow-up 2026-08-27. |
+| 2026-08-20 | GBM (Gulf Business Machines) | Financial Analyst | Applied | Easy Apply only — STRETCH (5yr req, 200+ applicants). No tailoring. |
 
 ---
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
 
-### 2026-08-20 — Phase 1 Closure + Phase 2 Full Setup
+### 2026-08-20 — Session 3: First Applications
+**Covered:**
+- Tailored resume built for Chalhoub Group FP&A Associate I (Zimmermann): hr-audit run twice (58→74/100), PDF generated via reportlab matching master resume style
+- Cover letter rewritten from AI-sounding draft to natural human voice (Ashnad flagged "looks very AI")
+- Applied to Chalhoub via LinkedIn Easy Apply
+- Applied to GBM Financial Analyst via LinkedIn Easy Apply (STRETCH — Easy Apply only, standard CV)
+- JD archive established: jds/ directory created, Chalhoub + GBM JDs saved with Portfolio Relevance sections
+- PDF build process documented in CLAUDE.md + permanent script at scripts/build_resume_pdf.py
+- ACCA clarified: only in files as market research data, not Ashnad's qualification
+- Note: end-of-session Q&A protocol was NOT completed this session — gap identified next session
+**Committed:** Yes — pushed.
+
+---
+
+### 2026-08-20 — Session 2: Master Resume Build
+**Covered:**
+- Master resume completed (resumes/Muhammed_Ashnad_Resume.pdf + .md)
+- PDF built via reportlab (Helvetica, blue headers, A4, ATS-safe)
+- /hr-audit skill created
+- resumes/ directory created for tailored versions
+- Key decisions: no company financials on resume (confidential), Promotech bullets lead with what was built not what was broken, EY restored to 5 bullets, education + certs properly formatted
+- LinkedIn URL confirmed: linkedin.com/in/muhammed-ashnad-k
+**Committed:** Yes — pushed.
+
+---
+
+### 2026-08-20 — Session 1: Phase 1 Closure + Phase 2 Full Setup
 **Covered:**
 - Built Skills Matrix (RESEARCH_Phase1D_Skills_Matrix.md)
 - Added Phase 1C/1D updates to Deliverables 2, 3, 4
@@ -585,15 +612,7 @@ These checkpoints are conditional — only build if interviews aren't converting
 - Created JOB_PIPELINE.md — 10 live jobs found and assessed (Batch 1)
 - Created DAILY_CHECKLIST.md — daily 45-min routine: apply + network + learn + log
 - Live job search run: LinkedIn (FP&A analyst, financial analyst, FP&A associate, management reporting — Dubai) + Indeed UAE
-
-**Skill levels confirmed:** Excel = accounting-level (Pivots at EY, years ago, nothing remembered). Power BI = zero.
-
-**URGENT ACTION FOR ASHNAD TONIGHT:**
-Apply to Chalhoub Group FP&A Associate I (Zimmermann) — posted 1 day ago, STRONG FIT, apply before it closes.
-URL: https://www.linkedin.com/jobs/view/4452830346
-Cover letter in JOB_PIPELINE.md BATCH 1 section — copy and personalise.
-
-**Next session:** Week 1, Day 1 — Excel foundations. Start with VLOOKUP. Check JOB_PIPELINE for applications sent. Run new job search.
+- Skill levels confirmed: Excel = accounting-level (Pivots at EY, years ago, nothing remembered). Power BI = zero.
 **Committed:** Yes — all files pushed.
 
 ---
