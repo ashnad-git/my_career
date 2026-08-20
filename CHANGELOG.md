@@ -4,6 +4,30 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-20] — Session 3: First Application Submitted
+
+### Applied
+- **Chalhoub Group — FP&A Associate I (Zimmermann)** | LinkedIn Easy Apply | 2026-08-20
+  - Tailored resume: `resumes/Muhammed_Ashnad_Chalhoub_FPnA_Associate.pdf`
+  - hr-audit score: 74/100 (two rounds, up from 58/100)
+  - Cover letter: human-voice rewrite after AI-sounding version flagged by Ashnad
+
+### Added
+- **2026-08-20** — `scripts/build_resume_pdf.py` — reportlab PDF builder for all resumes (master + tailored). Run: `python3 scripts/build_resume_pdf.py <key>`. Keys: master, chalhoub.
+- **2026-08-20** — `resumes/Muhammed_Ashnad_Chalhoub_FPnA_Associate.md` — Chalhoub tailored resume (source)
+- **2026-08-20** — `resumes/Muhammed_Ashnad_Chalhoub_FPnA_Associate.pdf` — Chalhoub tailored resume (PDF)
+
+### Updated
+- **CLAUDE.md** — Added Resume PDF Generation section: command, style reference, how to add new resumes
+- **PHASE2_MASTER_PLAN.md** — Applications Sent: 0 → 1. Status dashboard and session log updated.
+- **JOB_PIPELINE.md** — Chalhoub moved to Applied. GBM flagged as next urgent (deadline Aug 21).
+- **DAILY_LOG.md** — Session 3 entry added. Scoreboard: applications 0 → 1.
+
+### Clarified
+- ACCA references in research files are market data only — Ashnad pursues CMA (US), not ACCA.
+
+---
+
 ## [2026-08-20] — Session 2: Resume Finalization
 
 ### Added

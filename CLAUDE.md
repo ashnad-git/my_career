@@ -33,6 +33,37 @@ This file documents the collaboration model, conventions, and context for workin
 
 ---
 
+## Resume PDF Generation
+
+**ALWAYS use reportlab. Never use Chrome headless, pandoc, or HTML conversion.**
+
+### Command
+```bash
+python3 scripts/build_resume_pdf.py <key>
+```
+
+| Key | Output file | Purpose |
+|---|---|---|
+| `master` | `Muhammed_Ashnad_Resume.pdf` | Master resume — broad FP&A/Finance positioning |
+| `chalhoub` | `resumes/Muhammed_Ashnad_Chalhoub_FPnA_Associate.pdf` | Tailored for Chalhoub FP&A Associate I |
+
+### To add a new tailored resume
+1. Build content in `resumes/<Company>_<Role>.md`
+2. Add a `build_<key>()` function in `scripts/build_resume_pdf.py`
+3. Add the key to the `RESUMES` dict at the bottom of the script
+4. Run `python3 scripts/build_resume_pdf.py <key>`
+5. Send the PDF to Ashnad for review before submitting
+
+### Style reference (do not deviate)
+- Font: Helvetica throughout
+- Name: bold 20pt, colour `#1e3a5f` (dark blue)
+- Section headers: bold 8.5pt, colour `#1e3a5f`, underlined with 0.4pt rule
+- Bullets: 8.5pt, 10pt left indent, hanging indent
+- Margins: left/right 17mm, top/bottom 14mm
+- Page size: A4, single column, all text selectable (ATS-safe)
+
+---
+
 ## Files & Their Purpose
 
 | File | Purpose |

@@ -27,7 +27,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 0 | 0 | 5–8 |
+| Applications sent | 1 | 1 | 5–8 |
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 | 0 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
@@ -39,6 +39,19 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-20 | Day 0 — Session 3: First Application
+
+**Session type:** Application + resume tailoring
+**Jobs applied:** Chalhoub Group — FP&A Associate I (Zimmermann) via LinkedIn Easy Apply
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None
+**Blockers/notes:** GBM Financial Analyst deadline is Aug 21 (tomorrow) — must apply first thing next session. LinkedIn profile still not updated.
+**Claude notes:** Tailored resume built for Chalhoub (74/100 on hr-audit, up from 58). Two audit rounds. Cover letter rewritten from AI-sounding to natural human voice after Ashnad flagged it. PDF built via reportlab (matching master resume style). Process documented in CLAUDE.md + scripts/build_resume_pdf.py. ACCA clarified — only appears in files as market research data, not as Ashnad's qualification. CMA is the only qualification being pursued.
 
 ---
 

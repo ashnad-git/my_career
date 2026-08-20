@@ -32,8 +32,7 @@
 
 | # | Company | Role | Fit | Found | Deadline | URL |
 |---|---|---|---|---|---|---|
-| 1 | Chalhoub Group | FP&A Associate I (Zimmermann) | ✅ STRONG | 2026-08-20 | **TODAY** | https://www.linkedin.com/jobs/view/4452830346 |
-| 2 | GBM | Financial Analyst | ✅ STRONG | 2026-08-20 | Aug 21 | Search "GBM Financial Analyst Dubai LinkedIn" |
+| 2 | GBM | Financial Analyst | ✅ STRONG | 2026-08-20 | **TOMORROW Aug 21** | Search "GBM Financial Analyst Dubai LinkedIn" |
 | 3 | NAFFCO | FP&A Analyst | 🟡 GOOD | 2026-08-20 | Aug 22 | https://www.linkedin.com/jobs/view/4450359617 |
 | 4 | WSP Middle East | Financial Analyst (Dubai, Hybrid) | 🟡 GOOD | 2026-08-20 | Aug 23 | https://www.linkedin.com/jobs/search/?keywords=WSP+financial+analyst+Dubai |
 | 5 | Al Khayyat Investments | Finance Analyst FP&A – Central Finance | 🟡 GOOD | 2026-08-20 | Aug 23 | Search "AKI Finance Analyst FP&A LinkedIn" |
@@ -161,7 +160,7 @@
 
 | # | Company | Role | Date Applied | Method | Follow-up Date | Status |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — |
+| 1 | Chalhoub Group | FP&A Associate I (Zimmermann) | 2026-08-20 | LinkedIn Easy Apply | 2026-08-27 | Applied |
 
 ---
 

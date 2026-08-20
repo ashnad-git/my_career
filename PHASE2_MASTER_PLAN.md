@@ -15,12 +15,12 @@
 |---|---|
 | **Current Week** | Week 0 — Pre-launch |
 | **Current Phase** | Phase 2A — Excel Foundations (not yet begun) |
-| **Current Task** | Resume done. LinkedIn update + first tailored resume next. |
+| **Current Task** | Chalhoub applied. GBM deadline tomorrow — apply next. |
 | **Last Session Date** | 2026-08-20 |
-| **Last Session Summary** | Master resume built (PDF + MD). FP&A-targeted positioning. EY restored to 5 bullets. Education/Certs properly formatted. LinkedIn URL confirmed. /hr-audit skill created. No applications sent yet. |
-| **Next Session: Start With** | 1. Catch-up Q&A (any applications or connections since session?) 2. Finish Ashnad's remaining resume concerns. 3. Tailor resume for Chalhoub (URGENT — 2 days old). 4. Submit Chalhoub application. 5. LinkedIn headline + About update. 6. Excel only if time remains. |
-| **Blockers** | 0 applications sent. Chalhoub posting is aging — apply ASAP. LinkedIn profile not updated. |
-| **Applications Sent** | 0 |
+| **Last Session Summary** | Chalhoub Group FP&A Associate I (Zimmermann) — tailored resume built, audited twice (58→74/100), PDF generated via reportlab, cover letter written, applied via LinkedIn Easy Apply. PDF build process documented in CLAUDE.md + scripts/build_resume_pdf.py. ACCA clarified — Ashnad pursues CMA only, not ACCA (ACCA in files is market research data only). |
+| **Next Session: Start With** | 1. Catch-up Q&A 2. GBM Financial Analyst — find URL, tailor, apply (deadline Aug 21) 3. NAFFCO — tailor + apply (deadline Aug 22) 4. LinkedIn headline + About update 5. Excel if time remains |
+| **Blockers** | LinkedIn profile not updated. GBM URL not confirmed — need to search LinkedIn for current posting. |
+| **Applications Sent** | 1 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
 | **Project 2 Progress** | 0% — Not started |
