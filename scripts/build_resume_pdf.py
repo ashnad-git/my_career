@@ -383,14 +383,131 @@ def build_chalhoub():
     build_pdf(story, "/Users/ashnad/my_career/resumes/Muhammed_Ashnad_Chalhoub_FPnA_Associate.pdf")
 
 
+# ── NAFFCO — FP&A Analyst ─────────────────────────────────────────────────────
+
+def build_naffco():
+    """
+    Tailored for: NAFFCO — FP&A (Financial Planning & Analysis) Analyst
+    URL: https://www.linkedin.com/jobs/view/4450359617
+    Deadline: Aug 22, 2026
+    Key changes vs master:
+    - Headline: FP&A Analyst | Budgeting & Variance Analysis (mirrors JD title)
+    - Summary: Names NAFFCO; uses rolling forecasts, variance analysis, cost control language
+    - Skills: Lead with budgeting/forecasting/variance; add Power BI; keep Odoo ERP
+    - Promotech: Financial Reporting leads; budget-to-actual / YoY / cost control language throughout
+    - BB Advisory: Removed (space; adds nothing for industrial FP&A)
+    - Certs: 3 items only
+    Output: resumes/Muhammed_Ashnad_NAFFCO_FPnA_Analyst.pdf
+    """
+    story = []
+    story += header(
+        "FP&amp;A Analyst  |  Budgeting &amp; Variance Analysis  |  "
+        "M.Sc. Financial Economics  |  Ex-EY  |  Dubai"
+    )
+
+    story.extend(section("Professional Summary"))
+    story.append(Paragraph(
+        "Finance professional with M.Sc. Financial Economics and Big Four experience at Ernst &amp; Young, "
+        "seeking to contribute to NAFFCO's FP&amp;A function as a Financial Planning &amp; Analysis Analyst. "
+        "I bring hands-on experience in monthly management reporting, budget-to-actual and year-on-year "
+        "variance analysis, ERP implementation, and month-end close — with a track record of producing "
+        "financial packs for executive stakeholders and building systematic finance controls in an active "
+        "operational environment. Pursuing CMA (US).",
+        BODY
+    ))
+
+    story.extend(section("Core Competencies"))
+    for lbl, content in [
+        ("Financial Analysis &amp; FP&amp;A",
+         "Budgeting &amp; Rolling Forecasts  ·  Variance Analysis (Budget vs Actual, YoY)  ·  "
+         "Management Reporting &amp; MIS  ·  Cash Flow Analysis  ·  KPI Tracking  ·  "
+         "Financial Modelling  ·  Scenario Analysis  ·  P&amp;L Analysis"),
+        ("Technical Tools",
+         "Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Financial Models, Power Query)  ·  "
+         "Power BI (Dashboards, DAX)  ·  Odoo ERP  ·  Tally ERP  ·  Microsoft PowerPoint"),
+        ("Accounting Foundation",
+         "Month-End Close  ·  Account Reconciliation  ·  AP/AR Management  ·  "
+         "ERP Implementation &amp; Migration  ·  Cost Monitoring  ·  Audit Support"),
+    ]:
+        story.append(Paragraph(lbl, SKLBL))
+        story.append(Paragraph(content, SKBDY))
+
+    story.extend(section("Professional Experience"))
+    story.extend(job("Promotech Advertising", "Dubai, UAE", "Accounts and Operations Executive", "Feb 2025 – Present"))
+    story.append(Paragraph("Financial Reporting &amp; Analysis", SUB))
+    story.append(b("Prepare monthly management reports, dashboards, and performance packs for CEO review — "
+                   "analysing revenue, gross margin, and cost variances versus budget and prior year, "
+                   "with written commentary explaining key drivers and recommending corrective actions."))
+    story.append(b("Track departmental and operational expenditure against rolling budget targets; "
+                   "investigate material variances and escalate cost control issues with actionable "
+                   "recommendations to management."))
+    story.append(b("Run month-end close: account reconciliations, ledger reviews, pre/post-closing checks, "
+                   "and discrepancy clearance across all accounts before close date each month."))
+    story.append(b("Manage AP/AR across 475 active accounts — 319 suppliers and 156 clients; review "
+                   "Statements of Account, investigate discrepancies, and follow up on outstanding balances."))
+    story.append(b("Monitor cash position and support cash flow planning and supplier payment scheduling; "
+                   "process 1,000+ payment transactions per year with complete supporting documentation."))
+    story.append(b("Support IFRS-compliant annual audit (Kreston Menon Chartered Accountants) through "
+                   "organised, audit-ready documentation and timely issue resolution."))
+    story.append(Paragraph("Finance Systems &amp; ERP", SUB))
+    story.append(b("Led full ERP migration from Tally to Odoo: managed data validation, inventory database "
+                   "cleansing, master data review, and cross-team co-ordination from planning through go-live "
+                   "— building hands-on ERP implementation experience directly applicable to Oracle/Dynamics environments."))
+    story.append(b("Rebuilt finance documentation framework from scratch — standardised filing, record-keeping, "
+                   "and audit-trail processes; document retrieval reduced from days to minutes."))
+    story.append(Spacer(1, 4))
+
+    story.extend(job("Ernst &amp; Young (EY)", "Bangalore, India", "Tax Analyst", "Nov 2023 – May 2024"))
+    story += ey_tax_analyst_bullets()
+    story.append(b("Co-ordinated with EY U.S. teams across time zones to support timely delivery of "
+                   "financial reporting and documentation under strict deadlines."))
+
+    story.extend(section("Internship Experience"))
+    story.extend(job("Ernst &amp; Young (EY)", "Bangalore, India", "US Tax Intern", "Jan – Apr 2023"))
+    story += ey_intern_bullets()
+
+    story.extend(section("Projects"))
+    proj_t = Table(
+        [[Paragraph("<b>Personal Financial Data Analytics System</b>", EDU_DEG),
+          Paragraph("2024 – Present", DATE_ST)]],
+        colWidths=["76%", "24%"],
+    )
+    proj_t.setStyle(TableStyle([
+        ("ALIGN",         (0,0), (0,0),   "LEFT"),
+        ("ALIGN",         (1,0), (1,0),   "RIGHT"),
+        ("VALIGN",        (0,0), (-1,-1), "TOP"),
+        ("TOPPADDING",    (0,0), (-1,-1), 4),
+        ("BOTTOMPADDING", (0,0), (-1,-1), 0),
+        ("LEFTPADDING",   (0,0), (0,0),   0),
+        ("RIGHTPADDING",  (1,0), (1,0),   0),
+    ]))
+    story.append(proj_t)
+    story.append(Paragraph(
+        "Independently built an end-to-end financial data pipeline: automated data ingestion, "
+        "real-time processing, structured storage, and analytical reporting outputs — demonstrating "
+        "strong quantitative and data analytics capability. Built entirely in Python.",
+        EDU_INS
+    ))
+
+    story += education_section()
+
+    story.extend(section("Certifications &amp; Professional Development"))
+    for c in [
+        "CMA (US / IMA) — In Progress",
+        "Bloomberg Market Concepts — Bloomberg LP",
+        "Financial Reporting — University of Illinois",
+    ]:
+        story.append(cert_line(c))
+
+    build_pdf(story, "/Users/ashnad/my_career/resumes/Muhammed_Ashnad_NAFFCO_FPnA_Analyst.pdf")
+
+
 # ── DISPATCH ──────────────────────────────────────────────────────────────────
 
 RESUMES = {
     "master":    build_master,
     "chalhoub":  build_chalhoub,
-    # Add new tailored resumes here:
-    # "naffco":   build_naffco,
-    # "ounass":   build_ounass,
+    "naffco":    build_naffco,
 }
 
 if __name__ == "__main__":
