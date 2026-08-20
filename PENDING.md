@@ -70,7 +70,7 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 **Verdict:** Applications are going out right now with the wrong resume and an unoptimised LinkedIn profile. Networking connections are going cold with no follow-up sequence. These three gaps are actively costing opportunities today.
 
-- [ ] 🔴 **Resume reframe** — URGENT. Current CV is accounting-focused. Must be rewritten against Phase 1 research findings before more applications go out. All the data is in Deliverable 2 + Skills Matrix. One session to fix.
+- [x] 🔴 **Resume reframe** — COMPLETE (2026-08-20). Master resume built. FP&A positioning, full EY, proper Education/Certs, PDF generated. Tailored versions go in resumes/ per job.
 - [ ] 🔴 **LinkedIn profile** — URGENT. Headline + About section not updated. Deliverable 5 (LinkedIn Strategy) was written but never implemented. Recruiters see the profile the moment you apply.
 - [ ] 🟡 **Networking follow-up sequence** — HIGH. Daily connections are being sent but no protocol exists for what to do after connecting. Day 3-5 warm-up → Day 10-14 informational ask → post-call follow-up. Without this, all 70 database contacts go cold.
 - [ ] 🟡 **Weekly review protocol** — HIGH. No end-of-week check exists. Application conversion rate, learning pace, pipeline health — none of it gets assessed without a formal review.

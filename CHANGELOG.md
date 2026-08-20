@@ -4,6 +4,29 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-20] — Session 2: Resume Finalization
+
+### Added
+- **2026-08-20** — `Muhammed_Ashnad_Resume.pdf` — ATS-friendly 2-page PDF, single column, Helvetica, all text selectable
+- **2026-08-20** — `.claude/commands/hr-audit.md` — slash command for HR-style critical resume audit vs any job description
+- **2026-08-20** — `resumes/` directory — job-tailored resume versions go here, one per application
+- **2026-08-20** — `promotech/` directory — Promotech Advertising source data: 2024 IFRS audit report (Kreston Menon) + 2025 Tally registers (Sales, Purchase, Payment, P&L)
+
+### Updated (Resume — multiple iterations)
+- **Positioning:** Headline changed from "Junior Accountant" to "Finance Professional | Financial Analysis & FP&A | M.Sc. Financial Economics | Ex-EY | Dubai"
+- **Promotech bullets:** Reframed from "inherited chaos" to "designed and implemented from scratch" — avoids criticizing employer in writing. Removed confidential company financials (revenue, assets, payables). Kept process metrics: 30+ accounts, 1,000+ transactions, IFRS audit support.
+- **EY Tax Analyst:** Restored to full 5 bullets — was incorrectly cut to 2. EY is the strongest credential and should never be trimmed.
+- **Education:** Now a proper section — each degree on its own block with institution, location, year. Was previously crammed into one line.
+- **Certifications:** Now a proper list — each certification on its own line. Was previously a footnote.
+- **LinkedIn URL:** Confirmed as linkedin.com/in/muhammedashnad — embedded in PDF header.
+- **Removed:** Employee count, company revenue figures, asset figures, Portfolio Projects section (not yet live), GitHub placeholder text.
+
+### Key decisions logged
+- Never put confidential employer financial data (revenue, profit, assets) on a public resume — private company, not authorized for disclosure
+- Never list employee count next to employer name — unprofessional formatting
+- Process metrics (transaction count, account count) are fine — they describe your work, not the company's financials
+- Portfolio Projects section removed until at least 1 project is live on GitHub — unfinished work listed on a resume hurts more than it helps
+
 ## [2026-08-20] — continued
 
 ### Updated

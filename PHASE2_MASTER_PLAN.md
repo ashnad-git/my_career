@@ -13,13 +13,13 @@
 
 | Field | Value |
 |---|---|
-| **Current Week** | Not started |
+| **Current Week** | Week 0 — Pre-launch |
 | **Current Phase** | Phase 2A — Excel Foundations (not yet begun) |
-| **Current Task** | — |
-| **Last Session Date** | 2026-08-20 (Phase 1 closure) |
-| **Last Session Summary** | Phase 1 complete. Skills Matrix built. All 6 deliverables updated. Tutor plan created. |
-| **Next Session: Start With** | Week 1, Day 1 — Excel foundations. Begin with CFI Excel Crash Course, Topic 1. |
-| **Blockers** | None |
+| **Current Task** | Resume done. LinkedIn update + first tailored resume next. |
+| **Last Session Date** | 2026-08-20 |
+| **Last Session Summary** | Master resume built (PDF + MD). FP&A-targeted positioning. EY restored to 5 bullets. Education/Certs properly formatted. LinkedIn URL confirmed. /hr-audit skill created. No applications sent yet. |
+| **Next Session: Start With** | 1. Catch-up Q&A (any applications or connections since session?) 2. Finish Ashnad's remaining resume concerns. 3. Tailor resume for Chalhoub (URGENT — 2 days old). 4. Submit Chalhoub application. 5. LinkedIn headline + About update. 6. Excel only if time remains. |
+| **Blockers** | 0 applications sent. Chalhoub posting is aging — apply ASAP. LinkedIn profile not updated. |
 | **Applications Sent** | 0 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
