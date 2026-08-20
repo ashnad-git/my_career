@@ -64,25 +64,16 @@ Claude will read the three tracking files, run a fresh job search, check what yo
 
 ---
 
-### EVENING (10 min) — Daily Log + Progress Update
+### EVENING (5 min) — Note What You Did
 
-**Step 6 — Fill in DAILY_LOG.md (5 min) — NON-NEGOTIABLE**
-Open DAILY_LOG.md → copy the template → paste at the top of LOG ENTRIES → fill in every field honestly.
+You do not fill in the daily log. Claude does it by asking you questions at the end of every session.
 
-```
-### DATE: [today's date] (Day X of Phase 2)
-APPLICATIONS: Applied to / new jobs found
-NETWORKING: Connections sent / posts engaged / follow-ups
-LEARNING: Topic / what I can do now / stuck on
-OVERALL: Full/Partial/Skipped + reason + anything Claude needs to know
-```
+Your only job at the end of the day: **remember what you did** so you can answer Claude's questions at the next session.
 
-Claude reads this at the start of every session. If it's blank, Claude treats the day as skipped.
+If you did something between sessions (applied to a job, sent a connection, watched an Excel tutorial), just keep a mental note or a quick text to yourself. Claude will ask about it and log it properly.
 
-**Step 7 — Tick off learning in PHASE2_MASTER_PLAN.md (2 min)**
-- Check the current week's task list → tick what was completed
-- If you finished a tab of the model → update Project 1 Progress %
-- If you hit a checkpoint → note it for Claude to formally call next session
+**Step 6 — If you hit a learning milestone today (1 min)**
+If you completed a topic outside a session (e.g., finished VLOOKUP practice on your own), drop Claude a quick message: "Finished VLOOKUP practice today, felt confident." Claude will update the log and tick the checklist.
 
 ---
 

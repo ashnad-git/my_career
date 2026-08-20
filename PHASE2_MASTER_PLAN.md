@@ -62,13 +62,25 @@
 - Every build task gets broken into steps no bigger than "do this one thing, tell me what you see"
 - **Assess checkpoint criteria continuously** — when criteria are met, call the checkpoint immediately (see CHECKPOINTS section)
 
-### At End of Session
-1. Update STATUS DASHBOARD (Current Week, Current Task, Next Session: Start With)
-2. Write SESSION LOG entry (date + what was covered + what was understood + what was skipped + what's next)
-3. Update PROJECT PROGRESS % if anything was built
-4. Update JOB_PIPELINE.md — move applied jobs, add new ones found
-5. **Check if any checkpoint criteria are now met** — if yes, call the checkpoint in the session log
-6. Commit + push to GitHub (all files: master plan + pipeline + checklist)
+### At End of Every Session — Claude Q&As the Daily Log
+Before committing, Claude asks Ashnad these questions and writes the answers into DAILY_LOG.md:
+
+1. "Which jobs did you apply to today / since we last spoke?"
+2. "Did you send any connection requests? Who?"
+3. "Did you engage with any posts or share anything on LinkedIn?"
+4. "What learning did you do outside our sessions since we last spoke?"
+5. "Any responses, callbacks, or messages from jobs or connections?"
+6. "Anything blocking you or on your mind for tomorrow?"
+
+Then Claude:
+1. Writes the DAILY_LOG.md entry with answers
+2. Updates the PROGRESS SCOREBOARD in DAILY_LOG.md
+3. Updates STATUS DASHBOARD in this file
+4. Writes SESSION LOG entry
+5. Updates PROJECT PROGRESS % if anything was built
+6. Updates JOB_PIPELINE.md — move applied jobs, add new ones
+7. Checks if any checkpoint criteria are now met → call it if yes
+8. Commits + pushes all files
 
 ### Red Lines
 - Never end a session without updating the status dashboard
