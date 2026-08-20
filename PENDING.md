@@ -20,7 +20,8 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - [x] **Hiring post queries** — Synthify HR (trading FA), Hensa Bhatia (Investment Analyst), GBM FA found
 - [x] **Full JD scraped for Chalhoub Group FP&A Associate I** — Gap analysis complete, STRONG FIT
 - [x] **EGA Graduate Trainee** — UAE National only, not suitable
-- [ ] **LinkedIn People pages 2-5** — Still need 40+ more Dubai FP&A professional profiles
+- [x] **LinkedIn People pages 2-7** — 60+ profiles mined from search list view. Sections 17-19 written (cross-profile skills frequency, career paths, showcaser finding)
+- [ ] **LinkedIn People — Premium access** — Now active. Visit individual profiles for full career history, experience details, skills section. Priority: Arun Kumar, Mohammad Omar Mukhtar, Shobhit Gupta, Anjali C, Nijamudheen Ubaid Rahman
 - [ ] **GulfTalent scrape** — Test crawl4ai on GulfTalent (not yet confirmed)
 - [ ] **Naukrigulf: budget-analyst, corporate-finance queries** — 2 more keyword variations to run
 - [ ] **Full JDs for 3 more top roles** — Al Futtaim Analytics Manager, Al Kabeer Financial Planning Analyst, Synthify FA

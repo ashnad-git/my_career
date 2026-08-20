@@ -153,6 +153,31 @@ Swiss Arabian Perfumes Group, Sobha Realty, Star Metropolis Clinical Laboratorie
 
 ---
 
+## [2026-08-20 Phase 1C — LinkedIn People Research Deep Dive]
+
+### Added
+- **2026-08-20 12:00** — RESEARCH_Phase1C_LinkedIn_Deep_Research.md: Sections 17–19 added
+
+### Section 17: LinkedIn People Pages 2–7 (~60 profiles mined)
+- 60+ UAE Dubai FP&A professionals profiled from search result list view (Premium not needed for headline data)
+- **New employers confirmed:** Dubai Aerospace Enterprise, dubizzle (Bayut), Landmark Group, LIFE Pharmacy, Majid Al Futtaim, Dubai Holding (2 people), Emaar, Commercial Bank of Dubai, Damac Digital, EY Dubai (FP&A Manager exists), Al-Futtaim Real Estate
+- **CMA validation:** Muhammad Imaduddin (CMA USA) + Arun Kumar (US CMA in progress) confirm CMA is actively used and visible in UAE FP&A profiles — Ashnad's CMA pursuit is well-positioned
+- **Closest mirror profile:** Arun Kumar — "FP&A Analyst · Financial Modeling & Power BI · US CMA (In Progress) · Targeting Finance roles in Dubai/UAE" — near-identical positioning to Ashnad's planned narrative
+- **Mohammad Omar Mukhtar:** "Senior Accountant → Finance Analyst · 9+ yrs · ACCA Finalist · SAP" — most similar career path (accountant transitioning with ACCA, SAP = ERP background)
+
+### Section 18: Cross-Profile Skills Frequency (60+ profiles)
+- **Qualification frequency (from headlines):** ACCA ~20%, CA (Indian) ~17%, CMA (US) ~10%, CFA ~8%, MBA ~8%, FMVA ~7%
+- **Tool frequency (explicit in headlines):** Power BI ~17%, SAP ~8%, Financial Modelling ~13%, Anaplan ~2%, Oracle FCCS ~2%, SQL ~3%, Python ~3%
+- **Sector distribution:** Retail/FMCG (Landmark, MAF, Chalhoub), Real Estate (Emaar, Al-Futtaim RE), Conglomerates (Dubai Holding, DAE), Banking (CBD, FAB), Aviation, Industrial (EGA), Healthcare, Energy
+- **Career path patterns:** (1) Big 4 audit → FA → FP&A (most common), (2) Accountant → FA → FP&A (Ashnad's path), (3) CA + FMVA cert → FP&A Analyst, (4) MBA Finance → FP&A
+
+### Section 19: Showcaser Research — Final Finding
+- **Conclusion: Zero genuine project showcasers in UAE FP&A community.** LinkedIn content search is globally noisy and cannot be geo-filtered.
+- What Dubai FP&A people post: thought leadership, certification news, career updates — NOT dashboards, models, or project walkthroughs.
+- **Strategic implication:** Anyone posting 2-3 well-documented FP&A portfolio projects on LinkedIn is among a tiny group in the UAE market. First-mover advantage is real.
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone

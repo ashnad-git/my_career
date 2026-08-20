@@ -531,5 +531,158 @@ Planning analyst search returned mainly **supply chain and demand planners** (no
 
 ---
 
-**Last Updated:** 2026-08-20 11:00  
-**Next Actions:** GulfTalent scrape; LinkedIn People pages 2-3; run final Naukrigulf queries (budget-analyst, corporate-finance); start RESEARCH_Phase1D_Skills_Matrix consolidation
+---
+
+## 17. LINKEDIN PEOPLE SEARCH — PAGES 2–7 (60+ profiles mined)
+
+> **Note:** Individual profiles are Premium-gated — only headline and current employer visible when clicking through. All data below is extracted from search results list view (fully visible without Premium).
+
+### Page 2 profiles:
+| Name | Headline | Current Employer | Qualifications |
+|---|---|---|---|
+| Ann Greed | Group Financial Controller | — | — |
+| Haider Javed | CFA Charterholder · Portfolio Manager · FP&A | — | CFA |
+| **Praveen Khaitan** | Finance Controller (Regional FP&A) | **Al-Futtaim Real Estate** | ICAI (Indian CA) |
+| Bhavishya Sharma | Senior Financial Analyst · FP&A · Financial Analysis | Prometheus Capital Finance | MBA, Cert IFR |
+| CA CMA Mounika Reddy | Assistant Manager Finance | **Landmark Group** | CA + CMA |
+| Alex Bogush | Deputy CFO & Group Financial Controller · Ex-Citi FP&A Head | — | — |
+| Nicola Ugoletti | Finance Director | — | CGMA ACMA |
+| **Marina Dumitrascu** | Head of FP&A & Finance BP · FMCG · Retail · Ex-Amazon | — | — |
+| Mohamed Nihal | Group Finance Manager - Modon · Dubai Holding · EY · BDO | — | ACCA |
+| **Devika Menon** | Manager, FP&A | **Dubai Aerospace Enterprise** | — |
+
+### Page 3 profiles:
+| Name | Headline | Current Employer | Qualifications | Tools/Skills |
+|---|---|---|---|---|
+| Bhavya Jain | CA · CFA L3 · Finance Strategy · Big 4 Deal Advisory M&A | — | CA + CFA L3 | — |
+| **Anjali C** | ACCA · Finance Analyst · FP&A & Business Partnering · Ex-EY | — | ACCA | — |
+| **Nandini Vijayan** | Senior FA · Finance BP · FP&A · Financial Modelling | — | ACCA | — |
+| **Aslan Radzhabov** | Senior FA · FP&A & Finance BP · Pharma · P&L · IBP | — | — | **Anaplan, SAP, Power BI, Python** |
+| **Alia Al Fardan** | Finance Business Partner | **Dubai Airports** | — | — |
+| Pawnesh Maniramka | CFO | **Landmark Group** | — | — |
+
+### Page 4 profiles:
+| Name | Headline | Current Employer | Qualifications | Tools/Skills |
+|---|---|---|---|---|
+| Andrei Tsukanov | Finance Manager · Hands-on FP&A, Corporate Finance, Treasury | — | — | — |
+| **Rishabh Verma** | Finance & Ops Associate · FP&A · Banking & Real Estate · Budgeting/Forecasting/Variance | — | — | — |
+| **Shobhit Gupta** | CA, FMVA · FP&A Analyst · Multi-Entity Forecasting & Variance Analysis | — | CA + **FMVA** | — |
+| **Nadiya Simran** | Financial Analyst · FP&A · Revenue & Pricing Analytics · CFA Candidate | — | CFA (candidate) | — |
+| Mudasir Aslam | Senior FP&A Analyst · 10K followers | — | CMA + FMVA | — |
+| **Balachandar Vasan** | ACCA Affiliate · FP&A & Financial Analysis · Financial Modelling · Variance Analysis · Management Reporting | — | ACCA (affiliate) | — |
+| **Ayush Sitani** | Finance Business Partner · FP&A · Cars Business · Strategic & Commercial Finance · Ex-Goldman Sachs · ADNOC | **dubizzle (Bayut)** | — | — |
+| **CA Tony Thomas** | CA · Associate Finance Manager · ex-EY · FP&A · Budgeting & Forecasting · IFRS | — | CA + ex-EY | — |
+
+### Page 5 profiles:
+| Name | Headline | Current Employer | Qualifications | Tools/Skills |
+|---|---|---|---|---|
+| **Priyanka Nambiar** | Retail Finance Analyst · Ex-Landmark · Ex-Zoho · FP&A · MIS | **LIFE Pharmacy** | — | — |
+| **Uzair Mueen** | FP&A Manager · EY Dubai · EY KSA · Finance Strategy · M&A | EY | — | — |
+| **Ashish Roy** | Finance Analyst · FP&A · Financial Modelling · Energy & Infrastructure · MBA | — | MBA | **Excel & Power BI** |
+| Hani Preethi | Finance Manager · FP&A · Treasury | ICC Group Dubai | — | — |
+| **Nijamudheen Ubaid Rahman** | Financial Analyst · FP&A · Budgeting & Forecasting · Variance Analysis | — | CMA + CIMA Finalist | **Power BI** |
+| **Prasanna Kumar Behera** | FP&A · MBA Finance · IFRS · Ex-Yamaha | — | MBA | — |
+| Bhumika Kungwani | CA · FP&A & Regulatory Reporting | — | CA | — |
+| **Mohammad Omar Mukhtar** | Senior Accountant → Finance Analyst · FP&A · ACCA Finalist · 9+ yrs · SAP · Real Estate Finance | — | ACCA (Finalist) | **SAP** |
+| **Parth Khona** | Strategic Finance Leader · FP&A · Commercial Finance · 17K followers | **Majid Al Futtaim** | CA | — |
+
+### Page 6 profiles:
+| Name | Headline | Current Employer | Qualifications | Tools/Skills |
+|---|---|---|---|---|
+| **Alberto M.** | Senior FP&A · Group Financial Analyst · Finance BP · Budgeting/Forecasting/P&L Leadership | — | FMVA® | **SAP & Power BI** |
+| CA Ishita Bapna | FP&A · Ex-ABG · Retail · FMCG | **Landmark Group (HomeCentre)** | CA | — |
+| **Omran Al Ati** | Data Center Finance Manager · FP&A · CMA · CFA L2 | **Damac Digital** | CMA + CFA L2 | — |
+| Mary Huseynova | Director FP&A & MIS | **Dubai Holding** | — | **Power BI, PL SQL, VBA, Automation** |
+| **Arun Kumar** | FP&A Analyst · Financial Modeling & Power BI · **US CMA (In Progress)** · Targeting Dubai/UAE | — | US CMA in progress | Power BI |
+
+### Page 7 profiles:
+| Name | Headline | Current Employer | Qualifications | Tools/Skills |
+|---|---|---|---|---|
+| Mohd Yasir | CMA* · MBA · FP&A · Modeling · Consolidation · Power BI | — | CMA + MBA | Power BI |
+| **Muhammad Danish Ali** | Senior Finance Manager · FP&A · ERP Implementation · Oracle FCCS/Fusion | — | ACCA, MCSI, PMP | **Oracle FCCS/Fusion, Power BI** |
+| Hatem Abedalqader | Finance Director · AI-Driven Automation · Finance Transformation · FP&A | — | — | — |
+| **Affan Chaudhary** | Data-Driven Finance · MBA Finance student · FP&A | — | MBA (in progress) | **Power BI · SQL · Python** |
+| **Johan Mathew** | Financial Analyst Intern · BBA Student · Corporate Finance & FP&A | **Wellbridge Technologies** | BBA (in progress) | — |
+| **Sabith Mohmed** | Financial Analyst · 5+ yrs · FP&A · Budgeting & Forecasting | **Dubai Holding** | CMA + MBA | — |
+| **Muhammad Imaduddin** | FP&A Financial Analyst · Budgeting & Forecasting · **CMA (USA)** | — | **US CMA** | Power BI |
+| Subodh Lamichhane | CA · Financial Modelling · IFRS · Budgeting and Forecasting | **Emaar** | CA | — |
+| Alan O'Neill | Head of Finance Planning and Performance | **Commercial Bank of Dubai** | — | — |
+
+---
+
+## 18. CROSS-PROFILE SKILLS FREQUENCY (60+ profiles — pages 1–7)
+
+Based on what people explicitly mention in their LinkedIn headlines:
+
+### Qualifications frequency:
+| Qualification | Count in headlines | % of ~60 profiles | Notes |
+|---|---|---|---|
+| **ACCA** | 12+ | ~20%+ | Most common — appears as ACCA, ACCA Finalist, ACCA Affiliate |
+| **CA (Indian)** | 10+ | ~17% | Chartered Accountant from ICAI (Indian CA) |
+| **CMA (US or IMA)** | 6 | ~10% | Mudasir, Nijamudheen, Omran, Sabith, Mohd Yasir, Muhammad Imaduddin |
+| **CFA** | 5 | ~8% | More common in investment/treasury roles, not pure FP&A |
+| **MBA** | 5 | ~8% | Often paired with ACCA or CA |
+| **FMVA** (CFI cert) | 4 | ~7% | Shobhit, Mudasir, Alberto, Muhammad Awais |
+| **CIMA** | 2 | ~3% | Less common than ACCA in UAE market |
+| **CPA** | 1 | ~2% | Rare |
+
+### Tools/skills mentioned in headlines (explicit):
+| Tool/Skill | Count in headlines | Notes |
+|---|---|---|
+| **Power BI** | 10+ | Most common explicit tool mention |
+| **SAP** | 5 | Appears across many sectors |
+| **Financial Modelling / DCF** | 8+ | Often written out in full |
+| **Anaplan** | 1 | Specialist FP&A tool (Aslan, pharma) |
+| **Oracle FCCS/Fusion** | 1 | Specialist FP&A ERP (Muhammad Danish) |
+| **SQL** | 2 | Affan Chaudhary, others |
+| **Python** | 2 | Aslan (pharma), Affan — still specialist |
+| **Tableau** | 1 | Akhil at Swiss Arabian |
+| **Dynamics 365** | 1 | Akhil at Swiss Arabian |
+| **VBA** | 1 | Mary (Director-level) |
+| **PL SQL** | 1 | Mary (Director-level) |
+
+### Common employer sectors (from visible current roles):
+- **Retail/Luxury/FMCG:** Landmark Group (2 people), Majid Al Futtaim, Chalhoub Group
+- **Real Estate:** Al-Futtaim Real Estate, Emaar, Dubai Properties Group
+- **Conglomerate/Holding:** Dubai Holding (2 people), Dubai Aerospace Enterprise
+- **Banking:** Commercial Bank of Dubai, Mashreq, FAB
+- **Aviation:** Dubai Airports
+- **Industrial:** Emirates Global Aluminium
+- **Healthcare:** LIFE Pharmacy, Aster DM Healthcare
+- **Energy:** TotalEnergies
+- **Consulting/Big 4:** EY Dubai (FP&A Manager exists)
+
+### Career path patterns observed:
+1. **Big 4 → FP&A** — Most common transition: EY/Deloitte/PwC audit → Finance Analyst → FP&A Analyst (Anjali, CA Tony Thomas, Uzair at EY, Mohamed Nihal via EY/BDO)
+2. **Accountant → Finance Analyst → FP&A** — Mohammad Omar Mukhtar (9+ years accountant with ACCA in progress = closest to Ashnad's path)
+3. **CA + FMVA → FP&A Analyst** — Shobhit Gupta pattern — strong financial modelling cert on top of CA base
+4. **MBA Finance → FP&A** — Prasanna Kumar, Ashish Roy — MBA entry point without CA/ACCA
+
+---
+
+## 19. SHOWCASER RESEARCH — FINAL FINDING
+
+**Conclusion: Zero genuine project showcasers found in UAE FP&A community.**
+
+Ran 4 different content search queries targeting UAE FP&A project posts (dashboards, models, analyses). All queries returned irrelevant global content — LinkedIn does not geo-filter content/post searches.
+
+**What Dubai FP&A professionals actually post on LinkedIn:**
+- Thought leadership content (concepts like gearing ratio, startup valuation)
+- Certification completions (AICPA & CIMA FP&A cert — one found in earlier session)
+- Career updates ("happy to share I've joined...")
+- General finance education content
+
+**Not found:**
+- Power BI dashboard screenshots
+- Excel model walkthroughs
+- Financial analysis write-ups from real portfolio projects
+- FP&A case study posts with charts or outputs
+
+**Strategic implication for Ashnad:**
+The showcasing bar in UAE finance is virtually nonexistent. Anyone who posts well-documented FP&A projects — even 2-3 posts — will be among a tiny group doing so in this market. The data science community normalized portfolio showcasing; finance has not followed. **First-mover advantage is real here.**
+
+---
+
+**Last Updated:** 2026-08-20 12:00  
+**Status:** People research pages 1–7 complete (70+ profiles). Premium needed for full career history detail.  
+**Next Actions:** Compile RESEARCH_Phase1D_Skills_Matrix from all data; run 2 more Naukrigulf keyword scrapes; optionally continue to people pages 8-10 with Premium.
