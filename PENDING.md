@@ -12,7 +12,7 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## Backlog / To Do
 
-### Phase 1C: Deep Research — Mostly Complete
+### Phase 1C/1D: Deep Research — COMPLETE ✅
 - [x] **crawl4ai installed + wired** — scraper/job_scraper.py working (Naukrigulf confirmed, js_code scroll fix applied)
 - [x] **Naukrigulf financial-analyst-jobs-in-uae** — 21 jobs extracted, 3 new employers found
 - [x] **Naukrigulf FP&A / planning / commercial / mgmt-reporting** — All 4 done, 80+ additional jobs found
@@ -20,12 +20,14 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - [x] **Hiring post queries** — Synthify HR (trading FA), Hensa Bhatia (Investment Analyst), GBM FA found
 - [x] **Full JD scraped for Chalhoub Group FP&A Associate I** — Gap analysis complete, STRONG FIT
 - [x] **EGA Graduate Trainee** — UAE National only, not suitable
-- [x] **LinkedIn People pages 2-7** — 60+ profiles mined from search list view. Sections 17-19 written (cross-profile skills frequency, career paths, showcaser finding)
-- [ ] **LinkedIn People — Premium access** — Now active. Visit individual profiles for full career history, experience details, skills section. Priority: Arun Kumar, Mohammad Omar Mukhtar, Shobhit Gupta, Anjali C, Nijamudheen Ubaid Rahman
-- [ ] **GulfTalent scrape** — Test crawl4ai on GulfTalent (not yet confirmed)
-- [ ] **Naukrigulf: budget-analyst, corporate-finance queries** — 2 more keyword variations to run
-- [ ] **Full JDs for 3 more top roles** — Al Futtaim Analytics Manager, Al Kabeer Financial Planning Analyst, Synthify FA
-- [ ] **RESEARCH_Phase1D_Skills_Matrix** — Consolidate all research into frequency matrix (what % of postings require each skill)
+- [x] **LinkedIn People pages 2-7** — 60+ profiles + 70 profiles total. People database (RESEARCH_Phase1C_LinkedIn_People_Database.md) complete
+- [x] **LinkedIn Premium access** — Used for Tier 1 premium profile deep-dives (Nandini Vijayan, Subodh Lamichhane, Mohammad Omar Mukhtar, Arun Kumar, Shobhit Gupta, Parth Khona)
+- [x] **Global showcaser research** — 8 real showcaser posts analyzed (RESEARCH_Phase1D_Global_Showcaser_Analysis.md). Gold standards: Pankaj Kawade + Ben Capobianco
+- [x] **RESEARCH_Phase1D_Skills_Matrix** — Complete. 8 sections: responsibilities, tools, qualifications, experience, sectors, salary, priority matrix, conclusions
+- [x] **Deliverable 2, 3, 4 Phase 1C/1D Updates** — All three updated with new findings
+- [ ] **GulfTalent scrape** — Deferred (sufficient data from other sources; marginal value)
+- [ ] **Naukrigulf: budget-analyst, corporate-finance queries** — Deferred (sufficient data)
+- [ ] **Full JDs: Al Futtaim, Al Kabeer, Synthify** — Deferred (Chalhoub JD is sufficient primary reference)
 
 ### Phase 1B: Expand Company Universe — COMPLETED ✅
 - [x] **Target company list** — 57 companies identified (RESEARCH_Phase1B_Company_Universe.md)
@@ -38,14 +40,18 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - [ ] **Al-Futtaim Workday ATS** — Check manually at alfuttaim.wd3.myworkdayjobs.com when Workday service restores
 - [ ] **ENGIE UAE filter** — Visit jobs.engie.com manually → filter Location: UAE → Category: Finance
 
-### Career Transition (Primary — Phase 1 deliverables DONE)
-- [x] ~~**Job market research** — 18 LinkedIn postings + Indeed salary data~~ *(Phase 1B will expand this)*
-- [x] **Skill frequency analysis** — RESEARCH_Deliverable2_Skill_Gap_Analysis.md
-- [x] **Career target ranking** — RESEARCH_Deliverable3_Career_Target_Ranking.md
-- [x] **Portfolio roadmap** — RESEARCH_Deliverable4_Portfolio_Roadmap.md
+### Phase 1 Research — COMPLETE ✅ (2026-08-20)
+
+**100+ job postings analyzed. 6 deliverables written. Skills matrix built. Phase 1 closed.**
+
+- [x] **Job market research** — 100+ postings (LinkedIn, Indeed, Naukrigulf, Bayt, full JDs)
+- [x] **Skill frequency analysis** — RESEARCH_Deliverable2_Skill_Gap_Analysis.md + Phase 1C/1D Update
+- [x] **Career target ranking** — RESEARCH_Deliverable3_Career_Target_Ranking.md + Phase 1C/1D Update
+- [x] **Portfolio roadmap** — RESEARCH_Deliverable4_Portfolio_Roadmap.md + Phase 1C/1D Update
 - [x] **LinkedIn strategy** — RESEARCH_Deliverable5_LinkedIn_Strategy.md
 - [x] **Job application strategy** — RESEARCH_Deliverable6_Job_Application_Strategy.md
-- [ ] **Interview prep** — Build Q&A for "why should we hire you without formal FP&A experience?"
+- [x] **Skills Matrix** — RESEARCH_Phase1D_Skills_Matrix.md (synthesizes all 100+ postings)
+- [ ] **Interview prep** — Q&A for "why should we hire you without formal FP&A experience?"
 
 ### Portfolio Projects (Secondary, after research)
 - [ ] **Project 1: FP&A Model** — Complete budgeting, forecasting, variance analysis, scenario modeling
@@ -70,18 +76,19 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## Decisions Pending
 
-### Career Research (to answer)
-- [ ] **Which roles are realistic?** Financial Analyst vs FP&A Analyst vs Finance Analyst vs Finance BI vs Finance Systems?
-- [ ] **Experience gaps:** Which roles require 2–3 years experience vs. entry-level feasible?
-- [ ] **Skill priorities:** Which high-ROI skills should I invest in? (Power BI vs SQL vs Python vs financial modelling)
-- [ ] **Qualification strategy:** Does CMA/CFA/ACCA matter for target roles? ROI-based recommendation?
-- [ ] **Portfolio timeline:** Should I apply immediately or spend 3–6 months building portfolio first?
-- [ ] **Trading system positioning:** How to frame crypto automation as evidence of FP&A-relevant capability?
-- [ ] **LinkedIn focus:** Which content pillars for recruiter discoverability?
+### Career Research — ANSWERED by Phase 1 research ✅
+- [x] **Which roles are realistic?** → FP&A Associate (Tier 1), junior Financial Analyst (Tier 1), Management Reporting Analyst (Tier 2), FP&A Analyst 2-4yr (Tier 2 with 2 projects)
+- [x] **Experience gaps?** → 50% of market accessible today; 28% (FP&A-specific) reachable with 2 portfolio projects
+- [x] **Skill priorities?** → Excel → Power BI → cash flow → FSA. In that order. (Skills Matrix, Section 7)
+- [x] **Qualification strategy?** → M.Sc. sufficient. CMA: continue slowly. No new quals needed before Oct 2026.
+- [x] **Portfolio timeline?** → Build + apply simultaneously. Start applying immediately (Tier 1); build Project 1 in parallel.
+- [x] **Trading system positioning?** → "Automation and data pipeline experience" — differentiator, not leading story
+- [x] **LinkedIn focus?** → Project showcase (zero competitors in UAE) + FP&A content pillars
 
-### Career Brand
-- [ ] **Positioning:** "Finance professional transitioning to analytical finance" or "Finance + Analytics" or something else?
-- [ ] **Public visibility:** How much Ultimate Trading Terminal work should be visible on professional profiles?
+### Career Brand — Active
+- [ ] **Headline + "About" section** — finalize based on research findings
+- [ ] **Positioning confirmed:** "Finance professional transitioning to FP&A and financial analytics"
+- [ ] **Public visibility decision** — Ultimate Trading Terminal: mention as "built automated data pipeline and financial analytics system" — do not lead with crypto; do not hide
 
 ---
 

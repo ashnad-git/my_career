@@ -246,3 +246,78 @@ Each project must have:
 ---
 
 *Deliverable 4 of 6. Paired with Skill Gap Analysis and Job Application Strategy.*
+
+---
+
+## Phase 1C/1D Update — 2026-08-20
+
+*Original deliverable based on 18 LinkedIn postings and generic best-practice advice. These additions reflect findings from global showcaser research (8 real showcase posts analyzed) and the Chalhoub JD, which provides the clearest single data point on what the first real application needs to demonstrate.*
+
+### The Global Showcasing Benchmark (Why This Matters)
+
+UAE FP&A community does zero portfolio showcasing. Zero. Out of 70 LinkedIn profiles and multiple content searches, no UAE FP&A professional posts project work. The global benchmark (primarily India, some UK/US) is active and growing. Posting 3-4 well-executed project posts makes Ashnad the most visible finance portfolio builder in the UAE market by default. The bar is genuinely zero.
+
+### Gold Standard Formats (From Best Showcasers Globally)
+
+**Format 1 — Pankaj Kawade (driver-based forecast):** Built a 3-year driver-based forecast for Eternal Ltd. (formerly Zomato). Used Bear/Base/Bull scenarios. Then QA'd every assumption against the company's actual FY26 results — found real model bugs (legacy "take rate" driver no longer applicable after Blinkit acquisition). Wrote about what the model got wrong, not just what it got right. This intellectual honesty is more credible than a perfect-looking model. His best line: *"Financial modelling is as much about knowing what you don't know as about the formulas."*
+
+**Format 2 — Ben Capobianco (quantified real impact):** Built complete financial infrastructure for a real restaurant during an internship. Every result quantified: 95% data collection time reduction, 86% daily forecast accuracy, 24% revenue above 4-year historical average. No vague claims. Numbers tied to real business outcomes.
+
+**Key insight:** Projects using real company data (listed company annual reports) outperform fictional scenarios in credibility. UAE-listed companies with usable public financial data: Emaar Properties, Air Arabia, Aldar Properties, Agthia Group, ADNOC Distribution, Emirates REIT.
+
+### Updated Project 1 Guidance
+
+The original Project 1 scenario (fictional UAE retail company) is still valid as a starting point. But based on showcaser research and the Chalhoub JD, two additions:
+
+1. **Use a real UAE listed company for at least one project** — Agthia Group (FMCG, Abu Dhabi-listed) or Air Arabia (low-cost airline, Sharjah) are ideal: detailed annual reports, stable financials, not too complex. This gives "real data, real company" credibility that fictional scenarios can't match.
+
+2. **Add written management commentary to every project** — Chalhoub JD specifically says: "prepare P&L variance commentary for presentation to senior management." A model without commentary is incomplete evidence. Each project needs a "What this tells leadership" section (1 paragraph minimum, executive-summary style).
+
+### LinkedIn Post Cadence (Updated)
+
+Original plan: 1 post per project. Updated based on Kavish Kaul's series approach:
+
+**3 posts per project, same company/scenario:**
+- **Post 1 (Week of project completion):** Share the project — what you built, hook + bullet list + carousel screenshots
+- **Post 2 (1 week later):** Share one specific finding — the most interesting/counterintuitive thing the analysis revealed
+- **Post 3 (2 weeks later):** Share one lesson — what building it taught you about the craft of FP&A
+
+This gives 3 touchpoints per project, builds a series audience, and each post reinforces the previous one. For 4 projects = 12 LinkedIn posts over 3-4 months = sustained visibility.
+
+### Post Structure Template (from global showcaser research)
+
+```
+[HOOK — one sentence that stops the scroll]
+  Example: "I spent 4 days analyzing Air Arabia's financials. Here's what the budget vs. actual reveals about their post-COVID recovery."
+
+[CONTEXT — 2-3 sentences: what problem, why this company]
+
+[WHAT I BUILT — 4-6 bullets, specific and concrete]
+  • Driver-based 3-year forecast with Bear/Base/Bull scenarios
+  • Budget vs. Actual variance analysis (Revenue, Gross Margin, OpEx)
+  • Monthly rolling forecast with automated recalculation
+
+[KEY FINDING — 1-2 insights, honest about surprises or limitations]
+  • The most interesting thing: Q3 margin compression is driven by fuel cost timing, not revenue softness
+
+[LESSON — one genuine reflection on the craft]
+  "Financial modelling is as much about knowing what you don't know as about the formulas."
+
+[CTA]
+  "Happy to share the methodology if useful — just comment below."
+
+[ATTACHMENT — 4-8 screenshot carousel of actual work]
+```
+
+### Ashnad's Unique Framing Angle
+
+Python/automation background is rare in UAE FP&A. The trading platform (data pipelines, API integration, automated reporting) maps directly to where FP&A is going. Frame it as:
+> *"I automated the data pipeline so I could focus on the analysis, not the data wrangling."*
+
+This positions ahead of where most FP&A analysts are today (still doing manual Excel refreshes) and where Mary Huseynova (Director FP&A, Dubai Holding) already operates (Power BI + PL SQL + VBA + automation). Project 7 (Finance Automation Pipeline) should be framed exactly this way.
+
+### What Did Not Change
+
+- Project sequence remains the same (FP&A Model → Power BI Dashboard → Cash Flow → FSA → Business Case → SQL → Automation)
+- Timeline suggestion unchanged (20-week parallel with job applications)
+- Project quality standards unchanged (GitHub + README + LinkedIn post + key insights)

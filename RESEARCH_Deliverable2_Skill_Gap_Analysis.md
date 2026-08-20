@@ -162,3 +162,49 @@ This is the sequence that builds the most employable skills in the shortest time
 ---
 
 *Deliverable 2 of 6. Paired with Phase 1 Research Report and Career Target Ranking.*
+
+---
+
+## Phase 1C/1D Update — 2026-08-20
+
+*Original deliverable based on 18 LinkedIn postings. These additions reflect findings from 100+ postings (Naukrigulf scrapes, LinkedIn pages 3-5, full JD analysis, 70 professional profile review, global showcaser analysis, and the completed Skills Matrix.)*
+
+### What Changed
+
+**Power BI frequency is higher than originally estimated:**  
+Confirmed at 62% across all postings — it has crossed from "nice to have" into expected skill territory for analyst-level roles in UAE. The original estimate was directionally correct but the actual frequency is significant: approaching 2 in 3 postings. Sprint 2 (Power BI) must not be delayed past 3 weeks after Sprint 1 completion.
+
+**CMA (US) is more relevant than originally stated:**  
+The original estimate (~5% market frequency) is based on posting text alone. People research across 70 Dubai FP&A professionals shows ~8-10% hold CMA in headline, with 6 confirmed individuals using it as their primary credential marker. Muhammad Imaduddin and Arun Kumar (both UAE job-seekers in 2025-26) have CMA in progress. Revised verdict: continue CMA slowly — it adds signal without costing time you don't have.
+
+**FMVA (CFI) is a viable addition if time allows:**  
+Shobhit Gupta's documented career path: 9-month career break → FMVA certification + portfolio projects → landed Dubai FP&A role (April 2025). FMVA takes ~3-4 months of focused study. If Ashnad can complete Projects 1-2 and has bandwidth during months 3-4 of the transition, FMVA is worth starting. It signals formal FP&A training that supplements the M.Sc. (which is a broader finance degree, not FP&A-specific).
+
+**Chalhoub Group FP&A Associate I JD — confirmed skill requirements:**  
+Direct JD analysis (full text scraped) confirms: Advanced Excel required, SAP preferred, month-end P&L variance commentary, budgeting + forecasting, board presentation support. ACCA **not required**. This is the clearest data point that M.Sc. + portfolio projects = viable path to FP&A Associate role without ACCA.
+
+**SAP gap is confirmed but cannot be self-learned:**  
+37% of postings mention SAP. However, zero job boards or training platforms teach "SAP for finance" without employer-provided access. The Odoo migration story remains the only realistic response. No action needed beyond consistent framing.
+
+**Business partnering is half the job (52% of postings):**  
+Portfolio posts must include written management commentary, not just model screenshots. Every project should have a 1-paragraph "What this tells leadership" section. This is what Chalhoub JD specifically calls out: "prepare P&L variance commentary for presentation to leadership."
+
+### Revised Qualification Table
+
+| Qualification | Market Frequency | Ashnad Status | Revised Action |
+|---|---|---|---|
+| Finance/Accounting degree | ~100% | M.Sc. Financial Economics ✅ | None needed |
+| Professional qualification (any) | ~35% | None — CMA in progress | Note CMA on CV as "pursuing" |
+| ACCA | ~18% (postings) / ~20% (professional profiles) | No | Consider after transition (not before) |
+| CFA | ~14% | No | Investment roles only; skip for FP&A |
+| CMA (US/IMA) | ~9% postings / ~10% profiles | In progress ✅ | Continue slowly — more relevant than originally estimated |
+| CIMA | ~6% | No | Lower priority than ACCA |
+| FMVA (CFI) | ~4% | No | Add if months 3-4 have bandwidth (Shobhit Gupta precedent) |
+| MBA | ~10% senior roles | No | Not needed for entry/mid roles |
+
+### No Changes To
+
+- Priority order of portfolio sprints (Sprint 1: Excel + FP&A model; Sprint 2: Power BI) — confirmed correct
+- ERP (SAP/Oracle) verdict — cannot self-close; mention Odoo
+- Python framing — rare differentiator; reframe, don't hide
+- Skills to avoid list — all still valid

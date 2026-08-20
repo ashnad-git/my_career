@@ -169,3 +169,64 @@ If volume applying (Tier 1 + Tier 2) produces minimal responses after 30+ applic
 ---
 
 *Deliverable 3 of 6. Paired with Skill Gap Analysis and Portfolio Roadmap.*
+
+---
+
+## Phase 1C/1D Update — 2026-08-20
+
+*Original deliverable based on 18 LinkedIn postings. These additions reflect findings from 100+ postings, full JD analysis, 70 professional profile review, and expanded company universe research.*
+
+### Chalhoub Group FP&A Associate I — Confirmed STRONG FIT (Tier 1)
+
+Full JD analyzed. Key findings:
+- **Preferred experience:** 2-3 years. Does NOT say "required." The Associate I level is designed for early-career entry.
+- **Qualifications:** Finance/Accounting degree + professional certification preferred (does not name ACCA, CPA, or any specific qualification — M.Sc. + CMA in progress is sufficient).
+- **Required skills:** Advanced Excel, SAP preferred (not required), month-end P&L variance commentary, budgeting and forecasting, board presentation support.
+- **Key reason this is STRONG FIT:** Chalhoub Group is a luxury/retail conglomerate (Louis Vuitton, Cartier, Dior in Middle East). The FP&A function is established. ERP migration experience (Odoo) directly signals operational finance awareness. EY brand and M.Sc. are exactly what their HR filters would accept.
+- **Apply:** With Project 1 (FP&A model) complete; Project 1 directly demonstrates every technical skill listed in the JD.
+
+### New Confirmed Employers (From People Research)
+
+70 LinkedIn profiles reveal additional employers actively running FP&A teams:
+
+| Employer | FP&A Level | Person Evidence | Notes |
+|---|---|---|---|
+| **Dubai Holding** | Financial Analyst | Sabith Mohmed (13 mutual connections) | Sabith in FA role there; established FP&A function |
+| **Dubai Aerospace Enterprise (DAE)** | Manager FP&A | Devika Menon | Larger team; 4-6 yr experience required |
+| **Landmark Group** | FP&A roles | Multiple profiles | Large retail conglomerate; Tier 1/2 target |
+| **Swiss Arabian Perfumes** | FP&A Analyst | Multiple profiles | Mid-size; good entry point |
+| **Mohamed Abdulrahman Al Bahar (MAF)** | Analyst roles | Multiple profiles | Regional trading; flexible on experience |
+| **Al Douri Group** | Head of FP&A | Marina Dumitrascu | Newer entrant; may be building function |
+| **Chalhoub Group** | FP&A Associate I | JD analyzed | ✅ Confirmed STRONG FIT — apply first |
+| **PwC / EY UAE** | Finance roles | Multiple profiles | EY brand helps; advisory context different |
+| **ENOC / Petrofac** | Finance Analyst | Multiple profiles | Energy sector; Odoo ERP background helps |
+
+### Sector Concentration Update (100+ postings)
+
+| Sector | % of Market | Ashnad Fit | Action |
+|---|---|---|---|
+| Retail / FMCG / Luxury | ~26% | HIGH | Primary target — Chalhoub confirmed STRONG FIT |
+| Real Estate / Construction | ~19% | MEDIUM | High volume; Emaar/Aldar data available for projects |
+| Energy / Industrial / Manufacturing | ~16% | MEDIUM | TotalEnergies, EGA, ENOC active hirers |
+| Financial Services / Banking | ~11% | LOW | Domain gap; EY tax helps but not enough |
+| Healthcare / Pharma | ~9% | LOW | No sector knowledge; deprioritize |
+| Technology / Telecom | ~8% | MEDIUM | Python/automation background a differentiator |
+| Hospitality / F&B | ~5% | MEDIUM | Simpler FP&A; good for early entry |
+
+### Salary Data Updated
+
+| Role | Range (AED/month) | Source |
+|---|---|---|
+| FP&A Associate / Graduate | 5,000–8,000 | Chalhoub JD context |
+| Financial Analyst (junior) | 6,000–10,000 | Indeed UAE avg AED 8,686/month |
+| Financial Analyst (mid-market) | 8,000–14,000 | NAFFCO confirmed AED 8,000–12,000 |
+| Senior Financial Analyst | 12,000–18,000 | Indeed UAE avg AED 13,505/month |
+
+**Ashnad's current:** AED 4,000 → **Realistic first target:** AED 6,000–10,000 (50–150% increase)
+
+### What Did Not Change
+
+- Tier ranking remains the same (FP&A Associate → junior Financial Analyst → Management Reporting Analyst → FP&A Analyst 2-4yr → Stretch)
+- Month-by-month application timeline remains valid
+- Company type priority remains the same (mid-size private companies first)
+- "If no response after 30 applications" protocol unchanged
