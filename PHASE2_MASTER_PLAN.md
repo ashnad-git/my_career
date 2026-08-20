@@ -82,6 +82,18 @@ Then Claude:
 7. Checks if any checkpoint criteria are now met → call it if yes
 8. Commits + pushes all files
 
+### Progressive Difficulty Rule (Ashnad's explicit instruction — 2026-08-20)
+Practice data and questions must get harder as sessions progress. Never keep difficulty flat.
+
+| Stage | Data | Questions |
+|---|---|---|
+| Intro (first 1–2 exercises) | 9 clean rows, obvious column names, single criteria | One match, one output, clear answer |
+| Mid (3–5 exercises) | 20–30 rows, mixed types, some blanks or edge cases | Two+ criteria, numeric operators, ask "what formula do you need?" |
+| Test (end of topic) | 30–50 rows, realistic messy data | Open-ended: "Find X" — no formula hint given |
+| Cross-topic (later sessions) | Multi-sheet, requires cleanup first | Combine formulas, diagnose errors, build from scratch |
+
+**Rule:** If an exercise feels easy, the next one must be harder. No exceptions.
+
 ### Red Lines
 - Never end a session without updating the status dashboard
 - Never skip the session log
