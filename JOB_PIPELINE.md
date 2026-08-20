@@ -30,11 +30,10 @@
 
 *(Jobs found, not yet applied — apply within 24 hours of appearing here)*
 
-**APPLY THIS SESSION — NAFFCO deadline Aug 22 (tomorrow)**
+**APPLY THIS SESSION — NAFFCO ✅ DONE**
 
 | # | Company | Role | Fit | Found | Deadline | URL | JD Saved |
 |---|---|---|---|---|---|---|---|
-| 3 | NAFFCO | FP&A Analyst | 🟡 GOOD | 2026-08-20 | Aug 22 | https://www.linkedin.com/jobs/view/4450359617 | ✅ jds/ |
 | 5 | Al Khayyat Investments (AKI) | Finance Analyst FP&A – Central Finance | 🟠 STRETCH | 2026-08-20 | Aug 23 | https://www.linkedin.com/jobs/view/4451611807 | ✅ jds/ |
 | 6 | Eaton | FP&A Analyst (Manufacturing Finance) | 🟠 STRETCH | 2026-08-20 | Aug 24 | https://www.linkedin.com/jobs/view/4438724370 | ✅ jds/ |
 | 7 | TotalEnergies | FP&A and Economist | 🟠 STRETCH | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4440531428 | ✅ jds/ |
@@ -180,6 +179,7 @@
 |---|---|---|---|---|---|---|
 | 1 | Chalhoub Group | FP&A Associate I (Zimmermann) | 2026-08-20 | LinkedIn Easy Apply | 2026-08-27 | Applied |
 | 2 | GBM | Financial Analyst | 2026-08-20 | LinkedIn Easy Apply | 2026-08-27 | Applied — STRETCH (re-rated from STRONG; 5yr req, 200+ applicants) |
+| 3 | NAFFCO | FP&A Analyst | 2026-08-20 | NAFFCO TeamTailor portal | 2026-08-27 | Applied — tailored PDF (audit-fixed) |
 
 ---
 
