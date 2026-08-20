@@ -18,7 +18,7 @@ Building FP&A capability through independent portfolio projects covering budgeti
 ## CORE COMPETENCIES
 
 **Financial Analysis & FP&A**
-Financial Reporting & MIS | Management Reporting | Variance Analysis | P&L Analysis | Financial Statement Analysis | Budgeting & Forecasting (building) | Cash Flow Analysis | KPI Tracking | Scenario Analysis
+Financial Reporting & MIS | Management Reporting | Variance Analysis | P&L Analysis | Financial Statement Analysis | Budgeting & Forecasting | Cash Flow Analysis | KPI Tracking | Scenario Analysis
 
 **Technical Skills**
 Advanced Excel (Power Query, Pivot Tables, Financial Models) | Power BI (Dashboards, DAX) | SQL | Python (Automation & Data Pipelines) | Odoo ERP | Tally ERP | Microsoft PowerPoint
@@ -31,7 +31,7 @@ Month-End Close Support | Account Reconciliation | AP / AR Management | ERP Impl
 ## PROFESSIONAL EXPERIENCE
 
 ### **Accounts and Operations Executive**
-**Promotech Advertising** – Dubai, UAE | *Feb 2025 – Present*
+**Promotech Advertising** – Dubai, UAE *(Advertising & Media, ~100 employees)* | *Feb 2025 – Present*
 
 **Finance Systems Transformation**
 - Inherited a disorganized finance function with no filing system, scattered documentation, and missing audit-critical records; designed and implemented a comprehensive filing framework from scratch — document retrieval reduced from days to minutes.
