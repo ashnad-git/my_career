@@ -42,6 +42,20 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 ---
 
+### 2026-08-20 | Day 0 — Session 4: JD Archive + Pipeline Applications
+
+**Session type:** Catch-up + JD archiving + pipeline applications
+**Catch-up period:** Since Session 3 (same day)
+**Jobs applied independently:** None
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None
+**Blockers/notes:** 8 pipeline JDs not yet saved to jds/. NAFFCO deadline Aug 22. LinkedIn headline still shows "Aspiring Financial Analyst" — needs updating.
+**Claude notes:** Session opened with accountability correction — multiple protocol items missed in Session 3 (end-of-session Q&A not done, DAILY_LOG missing GBM application, SESSION LOG and APPLICATION LOG not updated in PHASE2_MASTER_PLAN). All gaps fixed. Catch-up Q&A completed. Now proceeding to fetch all 8 pipeline JDs and apply to NAFFCO (Aug 22 deadline).
+
+---
+
 ### 2026-08-20 | Day 0 — Session 3: First Applications (x2)
 
 **Session type:** Application + resume tailoring
