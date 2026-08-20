@@ -13,14 +13,14 @@
 
 | Field | Value |
 |---|---|
-| **Current Week** | Week 0 — Pre-launch |
-| **Current Phase** | Phase 2A — Excel Foundations (not yet begun) |
-| **Current Task** | 2 applications sent. NAFFCO next (deadline Aug 22). |
+| **Current Week** | Week 1 — Applications + Excel Foundations |
+| **Current Phase** | Phase 2A — Excel Foundations (Day 1–2: Formula Foundations, SUMIFS done) |
+| **Current Task** | 5 pipeline applications due Aug 21 (TotalEnergies, Huda Beauty, Sundus, Mohamed Hilal, Khazna). Next Excel topic: VLOOKUP. |
 | **Last Session Date** | 2026-08-20 |
-| **Last Session Summary** | Session 3: Chalhoub FP&A Associate I applied (tailored resume 74/100, reportlab PDF, cover letter). GBM Financial Analyst applied (Easy Apply, STRETCH). JD archive established — jds/ directory created, Chalhoub + GBM JDs saved with Portfolio Relevance. PDF build script permanent at scripts/build_resume_pdf.py. Session 2: Master resume completed (PDF + MD). Session 1: Full Phase 2 infrastructure built. |
-| **Next Session: Start With** | 1. Catch-up Q&A 2. Fetch + save JDs for all 8 pipeline jobs (NAFFCO first — deadline Aug 22) 3. NAFFCO apply 4. Continue pipeline applications 5. LinkedIn headline update 6. Excel if time remains |
-| **Blockers** | LinkedIn profile not updated — headline says "Aspiring Financial Analyst". JDs for 8 pipeline jobs not yet saved to jds/. |
-| **Applications Sent** | 2 |
+| **Last Session Summary** | Sessions 4–5: 6 total applications submitted (Chalhoub, GBM, NAFFCO, AKI, Eaton, dubizzle). LinkedIn headline updated to "Finance Professional \| FP&A & Financial Analysis \| Python · SQL \| M.Sc. Financial Economics \| Ex-EY \| Dubai". Learning folder plan saved to memory. SUMIFS learned and tested from memory — formula written correctly without hints (=SUMIFS(C2:C10,B2:B10,"Sales",A2:A10,"Feb")). 5 applications queued for tomorrow (deadline order). |
+| **Next Session: Start With** | 1. Catch-up Q&A  2. Apply in deadline order: TotalEnergies (Aug 25), Huda Beauty (Aug 25), Sundus (Aug 26), Mohamed Hilal (Aug 26), Khazna (Aug 28)  3. Fetch sidebar JDs (Revolut, Mark Williams, Alghanim)  4. Create learning/ folder + 01_sumifs_practice.xlsx  5. Continue Excel: VLOOKUP |
+| **Blockers** | LinkedIn "About" section not yet updated. |
+| **Applications Sent** | 6 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
 | **Project 2 Progress** | 0% — Not started |
@@ -572,11 +572,31 @@ These checkpoints are conditional — only build if interviews aren't converting
 |---|---|---|---|---|
 | 2026-08-20 | Chalhoub Group | FP&A Associate I (Zimmermann) | Applied | Tailored resume 74/100, cover letter written. Follow-up 2026-08-27. |
 | 2026-08-20 | GBM (Gulf Business Machines) | Financial Analyst | Applied | Easy Apply only — STRETCH (5yr req, 200+ applicants). No tailoring. |
+| 2026-08-20 | NAFFCO | FP&A Analyst | Applied | TeamTailor portal. Tailored PDF (audit 58→65+, 5 fixes). Follow-up 2026-08-27. |
+| 2026-08-20 | Al Khayyat Investments (AKI) | Finance Analyst FP&A – Central Finance | Applied | LinkedIn Easy Apply. Master PDF. STRETCH. FP&A years=1, salary=7000 AED. |
+| 2026-08-20 | Eaton | FP&A Analyst (Manufacturing Finance) | Applied | Eightfold portal. Master PDF. STRETCH. SAP must-have gap noted — applied per Ashnad's call. |
+| 2026-08-20 | dubizzle (Bayut) | Associate Commercial Analyst | Applied | Workable portal. Tailored PDF 72/100. GOOD FIT. Commercial analytics angle. |
 
 ---
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-20 — Sessions 4–5: 4 More Applications + Excel Start
+**Covered:**
+- NAFFCO applied via TeamTailor portal (tailored PDF, 5 audit fixes — summary reframe, AP/AR → data consolidation, cash flow reframe, EY filing bullet removed, projects reframed)
+- AKI applied via LinkedIn Easy Apply (master PDF, STRETCH — screening: FP&A=1yr, salary=7000 AED, UAE=2yr, no certifications)
+- Eaton applied via Eightfold portal (master PDF, STRETCH — SAP must-have gap; Ashnad chose to apply)
+- dubizzle applied via Workable portal (tailored PDF 72/100, GOOD FIT — commercial analytics angle; Python/SQL/Power BI leading; "dashboard" + "deep-dive analysis" JD language embedded)
+- LinkedIn headline updated to: "Finance Professional | FP&A & Financial Analysis | Python · SQL | M.Sc. Financial Economics | Ex-EY | Dubai"
+- Contact number confirmed correct across all files: +971 543255352
+- 3 process failures caught and documented → mandatory checklist added to CLAUDE.md
+- Excel Day 1 start: SUMIFS formula taught, 4 questions answered, written from memory correctly without hints
+- Learning folder plan added to memory (I create practice Excel files, Ashnad works on them)
+- 5 applications queued for 2026-08-21 (in deadline order)
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-20 — Session 3: First Applications
 **Covered:**

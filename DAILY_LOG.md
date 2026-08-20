@@ -27,11 +27,11 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 2 | 2 | 5–8 |
+| Applications sent | 6 | 6 | 5–8 |
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 | 0 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
-| Learning hours logged | 0 | 0 | 5–7 hrs |
+| Learning hours logged | 0.5 | 0.5 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -68,9 +68,9 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 **LinkedIn activity:** None
 **Learning outside session:** None
 **Responses received:** None
+**Learning this session:** SUMIFS formula — 4 practice questions (all correct including written from memory: =SUMIFS(C2:C10,B2:B10,"Sales",A2:A10,"Feb")). ~30 min. Checkpoint 2A-1 criteria: SUMIFS ✅. Next: VLOOKUP.
 **Blockers/notes:**
-- LinkedIn headline still "Aspiring Financial Analyst" — update before next session, recruiters see this on every application
-- LinkedIn phone number not updated in profile settings (correct: +971 543255352)
+- LinkedIn "About" section still not updated (headline ✅ done)
 - 5 remaining STRETCH applications due tomorrow (TotalEnergies Aug 25, Huda Beauty Aug 25, Sundus Aug 26, Mohamed Hilal Aug 26, Khazna Aug 28)
 **Claude notes:** 3 process failures caught and corrected: (1) NAFFCO form handed off without tailored resume, (2) PDF sent without hr-audit, (3) audit findings not implemented before SendUserFile. Mandatory checklist added to CLAUDE.md. Contact number updated to 543255352 across all files. NAFFCO: 5 audit fixes (summary reframe, AP/AR → data consolidation, cash flow reframe, EY filing bullet removed, projects reframed). dubizzle: commercial analytics angle, Python/SQL/Power BI leading, deep-dive analysis + dashboard JD language embedded.
 
