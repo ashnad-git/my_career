@@ -4,6 +4,42 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-20] — Session 5: 4 More Applications + dubizzle Tailored Resume
+
+### Applied
+- **NAFFCO — FP&A Analyst** | NAFFCO TeamTailor portal | tailored PDF (audit-fixed, 58→65+/100)
+- **Al Khayyat Investments (AKI) — Finance Analyst FP&A** | LinkedIn Easy Apply | master PDF | STRETCH
+- **Eaton — FP&A Analyst (Manufacturing Finance)** | Eaton Eightfold portal | master PDF | STRETCH (SAP must-have gap; applied anyway)
+- **dubizzle (Bayut) — Associate Commercial Analyst** | Workable portal | tailored PDF (72/100) | GOOD FIT
+
+### Added
+- `resumes/Muhammed_Ashnad_NAFFCO_FPnA_Analyst.md` — NAFFCO tailored resume (source)
+- `resumes/Muhammed_Ashnad_NAFFCO_FPnA_Analyst.pdf` — NAFFCO tailored PDF (5 audit fixes)
+- `resumes/Muhammed_Ashnad_Dubizzle_AssociateCommercialAnalyst.md` — dubizzle tailored resume
+- `resumes/Muhammed_Ashnad_Dubizzle_AssociateCommercialAnalyst.pdf` — dubizzle tailored PDF
+- `jds/Revolut_SeniorFixedIncomeResearchAnalyst_UAE_2026-08-20.md` — NOT SUITABLE (quant, STEM, 5yr req)
+- `scripts/build_resume_pdf.py` — added `build_naffco()` and `build_dubizzle()` functions + dispatch keys
+
+### Updated
+- **Contact number** — +971 543255352 propagated across all files and all PDFs (master + Chalhoub + NAFFCO)
+- **CLAUDE.md** — Added mandatory "Application Process — Mandatory Checklist" (12-step GOOD FIT / 5-step GOOD FIT Easy Apply / 4-step STRETCH process). Hard rules block added.
+- **JOB_PIPELINE.md** — AKI, Eaton, dubizzle removed from active; all 6 total applications moved to APPLIED
+- **PENDING.md** — 5 remaining STRETCH jobs documented with deadlines for tomorrow's session
+- **Memory** — `feedback_tailored_resume_before_applying.md` updated with 10-step mandatory sequence
+
+### Process fixes (3 failures caught and corrected this session)
+1. NAFFCO form handed off without tailored resume → checklist added to CLAUDE.md
+2. PDF sent to Ashnad without running hr-audit first → audit-before-send rule hardcoded
+3. Audit findings not implemented before sending → must implement before SendUserFile
+
+### Pending from today (carry to next session)
+- LinkedIn headline still shows "Aspiring Financial Analyst" — update urgently (recruiters see this on every application)
+- LinkedIn phone number not updated in LinkedIn profile settings
+- DAILY_LOG Q&A entry for this session
+- 5 remaining STRETCH applications (see PENDING.md "APPLY TOMORROW" section)
+
+---
+
 ## [2026-08-20] — Session 3: First Application Submitted
 
 ### Applied

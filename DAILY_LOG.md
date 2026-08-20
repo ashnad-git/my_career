@@ -56,6 +56,26 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 ---
 
+### 2026-08-20 | Day 0 — Session 5: Applications (x4 more = 6 total today)
+
+**Session type:** Applications + resume tailoring
+**Jobs applied:**
+3. NAFFCO — FP&A Analyst | TeamTailor portal | tailored PDF (58→65+ after 5 audit fixes)
+4. Al Khayyat Investments (AKI) — Finance Analyst FP&A | LinkedIn Easy Apply | master PDF | STRETCH
+5. Eaton — FP&A Analyst (Manufacturing Finance) | Eightfold portal | master PDF | STRETCH (SAP must-have gap; applied anyway per Ashnad's call)
+6. dubizzle (Bayut) — Associate Commercial Analyst | Workable portal | tailored PDF 72/100 | GOOD FIT
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None
+**Blockers/notes:**
+- LinkedIn headline still "Aspiring Financial Analyst" — update before next session, recruiters see this on every application
+- LinkedIn phone number not updated in profile settings (correct: +971 543255352)
+- 5 remaining STRETCH applications due tomorrow (TotalEnergies Aug 25, Huda Beauty Aug 25, Sundus Aug 26, Mohamed Hilal Aug 26, Khazna Aug 28)
+**Claude notes:** 3 process failures caught and corrected: (1) NAFFCO form handed off without tailored resume, (2) PDF sent without hr-audit, (3) audit findings not implemented before SendUserFile. Mandatory checklist added to CLAUDE.md. Contact number updated to 543255352 across all files. NAFFCO: 5 audit fixes (summary reframe, AP/AR → data consolidation, cash flow reframe, EY filing bullet removed, projects reframed). dubizzle: commercial analytics angle, Python/SQL/Power BI leading, deep-dive analysis + dashboard JD language embedded.
+
+---
+
 ### 2026-08-20 | Day 0 — Session 3: First Applications (x2)
 
 **Session type:** Application + resume tailoring

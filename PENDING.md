@@ -10,6 +10,31 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ---
 
+## APPLY TOMORROW — 2026-08-21 (in deadline order)
+
+**Context:** 6 applications submitted today (2026-08-20). These 5 are the next batch — all STRETCH, Easy Apply only, master resume. No tailoring needed.
+
+| Priority | Company | Role | Deadline | LinkedIn URL | Method | Notes |
+|---|---|---|---|---|---|---|
+| 🔴 URGENT | TotalEnergies | FP&A and Economist | Aug 25 | linkedin.com/jobs/view/4440531428 | Easy Apply | French MNC; "Economist" in title = M.Sc. Economics angle plays well |
+| 🔴 URGENT | Huda Beauty | Finance Analyst MEAI (Fixed Term) | Aug 25 | linkedin.com/jobs/view/4448961337 | Easy Apply | Fixed-term contract; consumer brand FP&A; lower competition than perm roles |
+| 🟡 | Sundus | Budget Analyst | Aug 26 | linkedin.com/jobs/view/4441466287 | Easy Apply | Abu Dhabi location; staffing firm; pure budgeting focus |
+| 🟡 | Mohamed Hilal Group | Financial Analyst | Aug 26 | linkedin.com/jobs/view/4454495190 | Easy Apply | Sharjah; retail exp preferred but not mandatory |
+| 🟢 | Khazna Data Centers | Financial Modeller | Aug 28 | linkedin.com/jobs/view/4445665949 | Easy Apply | Data center sector; financial modelling focus |
+
+**Also in active pipeline (no deadline pressure yet):**
+- AD Ports Group — Treasury Analyst, Abu Dhabi (4444301466) — STRETCH, treasury ≠ FP&A, low priority
+
+**JDs spotted but not yet fetched — check at start of next session:**
+- Revolut — Data Analyst (Finance), UAE Remote — potentially interesting, check if still live
+- Mark Williams Recruitment — Financial Analyst, Abu Dhabi (4444421989)
+- Alghanim Industries — Financial Analyst, Kirby, RAK (4444415740)
+- finera — Treasury Officer, Dubai — likely NOT SUITABLE (treasury)
+- Tabby — Treasury Associate, Dubai — likely NOT SUITABLE
+- Invenire Group — Treasury Analyst, Abu Dhabi — likely NOT SUITABLE
+
+---
+
 ## Backlog / To Do
 
 ### Phase 1C/1D: Deep Research — COMPLETE ✅
