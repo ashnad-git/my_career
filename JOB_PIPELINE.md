@@ -34,15 +34,12 @@
 
 | # | Company | Role | Fit | Found | Deadline | URL | JD Saved |
 |---|---|---|---|---|---|---|---|
-| 5 | Al Khayyat Investments (AKI) | Finance Analyst FP&A – Central Finance | 🟠 STRETCH | 2026-08-20 | Aug 23 | https://www.linkedin.com/jobs/view/4451611807 | ✅ jds/ |
-| 6 | Eaton | FP&A Analyst (Manufacturing Finance) | 🟠 STRETCH | 2026-08-20 | Aug 24 | https://www.linkedin.com/jobs/view/4438724370 | ✅ jds/ |
 | 7 | TotalEnergies | FP&A and Economist | 🟠 STRETCH | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4440531428 | ✅ jds/ |
 | 8 | Huda Beauty | Finance Analyst – MEAI (Fixed Term) | 🟠 STRETCH | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4448961337 | ✅ jds/ |
 | 10 | Sundus | Budget Analyst (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4441466287 | ✅ jds/ |
 | 11 | Mohamed Hilal Group | Financial Analyst (Sharjah) | 🟠 STRETCH | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4454495190 | ✅ jds/ |
 | 12 | ENGIE Middle East | Financial Analyst AMEA (Dubai) | ❌ NOT SUITABLE | 2026-08-20 | — | https://www.linkedin.com/jobs/view/4453086996 | ✅ jds/ |
 | 13 | Khazna Data Centers | Financial Modeller (Dubai) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4445665949 | ✅ jds/ |
-| 14 | dubizzle (Bayut) | Associate Commercial Analyst | 🟡 GOOD | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4435939720 | ✅ jds/ |
 | 15 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4444301466 | ✅ jds/ |
 
 **NOT SUITABLE — archived this session (full JDs read):**
@@ -180,6 +177,9 @@
 | 1 | Chalhoub Group | FP&A Associate I (Zimmermann) | 2026-08-20 | LinkedIn Easy Apply | 2026-08-27 | Applied |
 | 2 | GBM | Financial Analyst | 2026-08-20 | LinkedIn Easy Apply | 2026-08-27 | Applied — STRETCH (re-rated from STRONG; 5yr req, 200+ applicants) |
 | 3 | NAFFCO | FP&A Analyst | 2026-08-20 | NAFFCO TeamTailor portal | 2026-08-27 | Applied — tailored PDF (audit-fixed) |
+| 4 | Al Khayyat Investments (AKI) | Finance Analyst FP&A – Central Finance | 2026-08-20 | LinkedIn Easy Apply | 2026-08-27 | Applied — master PDF, STRETCH |
+| 5 | Eaton | FP&A Analyst (Manufacturing Finance) | 2026-08-20 | Eaton Eightfold portal | 2026-08-27 | Applied — master PDF, STRETCH (SAP must-have gap noted) |
+| 6 | dubizzle (Bayut) | Associate Commercial Analyst | 2026-08-20 | Workable portal | 2026-08-27 | Applied — tailored PDF (audit-fixed, 68→72/100) GOOD FIT |
 
 ---
 
