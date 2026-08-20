@@ -18,7 +18,7 @@ All notable changes to this repository are documented here. Timestamped entries 
 - **EY Tax Analyst:** Restored to full 5 bullets — was incorrectly cut to 2. EY is the strongest credential and should never be trimmed.
 - **Education:** Now a proper section — each degree on its own block with institution, location, year. Was previously crammed into one line.
 - **Certifications:** Now a proper list — each certification on its own line. Was previously a footnote.
-- **LinkedIn URL:** Confirmed as linkedin.com/in/muhammedashnad — embedded in PDF header.
+- **LinkedIn URL:** Confirmed as linkedin.com/in/muhammed-ashnad-k — embedded in PDF header.
 - **Removed:** Employee count, company revenue figures, asset figures, Portfolio Projects section (not yet live), GitHub placeholder text.
 
 ### Key decisions logged

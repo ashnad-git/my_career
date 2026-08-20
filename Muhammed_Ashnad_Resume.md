@@ -1,7 +1,7 @@
 # MUHAMMED ASHNAD K
 **Finance Professional | Financial Analysis & FP&A | M.Sc. Financial Economics | Ex-EY | Dubai**
 
-Dubai, UAE | +971 562303121 | muhammedashnad@gmail.com | [LinkedIn] | [GitHub — Portfolio Projects]
+Dubai, UAE | +971 562303121 | muhammedashnad@gmail.com | linkedin.com/in/muhammed-ashnad-k
 
 ---
 

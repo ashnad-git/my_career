@@ -163,7 +163,7 @@ metadata:
 ## Current Employment: Promotech Advertising
 
 **Role:** Accounts and Operations Executive (Feb 2025 – Present)  
-**LinkedIn:** linkedin.com/in/muhammedashnad
+**LinkedIn:** linkedin.com/in/muhammed-ashnad-k
 
 ### Operational Scale
 - **Clients:** 156 active

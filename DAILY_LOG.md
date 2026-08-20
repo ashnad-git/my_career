@@ -51,7 +51,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 **Learning outside session:** None  
 **Responses received:** None  
 **Blockers/notes:** Full session spent building master resume. No applications or networking done yet. Chalhoub application is the most urgent task — it was posted 2 days ago.  
-**Claude notes:** Master resume completed (PDF + MD). Key decisions made: (1) LinkedIn URL confirmed as linkedin.com/in/muhammedashnad. (2) No company financials on resume — they are private/confidential. (3) Promotech bullets reframed to lead with what was BUILT, not what was broken — avoids criticizing employer in writing. (4) EY experience restored to full 5 bullets. (5) Education and Certifications given proper section formatting. (6) /hr-audit skill created. (7) resumes/ directory created for tailored versions. Resume concerns were raised by Ashnad but session ended before all were resolved — must address at start of next session.
+**Claude notes:** Master resume completed (PDF + MD). Key decisions made: (1) LinkedIn URL confirmed as linkedin.com/in/muhammed-ashnad-k. (2) No company financials on resume — they are private/confidential. (3) Promotech bullets reframed to lead with what was BUILT, not what was broken — avoids criticizing employer in writing. (4) EY experience restored to full 5 bullets. (5) Education and Certifications given proper section formatting. (6) /hr-audit skill created. (7) resumes/ directory created for tailored versions. Resume concerns were raised by Ashnad but session ended before all were resolved — must address at start of next session.
 
 ---
 
