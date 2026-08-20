@@ -53,14 +53,18 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - [x] **Skills Matrix** — RESEARCH_Phase1D_Skills_Matrix.md (synthesizes all 100+ postings)
 - [ ] **Interview prep** — Q&A for "why should we hire you without formal FP&A experience?"
 
-### Portfolio Projects (Secondary, after research)
-- [ ] **Project 1: FP&A Model** — Complete budgeting, forecasting, variance analysis, scenario modeling
-- [ ] **Project 2: Cash Flow Forecast** — 13-week forecast with collections, payments, stress scenarios
-- [ ] **Project 3: CFO Dashboard** — Power BI dashboard with KPIs, variance analysis, drilldowns
-- [ ] **Project 4: Financial Statement Analysis** — Real company, analyst-style report
-- [ ] **Project 5: Business Case Model** — NPV, IRR, sensitivity, scenario analysis
-- [ ] **Project 6: SQL Analytics** — Finance data pipeline and query analysis
-- [ ] **Project 7: Reporting Automation** — Data pipeline workflow (raw → cleaned → reporting → dashboard)
+### Phase 2: Portfolio Build + Applications — ACTIVE
+**Full plan:** See PHASE2_MASTER_PLAN.md — read that file for all detail, progress tracking, session logs.
+
+- [ ] **Phase 2A — Excel Foundations** (Weeks 1-2) — formulas, Power Query, Pivots, modeling structure
+- [ ] **Project 1: FP&A Model** (Weeks 3-6) — Excel, 9-tab model, UAE fashion retail scenario
+- [ ] **Project 2: Power BI Dashboard** (Weeks 7-8) — connected to Project 1 data
+- [ ] **Project 3: Cash Flow Forecast** (Week 9-10) — 13-week, UAE trading company
+- [ ] **Project 4: Financial Statement Analysis** (Weeks 11-12) — real UAE listed company
+- [ ] **Project 5: Business Case Model** (Weeks 15-16) — NPV/IRR, UAE logistics scenario
+- [ ] **Project 6: SQL Analytics** (Week 17+, if needed)
+- [ ] **Project 7: Automation Pipeline** (Week 17+, if needed)
+- [ ] **Applications** — 5-10/week from Week 1; log in PHASE2_MASTER_PLAN.md Application Log
 
 ### LinkedIn & Brand (Parallel)
 - [ ] **Resume update** — Finalize based on job market research findings
