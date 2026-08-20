@@ -407,12 +407,11 @@ def build_naffco():
 
     story.extend(section("Professional Summary"))
     story.append(Paragraph(
-        "Finance professional with M.Sc. Financial Economics and Big Four experience at Ernst &amp; Young, "
-        "seeking to contribute to NAFFCO's FP&amp;A function as a Financial Planning &amp; Analysis Analyst. "
-        "I bring hands-on experience in monthly management reporting, budget-to-actual and year-on-year "
-        "variance analysis, ERP implementation, and month-end close — with a track record of producing "
-        "financial packs for executive stakeholders and building systematic finance controls in an active "
-        "operational environment. Pursuing CMA (US).",
+        "Finance professional with M.Sc. Financial Economics and Big Four (EY) experience, currently leading "
+        "financial reporting, budget-to-actual variance analysis, and cost control for a commercial enterprise "
+        "in Dubai. I prepare monthly management reports with written variance commentary, run month-end close, "
+        "track departmental expenditure against rolling targets, and support ERP-driven finance operations — "
+        "building the analytical foundation an FP&amp;A function requires. Pursuing CMA (US).",
         BODY
     ))
 
@@ -443,10 +442,12 @@ def build_naffco():
                    "recommendations to management."))
     story.append(b("Run month-end close: account reconciliations, ledger reviews, pre/post-closing checks, "
                    "and discrepancy clearance across all accounts before close date each month."))
-    story.append(b("Manage AP/AR across 475 active accounts — 319 suppliers and 156 clients; review "
-                   "Statements of Account, investigate discrepancies, and follow up on outstanding balances."))
-    story.append(b("Monitor cash position and support cash flow planning and supplier payment scheduling; "
-                   "process 1,000+ payment transactions per year with complete supporting documentation."))
+    story.append(b("Collect, validate, and consolidate financial and operational data from multiple business "
+                   "units and departments to support monthly reporting cycles — managing data accuracy and "
+                   "completeness across all inputs before each close."))
+    story.append(b("Monitor weekly cash position and prepare cash flow analysis for management review; "
+                   "support liquidity planning and prioritise supplier payment scheduling based on available "
+                   "funds and payment terms."))
     story.append(b("Support IFRS-compliant annual audit (Kreston Menon Chartered Accountants) through "
                    "organised, audit-ready documentation and timely issue resolution."))
     story.append(Paragraph("Finance Systems &amp; ERP", SUB))
@@ -458,9 +459,16 @@ def build_naffco():
     story.append(Spacer(1, 4))
 
     story.extend(job("Ernst &amp; Young (EY)", "Bangalore, India", "Tax Analyst", "Nov 2023 – May 2024"))
-    story += ey_tax_analyst_bullets()
-    story.append(b("Co-ordinated with EY U.S. teams across time zones to support timely delivery of "
-                   "financial reporting and documentation under strict deadlines."))
+    story.append(b("Conducted financial analysis and review of client financial statements, workpapers, "
+                   "and supporting records; identified discrepancies, investigated root causes, and "
+                   "coordinated resolution with stakeholders."))
+    story.append(b("Reconciled financial data across multiple sources — ensuring accuracy and consistency "
+                   "across all reporting outputs under strict deadline pressure."))
+    story.append(b("Analysed high volumes of financial data across multi-client engagements, applying "
+                   "structured investigation methodology to identify errors and inconsistencies."))
+    story.append(b("Produced structured financial analysis and reporting deliverables across multi-client "
+                   "engagements — developing disciplined analytical processes for data accuracy, deadline "
+                   "adherence, and financial controls."))
 
     story.extend(section("Internship Experience"))
     story.extend(job("Ernst &amp; Young (EY)", "Bangalore, India", "US Tax Intern", "Jan – Apr 2023"))
@@ -483,9 +491,9 @@ def build_naffco():
     ]))
     story.append(proj_t)
     story.append(Paragraph(
-        "Independently built an end-to-end financial data pipeline: automated data ingestion, "
-        "real-time processing, structured storage, and analytical reporting outputs — demonstrating "
-        "strong quantitative and data analytics capability. Built entirely in Python.",
+        "Building FP&amp;A analytical portfolio in Advanced Excel and Power BI: budgeting and rolling "
+        "forecast models, budget-vs-actual variance dashboards, and management reporting templates "
+        "using real company financial data. Supporting financial data workflows with Python automation.",
         EDU_INS
     ))
 

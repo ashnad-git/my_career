@@ -61,6 +61,55 @@ JDs are the primary input for portfolio project design and skills matrix validat
 
 ---
 
+## Application Process — Mandatory Checklist
+
+**Every application follows this exact sequence. No steps may be skipped or reordered.**
+
+### For GOOD FIT roles (non-Easy Apply portal: TeamTailor, company career site, etc.)
+
+```
+Step 1  Save JD to jds/CompanyName_Role_Date.md immediately on finding it
+Step 2  Rate fit (STRONG / GOOD / STRETCH / NOT SUITABLE)
+Step 3  Run /hr-audit: master resume vs JD → identify tailoring gaps
+Step 4  Write tailored content in resumes/<Company>_<Role>.md
+Step 5  Add build_<key>() function to scripts/build_resume_pdf.py
+Step 6  Build PDF: python3 scripts/build_resume_pdf.py <key>
+Step 7  Run /hr-audit: tailored resume vs JD → verify fixes addressed gaps
+Step 8  Implement audit fixes → rebuild PDF
+Step 9  SendUserFile → PDF to Ashnad for review
+Step 10 Provide handoff: what to fill, what to answer, which file to upload
+Step 11 After Ashnad confirms submission → update JOB_PIPELINE.md to Applied
+Step 12 Commit + push
+```
+
+### For GOOD FIT roles (Easy Apply)
+
+```
+Step 1  Save JD to jds/ immediately
+Step 2  Run /hr-audit quick check on master resume
+Step 3  If master is adequate → Easy Apply using master PDF
+        If significant gaps → build tailored version (Steps 4–9 above), then Easy Apply
+Step 4  Update JOB_PIPELINE.md to Applied
+Step 5  Commit + push
+```
+
+### For STRETCH roles (Easy Apply only — no tailored resume)
+
+```
+Step 1  Save JD to jds/ immediately
+Step 2  Easy Apply using master resume PDF
+Step 3  Update JOB_PIPELINE.md to Applied
+Step 4  Commit + push
+```
+
+**Hard rules:**
+- NEVER hand off an application form without having sent the tailored PDF first
+- NEVER send a PDF without having run /hr-audit on it first
+- NEVER submit Easy Apply without master PDF confirmed in repo
+- If a step is skipped, stop and go back — never proceed forward
+
+---
+
 ## Resume PDF Generation
 
 **ALWAYS use reportlab. Never use Chrome headless, pandoc, or HTML conversion.**
