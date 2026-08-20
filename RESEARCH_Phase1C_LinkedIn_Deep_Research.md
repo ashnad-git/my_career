@@ -335,5 +335,201 @@ Companies not previously in our Phase 1B universe:
 
 ---
 
-**Last Updated:** 2026-08-20  
-**Next Actions:** Extract job URLs pages 2-4, profiles pages 2-5, additional post searches, then update Phase 1B skills matrix with new data
+---
+
+## 12. LINKEDIN JOBS — BROADER SEARCH (pages 3-5, FP&A-focused)
+
+**Query:** `FP&A analyst` | UAE | Past Month — **90 results total**  
+**Pages covered:** 1-3 (start=0, start=25, start=50)
+
+### Page 3 (start=50) — key roles:
+
+| # | Title | Company | Location | Type | Posted | LinkedIn URL |
+|---|---|---|---|---|---|---|
+| 1 | Head of Financial Planning and Analysis | **Al-Futtaim** | Dubai | On-site | 1 week ago | https://www.linkedin.com/jobs/view/4453074992/ |
+| 2 | Senior Risk Analyst | Rakbank | UAE | On-site | 1 week ago | https://www.linkedin.com/jobs/view/4450220736/ |
+| 3 | **Financial Analyst (Temp)** | **Ounass** | Dubai | **Hybrid** | 2 weeks ago | https://www.linkedin.com/jobs/view/4448560274/ |
+| 4 | **FP&A and Economist** | **TotalEnergies** | Dubai | On-site | 2 weeks ago | https://www.linkedin.com/jobs/view/4440531428/ |
+
+**Key observations:**
+- **Ounass Financial Analyst (Temp)** — temporary/contract = lower barrier to entry. Hybrid work. "Over 100 people clicked apply." Good target for portfolio-evidence applications.
+- **TotalEnergies FP&A and Economist** — second Dubai TotalEnergies role. Reposted 2 weeks ago. Responses managed off LinkedIn = apply via TotalEnergies portal.
+- Al-Futtaim Head of FP&A — senior role, confirms Al-Futtaim is actively building FP&A team at all levels.
+
+### Page 4 (start=75) — broad query:
+
+| # | Title | Company | Location | Type | Posted | LinkedIn URL |
+|---|---|---|---|---|---|---|
+| 1 | Associate Commercial Analyst | **dubizzle** | Dubai | On-site | 2 weeks ago | https://www.linkedin.com/jobs/view/4435939720/ |
+| 2 | Market Risk Analyst | Gateworth Group | Dubai | On-site | 2 weeks ago | https://www.linkedin.com/jobs/view/4445502297/ |
+| 3 | Analyst — Asset Management | The Management Recruitment Group (MRG) | Abu Dhabi | On-site | 2 weeks ago | https://www.linkedin.com/jobs/view/4447699464/ |
+| 4 | Fraud Analyst | Edenred UAE | Dubai | Hybrid | 2 weeks ago | https://www.linkedin.com/jobs/view/4447181297/ |
+
+**Key observation:**
+- **dubizzle Associate Commercial Analyst** — dubizzle is a leading UAE classified ads / real estate marketplace. A Commercial Analyst role at a tech company involves pricing, revenue analysis, and business metrics — directly transferable to FP&A. Realistic target.
+
+---
+
+## 13. NAUKRIGULF MULTI-KEYWORD SCRAPES (crawl4ai — all 4 completed)
+
+**Tool:** crawl4ai with JS scroll fix  
+**Queries run:** fp-a-analyst, planning-analyst, commercial-analyst, management-reporting-analyst (all UAE)  
+**Full data:** scraper/output/naukrigulf_fpa_analyst.md, scraper/output/naukrigulf_planning_analyst.md, scraper/output/naukrigulf_commercial_analyst.md, scraper/output/naukrigulf_management_reporting.md
+
+### Most Accessible New Roles (experience range in reach or near-reach):
+
+| Title | Company | Sector | Exp | Priority | URL |
+|---|---|---|---|---|---|
+| **FP&A Associate I** | **Chalhoub Group** | Luxury Goods | 2-7 yrs | ⭐⭐⭐ TOP FIND | https://www.naukrigulf.com/fp-a-associate-i-jobs-in-dubai-uae-in-chalhoub-group-2-to-7-years-n-cd-10003174-jid-190826500656 |
+| **Graduate Trainee — Finance** | **Emirates Global Aluminium (EGA)** | Industrial | 3-8 yrs | ⭐⭐⭐ APPLY | https://www.naukrigulf.com/graduate-trainee-finance-jobs-in-dubai-uae-in-emirates-global-aluminium-3-to-8-years-n-cd-87445-jid-180826000566 |
+| Financial Planning & Reporting Analyst | Talents Tide HR | Consulting client | 3-5 yrs | ⭐⭐ | https://www.naukrigulf.com/financial-planning-reporting-analyst-jobs-in-dubai-uae-in-talents-tide-human-resources-consulting-3-to-5-years-n-cd-243690-jid-160726001022 |
+| Analytics Manager Real Estate (AFRE) | Al Futtaim | Real Estate | 3-5 yrs | ⭐⭐ | https://www.naukrigulf.com/analytics-manager-real-estate-afre-jobs-in-dubai-uae-in-al-futtaim-private-company-3-to-5-years-n-cd-120015-jid-100726000369 |
+| Financial Planning Analyst (Sales BP) | Al Kabeer Group | FMCG/Food | 4-6 yrs | ⭐⭐ | (already listed) |
+| Lead Financial Analyst | CME Capital | Capital Markets | 3-6 yrs | ⭐ (too senior title) | (already listed) |
+| Financial Analyst | WSP in Middle East | Engineering | 3-5 yrs | ⭐ | (already listed) |
+| Jedox Consultant — FP&A | Dicetek LLC | IT/ERP | 3-8 yrs | ⭐ (tech-specialist) | (already listed) |
+| Associate Manager FP&R | Emirates Global Aluminium | Industrial | 4-7 yrs | ⭐ | https://www.naukrigulf.com/associate-manager-fp-r-jobs-in-abu-dhabi-uae-in-emirates-global-aluminium-4-to-7-years-n-cd-87445-jid-130726000346 |
+| Assistant Manager Business Analysis | Aster DM Healthcare | Healthcare | 3-8 yrs | ⭐ | (already listed) |
+
+### New Employers Added to Universe (not previously known):
+
+| Employer | Sector | Role Found | Exp | Note |
+|---|---|---|---|---|
+| **Chalhoub Group** | Luxury goods (LVMH partner) | FP&A Associate I | 2-7 yrs | Major regional luxury goods group, 14,000+ employees |
+| **Emirates Global Aluminium (EGA)** | Industrial/Mining | 3 roles: FP&R, Business Modelling, Graduate Trainee | 3-8 yrs | Government-linked (Abu Dhabi/Dubai) |
+| **LVMH** | Luxury goods | Senior Finance Controller | 7-12 yrs | Via UAE subsidiary |
+| **Aster DM Healthcare** | Healthcare | Asst Manager Business Analysis | 3-8 yrs | Pan-GCC healthcare chain |
+| **Jumbo Electronics** | Retail/Consumer Electronics | Asst Manager General Ledger | 4-8 yrs | UAE consumer electronics retailer |
+| **Bahmani Manufacturing** | Industrial | Head FP&R | 5-10 yrs | |
+| **Ghassan Aboud Group** | Diversified (FMCG/Auto/Trade) | Procurement/Demand Planner | 3-8 yrs | Major UAE-based group |
+| **Abu Dhabi Ports** | Logistics/Ports | Senior Analyst Business Planning | 4-6 yrs | Government-linked |
+
+### Planning Analyst Query Note:
+Planning analyst search returned mainly **supply chain and demand planners** (not financial planning). Only 2-3 results were finance-relevant. Label "planning analyst" has dual meaning — avoid using this as a target job title.
+
+---
+
+## 14. LINKEDIN HIRING POSTS — ROUND 2 (people posting jobs in feed)
+
+**Query:** `#hiring financial analyst Dubai UAE` | past week  
+**Notable posts found:**
+
+### Post 1: Hensa Bhatia — Fin-Storm Boutique Finance Recruiter (updated)
+- **Profile:** Senior HR Business Partner | Banking/Finance specialist
+- **Email:** careers@fin-storm.com (already captured)
+- **NEW Investment Analyst role from her post:**
+  - Title: Investment Analyst – Financial Modelling & Investment Analysis | Dubai
+  - Location: DIFC
+  - Skills: DCF, valuation, investment screening, capital allocation
+  - Preferred: PE / IB / Family Office / Corporate Development background
+  - **Note:** Skills overlap with portfolio project work (financial modelling, DCF). Not directly FP&A but portfolio projects demonstrating these skills = relevant.
+
+### Post 2: Synthify HR Solutions — **STRONG MATCH**
+- **Company:** Synthify HR Solutions (sHRs) — recruiting for a trading/brokerage firm
+- **Role:** Financial Analyst — Dubai — Active hiring
+- **Email:** talha.sajjad@synthify.ae
+- **Job requirements posted:**
+  1. Analyze financial and trading data to identify trends and opportunities
+  2. Prepare financial reports, forecasts, and performance analyses
+  3. Monitor market movements, trading performance, and key financial indicators
+  4. Support budgeting, financial modeling, and business decision-making
+  5. Conduct variance analysis and provide actionable insights
+- **Qualifications:**
+  - Bachelor's in Finance, Accounting, Economics
+  - Experience in financial analysis, investment, brokerage, or financial services preferred
+  - "Experience with CFD/Forex brokerage or trading environments is an advantage"
+  - Proficiency in Microsoft Excel and financial modeling
+- **Why this is critical for Ashnad:** Trading terminal project + understanding of financial markets + Python automation = rare combination this role explicitly values. CFD/Forex context = Ashnad's strongest crossover point between trading work and FP&A career.
+
+### Post 3: Accounts Cabin (LinkedIn re-poster)
+- **Shared:** GBM Financial Analyst — Dubai — On-site — Actively reviewing applicants
+- **GBM** (Global Business Machine / GBM Group) = major UAE IT distributor — already in Phase 1B universe
+
+### Post 4: Bourntec Software Solutions
+- **Role:** Junior Business Analyst — Dubai — 0-2 years — Entry-level
+- **Email:** Vijin.a@bourntec.com
+- **Note:** Business analyst, not FP&A, but entry-level and Dubai. PowerPoint + Excel + banking exposure.
+
+---
+
+## 15. COMPREHENSIVE JOB URL MASTER LIST (all sources)
+
+**LinkedIn jobs with confirmed URLs:**
+
+| ID | Title | Company | URL |
+|---|---|---|---|
+| 4455485334 | Senior Analyst UAE National (CIBG) | Mashreq | https://www.linkedin.com/jobs/view/4455485334/ |
+| 4455421521 | Financial Analyst (UAE National) | Standard Chartered | https://www.linkedin.com/jobs/view/4455421521/ |
+| 4456432759 | Financial Analyst | TALENTMATE (Sharjah) | https://www.linkedin.com/jobs/view/4456432759/ |
+| 4454248833 | Financial AI Evaluator | CNTXT AI | https://www.linkedin.com/jobs/view/4454248833/ |
+| 4453074992 | Head of FP&A | Al-Futtaim | https://www.linkedin.com/jobs/view/4453074992/ |
+| 4450220736 | Senior Risk Analyst | Rakbank | https://www.linkedin.com/jobs/view/4450220736/ |
+| 4448560274 | **Financial Analyst (Temp)** | **Ounass** | https://www.linkedin.com/jobs/view/4448560274/ |
+| 4440531428 | **FP&A and Economist** | **TotalEnergies** | https://www.linkedin.com/jobs/view/4440531428/ |
+| 4435939720 | **Associate Commercial Analyst** | **dubizzle** | https://www.linkedin.com/jobs/view/4435939720/ |
+| 4406459306 | Financial Analyst | WSP Middle East (Sharjah) | https://www.linkedin.com/jobs/view/4406459306/ |
+| 4367436217 | Financial Analyst | TotalEnergies (Abu Dhabi) | https://www.linkedin.com/jobs/view/4367436217/ |
+
+**Naukrigulf jobs with confirmed URLs (top targets):**
+
+| Title | Company | Exp | URL |
+|---|---|---|---|
+| **FP&A Associate I** | **Chalhoub Group** | 2-7 yrs | https://www.naukrigulf.com/fp-a-associate-i-jobs-in-dubai-uae-in-chalhoub-group-2-to-7-years-n-cd-10003174-jid-190826500656 |
+| **Graduate Trainee — Finance** | **EGA** | 3-8 yrs | https://www.naukrigulf.com/graduate-trainee-finance-jobs-in-dubai-uae-in-emirates-global-aluminium-3-to-8-years-n-cd-87445-jid-180826000566 |
+| Lead Financial Analyst | CME Capital | 3-6 yrs | https://www.naukrigulf.com/lead-financial-analyst-jobs-in-dubai-uae-in-cme-capital-3-to-6-years-n-cd-361597-jid-190826000424 |
+| Financial Planning Analyst (Sales BP) | Al Kabeer Group | 4-6 yrs | https://www.naukrigulf.com/financial-planning-analyst-jobs-in-dubai-uae-in-al-kabeer-group-4-to-6-years-n-cd-243156-jid-070826000155 |
+| Financial Planning & Reporting Analyst | Talents Tide | 3-5 yrs | https://www.naukrigulf.com/financial-planning-reporting-analyst-jobs-in-dubai-uae-in-talents-tide-human-resources-consulting-3-to-5-years-n-cd-243690-jid-160726001022 |
+| Senior Financial Analyst | Al Futtaim | 4-6 yrs | https://www.naukrigulf.com/senior-financial-analyst-jobs-in-dubai-uae-in-al-futtaim-private-company-4-to-6-years-n-cd-120015-jid-130826000525 |
+| Analytics Manager Real Estate | Al Futtaim | 3-5 yrs | https://www.naukrigulf.com/analytics-manager-real-estate-afre-jobs-in-dubai-uae-in-al-futtaim-private-company-3-to-5-years-n-cd-120015-jid-100726000369 |
+| Financial Analyst | WSP Middle East | 3-5 yrs | https://www.naukrigulf.com/financial-analyst-jobs-in-dubai-uae-in-wsp-3-to-5-years-n-cd-40000074-jid-160626501438 |
+| Financial Analyst | YAS PARTNER L.L.C-FZ | 5-6 yrs | https://www.naukrigulf.com/financial-analyst-jobs-in-dubai-uae-in-yas-partner-l-l-c-fz-5-to-6-years-n-cd-270772-jid-160826001365 |
+| Finance Analyst (MEIA) | Huda Beauty | 5-10 yrs | https://www.naukrigulf.com/finance-analyst-jobs-in-uae-in-huda-beauty-5-to-10-years-n-cd-10001177-jid-060826501004 |
+
+---
+
+---
+
+## 16. FULL JD ANALYSIS — TOP ACCESSIBLE ROLES
+
+### Chalhoub Group — FP&A Associate I (Zimmermann Brand)
+
+**Scraped from:** Naukrigulf job page (crawl4ai with JS scroll)  
+**Brand:** Zimmermann (luxury fashion brand under Chalhoub Group's distribution)  
+**Location:** Dubai | **Type:** Full-time, On-site | **Exp:** 2+ years | **Sector:** Luxury Retail
+
+**Responsibilities:**
+- **Month End:** Assist month-end close; review P&L with variance commentary vs budget/forecast; balance sheet reconciliations; liaise with internal stakeholders on variances
+- **Budgeting:** Gather and consolidate budget data; compile financial budgets; communicate budget assumptions/timelines; update budget trackers (marketing, travel, retail misc)
+- **Board Meetings/3YP:** Support Finance Manager + General Manager in preparing board presentations and 3-Year Plan templates
+
+**Required Profile:**
+- Minimum **2 years** in a similar commercial finance role
+- Solid FP&A experience: budgeting, reporting, tax calculations, invoice booking, payment processing
+- Advanced MS Office (particularly Excel)
+- SAP experience **preferred** (not mandatory)
+- Fast-paced environment; effective communicator; hands-on, team-player
+
+**Skills needed (gap analysis vs Ashnad):**
+| Skill | Required | Ashnad Has? |
+|---|---|---|
+| P&L variance commentary | Core | ✅ via accounting + can build via project |
+| Budgeting/forecasting | Core | ⚠️ Partial (accounting side) — needs portfolio project |
+| Advanced Excel | Core | ✅ Yes |
+| SAP | Preferred | ✅ ERP migration experience at Promotech |
+| 2+ years commercial finance | Min | ✅ 3+ years accounting operations |
+
+**Assessment:** This is the **most accessible FP&A role found so far.** The 2-year minimum, the SAP preference (Ashnad has ERP experience), and the Zimmermann brand context (luxury fashion) means Chalhoub is the parent managing finances for a brand the candidate doesn't need to know deeply. A targeted portfolio project demonstrating P&L variance analysis + budgeting would directly address the JD.
+
+---
+
+### Emirates Global Aluminium (EGA) — Graduate Trainee Finance
+
+**Assessment:** NOT suitable for Ashnad. Full JD confirms:
+- Programme targets **UAE Nationals** specifically ("develop high potential UAE nationals to become future leaders at EGA")
+- **Maximum 3 years experience, fresh graduates preferred** — Ashnad's 3+ years disqualifies
+- 18-month training programme designed for career starters, not career changers
+
+---
+
+**Last Updated:** 2026-08-20 11:00  
+**Next Actions:** GulfTalent scrape; LinkedIn People pages 2-3; run final Naukrigulf queries (budget-analyst, corporate-finance); start RESEARCH_Phase1D_Skills_Matrix consolidation

@@ -117,6 +117,42 @@ Swiss Arabian Perfumes Group, Sobha Realty, Star Metropolis Clinical Laboratorie
 
 ---
 
+## [2026-08-20 Phase 1C — Continued Deep Research + JD Analysis]
+
+### Added / Updated
+- **2026-08-20 11:00** — RESEARCH_Phase1C_LinkedIn_Deep_Research.md: Sections 12-16 added
+- **2026-08-20 11:00** — scraper/job_scraper.py: Added js_code parameter to scrape_url(), added scrape_naukrigulf() function with scroll trick, added NAUKRIGULF_PRESETS dict, updated CLI with --naukrigulf and --naukrigulf-all flags
+- **2026-08-20 11:00** — 4 additional Naukrigulf keyword scrapes completed (FP&A analyst, planning analyst, commercial analyst, management reporting analyst)
+- **2026-08-20 11:00** — Full JD extracted for Chalhoub Group FP&A Associate I (highest priority role)
+
+### Key Research Findings (2026-08-20 11:00)
+
+**New Employers Added to Universe:**
+- Chalhoub Group — FP&A Associate I (luxury goods, 2-7 yrs, Zimmermann brand) ⭐ TOP TARGET
+- Emirates Global Aluminium (EGA) — Multiple roles including Graduate Trainee (UAE National only)
+- dubizzle — Associate Commercial Analyst (tech company, 2 weeks posted)
+- LVMH — Senior Finance Controller (7-12 yrs, too senior)
+- Aster DM Healthcare — Asst Manager Business Analysis (3-8 yrs)
+- Abu Dhabi Ports — Senior Analyst Business Planning (4-6 yrs)
+- Jumbo Electronics — Asst Manager General Ledger
+
+**LinkedIn Jobs Additional Pages:**
+- Ounass Financial Analyst (Temp), Dubai, Hybrid — accessible temporary role
+- TotalEnergies FP&A and Economist, Dubai — second TotalEnergies Dubai role
+- dubizzle Associate Commercial Analyst — confirmed active
+
+**Chalhoub Group FP&A Associate I JD Analysis:**
+- Zimmermann brand (luxury fashion) under Chalhoub distribution
+- 2+ years minimum experience, SAP preferred, Advanced Excel core
+- Responsibilities: P&L variance commentary, budgeting, balance sheet recon, board presentation support
+- STRONG FIT for Ashnad: ERP migration ↔ SAP, 3+ yrs accounting ↔ 2yr min, portfolio project needed for P&L variance
+
+**Hiring Posts (individual LinkedIn posts, not job boards):**
+- Synthify HR Solutions: Financial Analyst at CFD/Forex brokerage — explicitly values trading/markets experience — email: talha.sajjad@synthify.ae
+- Hensa Bhatia: Investment Analyst | DIFC | DCF/valuation — email: careers@fin-storm.com
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone

@@ -12,16 +12,19 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ## Backlog / To Do
 
-### Phase 1C: Deep Research — In Progress
-- [x] **crawl4ai installed + wired** — scraper/job_scraper.py working (Naukrigulf confirmed)
+### Phase 1C: Deep Research — Mostly Complete
+- [x] **crawl4ai installed + wired** — scraper/job_scraper.py working (Naukrigulf confirmed, js_code scroll fix applied)
 - [x] **Naukrigulf financial-analyst-jobs-in-uae** — 21 jobs extracted, 3 new employers found
-- [ ] **Naukrigulf FP&A / planning analyst queries** — Run: "fp-a-analyst-jobs-in-uae", "planning-analyst-jobs-in-uae", "commercial-analyst-jobs-in-uae", "management-reporting-analyst-jobs-in-uae"
-- [ ] **LinkedIn Jobs pages 3-4** — Extract remaining job URLs not yet captured
-- [ ] **LinkedIn People pages 2-5** — 40+ more Dubai FP&A professionals
-- [ ] **Hiring post queries** — "looking for financial analyst UAE", "FP&A opening Dubai", "hiring finance dubai"
-- [ ] **Scrape full JDs for key Naukrigulf URLs** — Run crawl4ai on 5-8 top Naukrigulf job URLs to extract full job descriptions for skills analysis
-- [ ] **GulfTalent scrape** — Test crawl4ai on GulfTalent (not yet confirmed if blocked or accessible)
-- [ ] **Update RESEARCH_Phase1C with new employers** — CME Capital, Al Kabeer Group already added; check for others
+- [x] **Naukrigulf FP&A / planning / commercial / mgmt-reporting** — All 4 done, 80+ additional jobs found
+- [x] **LinkedIn Jobs pages 3-4** — Ounass FA Temp, TotalEnergies FP&A+Economist, dubizzle Commercial Analyst found
+- [x] **Hiring post queries** — Synthify HR (trading FA), Hensa Bhatia (Investment Analyst), GBM FA found
+- [x] **Full JD scraped for Chalhoub Group FP&A Associate I** — Gap analysis complete, STRONG FIT
+- [x] **EGA Graduate Trainee** — UAE National only, not suitable
+- [ ] **LinkedIn People pages 2-5** — Still need 40+ more Dubai FP&A professional profiles
+- [ ] **GulfTalent scrape** — Test crawl4ai on GulfTalent (not yet confirmed)
+- [ ] **Naukrigulf: budget-analyst, corporate-finance queries** — 2 more keyword variations to run
+- [ ] **Full JDs for 3 more top roles** — Al Futtaim Analytics Manager, Al Kabeer Financial Planning Analyst, Synthify FA
+- [ ] **RESEARCH_Phase1D_Skills_Matrix** — Consolidate all research into frequency matrix (what % of postings require each skill)
 
 ### Phase 1B: Expand Company Universe — COMPLETED ✅
 - [x] **Target company list** — 57 companies identified (RESEARCH_Phase1B_Company_Universe.md)
