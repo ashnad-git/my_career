@@ -36,7 +36,7 @@ Month-End Close Support | Account Reconciliation | AP / AR Management | ERP Impl
 **Financial Reporting & Analysis**
 - Prepare monthly financial reports, management summaries, and performance packs for the CEO — covering revenue, gross margin, cost variances, and key operational metrics.
 - Run month-end close: account reconciliations, ledger reviews, pre/post-closing checks, and discrepancy clearance across all accounts before close date each month.
-- Manage SOA reviews and variance investigation across 30+ vendor and client accounts; co-ordinate resolution of AP/AR discrepancies with counterparties.
+- Manage AP/AR across 475 active accounts — 319 suppliers and 156 clients; review Statements of Account, investigate discrepancies, and follow up on outstanding balances.
 - Process 1,000+ payment transactions per year; monitor cash position and support liquidity planning and supplier payment scheduling.
 - Support IFRS-compliant annual audit (Kreston Menon Chartered Accountants) through organized, audit-ready documentation and timely issue resolution.
 
