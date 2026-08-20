@@ -65,6 +65,28 @@ Phase 1 research deliverables completed (1 of 6 from prior session + 5 added her
 
 ---
 
+## [2026-08-20 Phase 1B — Direct Career Pages]
+
+### Added / Updated
+- **2026-08-20 06:00** — RESEARCH_Phase1B_Company_Universe.md: Added direct career page research results for all 8 priority companies + 4 freezone directories
+
+### Career Page Findings
+- **TotalEnergies:** 2 UAE roles confirmed — "Financial Analyst" (Jan 2026) + "Financial Business and Reporting Analyst" (Jun 2026), both under TotalEnergies EP United Arab Emirates (Regular positions)
+- **NAFFCO + Huda Beauty:** No career pages — LinkedIn/Indeed only. Already captured in job board scraping.
+- **Al-Futtaim:** Workday ATS was down (global outage). Needs manual follow-up — most active Dubai FP&A employer.
+- **Fresha:** Finance & Operations team has 2 roles (Financial Controller + Senior Accountant) — both Warsaw-based. No UAE finance openings.
+- **Ounass:** No careers page (Al Tayer Group subsidiary). Posts exclusively on LinkedIn.
+- **Checkout.com:** 8 Dubai roles found at checkout.com/jobs. Finance-relevant: Associate Financial Control, Senior Analyst Payments, Senior Associate Regional Treasury, Senior Manager Internal Audit. All fintech-specific.
+- **ENGIE:** Needs manual UAE + Finance filter at jobs.engie.com — automation could not complete interactive dropdown filtering.
+
+### Freezone Directory Findings
+- **DIFC:** Public register accessible — company registrations only, not jobs. Mostly financial institutions.
+- **DMCC:** Directory page loads but search form is JS-rendered; no accessible search via automation. 26,000+ companies, no sector filtering possible.
+- **DAFZA + JAFZA:** Both 404 — no public company directories.
+- **Verdict:** Freezone directories add no employer identification value beyond job board scraping.
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone

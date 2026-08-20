@@ -18,8 +18,10 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - [x] **Bayt.com UAE** — 3 pages scraped, 90+ results
 - [x] **Indeed UAE FP&A** — 2 pages, salary data confirmed
 - [x] **Skills matrix update** — No major new categories; Jedox/Anaplan/IFS tools noted as emerging
-- [ ] **Direct career page research** — 8 priority companies identified; visit Al-Futtaim, Huda Beauty, NAFFCO, TotalEnergies, ENGIE, Ounass, Fresha, Checkout.com career pages directly
-- [ ] **Freezone company directories** — DMCC/DIFC blocked by browser automation; try DAFZA/JAFZA or use manual search
+- [x] **Direct career page research** — All 8 companies visited: TotalEnergies (2 UAE roles found), NAFFCO/Huda Beauty (job boards only), Fresha (no UAE finance), Ounass (no careers page), Checkout.com (4 Dubai finance roles). Al-Futtaim needs manual check (Workday down). ENGIE needs manual UAE filter.
+- [x] **Freezone company directories** — All checked: DIFC/DMCC/DAFZA/JAFZA. None provide useful job listings. No additional employers identified beyond job board scraping.
+- [ ] **Al-Futtaim Workday ATS** — Check manually at alfuttaim.wd3.myworkdayjobs.com when Workday service restores
+- [ ] **ENGIE UAE filter** — Visit jobs.engie.com manually → filter Location: UAE → Category: Finance
 
 ### Career Transition (Primary — Phase 1 deliverables DONE)
 - [x] ~~**Job market research** — 18 LinkedIn postings + Indeed salary data~~ *(Phase 1B will expand this)*

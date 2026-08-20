@@ -214,20 +214,89 @@ No major new skills categories found beyond Phase 1 matrix. However Phase 1B con
 
 ---
 
-## Direct Career Pages to Visit (Top Priority)
+## Direct Career Pages — Research Results
 
-Companies that post directly to careers pages (not always on LinkedIn):
+### TotalEnergies (jobs.totalenergies.com) ✅ VISITED
+Search: "financial analyst", both pages scanned. **2 UAE roles found:**
 
-| Company | Career Page | Why Visit |
+| Role | Posted | Entity | Type |
+|---|---|---|---|
+| Financial Analyst | 30-01-2026 | TotalEnergies EP United Arab Emirates | Regular position |
+| Financial Business and Reporting Analyst | 22-06-2026 | TotalEnergies EP United Arab Emirates | Regular position |
+
+**Note:** Search returns global results — only 2 of ~40 listings are UAE-based. Both are Regular (permanent) positions. "Financial Business and Reporting Analyst" (June 2026) is the more current and relevant posting — likely requires financial reporting + FP&A hybrid skills.
+
+---
+
+### Al-Futtaim (alfuttaim.wd3.myworkdayjobs.com) ❌ BLOCKED
+Workday ATS was down (global Workday outage at time of visit). **Action:** Check manually when Workday restores. Al-Futtaim is the MOST ACTIVE Dubai FP&A employer — worth revisiting.
+
+---
+
+### NAFFCO (naffco.com/careers) ❌ NO CAREERS PAGE
+NAFFCO does not maintain a careers page. Posts exclusively on LinkedIn/Indeed. Already captured in job board scraping.
+
+---
+
+### Huda Beauty (hudabeauty.com/careers) ❌ NO CAREERS PAGE
+No careers section on their site. Posts on job boards. Captured via LinkedIn scrape.
+
+---
+
+### ENGIE Middle East (jobs.engie.com) ⚠️ NEEDS MANUAL FILTER
+Portal loaded but requires interactive country/category dropdowns to filter for UAE roles. **Action:** User to filter manually at jobs.engie.com → Location: UAE → Category: Finance.
+
+---
+
+### Fresha (fresha.com/careers) ✅ VISITED
+Fresha has 3 UAE jobs total, but Finance & Operations team has **2 jobs — both in Warsaw, Poland** (Financial Controller + Senior Accountant). UAE roles are Account Manager positions only. **No UAE finance openings at time of visit.**
+
+---
+
+### Ounass (ounass.com/careers) ❌ NO CAREERS PAGE
+/careers and /about/careers both return 404. Ounass is owned by Al Tayer Group — posts on LinkedIn only. Financial Analyst (Temp) role seen in job board scraping was from LinkedIn.
+
+---
+
+### Checkout.com (checkout.com/jobs) ✅ VISITED
+Full jobs board found at checkout.com/jobs. 8 Dubai-based roles identified. **Finance-relevant Dubai roles:**
+
+| Role | Department | Location | Accessibility |
+|---|---|---|---|
+| Associate, Financial Control | Financial Reporting & Controls | Dubai | ✅ Most accessible |
+| Senior Analyst, Payments | Treasury | Dubai | ⚠️ Requires payments domain knowledge |
+| Senior Associate, Regional Treasury | Treasury | Dubai | ⚠️ Treasury specialist role |
+| Senior Manager, Internal Audit | Internal Audit | Dubai | ❌ Senior level |
+
+**Verdict:** Checkout.com Dubai finance roles are fintech/payments-specific. "Associate, Financial Control" is the most accessible but requires financial reporting + controls experience in a payments context — different from FP&A. Not a primary target for this career transition but worth monitoring. The "Senior Analyst, Payments" role in TREASURY is more analytical but requires payments-domain expertise.
+
+---
+
+## Freezone Directory Research Results
+
+| Freezone | Directory URL | Result |
 |---|---|---|
-| Al-Futtaim | careers.alfuttaim.com | Most active Dubai employer for FP&A |
-| Huda Beauty | hudabeauty.com/careers | Dubai HQ, MEIA finance roles |
-| NAFFCO | naffco.com/careers | Already hiring FP&A — direct apply |
-| TotalEnergies | careers.totalenergies.com | FP&A + Economist combo |
-| ENGIE ME | engie.com/en/careers | French energy MNC |
-| Ounass | ounass.com/careers | Luxury e-comm, temp analyst role |
-| Fresha | fresha.com/careers | Dubai SaaS startup |
-| Checkout.com | checkout.com/careers | Fintech, Dubai office |
+| DIFC | difc.com/business/public-register | ✅ Accessible — shows company registrations only, not jobs. Mostly insurance/investment funds. Limited FP&A employer value. |
+| DMCC | dmcc.ae/business-directory | ⚠️ Page loads but search form is JavaScript-rendered; search not accessible via automation. 26,000+ companies, no sector filter found. |
+| DAFZA | dafza.gov.ae/companies/ | ❌ 404 — no public company directory |
+| JAFZA | jafza.ae/companies | ❌ 404 — no public company directory |
+
+**Freezone verdict:** Freezone directories are not a productive source for FP&A employer identification. Companies in freezones (DIFC, DMCC) that hire Finance Analysts already post on LinkedIn/Indeed — no additional companies identified beyond job board scraping.
+
+---
+
+## Original Career Pages List
+
+| Company | Career Page | Status |
+|---|---|---|
+| Al-Futtaim | alfuttaim.wd3.myworkdayjobs.com | ❌ Workday down — check manually |
+| Huda Beauty | hudabeauty.com/careers | ❌ No careers page — job boards only |
+| NAFFCO | naffco.com/careers | ❌ No careers page — job boards only |
+| TotalEnergies | jobs.totalenergies.com | ✅ 2 UAE roles found (see above) |
+| ENGIE ME | jobs.engie.com | ⚠️ Needs manual country filter |
+| Ounass | ounass.com/careers | ⬜ Not yet visited |
+| Fresha | fresha.com/careers | ⬜ Not yet visited |
+| Checkout.com | checkout.com/careers | ⬜ Not yet visited |
 
 ---
 
@@ -238,13 +307,19 @@ Companies that post directly to careers pages (not always on LinkedIn):
 - [x] Bayt.com UAE — 3 pages scraped (~90 results)
 - [x] Indeed UAE FP&A Dubai — 2 pages scraped (~25 results)
 - [x] Company universe: **57 companies identified** (39 net new)
-- [ ] Direct company career pages — 8 priority pages identified (visit next)
-- [ ] Freezone directories — DIFC, DMCC blocked; DAFZA/JAFZA to try
+- [x] TotalEnergies career page — 2 UAE finance roles confirmed
+- [x] NAFFCO / Huda Beauty — confirmed no careers pages (job boards only)
+- [x] Al-Futtaim — Workday down; needs manual follow-up
+- [x] Freezone directories — DIFC/DMCC/DAFZA/JAFZA checked; no additional employer value
+- [x] Fresha — Finance roles are Warsaw-only; no UAE finance openings
+- [x] Ounass — No careers page; LinkedIn-only; already captured via job board scraping
+- [x] Checkout.com — 4 Dubai finance roles found; fintech-specific (Financial Control, Treasury, Payments)
+- [x] ENGIE — Needs manual country filter at jobs.engie.com → UAE → Finance
 
-**Phase 1B verdict:** Target of 50+ companies ACHIEVED. Tier 1 application targets clearly defined.
+**Phase 1B verdict:** Target of 50+ companies ACHIEVED. Tier 1 application targets clearly defined. All direct career pages researched.
 
 ---
 
-**Last Updated:** 2026-08-20  
-**Research Sources:** LinkedIn UAE (live, past month), Bayt.com UAE, Indeed UAE  
-**Next Step:** Build portfolio projects targeting Tier 1 employers (retail/FMCG + energy/industrial FP&A)
+**Last Updated:** 2026-08-20 (all direct career pages + freezone research complete)
+**Research Sources:** LinkedIn UAE (live, past month), Bayt.com UAE, Indeed UAE, Direct career pages (8 companies), Freezone directories (4)
+**Next Step:** Build portfolio projects targeting Tier 1 employers (NAFFCO, Al-Futtaim, Eaton, TotalEnergies, GBM in retail/FMCG + energy/industrial FP&A)
