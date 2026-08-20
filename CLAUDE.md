@@ -47,11 +47,17 @@ This file documents the collaboration model, conventions, and context for workin
 - **Portfolio Relevance section** — map each JD requirement to the relevant portfolio project
 
 ### When to save
-- Immediately after fetching a JD for audit or application — same session, before moving on
-- Even for STRETCH/rejected roles — the skill frequency data is still useful
+- Immediately after fetching a JD — same session, before moving on
+- Every job seen in sidebars, search results, or recommended jobs — if a URL is visible, save it
+- Every job that appears in any browser page during a session — even if not applying, even if too senior
+- Even for STRETCH / NOT SUITABLE / rejected roles — skill frequency and employer data is still valuable
+- Jobs seen but not yet opened: save the URL + title + company at minimum in JOB_PIPELINE.md
+
+### Hard rule: If you can see a URL, save the job
+Any job title + URL that appears anywhere during browsing goes into jds/ (if opened) or JOB_PIPELINE.md (if only seen in sidebar/results). No exceptions. A job seen and not saved is lost intelligence.
 
 ### Why
-JDs are the primary input for portfolio project design. If a skill appears repeatedly across applied JDs, it validates what to build next. The portfolio roadmap is only as good as the JD data behind it.
+JDs are the primary input for portfolio project design and skills matrix validation. Every job seen — regardless of fit — adds data. If a skill appears repeatedly across 30+ JDs, it validates what to build next. The portfolio roadmap is only as good as the JD data behind it.
 
 ---
 

@@ -40,8 +40,21 @@
 | 7 | TotalEnergies | FP&A and Economist | 🟠 STRETCH | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4440531428 | ✅ jds/ |
 | 8 | Huda Beauty | Finance Analyst – MEAI (Fixed Term) | 🟠 STRETCH | 2026-08-20 | Aug 25 | https://www.linkedin.com/jobs/view/4448961337 | ✅ jds/ |
 | 10 | Sundus | Budget Analyst (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4441466287 | ✅ jds/ |
-| 11 | Mohamed Hilal Group | Financial Analyst (Sharjah) | 🟡 GOOD | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4456432759 | ❌ Fetch |
-| 12 | ENGIE Middle East | Financial Analyst (Dubai) | 🟡 GOOD | 2026-08-20 | Aug 27 | https://www.linkedin.com/jobs/search/?keywords=ENGIE+Financial+Analyst+Dubai | ❌ Fetch |
+| 11 | Mohamed Hilal Group | Financial Analyst (Sharjah) | 🟠 STRETCH | 2026-08-20 | Aug 26 | https://www.linkedin.com/jobs/view/4454495190 | ✅ jds/ |
+| 12 | ENGIE Middle East | Financial Analyst AMEA (Dubai) | ❌ NOT SUITABLE | 2026-08-20 | — | https://www.linkedin.com/jobs/view/4453086996 | ✅ jds/ |
+| 13 | Khazna Data Centers | Financial Modeller (Dubai) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4445665949 | ✅ jds/ |
+| 14 | dubizzle (Bayut) | Associate Commercial Analyst | 🟡 GOOD | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4435939720 | ✅ jds/ |
+| 15 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4444301466 | ✅ jds/ |
+
+**NOT SUITABLE — archived this session (full JDs read):**
+- ENGIE Middle East (4453086996) → ❌ 6-8yr + AIFA project finance specialist
+- IN2 Junior Pricing Analyst (4453867556) → ❌ bid/proposal pricing for NGO sector
+- Checkout.com Senior Analyst Payments (4432358665) → ❌ treasury/payments ops, 1,689 applicants
+- edari FP&A Specialist EPBCS/Hyperion (4452423103) → ❌ 5yr + Oracle EPBCS mandatory + Abu Dhabi
+- Socium Financial Planning Specialist (4451683586) → ❌ 5-week contract, conflicts with employment
+- Property Finder Associate Commercial Analytics (4444436089) → ❌ 4-7yr, IIT/IIM education targeted
+- Mohamed Hilal Group (4454495190) → 🟠 STRETCH re-rated (retail exp strongly preferred, gap)
+- AD Ports Treasury (4444301466) → 🟠 STRETCH (treasury ≠ FP&A; Abu Dhabi)
 
 **Removed from Active — re-rated after reading full JDs:**
 - WSP Middle East (4406461268) → ❌ NOT SUITABLE (CFA/CPA/CA required, Oracle/Hyperion required) → jds/ saved
