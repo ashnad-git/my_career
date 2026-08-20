@@ -7,8 +7,8 @@ metadata:
 
 # Detailed User Profile — Muhammed Ashnad
 
-**Last Updated:** 2026-08-20  
-**Current Status:** Active product builder + research strategist
+**Last Updated:** 2026-08-20 (Session 2)  
+**Current Status:** Career transition active — Phase 2 (resume complete, applications starting)
 
 ---
 
@@ -162,7 +162,20 @@ metadata:
 
 ## Current Employment: Promotech Advertising
 
-**Role:** Accounts and Operations Executive (Feb 2025 – Present)
+**Role:** Accounts and Operations Executive (Feb 2025 – Present)  
+**LinkedIn:** linkedin.com/in/muhammedashnad
+
+### Operational Scale
+- **Clients:** 156 active
+- **Suppliers:** 319 active
+- **Total accounts managed:** 475
+- **Payment transactions:** 1,000+ per year
+- **Headcount:** ~100 employees
+- **Auditors:** Kreston Menon Chartered Accountants (IFRS-compliant annual audit)
+- **ERP:** Migrated from Tally → Odoo (2025, led by Ashnad)
+- **Reports to:** CEO directly
+
+*Full financial data (revenue, assets, payables) stored in promotech/promotech_context.md — confidential, not for resume.*
 
 ### Situation When Joined
 - Finance operations were chaotic and poorly organized
@@ -250,7 +263,7 @@ Promotech role gives you real finance foundation, but title/day-to-day don't ref
 
 ### Priority 1: Career Transition Research & Strategy
 **Objective:** Reverse-engineer UAE/Dubai Financial Analyst / FP&A job market; identify high-ROI projects; map transition path  
-**Status:** IN PROGRESS (2026-08-20+)
+**Status:** COMPLETE ✅ (2026-08-20) — 100+ postings analyzed, 6 deliverables written, Skills Matrix built
 
 **Research deliverables:**
 1. UAE Finance Job Market Report (100+ real vacancies, skill frequency analysis)
@@ -260,9 +273,16 @@ Promotech role gives you real finance foundation, but title/day-to-day don't ref
 5. LinkedIn Strategy (headline, about, keywords, content pillars, recruiter discovery)
 6. Job Application Strategy (which jobs to target, experience mismatch rules, CV tailoring)
 
-### Priority 2: Portfolio Project Development (Follow After Research)
-**Objective:** Build 5–8 excellent, realistic FP&A/analytics projects demonstrating job-market requirements  
-**Status:** PENDING (awaiting research completion)
+### Priority 2: Portfolio Project Development + Applications
+**Objective:** Build 5–8 excellent FP&A/analytics projects while applying to jobs simultaneously  
+**Status:** ACTIVE — Phase 2A (Excel foundations not yet started). Master resume complete. 0 applications sent. See PHASE2_MASTER_PLAN.md for full plan and progress.
+
+### Resume Status (as of 2026-08-20)
+- **Master resume:** Complete — `Muhammed_Ashnad_Resume.md` + `Muhammed_Ashnad_Resume.pdf`
+- **Positioning:** Finance Professional | Financial Analysis & FP&A | M.Sc. Financial Economics | Ex-EY | Dubai
+- **Tailored versions:** Go in `resumes/` directory, one per job application
+- **HR audit skill:** `/hr-audit` — run after every tailored version before submitting
+- **Key decisions:** No confidential financials on resume; 475 accounts (process metric) is fine; trading project framed as "Personal Financial Data Analytics System"
 
 **Example projects (under research validation):**
 - Complete FP&A model (budgeting, forecasting, variance analysis, scenario modeling)
@@ -276,10 +296,9 @@ Promotech role gives you real finance foundation, but title/day-to-day don't ref
 **Outcome:** Publishable on LinkedIn, interview-ready explanations, directly addresses job posting requirements.
 
 ### Secondary: Ultimate Trading Terminal (Continuing)
-**Status:** Live, actively evolving (lower priority during career transition)  
-**Role:** Evidence of technical capability (Python, APIs, data pipelines, automation) — may be leveraged as portfolio asset
-
-**Research question:** How should crypto trading system be positioned in FP&A/analytics context? As evidence of technical depth or separate from main career narrative?
+**Status:** Live, lower priority during career transition  
+**Resume framing (decided):** "Personal Financial Data Analytics System — automated end-to-end financial data pipeline using Python, REST APIs, real-time market data processing." No mention of trading or crypto. Positioned as technical differentiation for analytical finance roles.  
+**When to use:** Only on applications that specifically call for Python/SQL/data analytics skills. Leave out of traditional FP&A/Excel-only roles.
 
 ### Tertiary: Current Employment (Promotech)
 **Status:** Active (Feb 2025 – Present)  
