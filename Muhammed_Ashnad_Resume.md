@@ -7,11 +7,7 @@ Dubai, UAE | +971 562303121 | muhammedashnad@gmail.com | [LinkedIn] | [GitHub �
 
 ## PROFESSIONAL SUMMARY
 
-Finance professional with M.Sc. in Financial Economics and Big Four experience (EY), transitioning into Financial Analysis and FP&A roles. Foundation spans financial reporting, analytical review, ERP implementation, and operational finance — built across Ernst & Young (Bangalore) and Promotech Advertising (Dubai).
-
-At Promotech, led the transformation of a disorganized finance function into a structured, audit-ready operation, including a full Tally-to-Odoo ERP migration. Produce management reports and financial summaries supporting executive decision-making. At EY, conducted high-volume financial statement analysis, reconciliation, and discrepancy investigation across multi-client engagements.
-
-Building FP&A capability through independent portfolio projects covering budgeting, forecasting, variance analysis, and Power BI dashboards — designed against UAE employer requirements. Advanced Excel | Power BI | Python | Odoo ERP | Currently pursuing CMA (US).
+Finance professional with M.Sc. Financial Economics and Big Four experience at Ernst & Young, currently managing financial reporting and operational finance at Promotech Advertising, Dubai. My background spans financial statement analysis, multi-source reconciliation, and structured client documentation at EY, through to management reporting, account reconciliation, ERP implementation, and month-end close in an active business environment. Pursuing CMA (US).
 
 ---
 
@@ -93,12 +89,8 @@ Month-End Close Support | Account Reconciliation | AP / AR Management | ERP Impl
 
 ---
 
-## PORTFOLIO PROJECTS *(In Progress — Available on GitHub)*
+## PROJECTS
 
-*Building a portfolio of FP&A and financial analysis projects designed against UAE employer requirements:*
-- **FP&A Model** — Annual budget, rolling forecast, variance analysis, scenario analysis (Excel)
-- **CFO Dashboard** — Power BI dashboard connected to FP&A model (Power BI + DAX)
-- **Cash Flow Forecast** — 13-week rolling forecast with stress scenarios (Excel)
-- **Financial Statement Analysis** — Analyst-style report on UAE listed company (PDF + Excel)
+**Personal Financial Data Analytics System** | *2024 – Present*
 
-*Portfolio in build phase. GitHub link to be added upon project completion.*
+Independently built an end-to-end financial data pipeline: automated ingestion from multiple live market data APIs, real-time processing, structured data storage, and analytical reporting outputs. Built entirely in Python.
