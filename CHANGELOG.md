@@ -204,6 +204,33 @@ Swiss Arabian Perfumes Group, Sobha Realty, Star Metropolis Clinical Laboratorie
 
 ---
 
+## [2026-08-20 Phase 1D — Global Showcaser Analysis]
+
+### Added
+- **2026-08-20 14:00** — RESEARCH_Phase1D_Global_Showcaser_Analysis.md: Full analysis of global finance project showcasers
+
+### Key Research Findings
+
+**8 real showcase posts analyzed** from LinkedIn content search (5 queries, past month). Best examples:
+
+1. **Pankaj Kawade** — Driver-based 3-year forecast for Eternal/Zomato, Bear/Base/Bull scenarios, QA'd assumptions vs actual results, found model bugs. Gold standard for FP&A showcase format.
+2. **Ben Capobianco** — Real restaurant internship: 95% data collection time reduction, 86% daily forecast accuracy, 24% revenue above historical average. Gold standard for quantified real-impact format.
+3. **Kavish Kaul** — Series approach on SJS Enterprises (report → model → dashboard → pitch deck). Key insight: "The report is for the analyst. The dashboard is for the decision-maker."
+
+**Post structure template documented:** Hook → Context → What built → Key findings → Lesson → CTA → Document carousel
+
+**Content type ranking:** Real company + real impact (⭐⭐⭐⭐⭐) > Real listed company + public data (⭐⭐⭐⭐) > Series (⭐⭐⭐⭐) > Simulated case (⭐⭐⭐)
+
+**Portfolio recommendations for Ashnad:**
+- Project 1: Budget vs. Actual for a UAE-listed company (Emaar, Air Arabia, Aldar) — core FP&A deliverable
+- Project 2: 3-statement model with driver-based 3-year forecast + Bear/Base/Bull (Pankaj Kawade format)
+- Project 3: P&L variance analysis with management commentary (Chalhoub JD requirement)
+- Project 4: Power BI CFO dashboard combining above
+
+**UAE first-mover advantage confirmed:** Zero UAE FP&A showcasers found. 3–4 well-executed project posts = most visible finance portfolio in the UAE market.
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone
