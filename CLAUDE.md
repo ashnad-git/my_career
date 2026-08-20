@@ -33,6 +33,28 @@ This file documents the collaboration model, conventions, and context for workin
 
 ---
 
+## Job Description Archive
+
+**Every JD must be saved immediately after fetching it — no exceptions.**
+
+### Location
+`jds/` directory — one file per job, named `CompanyName_RoleTitle_YYYY-MM-DD.md`
+
+### File contents (required fields)
+- Date found, LinkedIn job ID, URL, status, fit rating
+- Full responsibilities (copy verbatim from JD)
+- Full requirements: experience, education, certifications, technical skills
+- **Portfolio Relevance section** — map each JD requirement to the relevant portfolio project
+
+### When to save
+- Immediately after fetching a JD for audit or application — same session, before moving on
+- Even for STRETCH/rejected roles — the skill frequency data is still useful
+
+### Why
+JDs are the primary input for portfolio project design. If a skill appears repeatedly across applied JDs, it validates what to build next. The portfolio roadmap is only as good as the JD data behind it.
+
+---
+
 ## Resume PDF Generation
 
 **ALWAYS use reportlab. Never use Chrome headless, pandoc, or HTML conversion.**

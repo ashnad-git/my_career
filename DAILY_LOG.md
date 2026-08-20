@@ -27,7 +27,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 1 | 1 | 5–8 |
+| Applications sent | 2 | 2 | 5–8 |
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 | 0 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
