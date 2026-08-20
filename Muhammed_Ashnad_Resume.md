@@ -34,16 +34,15 @@ Month-End Close Support | Account Reconciliation | AP / AR Management | ERP Impl
 **Promotech Advertising** – Dubai, UAE *(Advertising & Media, ~100 employees)* | *Feb 2025 – Present*
 
 **Finance Systems Transformation**
-- Inherited a disorganized finance function with no filing system, scattered documentation, and missing audit-critical records; designed and implemented a comprehensive filing framework from scratch — document retrieval reduced from days to minutes.
-- Led full ERP migration from Tally to Odoo: managed data validation, inventory cleansing (resolving duplications and miscategorizations), master data review, and cross-team coordination through system go-live.
+- Took over a finance function with no filing system, scattered records, and missing documentation; rebuilt the entire structure from scratch — document retrieval reduced from days to minutes.
+- Led full ERP migration from Tally to Odoo: managed data validation, inventory cleansing (cleared duplications and miscategorizations across entire product database), master data review, and cross-team coordination through go-live.
 
 **Financial Reporting & Analysis**
-- Prepare monthly financial reports, management summaries, and performance presentations for executive decision-making — covering revenue, costs, and operational metrics.
-- Execute month-end close activities including account reconciliations, ledger reviews, and pre/post-closing checks; identify and resolve discrepancies across accounts.
-- Manage Statement of Account (SOA) reviews across 30+ vendor and client accounts; investigate variances and coordinate resolution with counterparties.
-- Track and report on payables, receivables, and cash position; support liquidity monitoring and payment scheduling.
-- Coordinate supplier payments, petty cash reconciliation, cheque preparation, and payroll processing support.
-- Provide audit support through organized, accessible documentation and responsive issue resolution.
+- Prepare monthly financial reports, management summaries, and performance packs for the CEO covering a business with AED 16.5M in annual revenue (2025) — up from AED 11.4M in 2024 (IFRS-audited, Kreston Menon).
+- Run month-end close for a company with AED 9.3M in total assets; account reconciliations, ledger reviews, pre/post-closing checks, and discrepancy clearance before close date.
+- Manage SOA reviews and variance investigation across 30+ vendor and client accounts; oversee AED 5.7M in trade payables and AED 4.2M in trade receivables.
+- Process 1,000+ payment transactions per year; monitor AP/AR and cash position to support liquidity planning and payment scheduling.
+- Support IFRS-compliant annual audit (Kreston Menon Chartered Accountants) through organized documentation and responsive issue resolution.
 
 ---
 
