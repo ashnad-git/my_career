@@ -4,6 +4,13 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-20] — continued
+
+### Updated
+- **2026-08-20 ~02:00** — Muhammed_Ashnad_Resume.md: Full FP&A-targeted reframe. Headline changed from "Junior Accountant | Accounting Operations" to "Finance Professional | Financial Analysis & FP&A | M.Sc. Financial Economics | Ex-EY | Dubai". Core Skills completely reorganized — FP&A competencies lead, accounting foundation moves to bottom. Promotech experience split into two subsections (Finance Systems Transformation + Financial Reporting & Analysis) to lead with analytical framing. EY bullets reframed from compliance documentation to financial analysis, discrepancy investigation, and stakeholder coordination. BB Advisory "Financial Analyst Intern" promoted with clearer framing around valuation models. Portfolio Projects section added. No fabricated experience — all changes reframe real work using FP&A vocabulary.
+
+---
+
 ## [2026-08-20]
 
 ### Added
