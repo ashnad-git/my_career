@@ -64,16 +64,25 @@ Claude will read the three tracking files, run a fresh job search, check what yo
 
 ---
 
-### EVENING (10 min) — Learning Progress Log
+### EVENING (10 min) — Daily Log + Progress Update
 
-**Step 6 — Log today's learning (2 min)**
-- Open PHASE2_MASTER_PLAN.md
-- Check the current week's task list → tick off what you completed today
-- Note what you're stuck on (if anything) — Claude will address at next session
+**Step 6 — Fill in DAILY_LOG.md (5 min) — NON-NEGOTIABLE**
+Open DAILY_LOG.md → copy the template → paste at the top of LOG ENTRIES → fill in every field honestly.
 
-**Step 7 — Update STATUS DASHBOARD if milestone reached (3 min)**
-- If you completed a full topic (e.g., "VLOOKUP done") → update the Phase 2A checklist in PHASE2_MASTER_PLAN.md
+```
+### DATE: [today's date] (Day X of Phase 2)
+APPLICATIONS: Applied to / new jobs found
+NETWORKING: Connections sent / posts engaged / follow-ups
+LEARNING: Topic / what I can do now / stuck on
+OVERALL: Full/Partial/Skipped + reason + anything Claude needs to know
+```
+
+Claude reads this at the start of every session. If it's blank, Claude treats the day as skipped.
+
+**Step 7 — Tick off learning in PHASE2_MASTER_PLAN.md (2 min)**
+- Check the current week's task list → tick what was completed
 - If you finished a tab of the model → update Project 1 Progress %
+- If you hit a checkpoint → note it for Claude to formally call next session
 
 ---
 

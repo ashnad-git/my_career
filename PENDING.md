@@ -66,10 +66,23 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - [ ] **Project 7: Automation Pipeline** (Week 17+, if needed)
 - [ ] **Applications** — 5-10/week from Week 1; log in PHASE2_MASTER_PLAN.md Application Log
 
+### Phase 2 Infrastructure Gaps — Audit 2026-08-20 (Fix in priority order)
+
+**Verdict:** Applications are going out right now with the wrong resume and an unoptimised LinkedIn profile. Networking connections are going cold with no follow-up sequence. These three gaps are actively costing opportunities today.
+
+- [ ] 🔴 **Resume reframe** — URGENT. Current CV is accounting-focused. Must be rewritten against Phase 1 research findings before more applications go out. All the data is in Deliverable 2 + Skills Matrix. One session to fix.
+- [ ] 🔴 **LinkedIn profile** — URGENT. Headline + About section not updated. Deliverable 5 (LinkedIn Strategy) was written but never implemented. Recruiters see the profile the moment you apply.
+- [ ] 🟡 **Networking follow-up sequence** — HIGH. Daily connections are being sent but no protocol exists for what to do after connecting. Day 3-5 warm-up → Day 10-14 informational ask → post-call follow-up. Without this, all 70 database contacts go cold.
+- [ ] 🟡 **Weekly review protocol** — HIGH. No end-of-week check exists. Application conversion rate, learning pace, pipeline health — none of it gets assessed without a formal review.
+- [ ] 🟡 **Application follow-up protocol** — HIGH. After Easy Apply submission, what happens? LinkedIn message to hiring manager? When? What to say?
+- [ ] 🟠 **Interview base prep** — MEDIUM. Core Q&A must exist before first interview arrives, especially "why no formal FP&A experience?" Draft now, customise when needed.
+- [ ] 🟠 **GitHub portfolio repo setup** — MEDIUM. Must exist before Week 3 (Project 1 build starts). Create repo, set to public, add placeholder README.
+
 ### LinkedIn & Brand (Parallel)
-- [ ] **Resume update** — Finalize based on job market research findings
-- [ ] **LinkedIn profile** — Build based on strategy research (headline, about, featured, posts)
-- [ ] **Project publication** — Publish portfolio projects on LinkedIn with business-problem focus
+- [ ] **Resume reframe** — see gap #1 above (URGENT)
+- [ ] **LinkedIn headline + About** — see gap #2 above (URGENT)
+- [ ] **LinkedIn skills section + featured** — add after headline/about is done
+- [ ] **Project publication** — Publish portfolio projects on LinkedIn with business-problem focus (starts after Project 1 complete)
 
 ### Ultimate Trading Terminal (Tertiary, lower priority)
 - [ ] **Assess positioning** — How should trading system be positioned in FP&A/analytics narrative?

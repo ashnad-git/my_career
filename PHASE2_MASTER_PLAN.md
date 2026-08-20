@@ -28,13 +28,14 @@
 
 ---
 
-## KEY FILES (Read These Every Session)
+## KEY FILES (Read These Every Session — In This Order)
 
-| File | Purpose |
-|---|---|
-| **PHASE2_MASTER_PLAN.md** | This file — overall plan + status + session log |
-| **JOB_PIPELINE.md** | All live jobs found, applied, responses — update every session |
-| **DAILY_CHECKLIST.md** | Ashnad's daily 45-min routine — verify completion at session start |
+| File | Read order | Purpose |
+|---|---|---|
+| **PHASE2_MASTER_PLAN.md** | 1st | This file — overall plan, status dashboard, session log |
+| **DAILY_LOG.md** | 2nd | What Ashnad actually did since last session — verify before starting |
+| **JOB_PIPELINE.md** | 3rd | Live jobs, applied, responses — update every session |
+| **DAILY_CHECKLIST.md** | Reference | Ashnad's daily 45-min routine instructions |
 
 ---
 
@@ -42,10 +43,17 @@
 
 ### At Start of Session
 1. Read STATUS DASHBOARD — know exactly where we are
-2. Read JOB_PIPELINE.md — check what was applied since last session, any responses received
-3. Run fresh job search (LinkedIn + Indeed UAE) — find new openings, add to pipeline with fit ratings
-4. Read LAST SESSION SUMMARY — know what learning topic we left off on
-5. State today's plan: "Today we're doing X for Y minutes, then Z."
+2. Read DAILY_LOG.md (most recent entries since last session) — verify what Ashnad actually did. Call out anything missed before moving on.
+3. Read JOB_PIPELINE.md — check what was applied, any responses received
+4. Run fresh job search (LinkedIn + Indeed UAE) — find new openings, add to pipeline
+5. Read LAST SESSION SUMMARY — know what learning topic we left off on
+6. State today's plan: "Today we're doing X for Y minutes, then Z."
+
+**Daily log accountability rule:**
+- Full completion → acknowledge, move on
+- Partial → ask what happened, adjust session if needed
+- Skipped → address honestly before learning. Name the cost. Then move on.
+- Skipped 3 days in a row → pause learning entirely, diagnose what's blocking the routine
 
 ### During Session
 - Teach concept → demonstrate → Ashnad practices → review → correct → move on
