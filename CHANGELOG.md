@@ -87,6 +87,22 @@ Phase 1 research deliverables completed (1 of 6 from prior session + 5 added her
 
 ---
 
+## [2026-08-20 Phase 1C — LinkedIn Deep Research]
+
+### Added
+- **2026-08-20 07:00** — RESEARCH_Phase1C_LinkedIn_Deep_Research.md: Deep LinkedIn research across 4 simultaneous search streams
+
+### Research Streams
+- **LinkedIn Jobs (100+ results):** Broader query (financial analyst OR finance analyst OR FP&A analyst OR management reporting analyst OR commercial analyst), UAE, past month — 16+ jobs extracted across 3 pages. Key new finds: Al-Futtaim Senior Financial Analyst (active, 14 alumni), TotalEnergies Financial Analyst Abu Dhabi (3rd UAE role)
+- **LinkedIn People:** 10 Dubai FP&A professionals profiled in depth — career paths, qualifications, tools, current employers. Key insight: CA/accounting → Financial Analyst is standard path. CMA appears in real profiles. "Rehab Ahmed" profile mirrors Ashnad's exact career transition.
+- **LinkedIn Hiring Posts:** 4 active recruiter posts from past week — people posting jobs in feed (not company boards). 3 recruiter contacts captured with emails: maleek@talentsourceconsults.com, careers@fin-storm.com, nupur@futuretensehr.com
+- **LinkedIn Project Posts:** FP&A project showcasers identified. Key insight: AI tools (ChatGPT, Claude, Gemini, Copilot) explicitly listed in Finance Analyst job requirements — Ashnad's automation background is a genuine differentiator.
+
+### New Employers Found (from profiles + posts)
+Swiss Arabian Perfumes Group, Sobha Realty, Star Metropolis Clinical Laboratories, Decision Sciences Company, 242 Diamond DMCC, EXL, PwC Middle East, AD Ports Group, Crossing Hurdles
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone
