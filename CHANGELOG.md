@@ -178,6 +178,32 @@ Swiss Arabian Perfumes Group, Sobha Realty, Star Metropolis Clinical Laboratorie
 
 ---
 
+## [2026-08-20 Phase 1C — LinkedIn People Database + Premium Profile Access]
+
+### Added
+- **2026-08-20 13:30** — RESEARCH_Phase1C_LinkedIn_People_Database.md: Comprehensive people database covering all 70 profiles from pages 1–7 of "FP&A analyst Dubai" search
+
+### Key Database Contents
+- **65+ LinkedIn URLs confirmed** via JavaScript extraction from each search result page
+- **5 full Premium profiles extracted** (Parth Khona, Anjali C, Shobhit Gupta, Nijamudheen, Mohammad Omar Mukhtar)
+- **Networking priority ranking:** Nandini Vijayan (21 mutual), Muhammad Danish Ali (14 mutual, 33K followers), Rehab Ahmed (14 mutual), Sabith Mohmed (13 mutual), Akhil Wadhwani (8 mutual at Swiss Arabian)
+- **Key bridge contacts identified:** Jeff Landers ACA + Zaynah Aboobaker appear as mutual connections for the most profiles — connecting with them unlocks the widest network reach
+- **22 confirmed employers with person-level evidence** (Majid Al Futtaim, Dubai Holding, Dubai Aerospace Enterprise, Dubai Airports, Landmark, Swiss Arabian, PwC, EY, etc.)
+- **Existing connections reviewed:** current connections are non-FP&A; no insider network yet
+
+### Premium Profile Insights
+- **Shobhit Gupta (CA + FMVA):** Used 9-month intentional career break to earn FMVA + build projects → landed Dubai confidential FP&A role (Apr 2025). Direct proof: portfolio + certification → transition works
+- **Parth Khona (MAF):** Manages AED 3Bn+ P&L across 10 malls; built Monte Carlo simulation models + Power BI dashboards adopted across the finance team
+- **Anjali C (Olam):** EY audit India (2.75 yrs) → UAE accounting role with embedded FP&A; doing budgeting, forecasting, variance analysis inside "Finance Account Officer" title
+- **Mohammad Omar Mukhtar (Savills):** 9+ yrs in accounting; SAP + TRAMPS; ACCA Finalist; STILL in accounting-titled role despite FP&A headline — transition NOT yet achieved after 9 years
+- **Nijamudheen (Fat Hippo UK):** Real Financial Analyst role (2.3 yrs in UK hospitality); now in Dubai; CMA + CIMA Finalist; Power BI
+
+### Global Showcaser Research — Flagged
+- UAE community: zero project showcasers confirmed
+- Recommendation added to database: research global finance creators (UK, India, US) to understand how to showcase FP&A projects on LinkedIn; first-mover advantage in UAE market is real
+
+---
+
 ## Format Notes
 
 - **Timestamped entries:** `YYYY-MM-DD HH:MM` in +04 timezone
