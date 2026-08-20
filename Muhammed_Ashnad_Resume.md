@@ -31,18 +31,18 @@ Month-End Close Support | Account Reconciliation | AP / AR Management | ERP Impl
 ## PROFESSIONAL EXPERIENCE
 
 ### **Accounts and Operations Executive**
-**Promotech Advertising** – Dubai, UAE *(Advertising & Media, ~100 employees)* | *Feb 2025 – Present*
+**Promotech Advertising** – Dubai, UAE | *Feb 2025 – Present*
 
 **Finance Systems Transformation**
 - Took over a finance function with no filing system, scattered records, and missing documentation; rebuilt the entire structure from scratch — document retrieval reduced from days to minutes.
-- Led full ERP migration from Tally to Odoo: managed data validation, inventory cleansing (cleared duplications and miscategorizations across entire product database), master data review, and cross-team coordination through go-live.
+- Led full ERP migration from Tally to Odoo: data validation, inventory database cleansing, master data review, and cross-team co-ordination from planning through go-live.
 
 **Financial Reporting & Analysis**
-- Prepare monthly financial reports, management summaries, and performance packs for the CEO covering a business with AED 16.5M in annual revenue (2025) — up from AED 11.4M in 2024 (IFRS-audited, Kreston Menon).
-- Run month-end close for a company with AED 9.3M in total assets; account reconciliations, ledger reviews, pre/post-closing checks, and discrepancy clearance before close date.
-- Manage SOA reviews and variance investigation across 30+ vendor and client accounts; oversee AED 5.7M in trade payables and AED 4.2M in trade receivables.
-- Process 1,000+ payment transactions per year; monitor AP/AR and cash position to support liquidity planning and payment scheduling.
-- Support IFRS-compliant annual audit (Kreston Menon Chartered Accountants) through organized documentation and responsive issue resolution.
+- Prepare monthly financial reports, management summaries, and performance packs for the CEO — covering revenue, gross margin, cost variances, and key operational metrics.
+- Run month-end close: account reconciliations, ledger reviews, pre/post-closing checks, and discrepancy clearance across all accounts before close date each month.
+- Manage SOA reviews and variance investigation across 30+ vendor and client accounts; co-ordinate resolution of AP/AR discrepancies with counterparties.
+- Process 1,000+ payment transactions per year; monitor cash position and support liquidity planning and supplier payment scheduling.
+- Support IFRS-compliant annual audit (Kreston Menon Chartered Accountants) through organized, audit-ready documentation and timely issue resolution.
 
 ---
 
