@@ -28,12 +28,24 @@
 
 ---
 
+## KEY FILES (Read These Every Session)
+
+| File | Purpose |
+|---|---|
+| **PHASE2_MASTER_PLAN.md** | This file — overall plan + status + session log |
+| **JOB_PIPELINE.md** | All live jobs found, applied, responses — update every session |
+| **DAILY_CHECKLIST.md** | Ashnad's daily 45-min routine — verify completion at session start |
+
+---
+
 ## TUTOR PROTOCOL (How Every Session Works)
 
 ### At Start of Session
 1. Read STATUS DASHBOARD — know exactly where we are
-2. Read LAST SESSION SUMMARY — know what was last covered
-3. State today's plan out loud (2 sentences max): "Today we're doing X. We'll know we're done when Y."
+2. Read JOB_PIPELINE.md — check what was applied since last session, any responses received
+3. Run fresh job search (LinkedIn + Indeed UAE) — find new openings, add to pipeline with fit ratings
+4. Read LAST SESSION SUMMARY — know what learning topic we left off on
+5. State today's plan: "Today we're doing X for Y minutes, then Z."
 
 ### During Session
 - Teach concept → demonstrate → Ashnad practices → review → correct → move on
@@ -44,8 +56,9 @@
 ### At End of Session
 1. Update STATUS DASHBOARD (Current Week, Current Task, Next Session: Start With)
 2. Write SESSION LOG entry (date + what was covered + what was understood + what was skipped + what's next)
-3. Update PROJECT PROGRESS if anything was built
-4. Commit + push to GitHub
+3. Update PROJECT PROGRESS % if anything was built
+4. Update JOB_PIPELINE.md — move applied jobs, add new ones found
+5. Commit + push to GitHub (all files: master plan + pipeline + checklist)
 
 ### Red Lines
 - Never end a session without updating the status dashboard
@@ -327,10 +340,23 @@ If all yes → move to Phase 2B (Project 1 build).
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
 
-### 2026-08-20 — Phase 1 Closure + Phase 2 Plan
-**Covered:** Built Skills Matrix (RESEARCH_Phase1D_Skills_Matrix.md), added Phase 1C/1D updates to Deliverables 2, 3, 4. Created this master plan.  
-**Ashnad skill level confirmed:** Excel = accounting-level (Pivots at EY, years ago, nothing remembered). Power BI = zero.  
-**Next session:** Week 1, Day 1 — Start Excel foundations. Open CFI Excel Crash Course. First topic: VLOOKUP.  
+### 2026-08-20 — Phase 1 Closure + Phase 2 Full Setup
+**Covered:**
+- Built Skills Matrix (RESEARCH_Phase1D_Skills_Matrix.md)
+- Added Phase 1C/1D updates to Deliverables 2, 3, 4
+- Created PHASE2_MASTER_PLAN.md (tutor plan, 20-week timeline, project specs)
+- Created JOB_PIPELINE.md — 10 live jobs found and assessed (Batch 1)
+- Created DAILY_CHECKLIST.md — daily 45-min routine: apply + network + learn + log
+- Live job search run: LinkedIn (FP&A analyst, financial analyst, FP&A associate, management reporting — Dubai) + Indeed UAE
+
+**Skill levels confirmed:** Excel = accounting-level (Pivots at EY, years ago, nothing remembered). Power BI = zero.
+
+**URGENT ACTION FOR ASHNAD TONIGHT:**
+Apply to Chalhoub Group FP&A Associate I (Zimmermann) — posted 1 day ago, STRONG FIT, apply before it closes.
+URL: https://www.linkedin.com/jobs/view/4452830346
+Cover letter in JOB_PIPELINE.md BATCH 1 section — copy and personalise.
+
+**Next session:** Week 1, Day 1 — Excel foundations. Start with VLOOKUP. Check JOB_PIPELINE for applications sent. Run new job search.
 **Committed:** Yes — all files pushed.
 
 ---
