@@ -1,49 +1,58 @@
 # JD: FP&A Analyst (Manufacturing Finance) — Eaton
-**Date found:** 2026-08-20
-**LinkedIn job ID:** 4438724370
-**URL:** https://www.linkedin.com/jobs/view/4438724370
-**Status:** To apply — deadline Aug 24 (responses managed off LinkedIn)
-**Fit rating:** 🟠 STRETCH (re-rated from GOOD — SAP required, 2yr manufacturing required, 1,367 applicants)
-**Competition:** 1,367 total applicants
+**Date found:** 2026-08-20  
+**LinkedIn job ID:** 4438724370  
+**URL:** https://www.linkedin.com/jobs/view/4438724370  
+**Status:** Applied — 2026-08-20 (Eightfold portal, master PDF, STRETCH — SAP must-have gap)  
+**Fit rating:** 🟠 STRETCH  
+**Follow-up date:** 2026-08-27  
 
 ---
 
 ## Role Details
-- **Company:** Eaton — global power management MNC, ~96,000 employees, 175+ countries
-- **Location:** Dubai, UAE — On-site, Full-time (E33 manufacturing plant)
+- **Company:** Eaton
+- **Location:** Dubai, UAE — Full-time, On-site
+- **Sector:** Manufacturing / Power Management (Global MNC)
 - **Reports to:** Plant Finance Manager
-- **Reposted:** 1 week ago
 
 ---
 
-## Responsibilities
-- Support manufacturing plant's budgeting, forecasting, profit planning, and financial reporting
-- Analyze financial and operational performance — identify key drivers, risks, improvement opportunities
-- Monitor manufacturing costs, inventory, productivity, margins, and working capital
-- Partner with Operations, Supply Chain, Procurement, HR, and Accounting teams
-- Support capital investment evaluations and cost reduction initiatives
-- Ensure compliance with financial policies, internal controls, SOX requirements, and audit standards
-- Utilize SAP, Excel, and reporting tools to deliver timely financial information to plant leadership
+## Responsibilities (verbatim)
+
+- Reporting to the Plant Finance Manager, the FP&A Analyst supports financial planning, forecasting, reporting and operational analysis for the E33 manufacturing plant.
+- Partner with Operations, Supply Chain, Procurement, Engineering, HR and Accounting teams to provide insights and drive performance
+- Support the manufacturing plant's budgeting, forecasting, profit planning and financial reporting processes.
+- Analyze financial and operational performance, identifying key drivers, risks and improvement opportunities.
+- Monitor manufacturing costs, inventory, productivity, margins and working capital performance to support business decisions.
+- Support capital investment evaluations, cost reduction initiatives and continuous improvement programs through financial analysis.
+- Ensure compliance with financial policies, internal controls, SOX requirements and audit standards.
+- Utilize SAP, Excel and reporting tools to deliver timely, accurate and actionable financial information to plant leadership.
 
 ---
 
-## Requirements
+## Requirements (verbatim)
 
 **Experience:**
-- 3–5 years of progressive finance experience within a multinational organization
-- Minimum 2 years supporting a manufacturing environment (hard requirement)
+- 3–5 years of progressive finance experience within a multinational organization.
+- Minimum 2 years of experience supporting a manufacturing environment.
 
-**Technical:**
-- SAP proficiency — hands-on experience required (not optional)
-- Advanced Excel
-- Power BI — advantage (not required)
-- Manufacturing finance: standard costing, inventory, variance analysis, operational KPIs
-- SOX compliance understanding
-
-**Competencies:**
-- Business partnering across cross-functional teams
-- Stakeholder communication
+**Skills & Competencies:**
+- FP&A, cost controlling, plant finance, or operational finance expertise
+- SAP-based reporting and analysis (required)
+- Financial planning, budgeting, forecasting and management reporting
+- Manufacturing finance including cost analysis, inventory management, variance analysis
+- Standard costing and manufacturing KPI knowledge
+- Advanced Microsoft Excel proficiency
+- Power BI or similar business intelligence tools (advantage)
+- Understanding of internal controls, compliance requirements and SOX principles
+- Strong analytical and problem-solving abilities
+- Business partnering and stakeholder management
+- Communication and presentation skills
+- Ability to work in a fast-paced and multicultural environment
+- Ownership, accountability, attention to detail
+- Collaboration and relationship-building capabilities
+- Multiple priority management
 - Continuous improvement mindset
+- Data-driven decision-making
 
 ---
 
@@ -51,21 +60,28 @@
 
 | Requirement | Status | Notes |
 |---|---|---|
-| SAP proficiency | ❌ Hard gap | Required, not preferred. Odoo is not a substitute here. |
-| 2yr manufacturing environment | ❌ Hard gap | No manufacturing experience. Promotech is trading/distribution. |
-| 3-5yr MNC finance | 🟡 Partial | 3yr total but not MNC title, EY counts partially |
-| Budgeting/forecasting | ⚠️ Gap | No formal FP&A title — portfolio project addresses this |
-| Cost controlling / plant finance | ❌ Gap | No manufacturing cost exposure |
-| SOX compliance | ❌ Gap | Not in Ashnad's background |
+| 3–5 years MNC experience | ❌ Gap | ~3 yrs but not MNC FP&A title |
+| 2 years manufacturing experience | ❌ Hard gap | No manufacturing background |
+| SAP (required) | ❌ Hard gap | Odoo + Tally only |
+| Budgeting / forecasting / reporting | ✅ Partial | Promotech management reports |
+| Power BI | ✅ | In progress |
+| Advanced Excel | ✅ Partial | Building |
+| SOX compliance | ❌ Gap | EY exposure only, not SOX |
+| Manufacturing KPIs / standard costing | ❌ Gap | No manufacturing experience |
 
-**Verdict:** Two hard requirements (SAP + manufacturing) cannot be bridged by portfolio projects. Easy Apply only — no tailoring needed. Low conversion probability but worth submitting for volume.
+**Verdict:** STRETCH. SAP required and manufacturing experience required — both hard gaps. Applied per Ashnad's call.
+
+---
+
+## Skills Frequency Notes
+- SAP appears as required/strongly preferred across multiple MNC JDs — high-frequency gap to note
+- SOX compliance appears in MNC manufacturing roles — not buildable via projects
 
 ---
 
 ## Portfolio Relevance
-Even with low conversion probability, this JD confirms:
-- **Variance analysis** ← Project 1 (budget-to-actual, forecast-to-actual) — framing matters
-- **Monthly management reports** ← Project 1 + Project 2 (Power BI dashboard)
-- **Budgeting + forecasting** ← Project 1
-- **SAP gap** — cannot close via projects; Odoo migration is the partial bridge narrative
-- **Manufacturing cost concepts** — study standard costing basics before any interview (COGS%, margin analysis already in Project 1)
+- **Budgeting / forecasting / profit planning** ← Project 1 (FP&A model)
+- **Variance analysis / cost monitoring** ← Project 1 (Variance Analysis + COGS tabs)
+- **Power BI reporting** ← Project 2
+- **Capital investment evaluation** ← Project 5 (NPV/IRR business case model)
+- **Financial compliance / audit** ← Promotech direct experience

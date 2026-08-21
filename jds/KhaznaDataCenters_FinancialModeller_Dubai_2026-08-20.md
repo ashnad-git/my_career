@@ -1,60 +1,73 @@
-# JD: Financial Modeller | Khazna Data Centers (Dubai)
-**Date found:** 2026-08-20
-**LinkedIn job ID:** 4445665949
-**URL:** https://www.linkedin.com/jobs/view/4445665949
-**Status:** To apply — Easy Apply, actively reviewing applicants
-**Fit rating:** 🟠 STRETCH (3yr minimum met; FP&A accepted as alternative to construction; real estate/construction preferred = gap)
-**Competition:** ~100 applicants, 31/day, 56% senior level
+# JD: Financial Modeller — Khazna Data Centers
+**Date found:** 2026-08-20  
+**LinkedIn job ID:** 4445665949  
+**URL:** https://www.linkedin.com/jobs/view/4445665949  
+**Status:** To apply — deadline Aug 28  
+**Fit rating:** 🟠 STRETCH (3 yrs financial modelling required; real estate/construction preferred)  
 
 ---
 
 ## Role Details
-- **Company:** Khazna Data Centers — UAE data center developer/operator
-- **Location:** Dubai, UAE — On-site, Full-time
-- **Function:** Financial analysis and modelling for Business Planning — project budgets, forecasting, management reporting
-- **Reports to:** Senior Financial Analyst (supporting role)
+- **Company:** Khazna Data Centers
+- **Location:** Dubai, UAE — Full-time
+- **Sector:** Data Centers / Real Estate / Infrastructure
+- **Seniority level:** Associate
+- **Job function:** Finance and Strategy/Planning
 
 ---
 
-## Key Accountabilities
-- Financial forecasting, reporting, operational metrics tracking
-- Create financial models for decision support, variance analysis, trend identification
-- Work with accounting team to prepare monthly reports for leadership and shareholders
-- Evaluate financial performance vs. plans and forecasts
-- **Analyze and track project budgets, commitments, and actual costs** — variance analysis and actionable insights (data center construction context)
-- Recommend process improvements: standard/ad-hoc reports, Excel dashboards, automation on reporting/forecasting tools
-- Administer and distribute internal financial reports, compile cross-functional reports
-- Recommend templates for advanced reports aligned with industry best practice
+## Responsibilities (verbatim)
+
+- Assist to perform financial forecasting, reporting, operational metrics tracking, analyse financial data and create financial models for decision support
+- Analyze past results, perform variance analysis, identify trends, and make recommendations for improvements
+- Work closely with the accounting team to ensure accurate financial reporting, financial performance and prepare monthly reports for regular leadership and shareholders reviews
+- Evaluate financial performance by comparing and analyzing actual results with plans and forecasts
+- Analyze and track project budgets, commitments, and actual costs, providing regular variance analysis and actionable insights
+- Recommend process improvements, including the creation of standard and ad-hoc reports, tools, and Excel dashboards and provide support for automation on reporting / forecasting tools
+- Administer production and distribution of internal financial reports and compile cross-functional reports
+- Recommend templates for advanced reports aligned with industry best practice and internal requirements
 
 ---
 
-## Qualifications & Competencies
-- **Bachelor's** in Finance, Accounting, or Engineering
-- **Minimum 3 years** of experience in financial modeling and financial analysis ✅
-- Strong financial modeling skills: advanced Excel and PowerPoint, solid quantitative and analytical abilities
-- Experience in cost analysis, FP&A, quantity surveying, or cost control — **preferably in real estate or construction**
-  - Note: FP&A explicitly listed as acceptable alternative
-- Self-starter, excellent communication, problem-solving; able to engage with senior management
+## Requirements (verbatim)
+
+**Education:**
+- Bachelor's degree in Finance, Accounting, or Engineering
+
+**Experience:**
+- Minimum 3 years of experience in financial modeling and financial analysis
+
+**Technical Skills:**
+- Strong financial modeling skills with advanced proficiency in Excel and PowerPoint, plus solid quantitative and analytical abilities
+- Experience in cost analysis, FP&A, quantity surveying, or cost control—preferably in real estate or construction
+
+**Competencies:**
+- Self-starter with excellent communication, presentation, and problem-solving skills; able to work independently, handle ambiguity, and engage with senior management
 
 ---
 
 ## Gap Analysis vs Ashnad
+
 | Requirement | Status | Notes |
 |---|---|---|
-| Bachelor's Finance/Accounting/Engineering | ✅ Yes | M.Sc. Financial Economics exceeds |
-| 3+ years experience | ✅ Yes | 3+ years total |
-| Financial modeling + FP&A | ⚠️ Building | Project 1 demonstrates; portfolio in progress |
-| Advanced Excel | ⚠️ Building | Core Excel competent; advanced building |
-| Real estate/construction background | ❌ Gap | Promotech = trading/commodity; EY = multi-sector |
-| FP&A as acceptable alternative | ⚠️ Portfolio | Explicitly listed — portfolio projects address this |
+| 3 years financial modelling | ❌ Gap | No formal financial modelling title |
+| Real estate / construction experience | ❌ Gap | No property/infrastructure background |
+| Advanced Excel modelling | ✅ Partial | Building via Project 1 |
+| Financial forecasting / variance analysis | ✅ Partial | Promotech + Project 1 |
+| Project budget tracking / cost control | ✅ Partial | Promotech cost monitoring |
+| Monthly reports for leadership / shareholders | ✅ | Promotech CEO management packs |
+| Automation / Excel dashboards | ✅ | Python + Power BI |
+| Quantitative analytical skills | ✅ | M.Sc. Financial Economics + applied econometrics |
 
-**Verdict:** 3-year minimum is accessible. FP&A is explicitly listed as acceptable background — this means a candidate building FP&A portfolio + 3 years finance experience could be considered. Real estate/construction preference is a gap, but not a hard disqualifier. The "financial modeller" title is closer to Ashnad's portfolio work (Project 1 FP&A model) than the "analyst" roles requiring explicit FP&A history. Worth Easy Apply.
+**Verdict:** STRETCH. Financial modelling title gap and real estate experience gap. Strong adjacent skills. Apply Easy Apply with master PDF.
 
 ---
 
 ## Portfolio Relevance
-- **Financial models for decision support** ← Project 1 (FP&A model with scenarios)
-- **Variance analysis + management reports** ← Project 2 (executive dashboard)
-- **Project budget tracking + cost analysis** ← distinct from current portfolio; closest is Project 1
-- **Excel dashboards + automation** ← Python automation from trading terminal (indirect)
-- **Process improvement for reporting** ← frame ERP migration + workflow optimization from Promotech
+- **Financial modelling** ← Project 1 (FP&A model, full 9-tab build)
+- **Variance analysis / actuals vs plans** ← Project 1 (Variance Analysis tab)
+- **Forecasting / scenario analysis** ← Project 1 (Rolling Forecast + Scenario tabs)
+- **Excel dashboards** ← Project 1 (Dashboard tab)
+- **Monthly leadership reports** ← Promotech CEO management packs
+- **Automation of reporting** ← Project 2 (Power BI) + Python automation
+- **Project budget / cost tracking** ← Project 1 (cost tracker concept in COGS/OpEx tabs)

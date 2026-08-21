@@ -42,9 +42,12 @@ This file documents the collaboration model, conventions, and context for workin
 
 ### File contents (required fields)
 - Date found, LinkedIn job ID, URL, status, fit rating
-- Full responsibilities (copy verbatim from JD)
-- Full requirements: experience, education, certifications, technical skills
-- **Portfolio Relevance section** — map each JD requirement to the relevant portfolio project
+- **Full responsibilities — copy verbatim, every bullet, every line. No paraphrasing. No omissions.**
+- **Full requirements — copy verbatim: experience, education, certifications, technical skills, every line.**
+- **Portfolio Relevance section** — map each JD requirement to the relevant portfolio project (only section Claude writes, not copies)
+
+### HARD RULE: JD content must be verbatim
+The responsibilities and requirements sections must be copied exactly as written in the job posting — not summarised, not paraphrased, not selectively pulled. The exact language is what matters for keyword matching in resume tailoring, hr-audit, and skills frequency analysis. A summarised JD corrupts all downstream work. This has been corrected multiple times — it will not happen again.
 
 ### When to save
 - Immediately after fetching a JD — same session, before moving on

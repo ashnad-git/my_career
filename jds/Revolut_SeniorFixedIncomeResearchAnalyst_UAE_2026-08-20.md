@@ -1,61 +1,49 @@
-# JD: Senior Fixed Income Research Analyst (Quant Researcher) | Revolut
-**Date found:** 2026-08-20
-**LinkedIn job ID:** 4443155793
-**URL:** https://www.linkedin.com/jobs/view/4443155793
-**Status:** NOT APPLYING — wrong domain, wrong seniority
-**Fit rating:** ❌ NOT SUITABLE (Quant research; 5+ years STEM required; fixed income/credit derivatives; no FP&A connection)
-**Competition:** 316 applicants; 59% senior level; 8/day
+# JD: Senior Fixed Income Research Analyst (Quant Researcher) — Revolut
+**Date found:** 2026-08-20  
+**LinkedIn job ID:** 4443155793  
+**URL:** https://www.linkedin.com/jobs/view/4443155793  
+**Status:** ❌ NOT SUITABLE — archived (senior quant, completely different domain)  
+**Fit rating:** ❌ NOT SUITABLE  
 
 ---
 
 ## Role Details
-- **Company:** Revolut — global fintech (neobank), 75M+ customers
-- **Team:** Wealth & Trading
-- **Location:** United Arab Emirates (Remote), Full-time
-- **Posted:** 1 month ago
+- **Company:** Revolut
+- **Location:** United Arab Emirates — Full-time
+- **Sector:** Fintech / Quantitative Finance / Fixed Income
+- **Seniority level:** Mid-Senior level
 
 ---
 
-## Hard Disqualifiers
-1. **Quant research role** — not FP&A; requires systematic model development for corporate bonds/CDS
-2. **5+ years** in quantitative investment research and systematic portfolio construction for fixed income
-3. **STEM educational background required** — Ashnad's M.Sc. Financial Economics does not qualify
-4. **Advanced Python scientific stack** — Ashnad has Python but at data pipeline level, not quantitative finance/statistical modelling level
-5. **Corporate credit market microstructure / OTC bond liquidity** — specialist domain knowledge required
+## Responsibilities (verbatim)
 
----
-
-## What you'll be doing
-- Leading development of systematic predictive models for corporate bonds and credit default swaps
-- Integrating macroeconomic trends and sector-specific insights into portfolio engine
+- Leading the development of systematic predictive models and strategies for corporate bonds and credit default swaps
+- Integrating macroeconomic trends and sector-specific insights into the portfolio engine
 - Designing and implementing fixed income portfolio construction and optimisation frameworks
-- Collaborating with engineers on automated execution workflows
-- Hypothesis testing and backtesting to validate model accuracy
-- Managing execution specifics: liquidity sourcing, market impact, transaction costs
-- Ensuring compliance with regulatory standards, portfolio risk limits
-
-## Requirements
-- 5+ years quantitative investment research, systematic portfolio construction for fixed income
-- In-depth understanding of corporate credit market microstructure and OTC bond liquidity constraints
-- Quantitative and statistical tooling applied to systematic investment decisions
-- Advanced Python and scientific data stack
-- Track record: transaction cost analysis, tracking error modelling, risk attribution
-- Educational background in STEM
-
-## Nice to have
-- Long-short strategies or systematic bond execution experience
-- ETF ecosystem, index replication methodologies, basket optimisation
-- CFA qualification
+- Collaborating with engineers to design, test, and refine algorithms for automated execution workflows
+- Conducting hypothesis testing and backtesting to validate model accuracy, performance, and transaction costs
+- Managing practical execution specifics, including liquidity sourcing, market impact, and transaction costs
+- Ensuring full compliance with regulatory standards, portfolio risk limits, and financial promotions
 
 ---
 
-## Market Intelligence
-- Revolut's Wealth & Trading team is building systematic trading infrastructure for fixed income
-- This is a quant "alpha generation" role — highly specialist, not accessible without STEM PhD or equivalent quant fund background
-- Note: Revolut also has "Data Analyst (Finance)" UAE Remote role (posted 2 days ago) — different role, potentially relevant
-- Revolut Finance team grew 62% over 2 years — they are actively hiring in UAE
+## Requirements (verbatim)
+
+**Experience:**
+- 5+ years of experience in quantitative investment research and systematic portfolio construction for fixed income
+
+**Technical Skills & Knowledge:**
+- An in-depth understanding of corporate credit market microstructure and OTC bond liquidity constraints
+- Solid knowledge of quantitative and statistical tooling applied to systematic investment decisions
+- Advanced programming skills in Python and its scientific data stack
+- A proven track record of handling transaction cost analysis, tracking error modelling, and risk attribution
+
+**Education:**
+- An educational background in STEM
 
 ---
 
-## Portfolio Relevance
-None — domain mismatch. This is quant/systematic trading, not FP&A.
+## Skills Frequency Notes
+- Senior quant / fixed income specialist — completely different career path from FP&A
+- Python + quant skills noted — adjacent to Ashnad's technical background but domain is investment management, not corporate finance
+- CDS / bond pricing — investment banking / quant finance domain

@@ -1,32 +1,52 @@
-# JD: Senior Analyst, Payments | Checkout.com (Dubai)
-**Date found:** 2026-08-20
-**LinkedIn job ID:** 4432358665
-**URL:** https://www.linkedin.com/jobs/view/4432358665
-**Status:** NOT APPLYING — wrong domain, extreme competition
-**Fit rating:** ❌ NOT SUITABLE (treasury/payments operations role, not FP&A; 1,689 applicants; 2yr treasury experience required)
-**Competition:** 1,689 total (119/day), responses managed off LinkedIn
+# JD: Senior Analyst, Payments — Checkout.com
+**Date found:** 2026-08-20  
+**LinkedIn job ID:** 4432358665  
+**URL:** https://www.linkedin.com/jobs/view/4432358665  
+**Status:** ❌ NOT SUITABLE — archived (treasury/payments ops, domain mismatch)  
+**Fit rating:** ❌ NOT SUITABLE  
 
 ---
 
-## Summary
-Checkout.com (fintech — powers payments for eBay, Spotify, Klarna, Uber, Sony). "Senior Analyst, Payments" is a treasury/payment operations role, NOT a financial planning/analysis role.
+## Role Details
+- **Company:** Checkout.com
+- **Location:** Dubai, UAE — Full-time
+- **Sector:** Fintech / Payments
 
-**Function:** Regional Treasury team — payment operations, bank relationship management, bank account administration, regulatory reporting
+---
 
-## Hard Disqualifiers
-1. **Treasury/payment operations background** — at least 2 years in treasury or payment operations specifically
-2. **Kyriba** (treasury management system TMS) — specialist tool, cannot be self-learned
-3. **Looker** — BI tool (possible overlap, but in treasury context)
-4. **Bank/card scheme relationship management** — specialist payment operations capability
-5. **1,689 applicants** — extremely competitive even for relevant candidates
+## Responsibilities (verbatim)
 
-## Responsibilities (for context)
-- Manage relationships with external banks and card schemes
-- Bank account administration (global accounts, compliance, internal controls)
-- Cross-functional partnerships for new product launches
-- Support regional Treasury team on strategic projects, efficiency drives, quarterly regulatory reporting
+- Analyze cash inflows and outflows ensures sufficient liquidity for merchant processing, supplemented by strategic FX trade reviews.
+- Review merchant contractual terms helps determine the most efficient payout cycles and funding requirements.
+- Take full ownership of the payment lifecycle involves preparing, inputting, and auditing merchants, schemes, and working capital transfers.
+- Manage daily bank account reconciliations maintain total financial accuracy while providing a platform to identify and resolve exceptions.
+- Serve as the primary technical contact for payment investigations requires a blend of deep system knowledge and a customer-first mindset.
+- Continuously improve operational documentation and identify automation opportunities to ensure the team's procedures remain efficient and lean.
+- Manage relationships with external banks and card schemes ensures all operational queries are resolved swiftly and effectively.
+- Oversee of bank account administration keeps our global accounts compliant and aligned with strict internal controls.
+- Partner with cross-functional teams simplifies the complexity of launching new products and achieving operational readiness.
+- Support the wider regional Treasury team involves contributing to strategic projects, efficiency drives, and quarterly regulatory reporting.
 
-## Market Intelligence
-- Checkout.com uses Kyriba (TMS) + Looker for treasury analytics
-- Senior Analyst title in fintech treasury = payment operations specialist, not FP&A analyst
-- Checkout.com is expanding in Dubai — potential future employer for finance roles once more experience is established
+---
+
+## Requirements (verbatim)
+
+- A background in treasury or payment operations with at least 2 years of relevant experience
+- Strong organizational skills and a process-driven mindset
+- Thriving under pressure allows for the successful management of complex tasks and tight deadlines
+- Clear communication and a collaborative spirit
+- Personal accountability and a sense of pride in team outcomes
+- Technical proficiency in tools like Kyriba, Looker, and AI-enabled reporting
+
+---
+
+## Skills Frequency Notes
+- Kyriba (treasury management system) — fintech-specific, not priority for FP&A path
+- Looker (BI tool) — relevant for data analytics roles
+- Payment lifecycle / merchant operations — specialist domain, not FP&A
+
+---
+
+## Portfolio Relevance
+- **Bank reconciliations** ← Promotech AP/AR direct experience (transferable)
+- **Automation opportunities** ← Python automation project (transferable framing)

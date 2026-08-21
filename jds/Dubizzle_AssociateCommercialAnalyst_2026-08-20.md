@@ -1,49 +1,68 @@
 # JD: Associate Commercial Analyst — dubizzle (Bayut)
-**Date found:** 2026-08-20
-**LinkedIn job ID:** 4435939720
-**URL:** https://www.linkedin.com/jobs/view/4435939720
-**Status:** To evaluate — deadline unknown (responses managed off LinkedIn, reposted 2 weeks ago)
-**Fit rating:** 🟡 GOOD FIT (2-3yr required, SQL needed, Python differentiates, includes P&L/FP&A elements)
-**Competition:** 1,045 applicants
+**Date found:** 2026-08-20  
+**LinkedIn job ID:** 4435939720  
+**URL:** https://www.linkedin.com/jobs/view/4435939720  
+**Status:** Applied — 2026-08-20 (Workable portal, tailored PDF 72/100, GOOD FIT)  
+**Fit rating:** 🟡 GOOD FIT  
+**Follow-up date:** 2026-08-27  
 
 ---
 
 ## Role Details
-- **Company:** dubizzle / Bayut — UAE's leading property and classifieds platform (Dubizzle Group), 1,160 employees, 123M monthly users
-- **Location:** Dubai, UAE — On-site, Full-time
-- **Reports to:** Director of Property Inside Sales & Jobs
-- **Note:** This is commercial analytics / business analyst role — not pure FP&A, but includes budgeting, forecasting, P&L analysis
+- **Company:** dubizzle (Bayut)
+- **Location:** Dubai, UAE — Full-time
+- **Sector:** Technology / Internet / Proptech
+- **Seniority level:** Associate
+- **Job function:** Sales and Management
+- **Industry:** Technology, Information and Internet
 
 ---
 
-## Responsibilities (FP&A-adjacent elements highlighted)
-- Build, maintain, and automate dashboards and reports for business performance, sales productivity, operational KPIs
-- Perform deep-dive analysis on high-volume, multi-source datasets
-- **Support budgeting, forecasting, P&L analysis, business planning** ← direct FP&A overlap
-- **Assist in managing commercial performance and P&L** of Property and Jobs verticals
-- Design executive-level dashboards and presentations — translate data into insights for senior leadership
-- Monitor competitor performance and pricing strategies
-- Drive automation initiatives to improve reporting efficiency and maximise revenue
-- Build self-service reporting tools / data solutions
-- Support Director of Property Inside Sales on strategic initiatives and management consulting-style problem solving
-- Collaborate with Product, Engineering, Finance, Marketing, Operations, Sales
+## Responsibilities (verbatim)
+
+- Support target-setting for Property Inside Sales and Jobs verticals; track performance metrics
+- Build, maintain, and automate dashboards and reports monitoring business performance, sales productivity, and KPIs
+- Perform deep-dive analysis on multi-source datasets identifying business opportunities and revenue initiatives
+- Monitor competitor performance, pricing strategies, and business models with actionable recommendations
+- Collaborate with Product, Engineering, Finance, Marketing, Operations, and Sales teams on analytical insights
+- Develop self-service reporting tools enabling business users to access insights independently
+- Design executive-level dashboards translating complex data into actionable insights for leadership
+- Support budgeting, forecasting, P&L analysis, and business planning with Strategy and Finance teams
+- Manage commercial performance and P&L monitoring of Property and Jobs verticals
+- Work with Central Data Team facilitating timely analytical support and data requirements
+- Spend significant time on the sales floor working closely with the Sales team understanding challenges
+- Attend approximately 2-3 client meetings monthly assisting with analytical insights and proposals
+- Ensure accuracy and integrity of business data by validating reports and resolving quality issues
+- Drive automation initiatives improving reporting efficiency and maximizing revenue opportunities
+- Deliver analytical projects within agreed timelines managing multiple priorities
+- Work independently on complex business problems recommending data-backed solutions
+- Support Director of Property Inside Sales & Jobs on strategic initiatives and consulting-style problem solving
+- Identify opportunities improving revenue, client success, and operational efficiency through analysis
 
 ---
 
-## Requirements
-
-**Experience:**
-- 2-3 years in strategy / business analytics / sales enabler role in internet/e-commerce company
-- E-commerce / internet / digital media experience
+## Requirements (verbatim)
 
 **Education:**
-- Bachelor's in Engineering, Economics, Computer Science, or Statistics
-- M.Sc. Financial Economics (Ashnad) — satisfies the Economics requirement
+- Bachelor's degree in Engineering, Economics, Computer Science, or Statistics
 
-**Technical:**
-- SQL — proficient (explicit requirement)
-- Excel / BI Dashboard Tools — proficient
-- Ability to crunch heavy data and build insights
+**Experience:**
+- 2-3 years of work experience in a strategy/business analytics/sales enabler role
+- Closely worked with a product in an internet/e-commerce company
+- Experience in e-commerce, internet and/or digital media
+
+**Technical Skills:**
+- Proficient in SQL
+- Proficient in Microsoft Excel / Business Intelligence Dashboard Tools
+
+**Competencies:**
+- Strong problem-solving skills
+- Commercial and Financial concepts
+- Ability to crunch heavy data, build insights and drive operational decision-making
+- Excellent analytical skills with a demonstrated ability to translate data and information into actionable insights
+- Great stakeholder management and communication skills
+- Thrive in a fast-paced, innovative environment
+- Living the team values: Simpler. Better. Faster
 
 ---
 
@@ -51,24 +70,22 @@
 
 | Requirement | Status | Notes |
 |---|---|---|
-| 2-3 years experience | ✅ Yes | 3+ years total finance + operations |
-| SQL proficiency | ✅ Yes | Has SQL skills + Python (stronger than SQL alone) |
-| Economics/Statistics degree | ✅ Yes | M.Sc. Financial Economics = direct match |
-| E-commerce / internet industry | ❌ Gap | No e-commerce background; trading platform (Promotech) is adjacent |
-| BI dashboard tools | ⚠️ Building | Power BI Project 2 will address this |
-| P&L + budgeting experience | ⚠️ Partial | Promotech (partial real) + Project 1 (portfolio) |
-| Data automation | ✅ Strong | Python automation from trading terminal is a direct differentiator |
+| 2–3 years analytics/strategy experience | ⚠️ Partial | 3 yrs finance, not analytics title |
+| E-commerce / internet company experience | ❌ Gap | No tech company background |
+| SQL proficiency | ✅ | Proficient |
+| Excel / BI dashboard tools | ✅ | Excel + Power BI (in progress) |
+| Automation of dashboards | ✅ | Python automation project directly relevant |
+| Deep-dive analysis on large datasets | ✅ Partial | Financial data pipeline project |
+| P&L analysis / budgeting | ✅ | Promotech + Project 1 |
 
-**Verdict:** One of the stronger accessible fits found so far. The SQL + Python combination is rare in commercial analyst candidates — most are Excel-only. E-commerce industry gap exists but the tech platform / data-heavy nature of the role maps to Ashnad's technical background. 2-3 year experience requirement is within reach.
+**Verdict:** GOOD FIT. SQL + Python automation + M.Sc. Economics differentiates. E-commerce experience gap noted but Python data work is compelling. Tailored resume 72/100.
 
 ---
 
 ## Portfolio Relevance
-- **SQL analytics** ← Project 6 (SQL finance analytics — confirms this skill needs to be demonstrated, not just claimed)
-- **Automated dashboards** ← Project 2 (Power BI) + Python automation background from trading terminal
-- **P&L + budgeting + forecasting** ← Project 1 (core FP&A model)
-- **KPI reporting for senior leadership** ← Project 2 (executive dashboard)
-- **Data-driven insights + business recommendations** — frame trading terminal as "built data pipelines + analytics for commercial decision-making" in cover letter
-- **Competitor monitoring** — not in current portfolio scope but note for future
-
-**Strategic note:** dubizzle is a tech company hiring for a commercial analytics role. Ashnad's Python/automation background + M.Sc. Economics + some SQL = genuine competitive advantage here over pure finance candidates. This role could be a strong alternative path if pure FP&A roles don't convert quickly.
+- **Automated dashboards / reporting** ← Python automation project + Project 2 (Power BI)
+- **Deep-dive analysis on multi-source datasets** ← Python data pipeline + SQL project
+- **P&L analysis / budgeting** ← Project 1 (FP&A model)
+- **Self-service reporting tools** ← Project 2 (Power BI with slicers)
+- **Executive-level dashboards** ← Project 2 (Power BI dashboard, Page 1 Executive Summary)
+- **Revenue / KPI tracking** ← Project 1 (Dashboard tab) + Promotech management reports

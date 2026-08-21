@@ -1,63 +1,80 @@
 # JD: Financial Analyst — GBM (Gulf Business Machines)
-**Date found:** 2026-08-20
-**LinkedIn job ID:** 4455726313
-**URL:** https://www.linkedin.com/jobs/view/4455726313
-**Status:** Applied 2026-08-20 (Easy Apply — STRETCH)
-**Fit rating:** 🟠 STRETCH (re-rated from STRONG after reading full JD — 5yr requirement, 200+ applicants)
+**Date found:** 2026-08-20  
+**LinkedIn job ID:** 4455726313  
+**URL:** https://www.linkedin.com/jobs/view/4455726313  
+**Status:** Applied — 2026-08-20 (LinkedIn Easy Apply, master PDF, STRETCH — 5yr req, 200+ applicants)  
+**Fit rating:** 🟠 STRETCH (re-rated from STRONG after reading full JD)  
+**Follow-up date:** 2026-08-27  
 
 ---
 
 ## Role Details
-- **Company:** GBM (Gulf Business Machines) — leading end-to-end digital solutions provider, 30+ years, 7 offices, 1500+ employees
-- **Location:** Dubai, UAE — On-site, Full-time
-- **Seniority:** Associate
-- **Function:** Finance and Information Technology
-- **Industry:** IT Services and IT Consulting
+- **Company:** GBM (Gulf Business Machines)
+- **Location:** Dubai, UAE — Full-time, On-site
+- **Sector:** IT Services and IT Consulting
+- **Seniority level:** Associate
+- **Job function:** Finance and Information Technology
 
 ---
 
-## Responsibilities
-- Serve as finance business partner to drive analytical insights
-- Produce periodic financial reports, cash flow analysis, and budgeting/forecasting strategies
-- Create financial models and generate forecasts
-- Support front-end and back-end operational activities
-- Evaluate financial performance and establish KPIs
-- Communicate financial updates to senior leadership with performance analysis and commentary
-- Oversee departmental compliance, auditing, and tax management
-- Connect financial data to broader organisational strategies
-- Advise decision-makers on financial matters
+## Responsibilities (verbatim)
+
+- Financial activities including producing periodical reports, cash flow analysis, financial strategy, budgeting and forecasting
+- Developing financial models and providing financial forecasts
+- Supports on front-end and back-end activities as required
+- Analyzing financial performance, providing financial KPIs
+- Reporting back to management on the company's finances, setting and checking targets
+- Provide analysis and commentary against weekly and monthly performance
+- Monitoring departmental activities, auditing and overseeing all regulatory compliances and tax affairs
+- Providing analysis and insight, linking financial reports to business strategies
+- Introducing effective commercial strategy
+- Implementing changes to ensure that key targets are met
+- Building and maintaining relationships with senior managers and their departments
+- Acting as financial advisor offering support to decision makers and contributing to high-performing finance service delivery
 
 ---
 
-## Requirements
+## Requirements (verbatim)
 
-**Experience:**
-- Minimum 5+ years in financial consulting or accounting roles
-- Substantial background in business partnering focused on performance improvement
+**Experience:** 5+ years of financial consulting or accounting experience; substantial business partnering experience
 
-**Education:**
-- Bachelor's degree in Business Administration, Accounting, or Finance (required)
-- MBA (optional, preferred)
+**Education:** Bachelors' degree in Business Administration or Accounting/Finance
 
-**Certifications:**
-- CFC, CPA, ACCA, ACA (beneficial)
+**Certifications (optional):** CFC, CPA, ACCA, ACA
 
-**Technical:**
-- Advanced Excel
-- Financial modeling and analysis
-- SAP, Oracle, SQL
-- PowerPoint
-- Languages: English (mandatory), Arabic (advantageous)
+**Language:** English mandatory; Arabic preferred
+
+**Technical Skills:** SAP, Oracle, SQL, PowerPoint, Advanced Excel
+
+**Competencies:** Analytical skills, financial modeling, ability to explain complex data to non-finance professionals
+
+---
+
+## Gap Analysis vs Ashnad
+
+| Requirement | Status | Notes |
+|---|---|---|
+| 5+ years experience | ❌ Hard gap | Ashnad has ~3 yrs total |
+| Business partnering experience | ❌ Gap | No formal BP role |
+| SAP / Oracle | ❌ Gap | Odoo + Tally only |
+| SQL | ✅ | Proficient |
+| Advanced Excel | ✅ Partial | Building |
+| Financial modeling | ⚠️ Partial | Portfolio projects address this |
+| Arabic preferred | ❌ | Not Arabic speaker |
+
+**Verdict:** STRETCH re-rated after reading full JD. 5+ yrs + SAP/Oracle are hard gaps. 200+ applicants. Applied Easy Apply as volume play.
+
+---
+
+## Skills Frequency Notes
+- SAP + Oracle both appear — ERP proficiency is a recurring high-frequency requirement across Dubai finance roles
+- Business partnering language appears frequently — important to develop and frame in resume
 
 ---
 
 ## Portfolio Relevance
-Skills this JD confirms matter (cross-reference with skills matrix):
-- Financial modeling ← Project 1 (FP&A model)
-- Cash flow analysis ← Project 3 (cash flow forecast)
-- Budgeting + forecasting ← Project 1
-- KPI tracking ← Projects 1 + 2
-- Management commentary / communicating to senior leadership ← Projects 1 + 4
-- SAP/Oracle gap — cannot self-learn; Odoo migration story is the bridge
-- SQL ← Project 6 (optional)
-- Business partnering framing — management commentary in every project must use this language
+- **Financial models / forecasts** ← Project 1 (FP&A model, Scenario Analysis)
+- **KPI reporting / management commentary** ← Project 1 (Dashboard) + Project 2 (Power BI)
+- **Cash flow analysis** ← Project 3 (13-week cash flow model)
+- **Budgeting and forecasting** ← Project 1 (Assumptions + Revenue + P&L tabs)
+- **SQL analytics** ← Project 6 (SQL Finance Analytics)

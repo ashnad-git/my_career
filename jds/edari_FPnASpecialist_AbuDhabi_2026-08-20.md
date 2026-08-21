@@ -1,58 +1,70 @@
-# JD: FP&A Specialist – EPBCS/Hyperion | edari placement (Abu Dhabi)
-**Date found:** 2026-08-20
-**LinkedIn job ID:** 4452423103
-**URL:** https://www.linkedin.com/jobs/view/4452423103
-**Status:** NOT APPLYING — experience requirement too high, specialist system gap
-**Fit rating:** ❌ NOT SUITABLE (5+ years required; EPBCS/Hyperion mandatory; Abu Dhabi; 996 applicants)
-**Competition:** 996 total, 76/day; 52% senior level applicants
+# JD: FP&A Specialist – EPBCS/Hyperion — edari (Abu Dhabi)
+**Date found:** 2026-08-20  
+**LinkedIn job ID:** 4452423103  
+**URL:** https://www.linkedin.com/jobs/view/4452423103  
+**Status:** ❌ NOT SUITABLE — archived (5yr + Oracle EPBCS mandatory + Abu Dhabi)  
+**Fit rating:** ❌ NOT SUITABLE  
 
 ---
 
 ## Role Details
-- **Recruiter:** edari — UAE staffing/consulting firm placing candidates at client organisations
-- **Client:** Not named (multi-entity organisation in Abu Dhabi)
-- **Location:** Abu Dhabi, UAE — On-site, Full-time
-- **Preference:** Candidates available immediately
+- **Company:** edari (placement firm — client not named)
+- **Location:** Abu Dhabi, UAE — Full-time, 6-month renewable contract
+- **Sector:** Infrastructure / Utilities / Energy / Asset-intensive (implied)
+- **Seniority level:** Mid-Senior level
 
 ---
 
-## Hard Disqualifiers
-1. **5+ years** required in FP&A, financial planning, management reporting — Ashnad has 3+
-2. **EPBCS/Hyperion** — Oracle Enterprise Planning & Budgeting Cloud Service; specialist FP&A system experience required; cannot be self-demonstrated in portfolio
-3. **Multi-entity organisation experience** — complex consolidated FP&A environment
-4. **Abu Dhabi** — commute issue
-5. **52% senior level competition** — pool is predominantly senior candidates
+## Responsibilities (verbatim)
+
+- Lead monthly, quarterly and annual FP&A reporting across multiple entities and business units
+- Consolidate financial information and provide clear analysis of actuals, budgets, forecasts and variances
+- Prepare management reporting packages, dashboards and financial presentations for senior stakeholders
+- Analyse financial and operational performance to identify trends, risks, opportunities and business drivers
+- Lead and support annual budgeting, forecasting and financial planning processes
+- Prepare detailed variance analysis, providing clear commentary and recommendations to management
+- Develop financial models and scenario analysis for strategic and commercial decision-making
+- Analyse revenue, costs, margins and profitability across multiple business lines
+- Translate complex financial data into clear, commercially focused insights for senior management
+- Partner with business leaders to understand performance drivers
+- Ensure consistency, accuracy and integrity of financial information across entities
+- Prepare and deliver executive-level presentations covering financial performance, forecasts, risks
+- Provide ad-hoc financial analysis and decision support to senior stakeholders
+- Identify opportunities to improve FP&A processes and reporting quality
+- Work closely with Finance and operational teams on reporting accuracy
 
 ---
 
-## Responsibilities (strong FP&A scope — useful for portfolio reference)
-- Consolidate financial information: analysis of actuals, budgets, forecasts, variances
-- High-quality management reporting packs, dashboards, financial presentations for senior stakeholders
-- Financial and operational performance analysis: trends, risks, opportunities, business drivers
-- Lead annual budgeting, forecasting and financial planning processes
-- Detailed variance analysis with commentary and recommendations to management
-- Financial models and scenario analysis for strategic and commercial decision-making
-- Revenue, cost, margin and profitability analysis across multiple business lines
-- Translate complex financial data into commercially focused insights for senior/non-finance stakeholders
-- Business partnering: challenge assumptions within budgets and forecasts
-- Consistency and integrity of financial information across multiple entities
-- Executive-level presentations on financial performance, forecasts, risks, key insights
-- Ad-hoc financial analysis and decision support
+## Requirements (verbatim)
 
-## Requirements
-- 5+ years FP&A, financial planning, management reporting and analysis experience
-- Experience in complex, multi-entity organisation
-- Extensive budgeting, forecasting, variance analysis, financial modelling
-- High-quality management reports and executive presentations
-- Advanced Excel financial modelling
-- Consolidation across large volumes of financial and operational data
-- **EPBCS/Hyperion** — Oracle planning system experience (key differentiator in UAE corporate FP&A)
-- Strong stakeholder management
+**Experience:**
+- 5+ years of relevant finance experience, with strong experience in FP&A, financial planning, management reporting
+- Proven experience in complex, multi-entity organisations
+- Strong technical FP&A background with budgeting, forecasting, variance analysis and financial modelling
+- Demonstrable experience producing high-quality management reports and executive presentations
+- Excellent analytical and financial modelling skills, particularly in Excel
+- Strong ability to consolidate and interpret large volumes of financial and operational data
+
+**Professional Qualifications:**
+- CIMA, ACCA, ACA, CPA or equivalent professional qualification is required
+
+**Technical Skills:**
+- Experience with Oracle Fusion, Hyperion/EPBCS is required
+
+**Competencies:**
+- Excellent communication and stakeholder management skills, with confidence presenting financial information
+- Commercially minded with ability to translate financial data into business insights
+- Comfortable working in a fast-paced environment with multiple reporting requirements and tight deadlines
+- Strong attention to detail combined with understanding of commercial and operational impact
+- Experience in infrastructure, utilities, energy, waste management, sustainability or asset-intensive sectors advantageous
+
+**Availability:** Preference for immediate availability
 
 ---
 
-## Market Intelligence
-- EPBCS/Hyperion appears frequently in UAE senior FP&A roles — government entities, large conglomerates, MNCs
-- edari is a staffing firm placing FP&A specialists; consider them for future applications once experience is established
-- The responsibilities list is an excellent reference for what "complete FP&A competency" looks like — Projects 1-4 should address most of these
-- "Available immediately" preference = contractor/interim culture in UAE FP&A placement
+## Skills Frequency Notes
+- Oracle Fusion + Hyperion/EPBCS — specialist EPM tools; hard requirement appearing in large organisation FP&A roles
+- CIMA / ACCA / ACA / CPA — required (not just preferred) in mid-senior roles
+- Multi-entity consolidation — key differentiator in larger finance teams; Project 1 (multi-outlet) is a start
+- "Executive-level presentations" — Board-ready presentation skill; Project 1 Dashboard tab builds this
+- Infrastructure / utilities sector — common in Abu Dhabi government-linked entities
