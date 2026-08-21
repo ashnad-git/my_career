@@ -42,10 +42,14 @@
 | 13 | Khazna Data Centers | Financial Modeller (Dubai) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4445665949 | ✅ jds/ |
 | 15 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4444301466 | ✅ jds/ |
 | 16 | Mega Health Insurance Brokers | Financial Analyst (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://www.linkedin.com/jobs/view/4457300095 | ✅ jds/ |
+| 17 | Al Tayer Group | Business Support Analyst – Beauty Distribution (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://ae.indeed.com/jobs?q=Business+Support+Analyst+Beauty+Al+Tayer&l=Dubai | ✅ jds/ |
+| 18 | ABDULLA ALARIF HOLDING | Strategy Analyst (Dubai) | 🟠 STRETCH | 2026-08-21 | — | https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05 | ✅ jds/ |
 
 **⏳ PENDING — JD not fully fetched yet (retry next session):**
 - Confidential Company (Naukrigulf) — Financial Analyst Junior (2–3 yrs, Dubai) — https://www.naukrigulf.com/financial-analyst-junior-jobs-in-dubai-uae-in-confidential-2-to-3-years-n-jid-030726000985
-- Siemens Energy — Project Controller (Dubai) — found on Indeed UAE; search LinkedIn next session for full JD
+
+**❌ RULED OUT today:**
+- Siemens Energy — Project Controller — "extensive experience" required → NOT SUITABLE
 
 **NOT SUITABLE — archived this session (full JDs read):**
 - ENGIE Middle East (4453086996) → ❌ 6-8yr + AIFA project finance specialist
