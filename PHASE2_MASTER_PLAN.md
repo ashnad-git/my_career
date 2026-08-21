@@ -1,7 +1,7 @@
 # Phase 2 Master Plan — Portfolio Build + Job Applications
 
 **Tutor/Mentor Protocol:** Claude reads this file at the START of every Phase 2 session.  
-**Last Updated:** 2026-08-20 16:00  
+**Last Updated:** 2026-08-21 21:00  
 **Phase 2 Start Date:** TBD (next session)  
 **Notice Deadline:** 2026-10-28 (Oct 28, 2026)  
 **Contract End:** 2027-01-28
@@ -14,12 +14,12 @@
 | Field | Value |
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
-| **Current Phase** | Phase 2A — Excel Foundations (Day 2: SUMIFS review + VLOOKUP — IN PROGRESS) |
-| **Current Task** | Excel session in progress. Applications and networking postponed until after Excel. |
+| **Current Phase** | Phase 2A — Excel Foundations (Day 3: Power Query — next session) |
+| **Current Task** | 9 applications pending (do first next session, deadlines approaching). Then Power Query. |
 | **Last Session Date** | 2026-08-21 |
-| **Last Session Summary** | Session 6: Full Block 2 job search completed. 42 LinkedIn IDs screened across 9 search terms + Indeed UAE (4 searches) + Naukrigulf (73 results). Found 3 new applicable jobs: Mega Health Insurance Brokers (GOOD FIT), Al Tayer Group Business Support Analyst Beauty (GOOD FIT), ABDULLA ALARIF HOLDING Strategy Analyst (STRETCH, AED 5k–10k). All 24 existing JDs rebuilt verbatim (was summaries). Created SEARCH_TERMS.md (100-term master list). Excel practice files built: 01_sumifs_practice.xlsx (SUMIFS review, 30 rows) and 02_vlookup_practice.xlsx (VLOOKUP intro, 5 exercises). Excel session started but moved to new chat. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. SUMIFS review: open 01_sumifs_practice.xlsx, Q1–Q6  4. VLOOKUP: open 02_vlookup_practice.xlsx, Exercise 1–5  5. AFTER Excel: apply 9 jobs in deadline order (see SESSION_PLAN_2026-08-21.md Block 1)  6. AFTER applications: Block 3 LinkedIn networking (About section, 10 connections, 5 comments, 4 recruiter emails) |
-| **Blockers** | LinkedIn "About" section not yet updated. Naukrigulf Confidential Junior FA JD still pending (socket errors). Mark Williams + Alghanim sidebar JDs still unfetched. |
+| **Last Session Summary** | Session 7: Excel Day 2. SUMIFS review 6/6 correct. VLOOKUP all 5 exercises correct, FALSE habit confirmed. INDEX-MATCH taught + practiced: left-lookup demonstrated, concept explained correctly. IFERROR wrapped correctly. CHECKPOINT 2A-1 called and passed — all 4 formula criteria met. 9 applications still pending (postponed to next session). |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. APPLY 9 jobs in deadline order (TotalEnergies + Huda Beauty Aug 25 deadline — urgent)  4. AFTER applications: Power Query Day 3  5. AFTER Power Query: LinkedIn networking (About section, 10 connections, 5 comments, 4 recruiter emails) |
+| **Blockers** | LinkedIn "About" section not yet updated. Naukrigulf Confidential Junior FA JD still pending. Mark Williams + Alghanim sidebar JDs still unfetched. 9 applications pending. |
 | **Applications Sent** | 6 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
@@ -141,13 +141,13 @@ Claude must give an honest, independent assessment of whether Ashnad is ready to
 
 ---
 
-### CHECKPOINT 2A-1 — Excel Core Formulas ✅
+### CHECKPOINT 2A-1 — Excel Core Formulas ✅ PASSED 2026-08-21
 **Call when:** Ashnad can write VLOOKUP, INDEX-MATCH, SUMIFS, IF/IFERROR from memory without looking them up, applied to real data.
 **Pass criteria:**
-- [ ] VLOOKUP: written correctly, understands the 4 arguments
-- [ ] INDEX-MATCH: can explain why it's better than VLOOKUP
-- [ ] SUMIFS: can filter by 2+ conditions
-- [ ] IFERROR: wraps a formula to handle errors cleanly
+- [x] VLOOKUP: written correctly, understands the 4 arguments
+- [x] INDEX-MATCH: can explain why it's better than VLOOKUP
+- [x] SUMIFS: can filter by 2+ conditions
+- [x] IFERROR: wraps a formula to handle errors cleanly
 **What it unlocks:** Power Query (next topic in Phase 2A)
 
 ---
@@ -593,6 +593,18 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-21 — Session 7: Excel Day 2 — Checkpoint 2A-1 Passed
+**Covered:**
+- SUMIFS review: 6/6 correct on 01_sumifs_practice.xlsx (including Q5 multi-SUMIFS challenge and Q6 no-hints)
+- VLOOKUP: all 5 exercises correct on 02_vlookup_practice.xlsx. FALSE habit confirmed. Fill-down with $ locks correct.
+- INDEX-MATCH: taught from scratch. Left-lookup demonstrated (Emp ID from Name). Can explain why it beats VLOOKUP in own words.
+- IFERROR: wrapped an INDEX-MATCH correctly, result "Employee not found" confirmed.
+- CHECKPOINT 2A-1 called and passed — all 4 criteria met.
+- 9 applications still pending — postponed by Ashnad to after Excel; deadlines approaching (TotalEnergies + Huda Beauty = Aug 25).
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-20 — Sessions 4–5: 4 More Applications + Excel Start
 **Covered:**

@@ -31,7 +31,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 | 0 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
-| Learning hours logged | 0.5 | 0.5 | 5–7 hrs |
+| Learning hours logged | 2 | 2 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -39,6 +39,19 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-21 | Day 1 — Session 7: Excel Day 2 (End of Session)
+
+**Session type:** Excel learning
+**Jobs applied:** None — 9 applications postponed to next session (Excel done, ran out of time for applications today)
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None from any of the 6 jobs applied 2026-08-20
+**Blockers/notes:** 9 applications still pending — TotalEnergies + Huda Beauty have Aug 25 deadline (4 days). Must do first next session.
+**Claude notes:** SUMIFS review 6/6 correct. VLOOKUP all 5 exercises correct (FALSE habit confirmed). INDEX-MATCH taught, written correctly, left-lookup demonstrated. IFERROR wrapped correctly. Checkpoint 2A-1 called and passed — all 4 formula criteria met. Next: Power Query (Day 3).
 
 ---
 

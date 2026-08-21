@@ -45,6 +45,6 @@
 ## Checkpoint tracker (CHECKPOINT 2A-1: Excel Core Formulas)
 
 - [x] SUMIFS — written from memory ✅ (2026-08-20)
-- [ ] VLOOKUP — understand all 4 arguments
-- [ ] INDEX-MATCH — can explain why it's better than VLOOKUP
-- [ ] IFERROR — wraps a formula to handle errors cleanly
+- [x] VLOOKUP — understand all 4 arguments ✅ (2026-08-21)
+- [x] INDEX-MATCH — can explain why it's better than VLOOKUP ✅ (2026-08-21)
+- [x] IFERROR — wraps a formula to handle errors cleanly ✅ (2026-08-21)
