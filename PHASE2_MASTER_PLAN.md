@@ -14,12 +14,12 @@
 | Field | Value |
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
-| **Current Phase** | Phase 2A — Excel Foundations (Day 1–2: Formula Foundations, SUMIFS done) |
-| **Current Task** | 5 pipeline applications due Aug 21 (TotalEnergies, Huda Beauty, Sundus, Mohamed Hilal, Khazna). Next Excel topic: VLOOKUP. |
-| **Last Session Date** | 2026-08-20 |
-| **Last Session Summary** | Sessions 4–5: 6 total applications submitted (Chalhoub, GBM, NAFFCO, AKI, Eaton, dubizzle). LinkedIn headline updated to "Finance Professional \| FP&A & Financial Analysis \| Python · SQL \| M.Sc. Financial Economics \| Ex-EY \| Dubai". Learning folder plan saved to memory. SUMIFS learned and tested from memory — formula written correctly without hints (=SUMIFS(C2:C10,B2:B10,"Sales",A2:A10,"Feb")). 5 applications queued for tomorrow (deadline order). |
-| **Next Session: Start With** | 1. Catch-up Q&A  2. Apply in deadline order: TotalEnergies (Aug 25), Huda Beauty (Aug 25), Sundus (Aug 26), Mohamed Hilal (Aug 26), Khazna (Aug 28)  3. Fetch sidebar JDs (Revolut, Mark Williams, Alghanim)  4. Create learning/ folder + 01_sumifs_practice.xlsx  5. Continue Excel: VLOOKUP |
-| **Blockers** | LinkedIn "About" section not yet updated. |
+| **Current Phase** | Phase 2A — Excel Foundations (Day 2: SUMIFS review + VLOOKUP — IN PROGRESS) |
+| **Current Task** | Excel session in progress. Applications and networking postponed until after Excel. |
+| **Last Session Date** | 2026-08-21 |
+| **Last Session Summary** | Session 6: Full Block 2 job search completed. 42 LinkedIn IDs screened across 9 search terms + Indeed UAE (4 searches) + Naukrigulf (73 results). Found 3 new applicable jobs: Mega Health Insurance Brokers (GOOD FIT), Al Tayer Group Business Support Analyst Beauty (GOOD FIT), ABDULLA ALARIF HOLDING Strategy Analyst (STRETCH, AED 5k–10k). All 24 existing JDs rebuilt verbatim (was summaries). Created SEARCH_TERMS.md (100-term master list). Excel practice files built: 01_sumifs_practice.xlsx (SUMIFS review, 30 rows) and 02_vlookup_practice.xlsx (VLOOKUP intro, 5 exercises). Excel session started but moved to new chat. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. SUMIFS review: open 01_sumifs_practice.xlsx, Q1–Q6  4. VLOOKUP: open 02_vlookup_practice.xlsx, Exercise 1–5  5. AFTER Excel: apply 9 jobs in deadline order (see SESSION_PLAN_2026-08-21.md Block 1)  6. AFTER applications: Block 3 LinkedIn networking (About section, 10 connections, 5 comments, 4 recruiter emails) |
+| **Blockers** | LinkedIn "About" section not yet updated. Naukrigulf Confidential Junior FA JD still pending (socket errors). Mark Williams + Alghanim sidebar JDs still unfetched. |
 | **Applications Sent** | 6 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
