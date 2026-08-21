@@ -7,13 +7,25 @@
 ---
 
 ## BLOCK 1 — APPLICATIONS (deadline order)
+**⚠️ POSTPONED — Ashnad confirmed: do ALL applications AFTER the Excel session. Do not start until Excel (Block 4) is complete.**
 
-- [ ] **1. TotalEnergies** — FP&A and Economist | Deadline Aug 25 | https://www.linkedin.com/jobs/view/4440531428 | STRETCH → master PDF
-- [ ] **2. Huda Beauty** — Finance Analyst MEAI (Fixed Term) | Deadline Aug 25 | https://www.linkedin.com/jobs/view/4448961337 | STRETCH → master PDF
-- [ ] **3. Sundus** — Budget Analyst (Abu Dhabi) | Deadline Aug 26 | https://www.linkedin.com/jobs/view/4441466287 | STRETCH → master PDF
-- [ ] **4. Mohamed Hilal Group** — Financial Analyst (Sharjah) | Deadline Aug 26 | https://www.linkedin.com/jobs/view/4454495190 | STRETCH → master PDF
-- [ ] **5. Khazna Data Centers** — Financial Modeller | Deadline Aug 28 | https://www.linkedin.com/jobs/view/4445665949 | STRETCH → master PDF
-- [ ] **6. AD Ports Group** — Analyst Treasury (Abu Dhabi) | Deadline Aug 28 | https://www.linkedin.com/jobs/view/4444301466 | STRETCH → master PDF
+### DEADLINE ORDER — 9 confirmed jobs to apply to after Excel
+
+| # | Company | Role | Fit | Deadline | Apply via | URL |
+|---|---|---|---|---|---|---|
+| 1 | TotalEnergies | FP&A and Economist | 🟠 STRETCH | **Aug 25** | Company portal | https://www.linkedin.com/jobs/view/4440531428 |
+| 2 | Huda Beauty | Finance Analyst MEAI (Fixed Term) | 🟠 STRETCH | **Aug 25** | Portal | https://www.linkedin.com/jobs/view/4448961337 |
+| 3 | Sundus | Budget Analyst (Abu Dhabi) | 🟠 STRETCH | Aug 26 | LinkedIn Easy Apply | https://www.linkedin.com/jobs/view/4441466287 |
+| 4 | Mohamed Hilal Group | Financial Analyst (Sharjah) | 🟠 STRETCH | Aug 26 | LinkedIn Easy Apply | https://www.linkedin.com/jobs/view/4454495190 |
+| 5 | Khazna Data Centers | Financial Modeller | 🟠 STRETCH | Aug 28 | LinkedIn Easy Apply | https://www.linkedin.com/jobs/view/4445665949 |
+| 6 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 🟠 STRETCH | Aug 28 | LinkedIn Easy Apply | https://www.linkedin.com/jobs/view/4444301466 |
+| 7 | Mega Health Insurance Brokers | Financial Analyst | 🟡 GOOD FIT | — | LinkedIn Easy Apply | https://www.linkedin.com/jobs/view/4457300095 |
+| 8 | Al Tayer Group | Business Support Analyst – Beauty | 🟡 GOOD FIT | — | Indeed UAE | https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05 — search directly on Al Tayer careers |
+| 9 | ABDULLA ALARIF HOLDING | Strategy Analyst | 🟠 STRETCH | — | Indeed UAE | https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05 |
+
+**+ 1 PENDING:** Naukrigulf Confidential Junior FA (2–3 yrs, Dubai) — JD fetch failed today; assess next session before applying.
+
+- [ ] Apply in order above — deadline jobs first, then GOOD FIT, then STRETCH
 - [ ] Update JOB_PIPELINE.md after each application
 
 ---
@@ -42,6 +54,7 @@
 ---
 
 ## BLOCK 3 — LINKEDIN PROFILE + NETWORKING
+**⚠️ POSTPONED — Do AFTER Excel session (Block 4) and applications (Block 1).**
 
 - [ ] **3A — About section:** Draft → Ashnad reviews → paste into LinkedIn profile
 - [ ] **3B — Connection requests:** Send 10 requests today (FP&A managers, finance recruiters, transition profiles in Dubai)
