@@ -18,17 +18,26 @@
 
 ---
 
-## BLOCK 2 — FRESH JOB SEARCH
+## BLOCK 2 — FRESH JOB SEARCH ✅ COMPLETE
 
-- [ ] LinkedIn search: "FP&A analyst Dubai" — past 24h first, then past week
-- [ ] LinkedIn search: "Financial Analyst Dubai" — past 24h first, then past week
-- [ ] LinkedIn search: "Finance Analyst Dubai"
-- [ ] LinkedIn search: "Management Reporting Analyst Dubai"
-- [ ] Indeed UAE: same queries
-- [ ] Fetch sidebar JD: **Revolut** — save to jds/
-- [ ] Fetch sidebar JD: **Mark Williams** — save to jds/
-- [ ] Fetch sidebar JD: **Alghanim** — save to jds/
-- [ ] Add any STRONG FIT / GOOD FIT new roles to JOB_PIPELINE.md
+- [x] LinkedIn search: "FP&A analyst Dubai" — past week
+- [x] LinkedIn search: "Financial Analyst Dubai"
+- [x] LinkedIn search: "Finance Analyst Dubai"
+- [x] LinkedIn search: "Management Reporting Analyst Dubai"
+- [x] LinkedIn search: "Financial Planning Analyst UAE" — 13 IDs, all NOT SUITABLE
+- [x] LinkedIn search: "Junior Financial Analyst Dubai" — 8 IDs, all NOT SUITABLE
+- [x] LinkedIn search: "MIS Analyst Dubai" — 1 ID, NOT SUITABLE
+- [x] LinkedIn search: "Finance Executive Dubai" — 20 IDs, all senior/hotel/NOT SUITABLE
+- [x] LinkedIn search: "Commercial Finance Analyst Dubai" — duplicates only
+- [x] Indeed UAE: FP&A Analyst, Finance Associate, Revenue Analyst, Pricing Analyst, Management Accountant, Finance Officer
+- [x] Naukrigulf: Financial Analyst Dubai (73 results reviewed; mostly senior/accountants)
+- [x] Fetch full JD for all genuinely new roles
+- [x] Save Mega Health Insurance Brokers JD → jds/ (GOOD FIT)
+- [x] Save Bukhatir BEAM JD → jds/ (NOT SUITABLE — CFA mandatory)
+- [x] Add GOOD FIT roles to JOB_PIPELINE.md (#16 Mega Health added)
+- [x] Created SEARCH_TERMS.md — 100-term master list for future sessions
+- [ ] ⏳ PENDING NEXT SESSION: Fetch Naukrigulf Confidential Junior FA + Siemens Energy Project Controller
+- [ ] ⏳ PENDING NEXT SESSION: Fetch Mark Williams and Alghanim sidebar JDs
 
 ---
 

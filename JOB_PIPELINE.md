@@ -41,6 +41,11 @@
 | 12 | ENGIE Middle East | Financial Analyst AMEA (Dubai) | ❌ NOT SUITABLE | 2026-08-20 | — | https://www.linkedin.com/jobs/view/4453086996 | ✅ jds/ |
 | 13 | Khazna Data Centers | Financial Modeller (Dubai) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4445665949 | ✅ jds/ |
 | 15 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4444301466 | ✅ jds/ |
+| 16 | Mega Health Insurance Brokers | Financial Analyst (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://www.linkedin.com/jobs/view/4457300095 | ✅ jds/ |
+
+**⏳ PENDING — JD not fully fetched yet (retry next session):**
+- Confidential Company (Naukrigulf) — Financial Analyst Junior (2–3 yrs, Dubai) — https://www.naukrigulf.com/financial-analyst-junior-jobs-in-dubai-uae-in-confidential-2-to-3-years-n-jid-030726000985
+- Siemens Energy — Project Controller (Dubai) — found on Indeed UAE; search LinkedIn next session for full JD
 
 **NOT SUITABLE — archived this session (full JDs read):**
 - ENGIE Middle East (4453086996) → ❌ 6-8yr + AIFA project finance specialist
@@ -51,6 +56,8 @@
 - Property Finder Associate Commercial Analytics (4444436089) → ❌ 4-7yr, IIT/IIM education targeted
 - Mohamed Hilal Group (4454495190) → 🟠 STRETCH re-rated (retail exp strongly preferred, gap)
 - AD Ports Treasury (4444301466) → 🟠 STRETCH (treasury ≠ FP&A; Abu Dhabi)
+- Bukhatir BEAM FP&A Analyst (4456090385) → ❌ CFA Level 1 mandatory + Sharjah (2026-08-21)
+- 21 other LinkedIn IDs seen 2026-08-21 → ❌ All NOT SUITABLE (AML/KYC, national-only, senior-level, hospitality, remote): 4454142889, 4454103324, 4456486824, 4455483391, 4457075181, 4455421521, 4455405127, 4453413477, 4453425490, 4456171296, 4436089110, 4455579934, 4454476637, 4457071117, 4437002976, 4455149366, 4441593711, 4451718020, 4451260020, 4451239023, 4457062657
 
 **Removed from Active — re-rated after reading full JDs:**
 - WSP Middle East (4406461268) → ❌ NOT SUITABLE (CFA/CPA/CA required, Oracle/Hyperion required) → jds/ saved
@@ -247,5 +254,6 @@
 
 ---
 
-**Last job search run:** 2026-08-20  
-**Next scheduled search:** Next session
+**Last job search run:** 2026-08-21  
+**Next scheduled search:** Next session  
+**Search terms used 2026-08-21:** See SEARCH_TERMS.md (Tier 1 exhausted; start from Tier 2 next session)

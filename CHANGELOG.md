@@ -4,6 +4,36 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-21] — Session 6: Block 2 Fresh Job Search + Search Terms Master List
+
+### Added
+- `SEARCH_TERMS.md` — Comprehensive 100-term search terms master list across 6 tiers: primary FP&A titles, role variants, sector-specific, company-targeted, creative/unconventional, and platform-specific URLs. Tracks terms used per session to avoid repetition. Created in response to user request for systematic search term rotation.
+- `jds/MegaHealth_FinancialAnalyst_Dubai_2026-08-21.md` — 🟡 GOOD FIT. Financial Analyst, Mega Health Insurance Brokers, Dubai. No experience/certification blocker. Added to active pipeline.
+- `jds/BukhatirBEAM_FPnA_Analyst_Sharjah_2026-08-21.md` — ❌ NOT SUITABLE. FP&A Analyst, Bukhatir BEAM, Sharjah. CFA Level 1 mandatory (hard blocker). Saved for skills frequency data.
+- Cover letter PDF for TotalEnergies portal: `resumes/Muhammed_Ashnad_TotalEnergies_CoverLetter.pdf`
+- `SESSION_PLAN_2026-08-21.md` — 38-task session checklist across 5 blocks
+
+### Job Search Summary (2026-08-21 Block 2)
+- **Platforms searched:** LinkedIn (8 search terms), Indeed UAE (5 search terms), Naukrigulf (Financial Analyst Dubai — 73 results)
+- **LinkedIn IDs reviewed:** 42 new IDs across all searches — 41 NOT SUITABLE, 1 GOOD FIT (Mega Health)
+- **Indeed UAE:** Mostly duplicates or senior roles; no new suitable roles beyond Mega Health
+- **Naukrigulf:** 73 results; mostly senior/accountant roles; 1 pending (Confidential Junior FA, JD fetch failed)
+- **Key insight:** Tier 1 LinkedIn terms exhausted for this week. Tier 2–4 terms queued in SEARCH_TERMS.md for next session.
+
+### Updated
+- `JOB_PIPELINE.md` — Added Mega Health (GOOD FIT, #16); Bukhatir BEAM archived (NOT SUITABLE); 21 reviewed IDs logged; 2 pending roles noted (Naukrigulf Confidential, Siemens Energy Project Controller); last search date updated to 2026-08-21
+- `CLAUDE.md` — Hard rule added: JD content must be verbatim (no paraphrasing, no omissions); corrected this session for the third time — now permanent
+- All 24 existing jds/ files — Rebuilt with full verbatim content (was: summaries; now: every bullet, every line)
+
+### Pending from today (carry to next session)
+- Fetch Naukrigulf Confidential Junior Financial Analyst JD (socket error today)
+- Fetch Siemens Energy Project Controller JD from LinkedIn
+- Block 1 applications (6 jobs with deadlines — postponed, apply today)
+- Block 3: LinkedIn About section, connection requests, recruiter emails
+- Block 4: Excel VLOOKUP lesson
+
+---
+
 ## [2026-08-20] — Session 5: 4 More Applications + dubizzle Tailored Resume
 
 ### Applied
