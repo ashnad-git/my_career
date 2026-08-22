@@ -1,7 +1,7 @@
 # Phase 2 Master Plan — Portfolio Build + Job Applications
 
 **Tutor/Mentor Protocol:** Claude reads this file at the START of every Phase 2 session.  
-**Last Updated:** 2026-08-21 21:00  
+**Last Updated:** 2026-08-23 22:00  
 **Phase 2 Start Date:** TBD (next session)  
 **Notice Deadline:** 2026-10-28 (Oct 28, 2026)  
 **Contract End:** 2027-01-28
@@ -15,12 +15,12 @@
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
 | **Current Phase** | Phase 2A — Excel Foundations (Day 3: Power Query — next session) |
-| **Current Task** | 9 applications pending (do first next session, deadlines approaching). Then Power Query. |
-| **Last Session Date** | 2026-08-21 |
-| **Last Session Summary** | Session 7: Excel Day 2. SUMIFS review 6/6 correct. VLOOKUP all 5 exercises correct, FALSE habit confirmed. INDEX-MATCH taught + practiced: left-lookup demonstrated, concept explained correctly. IFERROR wrapped correctly. CHECKPOINT 2A-1 called and passed — all 4 formula criteria met. 9 applications still pending (postponed to next session). |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. APPLY 9 jobs in deadline order (TotalEnergies + Huda Beauty Aug 25 deadline — urgent)  4. AFTER applications: Power Query Day 3  5. AFTER Power Query: LinkedIn networking (About section, 10 connections, 5 comments, 4 recruiter emails) |
-| **Blockers** | LinkedIn "About" section not yet updated. Naukrigulf Confidential Junior FA JD still pending. Mark Williams + Alghanim sidebar JDs still unfetched. 9 applications pending. |
-| **Applications Sent** | 6 |
+| **Current Task** | 5 applications remaining (Khazna + AD Ports = Aug 28 deadline — urgent). Then Power Query Day 3. Then LinkedIn networking. |
+| **Last Session Date** | 2026-08-23 |
+| **Last Session Summary** | Session 8: 3 applications submitted (TotalEnergies #7, Huda Beauty #8, Mohamed Hilal Group #9). Sundus closed. LinkedIn profile fully updated: About section rewritten, all 4 work experience descriptions rewritten, skills tagged per experience. All 4 LinkedIn projects reframed (trading → Python data/automation angle) by Ashnad manually. LinkedIn skills section: recommendations given but not yet applied. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. APPLY 5 remaining jobs (Khazna + AD Ports = Aug 28 deadline — do first)  4. Add/remove LinkedIn skills (ADD: FP&A, Python, SQL, Power BI, Financial Modeling, Budgeting, Forecasting, Variance Analysis — REMOVE: Equity Trading, Private Equity)  5. Power Query Day 3  6. LinkedIn networking (10 connections, 5 comments, 4 recruiter emails) |
+| **Blockers** | LinkedIn skills section not yet updated. Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 applications remaining. |
+| **Applications Sent** | 9 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
 | **Project 2 Progress** | 0% — Not started |
@@ -588,11 +588,36 @@ These checkpoints are conditional — only build if interviews aren't converting
 | 2026-08-20 | Al Khayyat Investments (AKI) | Finance Analyst FP&A – Central Finance | Applied | LinkedIn Easy Apply. Master PDF. STRETCH. FP&A years=1, salary=7000 AED. |
 | 2026-08-20 | Eaton | FP&A Analyst (Manufacturing Finance) | Applied | Eightfold portal. Master PDF. STRETCH. SAP must-have gap noted — applied per Ashnad's call. |
 | 2026-08-20 | dubizzle (Bayut) | Associate Commercial Analyst | Applied | Workable portal. Tailored PDF 72/100. GOOD FIT. Commercial analytics angle. |
+| 2026-08-23 | TotalEnergies | FP&A and Economist | Applied | Company portal. Master PDF. STRETCH. Skills table filled (Finance Analytics, Financial Planning, Budget Management, etc). |
+| 2026-08-23 | Huda Beauty | Finance Analyst MEAI (Fixed Term) | Applied | LinkedIn Easy Apply. Master PDF. STRETCH. |
+| 2026-08-23 | Sundus | Budget Analyst (Abu Dhabi) | CLOSED | No longer accepting applications. |
+| 2026-08-23 | Mohamed Hilal Group | Financial Analyst (Sharjah) | Applied | LinkedIn Easy Apply. Master PDF. STRETCH. |
 
 ---
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-23 — Session 8: Applications + LinkedIn Profile Overhaul
+
+**Covered:**
+- TotalEnergies (STRETCH): Applied via company portal. Skills table filled from dropdown (Finance Analytics, Financial Planning, Budget Management, Financial Modeling, Business Intelligence, ERP, Variance Analysis, Accounts Payable/Receivable, Internal Audit).
+- Huda Beauty (STRETCH): Applied via LinkedIn Easy Apply. Master PDF.
+- Sundus: CLOSED — no longer accepting applications.
+- Mohamed Hilal Group (STRETCH): Applied via LinkedIn Easy Apply. Master PDF.
+- Total applications now: 9 (6 from 2026-08-20 + 3 today).
+- LinkedIn About section: Fully rewritten. Natural voice, FP&A-focused positioning, CMA noted correctly.
+- LinkedIn work experience: All 4 roles rewritten (Promotech, EY Tax Analyst, EY Tax Intern, L&T) — authentic voice, no AI-sounding language, FP&A-relevant skills surfaced.
+- LinkedIn skills per experience: Tagged for all 4 roles.
+- LinkedIn projects: All 4 reframed by Ashnad manually — trading angle removed, Python data engineering + analytics angle added.
+- LinkedIn skills section: Recommendations given — NOT YET APPLIED (do first next session).
+  - ADD: Financial Planning & Analysis (FP&A), Python, SQL, Power BI, Financial Modeling, Budgeting, Forecasting, Variance Analysis
+  - REMOVE: Equity Trading, Private Equity
+
+**Next session START WITH:** Review all 4 LinkedIn project descriptions to confirm reframes are correct. Then: LinkedIn skills update → 5 remaining applications (Khazna + AD Ports = Aug 28 deadline) → Power Query Day 3 → LinkedIn networking.
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-21 — Session 7: Excel Day 2 — Checkpoint 2A-1 Passed
 **Covered:**

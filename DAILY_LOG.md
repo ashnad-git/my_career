@@ -27,7 +27,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 6 | 6 | 5–8 |
+| Applications sent | 9 | 9 | 5–8 |
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 | 0 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
@@ -39,6 +39,30 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-23 | Session 8: Applications + LinkedIn Profile Overhaul
+
+**Session type:** Applications + LinkedIn profile update
+**Jobs applied:** TotalEnergies (portal, STRETCH), Huda Beauty (Easy Apply, STRETCH), Mohamed Hilal Group (Easy Apply, STRETCH). Sundus: CLOSED.
+**Connections sent:** None
+**LinkedIn activity:** Full profile overhaul completed — About section, all 4 work experience descriptions, skills per experience, all 4 project descriptions reframed (done manually by Ashnad).
+**Learning outside session:** None
+**Responses received:** None from any of the 9 jobs applied so far.
+**Blockers/notes:** LinkedIn skills section not yet updated — must do first next session (ADD: FP&A, Python, SQL, Power BI, Financial Modeling, Budgeting, Forecasting, Variance Analysis | REMOVE: Equity Trading, Private Equity). 5 applications still pending — Khazna + AD Ports have Aug 28 deadline.
+**Claude notes:** Browser automation for LinkedIn was unreliable this session — project edits done manually by Ashnad. Next session: review project descriptions first, then skills update, then applications, then Power Query Day 3.
+
+---
+
+### 2026-08-21 to 2026-08-23 | Catch-up (2-day gap)
+
+**Jobs applied independently:** None
+**Connections sent:** None
+**LinkedIn activity:** None (LinkedIn profile overhaul done in today's session)
+**Learning outside session:** None
+**Responses received:** None
+**Blockers/notes:** Clean gap — no slippage to note.
 
 ---
 
