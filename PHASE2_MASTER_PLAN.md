@@ -15,12 +15,12 @@
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
 | **Current Phase** | Phase 2A — Excel Foundations (Day 3: Power Query — next session) |
-| **Current Task** | 5 applications remaining (Khazna + AD Ports = Aug 28 deadline — urgent). Then Power Query Day 3. Then LinkedIn networking. |
+| **Current Task** | Power Query Day 3 (next). Then comments (5) + recruiter emails (4). Then ABDULLA ALARIF HOLDING (STRETCH, Indeed Easy Apply). |
 | **Last Session Date** | 2026-08-23 |
-| **Last Session Summary** | Session 8: 3 applications submitted (TotalEnergies #7, Huda Beauty #8, Mohamed Hilal Group #9). Sundus closed. LinkedIn profile fully updated: About section rewritten, all 4 work experience descriptions rewritten, skills tagged per experience. All 4 LinkedIn projects reframed (trading → Python data/automation angle) by Ashnad manually. LinkedIn skills section: recommendations given but not yet applied. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. APPLY 5 remaining jobs (Khazna + AD Ports = Aug 28 deadline — do first)  4. Add/remove LinkedIn skills (ADD: FP&A, Python, SQL, Power BI, Financial Modeling, Budgeting, Forecasting, Variance Analysis — REMOVE: Equity Trading, Private Equity)  5. Power Query Day 3  6. LinkedIn networking (10 connections, 5 comments, 4 recruiter emails) |
-| **Blockers** | LinkedIn skills section not yet updated. Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 applications remaining. |
-| **Applications Sent** | 9 |
+| **Last Session Summary** | Session 9: 3 applications submitted (Khazna #11, AD Ports #12, Al Tayer #13 — tailored PDF + cover letter). LinkedIn skills updated: ADDED FP&A, SQL, Power BI, Budgeting, Forecasting, Variance Analysis; REMOVED Equity Trading, Private Equity. Networking: 7 connection invites sent with personalised notes. NETWORKING.md created to track all conversations. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Check NETWORKING.md — any responses to connections?  4. Send 4 recruiter emails (Talha, Hensa, Nupur, Maleek) — log in NETWORKING.md  5. Leave 5 LinkedIn comments  6. Apply ABDULLA ALARIF HOLDING (STRETCH, Indeed Easy Apply)  7. Power Query Day 3 |
+| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 4 recruiter emails not yet sent. 5 LinkedIn comments pending. |
+| **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
 | **Project 2 Progress** | 0% — Not started |

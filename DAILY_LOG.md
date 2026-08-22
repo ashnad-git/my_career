@@ -27,9 +27,9 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 9 | 9 | 5–8 |
+| Applications sent | 13 | 13 | 5–8 |
 | Interviews booked | 0 | 0 | — |
-| Connection requests sent | 0 | 0 | 10–14 |
+| Connection requests sent | 7 | 7 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
 | Learning hours logged | 2 | 2 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
@@ -39,6 +39,19 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-23 | Session 9: Applications + LinkedIn Skills + Networking
+
+**Session type:** Applications + LinkedIn skills update + networking
+**Jobs applied:** Khazna Data Centers #11 (LinkedIn Easy Apply, STRETCH, master PDF), AD Ports Group #12 (Oracle HCM portal, STRETCH, master PDF — Ashnad completed form), Al Tayer Group #13 (Oracle HCM portal, GOOD FIT, tailored PDF + cover letter built and sent). Total: 13 applied.
+**Connections sent:** 7 — Théodore Bros (TotalEnergies), Nadiya Simran (LIVBNB), Devika Menon (Dubai Aerospace), Shraddha Chichani (Ex-Landmark), Anil Kumar CFA, CA Hardik Patel (Diamond DMCC), CA Adrian Machado (Sobha / Ex-KPMG). All with personalised notes.
+**LinkedIn activity:** Skills updated — ADDED: FP&A, SQL, Power BI, Budgeting, Forecasting, Variance Analysis. REMOVED: Equity Trading, Private Equity. Python + Financial Modeling already on profile.
+**Learning outside session:** None
+**Responses received:** None from any of the 13 jobs applied.
+**Blockers/notes:** 5 LinkedIn comments still pending. 4 recruiter emails not yet sent. ABDULLA ALARIF HOLDING (STRETCH) not yet applied. Power Query Day 3 not done.
+**Claude notes:** Chrome browser issue resolved (Mac local browser selected). Al Tayer cover letter template added to build script (altayer_cl key). NETWORKING.md created — tracks all 7 connections with profile links, invite notes, and conversation strategy. Next session: check for connection responses, send 4 recruiter emails, 5 comments, ABDULLA ALARIF, then Power Query Day 3.
 
 ---
 

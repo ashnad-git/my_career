@@ -26,6 +26,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 1. Théodore Bros
 - **Role:** Financial Analyst | FP&A & Investment | TotalEnergies Dubai
+- **Profile:** https://www.linkedin.com/in/theodore-bros/
 - **Date sent:** 2026-08-23
 - **Status:** 🟡 PENDING
 - **Invite note sent:**
@@ -38,6 +39,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 2. Nadiya Simran
 - **Role:** Financial Analyst | FP&A & Revenue/Pricing Analytics | LIVBNB Dubai
+- **Profile:** https://www.linkedin.com/in/nadiya-simran-a8709014b/
 - **Date sent:** 2026-08-23
 - **Status:** 🟡 PENDING
 - **Invite note sent:**
@@ -50,6 +52,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 3. Devika Menon
 - **Role:** Manager, FP&A | Dubai Aerospace Enterprise
+- **Profile:** https://www.linkedin.com/in/devika-menon-82825475/
 - **Date sent:** 2026-08-23
 - **Status:** 🟡 PENDING
 - **Invite note sent:**
@@ -62,6 +65,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 4. Shraddha Chichani
 - **Role:** FP&A | MIS | Ex-Landmark Group Dubai
+- **Profile:** https://www.linkedin.com/in/shraddha-dixit/
 - **Date sent:** 2026-08-23
 - **Status:** 🟡 PENDING
 - **Invite note sent:**
@@ -74,6 +78,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 5. Anil Kumar, CFA
 - **Role:** Head of Finance | FP&A | M&A | Treasury | Dubai
+- **Profile:** https://www.linkedin.com/in/anilkumar528/
 - **Date sent:** 2026-08-23
 - **Status:** 🟡 PENDING
 - **Invite note sent:**
@@ -86,6 +91,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 6. CA Hardik Patel
 - **Role:** Financial Analyst | FP&A | Financial Modelling | IFRS/GAAP | Diamond DMCC Dubai
+- **Profile:** https://www.linkedin.com/in/ca-hardik-patel-46062020b/
 - **Date sent:** 2026-08-23
 - **Status:** 🟡 PENDING
 - **Invite note sent:**
@@ -98,6 +104,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 7. CA Adrian Machado
 - **Role:** FP&A & Financial Modelling | CEO's Office, Sobha | Ex-KPMG Big 4
+- **Profile:** https://www.linkedin.com/in/adrian-m1221/
 - **Date sent:** 2026-08-23
 - **Status:** 🟡 PENDING
 - **Invite note sent:**
