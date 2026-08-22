@@ -14,12 +14,12 @@
 | Field | Value |
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
-| **Current Phase** | Phase 2A — Excel Foundations (Day 3: Power Query — next session) |
-| **Current Task** | Power Query Day 3 (next). Then comments (5) + recruiter emails (4). Then ABDULLA ALARIF HOLDING (STRETCH, Indeed Easy Apply). |
+| **Current Phase** | Phase 2A — Excel Foundations (Day 5: Pivot Tables — next session) |
+| **Current Task** | Pivot Tables Day 5–7 (next). Then recruiter emails (4) + LinkedIn comments (5) + ABDULLA ALARIF HOLDING (STRETCH). |
 | **Last Session Date** | 2026-08-23 |
-| **Last Session Summary** | Session 9: 3 applications submitted (Khazna #11, AD Ports #12, Al Tayer #13 — tailored PDF + cover letter). LinkedIn skills updated: ADDED FP&A, SQL, Power BI, Budgeting, Forecasting, Variance Analysis; REMOVED Equity Trading, Private Equity. Networking: 7 connection invites sent with personalised notes. NETWORKING.md created to track all conversations. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Check NETWORKING.md — any responses to connections?  4. Send 4 recruiter emails (Talha, Hensa, Nupur, Maleek) — log in NETWORKING.md  5. Leave 5 LinkedIn comments  6. Apply ABDULLA ALARIF HOLDING (STRETCH, Indeed Easy Apply)  7. Power Query Day 3 |
-| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 4 recruiter emails not yet sent. 5 LinkedIn comments pending. |
+| **Last Session Summary** | Session 10: Power Query Day 3 completed. CHECKPOINT 2A-2 passed — connected CSV, cleaned data, unpivoted 6 monthly columns, refreshed query. Key lesson: never open source CSVs in Excel (corrupts date-like headers). |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Check NETWORKING.md — any responses to connections?  4. Send 4 recruiter emails (Talha, Hensa, Nupur, Maleek)  5. Leave 5 LinkedIn comments  6. Apply ABDULLA ALARIF HOLDING (STRETCH)  7. Pivot Tables Day 5 |
+| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 4 recruiter emails not yet sent. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. |
 | **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
@@ -152,13 +152,13 @@ Claude must give an honest, independent assessment of whether Ashnad is ready to
 
 ---
 
-### CHECKPOINT 2A-2 — Power Query ✅
+### CHECKPOINT 2A-2 — Power Query ✅ PASSED 2026-08-23
 **Call when:** Ashnad has successfully imported a CSV, cleaned it, unpivoted columns, and loaded it to a table — without step-by-step guidance.
 **Pass criteria:**
-- [ ] Can connect to a CSV file
-- [ ] Can remove columns, rename headers, fix data types
-- [ ] Can unpivot monthly columns into rows
-- [ ] Can refresh the query when source data changes
+- [x] Can connect to a CSV file
+- [x] Can remove columns, rename headers, fix data types
+- [x] Can unpivot monthly columns into rows
+- [x] Can refresh the query when source data changes
 **What it unlocks:** Pivot Tables (next topic)
 
 ---
@@ -597,6 +597,19 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-23 — Session 10: Power Query Day 3 — CHECKPOINT 2A-2 Passed
+
+**Covered:**
+- Power Query full workflow: connect CSV → promote headers → filter junk rows (blank + TOTAL) → remove columns → rename headers → fix data types → unpivot 6 monthly columns → load to table
+- Key error caught: opening source CSV in Excel corrupts date-like column headers (Jan-25 → date value). Rule established: always use a plain text editor (TextEdit, VS Code) for source CSVs.
+- Checkpoint assessment: Ashnad deleted query and rebuilt entire workflow from scratch without guidance. Output: 54 rows × 4 columns (Outlet, Category, Month, Revenue). Correct.
+- CHECKPOINT 2A-2 called and passed — all 4 criteria met.
+
+**Next session START WITH:** Catch-up Q&A → recruiter emails (4) + LinkedIn comments (5) + ABDULLA ALARIF → Pivot Tables Day 5.
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-23 — Session 8: Applications + LinkedIn Profile Overhaul
 
