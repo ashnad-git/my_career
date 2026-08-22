@@ -763,6 +763,226 @@ def build_totalenergies_cl():
     build_pdf(story, "/Users/ashnad/my_career/resumes/Muhammed_Ashnad_TotalEnergies_CoverLetter.pdf")
 
 
+# ── AL TAYER — Cover Letter ───────────────────────────────────────────────────
+
+def build_altayer_cl():
+    """
+    Cover letter for Al Tayer Group — Business Support Analyst, Beauty Distribution.
+    Output: resumes/Muhammed_Ashnad_AlTayer_CoverLetter.pdf
+    Angle: commercial analytics, sales performance insights, luxury retail context.
+    """
+    CL_BODY = st("CLBody2", fontName="Helvetica", fontSize=9.5, textColor=DARK,
+                 leading=15, spaceAfter=12)
+    CL_META = st("CLMeta2", fontName="Helvetica", fontSize=9, textColor=LIGHT,
+                 leading=13, spaceAfter=4)
+    CL_SIG  = st("CLSig2",  fontName="Helvetica-Bold", fontSize=9.5, textColor=DARK,
+                 leading=13, spaceAfter=2)
+    CL_SIGD = st("CLSigD2", fontName="Helvetica", fontSize=9, textColor=MID,
+                 leading=13, spaceAfter=0)
+
+    story = []
+
+    # Header
+    story.append(Paragraph("Muhammed Ashnad K", NAME))
+    story.append(Paragraph(
+        "Business &amp; Commercial Analyst  |  M.Sc. Financial Economics  |  Ex-EY  |  Dubai", HEAD))
+    story.append(Paragraph(CONTACT_LINE, CONTACT))
+    story.append(Spacer(1, 6))
+    story.append(rule())
+    story.append(Spacer(1, 10))
+
+    # Date + recipient
+    story.append(Paragraph("23 August 2026", CL_META))
+    story.append(Spacer(1, 6))
+    story.append(Paragraph(
+        "Hiring Manager<br/>Al Tayer Group — Al Tayer Insignia<br/>Dubai, UAE", CL_META))
+    story.append(Spacer(1, 14))
+
+    # Salutation
+    story.append(Paragraph("Dear Hiring Manager,", CL_BODY))
+
+    # Paragraph 1 — Hook
+    story.append(Paragraph(
+        "I am writing to apply for the Business Support Analyst role within Al Tayer Insignia's "
+        "Beauty Distribution function. Al Tayer Insignia's position as the luxury retail leader "
+        "across Beauty, Fashion, and Home in the Middle East — representing brands including "
+        "Armani, Harvey Nichols, and Bloomingdale's — makes this an environment where commercial "
+        "analytics and performance insight genuinely matter. I am drawn to a role where I can "
+        "translate sales and financial data into decisions that drive a premium business.",
+        CL_BODY
+    ))
+
+    # Paragraph 2 — Evidence
+    story.append(Paragraph(
+        "In my current role at Promotech Advertising, Dubai, I produce monthly commercial "
+        "performance reports for CEO-level review — analysing revenue trends, gross margin "
+        "variances, and cost performance across 475 active supplier and client accounts, with "
+        "written commentary identifying key challenges, opportunities, and recommended actions. "
+        "I also deliver ad hoc data analysis and financial modelling to support day-to-day "
+        "business planning, and track account-level sales performance patterns against prior "
+        "periods. This is exactly the work described in this role — commercial reporting, "
+        "variance analysis, KPI tracking, and business planning support — applied in a live "
+        "commercial environment under real deadline pressure.",
+        CL_BODY
+    ))
+
+    # Paragraph 3 — Fit + close
+    story.append(Paragraph(
+        "My M.Sc. in Financial Economics, Big Four experience at Ernst &amp; Young, and hands-on "
+        "background in performance monitoring and stakeholder reporting give me the analytical "
+        "foundation and commercial mindset this role requires. I am confident in translating "
+        "complex data into clear, actionable insights and in working across functions — finance, "
+        "commercial, and operations — to deliver reporting that supports business decisions. "
+        "I would welcome the opportunity to bring this capability to Al Tayer's Beauty Distribution team.",
+        CL_BODY
+    ))
+
+    # Closing
+    story.append(Paragraph(
+        "Thank you for considering my application. I look forward to the opportunity to discuss "
+        "how my background aligns with the needs of this role.",
+        CL_BODY
+    ))
+    story.append(Spacer(1, 16))
+    story.append(Paragraph("Yours sincerely,", CL_BODY))
+    story.append(Spacer(1, 20))
+    story.append(Paragraph("Muhammed Ashnad K", CL_SIG))
+    story.append(Paragraph("+971 543255352  ·  muhammedashnad@gmail.com  ·  Dubai, UAE", CL_SIGD))
+    story.append(Paragraph("linkedin.com/in/muhammed-ashnad-k", CL_SIGD))
+
+    build_pdf(story, "/Users/ashnad/my_career/resumes/Muhammed_Ashnad_AlTayer_CoverLetter.pdf")
+
+
+# ── AL TAYER — Business Support Analyst, Beauty Distribution ─────────────────
+
+def build_altayer():
+    """
+    Tailored for: Al Tayer Group — Business Support Analyst, Beauty Distribution (Dubai)
+    Source: Indeed UAE listing
+    Key angle: commercial analytics, data-driven reporting, retail context, stakeholder support
+    Key changes vs master:
+    - Headline: Business & Commercial Analyst | retail/distribution framing
+    - Summary: commercial analytics + data insights + retail adjacency (no ERP/reconciliation lead)
+    - Skills: lead with data analysis, reporting, performance monitoring; Python/SQL moved down
+    - Promotech: reframe as commercial analytics function — revenue performance, insights, stakeholder reporting
+    - ERP migration demoted to single bullet
+    - BB Advisory: kept (valuation + financial analysis adds credibility)
+    Output: resumes/Muhammed_Ashnad_AlTayer_BusinessSupportAnalyst.pdf
+    """
+    story = []
+    story += header(
+        "Business &amp; Commercial Analyst  |  Data Analysis &amp; Performance Reporting  |  "
+        "M.Sc. Financial Economics  |  Ex-EY  |  Dubai"
+    )
+
+    story.extend(section("Professional Summary"))
+    story.append(Paragraph(
+        "Finance and analytics professional with M.Sc. Financial Economics and Big Four (EY) experience, "
+        "currently delivering commercial performance reporting and business insights in a fast-paced "
+        "commercial environment in Dubai. I produce monthly management reports analysing revenue "
+        "performance, gross margin trends, and cost variances — translating multi-source financial data "
+        "into clear, insightful outputs that support stakeholder decision-making. Experienced in ad hoc "
+        "data analysis and modelling, variance analysis, and cross-functional stakeholder coordination "
+        "across supplier and client accounts. Strong Excel foundation; commercially minded with a "
+        "structured, deadline-driven approach.",
+        BODY
+    ))
+
+    story.extend(section("Core Competencies"))
+    for lbl, content in [
+        ("Data Analysis &amp; Reporting",
+         "Commercial Performance Analysis  ·  Data Analysis &amp; Insights Reporting  ·  "
+         "Variance Analysis  ·  Performance Monitoring  ·  Business Planning Support  ·  "
+         "Sales &amp; Revenue Analytics  ·  Ad Hoc Financial Modelling  ·  KPI Tracking"),
+        ("Technical Tools",
+         "Advanced Excel (Power Query, Pivot Tables, Financial Models)  ·  "
+         "Microsoft PowerPoint  ·  Power BI (Dashboards)  ·  Odoo ERP  ·  Tally ERP"),
+        ("Business &amp; Stakeholder Skills",
+         "Stakeholder Management  ·  Management Reporting  ·  Financial Reporting &amp; MIS  ·  "
+         "Month-End Close  ·  Account Reconciliation  ·  AP/AR Management  ·  Audit Support"),
+    ]:
+        story.append(Paragraph(lbl, SKLBL))
+        story.append(Paragraph(content, SKBDY))
+
+    story.extend(section("Professional Experience"))
+    story.extend(job("Promotech Advertising", "Dubai, UAE", "Accounts and Operations Executive", "Feb 2025 – Present"))
+    story.append(Paragraph("Commercial Reporting &amp; Data Analysis", SUB))
+    story.append(b(
+        "Produce monthly management reports analysing revenue performance, gross margin trends, and "
+        "cost variances — translating financial and operational data into clear, insightful reporting "
+        "for CEO-level business decisions, with written commentary identifying key challenges, "
+        "opportunities, and recommended actions."
+    ))
+    story.append(b(
+        "Deliver ad hoc data analysis and financial modelling to support day-to-day business "
+        "planning — investigating performance variances, identifying patterns in commercial data, "
+        "and presenting findings to stakeholders in structured, decision-ready formats."
+    ))
+    story.append(b(
+        "Track and evaluate commercial performance across 475 active accounts — 319 suppliers and "
+        "156 clients — monitoring revenue trends, sales performance patterns, and account-level variances "
+        "to support commercial planning and business review processes."
+    ))
+    story.append(b(
+        "Support cross-functional stakeholders including management and finance partners by defining "
+        "business reporting requirements, collecting relevant data, and delivering structured "
+        "outputs aligned to business planning and performance monitoring cycles."
+    ))
+    story.append(Paragraph("Finance Operations", SUB))
+    story.append(b(
+        "Run month-end close: account reconciliations, ledger reviews, pre/post-closing checks, "
+        "and discrepancy clearance across all accounts before close date each month."
+    ))
+    story.append(b(
+        "Support IFRS-compliant annual audit (Kreston Menon Chartered Accountants) through "
+        "organised, audit-ready documentation and timely stakeholder co-ordination."
+    ))
+    story.append(b(
+        "Led full ERP migration from Tally to Odoo — data validation, master data review, "
+        "and cross-team co-ordination from planning through go-live."
+    ))
+    story.append(Spacer(1, 4))
+
+    story.extend(job("Ernst &amp; Young (EY)", "Bangalore, India", "Tax Analyst", "Nov 2023 – May 2024"))
+    story.append(b(
+        "Conducted financial analysis and review of client financial statements and supporting "
+        "records across multi-client engagements — identifying discrepancies, investigating root "
+        "causes, and coordinating resolution with internal and external stakeholders."
+    ))
+    story.append(b(
+        "Analysed high volumes of financial data applying structured methodology to identify "
+        "errors and inconsistencies — developing disciplined analytical and reporting capability "
+        "in a high-stakes, deadline-driven environment."
+    ))
+    story.append(b(
+        "Reconciled financial data across multiple sources ensuring accuracy and consistency "
+        "across reporting outputs; prepared structured documentation under strict deadlines."
+    ))
+
+    story.extend(section("Internship Experience"))
+    story.extend(job("BB Advisory", "Bangalore, India", "Financial Analyst Intern", "Jan 2023"))
+    story.append(b(
+        "Prepared financial analysis reports and valuation models for client engagements; "
+        "conducted financial research and contributed to client-ready analytical deliverables."
+    ))
+    story.extend(job("Ernst &amp; Young (EY)", "Bangalore, India", "US Tax Intern", "Jan – Apr 2023"))
+    story += ey_intern_bullets()
+
+    story += education_section()
+
+    story.extend(section("Certifications &amp; Professional Development"))
+    for c in [
+        "CMA (US / IMA) — In Progress",
+        "Bloomberg Market Concepts — Bloomberg LP",
+        "Financial Reporting — University of Illinois",
+        "Economics of Money and Banking — Columbia University",
+        "Applied Econometrics — Dr. BR Ambedkar School of Economics",
+    ]:
+        story.append(cert_line(c))
+
+    build_pdf(story, "/Users/ashnad/my_career/resumes/Muhammed_Ashnad_AlTayer_BusinessSupportAnalyst.pdf")
+
+
 # ── DISPATCH ──────────────────────────────────────────────────────────────────
 
 RESUMES = {
@@ -771,6 +991,8 @@ RESUMES = {
     "naffco":           build_naffco,
     "dubizzle":         build_dubizzle,
     "totalenergies_cl": build_totalenergies_cl,
+    "altayer":          build_altayer,
+    "altayer_cl":       build_altayer_cl,
 }
 
 if __name__ == "__main__":

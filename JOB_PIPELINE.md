@@ -41,8 +41,8 @@
 | 12 | ENGIE Middle East | Financial Analyst AMEA (Dubai) | ❌ NOT SUITABLE | 2026-08-20 | — | https://www.linkedin.com/jobs/view/4453086996 | ✅ jds/ |
 | 13 | Khazna Data Centers | Financial Modeller (Dubai) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4445665949 | ✅ jds/ |
 | 15 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4444301466 | ✅ jds/ |
-| 16 | Mega Health Insurance Brokers | Financial Analyst (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://www.linkedin.com/jobs/view/4457300095 | ✅ jds/ |
-| 17 | Al Tayer Group | Business Support Analyst – Beauty Distribution (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://ae.indeed.com/jobs?q=Business+Support+Analyst+Beauty+Al+Tayer&l=Dubai | ✅ jds/ |
+| 16 | Mega Health Insurance Brokers | Financial Analyst (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://www.linkedin.com/jobs/view/4457300095 | ✅ jds/ | CLOSED — no longer accepting |
+| 17 | Al Tayer Group | Business Support Analyst – Beauty Distribution (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://ae.indeed.com/jobs?q=Business+Support+Analyst+Beauty+Al+Tayer&l=Dubai | ✅ jds/ | ✅ APPLIED 2026-08-23 |
 | 18 | ABDULLA ALARIF HOLDING | Strategy Analyst (Dubai) | 🟠 STRETCH | 2026-08-21 | — | https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05 | ✅ jds/ |
 
 **⏳ PENDING — JD not fully fetched yet (retry next session):**
@@ -191,6 +191,13 @@
 | 4 | Al Khayyat Investments (AKI) | Finance Analyst FP&A – Central Finance | 2026-08-20 | LinkedIn Easy Apply | 2026-08-27 | Applied — master PDF, STRETCH |
 | 5 | Eaton | FP&A Analyst (Manufacturing Finance) | 2026-08-20 | Eaton Eightfold portal | 2026-08-27 | Applied — master PDF, STRETCH (SAP must-have gap noted) |
 | 6 | dubizzle (Bayut) | Associate Commercial Analyst | 2026-08-20 | Workable portal | 2026-08-27 | Applied — tailored PDF (audit-fixed, 68→72/100) GOOD FIT |
+| 7 | TotalEnergies | FP&A and Economist | 2026-08-23 | TotalEnergies careers portal | 2026-08-30 | Applied — master PDF, STRETCH. Skills: Financial Statement Analysis, International Accounting Standards, Financial Modeling, Budget Analysis, Microsoft Excel |
+| 8 | Huda Beauty | Finance Analyst – MEAI (Fixed Term) | 2026-08-23 | LinkedIn Easy Apply | 2026-08-30 | Applied — master PDF, STRETCH. Cover letter written. |
+| 9 | Mohamed Hilal Group | Financial Analyst (Sharjah) | 2026-08-23 | LinkedIn Easy Apply | 2026-08-30 | Applied — master PDF, STRETCH. |
+| 10 | Sundus | Budget Analyst (Abu Dhabi) | 2026-08-23 | — | — | CLOSED — no longer accepting applications. |
+| 11 | Khazna Data Centers | Financial Modeller (Dubai) | 2026-08-23 | LinkedIn Easy Apply | 2026-08-30 | Applied — master PDF, STRETCH. |
+| 12 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 2026-08-23 | Oracle HCM portal | 2026-08-30 | Applied — master PDF, STRETCH. Ashnad completed form. |
+| 13 | Al Tayer Group | Business Support Analyst – Beauty Distribution (Dubai) | 2026-08-23 | Oracle HCM portal | 2026-08-30 | Applied — tailored PDF + cover letter. GOOD FIT. |
 
 ---
 
