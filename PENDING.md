@@ -102,6 +102,7 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 - [ ] 🟡 **Application follow-up protocol** — HIGH. After Easy Apply submission, what happens? LinkedIn message to hiring manager? When? What to say?
 - [ ] 🟠 **Interview base prep** — MEDIUM. Core Q&A must exist before first interview arrives, especially "why no formal FP&A experience?" Draft now, customise when needed.
 - [ ] 🟠 **GitHub portfolio repo setup** — MEDIUM. Must exist before Week 3 (Project 1 build starts). Create repo, set to public, add placeholder README.
+- [ ] 🟠 **Portfolio domain + project showcase site** — MEDIUM. Build a personal domain (e.g. ashnad.finance) hosting all portfolio projects with live demos, screenshots, and write-ups. Include the trading/analytics system as the "technical credibility" anchor project. **Implement after Phase 2B/2C projects are ready.** Once live, add domain to recruiter email signature and update all 4 recruiter email templates to include: "Portfolio + live demos: [domain]" — this converts cold outreach from a CV drop into a proof-of-work signal. Bring this up when Phase 2B project is complete.
 
 ### LinkedIn & Brand (Parallel)
 - [ ] **Resume reframe** — see gap #1 above (URGENT)
