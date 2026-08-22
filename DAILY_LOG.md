@@ -31,7 +31,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 7 | 7 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
-| Learning hours logged | 2 | 2 | 5–7 hrs |
+| Learning hours logged | 3 | 3 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -39,6 +39,19 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-23 | Session 10: Power Query Day 3
+
+**Session type:** Learning — Power Query
+**Jobs applied:** None
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None
+**Blockers/notes:** Clean session. 4 recruiter emails + 5 LinkedIn comments + ABDULLA ALARIF still pending — carry to next session.
+**Claude notes:** CHECKPOINT 2A-2 passed. Power Query full workflow completed from scratch: connect CSV → promote headers → filter junk rows → remove columns → rename → unpivot → load. Key lesson: never open source CSVs in Excel. Next: Pivot Tables Day 5.
 
 ---
 
