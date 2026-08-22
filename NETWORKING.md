@@ -119,9 +119,21 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 1. Talha Sajjad — Synthify HR Solutions
 - **Contact:** talha.sajjad@synthify.ae
-- **Date sent:** —
-- **Status:** ⬜ NOT YET SENT
-- **Message sent:** —
+- **Date sent:** 2026-08-23
+- **Status:** 🟡 PENDING
+- **Follow-up date:** 2026-09-06 (2 weeks)
+- **Message sent:**
+  > Subject: CV — Ex-EY Finance Professional | FP&A / Financial Analyst | Dubai | Available 2 months
+  >
+  > Hi Talha,
+  >
+  > Ex-EY Tax Analyst with an M.Sc. in Financial Economics, currently running financial reporting, month-end close, and a full ERP migration (Tally → Odoo) at a Dubai SME — looking to move into a dedicated FP&A or Financial Analyst role.
+  >
+  > What I bring: Big Four analytical training, hands-on finance operations in Dubai (475-account portfolio, monthly management reports to CEO), and strong technical skills — Excel, Power BI, SQL, Python. The gap most hiring managers flag is "limited FP&A title" — the underlying capability is there.
+  >
+  > Targeting Dubai-based roles at established companies. Salary expectation: 5,000–7,000 AED. Two-month notice.
+  >
+  > CV attached — worth a quick call?
 - **Their response:** —
 - **Next message:** —
 
@@ -129,9 +141,21 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 2. Hensa Bhatia — Fin-Storm
 - **Contact:** careers@fin-storm.com
-- **Date sent:** —
-- **Status:** ⬜ NOT YET SENT
-- **Message sent:** —
+- **Date sent:** 2026-08-23
+- **Status:** 🟡 PENDING
+- **Follow-up date:** 2026-09-06 (2 weeks)
+- **Message sent:**
+  > Subject: CV — Muhammed Ashnad K | FP&A / Financial Analyst | Dubai | Ex-EY | M.Sc. Economics
+  >
+  > Hi Hensa,
+  >
+  > Ex-EY Tax Analyst with an M.Sc. in Financial Economics, actively targeting FP&A and Financial Analyst roles in Dubai.
+  >
+  > Current role at Promotech Advertising: monthly P&L reporting, variance analysis, management packs for the CEO, month-end close, AP/AR across 475 accounts, and a full ERP migration (Tally → Odoo) I led from planning through go-live. Before that, financial analysis and client reporting at Ernst & Young Bangalore. Technical: Excel, Power BI, SQL, Python.
+  >
+  > What I'm looking for: established company, Dubai-based, Financial Analyst or FP&A Analyst level. Salary expectation: 5,000–7,000 AED. Two-month notice.
+  >
+  > CV attached — happy to connect if any of your current finance mandates are relevant.
 - **Their response:** —
 - **Next message:** —
 
@@ -139,9 +163,21 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 3. Nupur — Future Tense HR
 - **Contact:** nupur@futuretensehr.com
-- **Date sent:** —
-- **Status:** ⬜ NOT YET SENT
-- **Message sent:** —
+- **Date sent:** 2026-08-23
+- **Status:** 🟡 PENDING
+- **Follow-up date:** 2026-09-06 (2 weeks)
+- **Message sent:**
+  > Subject: CV — Ex-EY Finance Professional | FP&A / Financial Analyst | Dubai | 2-Month Notice
+  >
+  > Hi Nupur,
+  >
+  > I'm a finance professional in Dubai with Big Four experience (Ernst & Young) and an M.Sc. in Financial Economics, looking to move into a Financial Analyst or FP&A Analyst role at an established company.
+  >
+  > Right now I manage financial reporting, month-end close, and ERP operations at Promotech Advertising — including a full migration from Tally to Odoo that I led end-to-end. Previously Tax Analyst at EY Bangalore. My technical stack covers Excel, Power BI, SQL, and Python. The honest limitation: my current title is in accounting operations, not FP&A — but the analytical work I do day-to-day maps directly to what junior FP&A roles require.
+  >
+  > Salary expectation: 5,000–7,000 AED. Two-month notice. Dubai preferred.
+  >
+  > CV attached — is this a profile you're currently placing?
 - **Their response:** —
 - **Next message:** —
 
@@ -149,9 +185,21 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ### 4. Maleek — Talent Source Consults
 - **Contact:** maleek@talentsourceconsults.com
-- **Date sent:** —
-- **Status:** ⬜ NOT YET SENT
-- **Message sent:** —
+- **Date sent:** 2026-08-23
+- **Status:** 🟡 PENDING
+- **Follow-up date:** 2026-09-06 (2 weeks)
+- **Message sent:**
+  > Subject: CV — Ex-EY Finance Professional | FP&A / Financial Analyst | Dubai | Available 2 months
+  >
+  > Hi Maleek,
+  >
+  > Ex-EY analyst, M.Sc. Financial Economics, currently running financial reporting and ERP operations at a Dubai company — looking to move into a Financial Analyst or FP&A Analyst role.
+  >
+  > The pitch: Big Four foundation, hands-on Dubai finance experience (management reporting, month-end close, 475-account AP/AR portfolio, full ERP migration), strong technical skills (Excel, Power BI, SQL, Python). Current title is accounting operations — the analytical capability and the intent to move into FP&A are both real.
+  >
+  > Dubai-based roles, established companies. Salary: 5,000–7,000 AED. Two-month notice.
+  >
+  > CV attached. Worth a conversation?
 - **Their response:** —
 - **Next message:** —
 
