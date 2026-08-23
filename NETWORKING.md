@@ -41,12 +41,16 @@ When a response comes in, paste it here and Claude will help craft the next mess
 - **Role:** Financial Analyst | FP&A & Revenue/Pricing Analytics | LIVBNB Dubai
 - **Profile:** https://www.linkedin.com/in/nadiya-simran-a8709014b/
 - **Date sent:** 2026-08-23
-- **Status:** 🟡 PENDING
+- **Status:** 🟢 REPLIED
 - **Invite note sent:**
   > "Hi Nadiya, the revenue & pricing analytics angle at LIVBNB caught my eye — most FP&A roles I see in Dubai are pure reporting/variance. How did you carve out that pricing scope within FP&A? Would love to connect and hear more."
-- **Their response:** —
-- **Next message:** —
-- **Notes:** Interesting profile — pricing FP&A is a differentiator. If she responds, explore how she positioned herself for this role and what the Dubai FP&A market looks like from her lens.
+- **Their response:**
+  > "Hi Ashnad, thanks for reaching out! My pricing and revenue analytics scope at LIVBNB evolved from my broader financial analysis responsibilities. I started analyzing occupancy, ADR, revenue trends, market/competitor pricing and seasonality, and gradually took ownership of pricing decisions and revenue optimization using tools such as PriceLabs. What I particularly enjoyed was that it went beyond reporting — the analysis directly influenced commercial decisions and revenue outcomes. It also allowed me to leverage my earlier financial operations and reconciliation experience in a more commercially focused environment. Happy to connect and discuss this further. I'd also love to learn more about your FP&A experience and current work."
+- **Next message (draft):**
+  > Haha wait, Northern Trust, were you in Bangalore? EY was in the same campus there, might have walked past each other at some point.
+  >
+  > The pricing feeding into actual commercial decisions bit stood out to me. Most FP&A I see here is just reporting and variance. I'm in a similar spot to where you started actually, financial ops and reporting right now, trying to get into more analytical work. How did you end up making the Dubai move?
+- **Notes:** Responded warmly, asked about Ashnad's experience. Personal connection: Northern Trust Bangalore may be same campus as EY. Next conversation: how she landed Dubai role, what the transition from ops to analytical looked like.
 
 ---
 
@@ -80,12 +84,14 @@ When a response comes in, paste it here and Claude will help craft the next mess
 - **Role:** Head of Finance | FP&A | M&A | Treasury | Dubai
 - **Profile:** https://www.linkedin.com/in/anilkumar528/
 - **Date sent:** 2026-08-23
-- **Status:** 🟡 PENDING
-- **Invite note sent:**
-  > "Hi Anil, I'm building toward FP&A roles in Dubai and your profile covers a range I rarely see in one place — FP&A, M&A, capital raising, treasury. Would love to connect — keen to understand how you prioritised those areas early in your career."
-- **Their response:** —
-- **Next message:** —
-- **Notes:** Senior leader — good for long-term visibility and advice. If he responds, ask about: what he looks for when hiring junior FP&A, how he'd position someone with an accounting ops background.
+- **Status:** 🟢 REPLIED (accepted — no note was sent with request)
+- **Invite note sent:** None — request sent without a note
+- **Their response:** Accepted request
+- **First message (draft):**
+  > Hi Anil, thanks for accepting. Should have sent a note with the request, my bad.
+  >
+  > I'm in finance in Dubai trying to move into FP&A. Came across your profile and your range stood out, FP&A, M&A, treasury all in one career. Would love to hear how you built that if you're ever open to a chat.
+- **Notes:** Senior leader, CFA. First message just opens the door, no ask yet. If he responds, ask: what he looks for when hiring junior FP&A, how he'd position someone with accounting ops background.
 
 ---
 
