@@ -205,6 +205,77 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ---
 
+### 5. Brian Casey — Cooper Fitch
+- **Contact:** brian.casey@cooperfitch.ae
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Follow-up date:** —
+- **Message sent:**
+  > Subject: CV — Ex-EY Finance Professional | FP&A / Financial Analyst | Dubai | Available 2 months
+  >
+  > Hi Brian,
+  >
+  > Ex-EY Tax Analyst with an M.Sc. in Financial Economics, actively targeting FP&A and Financial Analyst roles in Dubai.
+  >
+  > Current role: financial reporting, variance analysis, management packs for the CEO, month-end close, and a full ERP migration (Tally → Odoo) I led end-to-end at Promotech Advertising. Before that, financial analysis and client reporting at Ernst & Young Bangalore. Technical: Excel, Power BI, SQL, Python.
+  >
+  > I know your finance desk covers financial analysis, planning, and budgeting roles — that's exactly what I'm targeting. Current title is accounting operations; the underlying FP&A capability is there.
+  >
+  > Salary expectation: 5,000–7,000 AED. Two-month notice. Dubai-based roles at established companies.
+  >
+  > CV attached — does this fit anything you're currently working on?
+- **Their response:** —
+- **Next message:** —
+- **Notes:** Managing Consultant, Accounting & Finance at Cooper Fitch. Specialises in financial analysis, planning, budgeting, reporting across all UAE industries. CPA-qualified himself — understands finance backgrounds well.
+
+---
+
+### 6. Darius Dosieah — Robert Walters UAE
+- **Contact:** darius.dosieah@robertwalters.com
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Follow-up date:** —
+- **Message sent:**
+  > Subject: CV — Ex-EY Finance Professional | FP&A / Financial Analyst | Dubai | Available 2 months
+  >
+  > Hi Darius,
+  >
+  > Ex-EY Tax Analyst with an M.Sc. in Financial Economics, currently in Dubai and looking to move into a Financial Analyst or FP&A Analyst role.
+  >
+  > Right now I run financial reporting, month-end close, and ERP operations at Promotech Advertising — including a full Tally-to-Odoo migration I led from planning through go-live. Big Four background, strong technical toolkit: Excel, Power BI, SQL, Python. My current title is accounting operations; my day-to-day work sits squarely in financial analysis and reporting.
+  >
+  > Targeting established companies in Dubai. Salary expectation: 5,000–7,000 AED. Two-month notice.
+  >
+  > CV attached — worth a conversation?
+- **Their response:** —
+- **Next message:** —
+- **Notes:** Consultant (not Manager) — more accessible. Accounting & Finance Middle East desk at Robert Walters. Previously UK-based, now GCC. General inbox also confirmed: dubai@robertwalters.com.
+
+---
+
+### 7. Morgan Tull — Hays UAE
+- **Contact:** morgan.tull@hays.com
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Follow-up date:** —
+- **Message sent:**
+  > Subject: CV — Ex-EY Finance Professional | Financial Analyst / FP&A | Dubai | Available 2 months
+  >
+  > Hi Morgan,
+  >
+  > Ex-EY Tax Analyst with an M.Sc. in Financial Economics — I understand you place Finance Analyst roles in Dubai, which is exactly what I'm targeting.
+  >
+  > Currently at Promotech Advertising running financial reporting, variance analysis, management packs to the CEO, month-end close, and a full ERP migration (Tally → Odoo). Technical: Excel, Power BI, SQL, Python. The honest gap: my title is accounting operations, not FP&A — but the work maps directly.
+  >
+  > Looking for Financial Analyst or FP&A Analyst roles at established Dubai companies. Salary expectation: 5,000–7,000 AED. Two-month notice.
+  >
+  > CV attached — anything on your current book that fits?
+- **Their response:** —
+- **Next message:** —
+- **Notes:** Specialist Consultant at Hays UAE — search results specifically identified him as managing Finance Analyst positions. Email follows Hays global format (firstname.lastname@hays.com).
+
+---
+
 ## COMMENTS LOG
 
 *(Record posts you commented on — useful to follow up if the poster engages)*
