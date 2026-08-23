@@ -203,12 +203,12 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 - First messages sent to Jeff Landers and Zaynah Aboobaker (existing connections, bridge outreach)
 - Théodore Bros (TotalEnergies FA) accepted connection → first message sent
 - Nadiya Simran (LIVBNB FA) replied to invite note → response drafted and sent
-- Anil Kumar (FP&A Dubai) accepted connection — first message still pending (no invite note was sent with the request)
+- Anil Kumar (FP&A Dubai) accepted connection → first message sent (no invite note had been sent with the request)
 **Learning outside session:** None
 **Responses received:** Théodore Bros (accepted, no reply to note), Nadiya Simran (replied — pricing/commercial decisions point + Dubai move context), Anil Kumar (accepted)
 **Blockers/notes:**
 - Emails 1-4 (Talha, Hensa, Nupur, Maleek) were scheduled for Monday AM — user needs to update those drafts in email client to the revised humanized versions before they send
-- Anil Kumar first message still outstanding — accepted connection with no invite note, needs first message next session
+- Nadiya conversation ongoing — next move is to wait for her reply
 - Nadiya conversation ongoing — next move is to wait for her reply to the response sent today
 **Claude notes:** All 7 recruiter emails rewritten to human voice after Ashnad flagged AI patterns (em dashes, credential-first openers, structured headers). Humanized writing hard rule saved to memory and feedback file. NETWORKING.md batch-2 status update (Python script fix) applied — all 10 entries now 🟡 PENDING with date 2026-08-23. Portfolio domain plan (ashnad.finance or similar) added to PENDING.md — implement after Phase 2B/2C projects ready.
 
