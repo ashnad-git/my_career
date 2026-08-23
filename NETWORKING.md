@@ -87,7 +87,7 @@ When a response comes in, paste it here and Claude will help craft the next mess
 - **Status:** 🟢 REPLIED (accepted — no note was sent with request)
 - **Invite note sent:** None — request sent without a note
 - **Their response:** Accepted request
-- **First message (draft):**
+- **First message (sent 2026-08-23):**
   > Hi Anil, thanks for accepting. Should have sent a note with the request, my bad.
   >
   > I'm in finance in Dubai trying to move into FP&A. Came across your profile and your range stood out, FP&A, M&A, treasury all in one career. Would love to hear how you built that if you're ever open to a chat.
@@ -118,6 +118,138 @@ When a response comes in, paste it here and Claude will help craft the next mess
 - **Their response:** —
 - **Next message:** —
 - **Notes:** Strongest strategic connection — Big 4 → FP&A trajectory mirrors Ashnad's. If he responds: this is the most important conversation to develop. Ask specifically how he bridged the gap, what he'd do differently, whether he knows of openings.
+
+---
+
+### 8. Nandini Vijayan
+- **Role:** Senior Financial Analyst | Finance Business Partner | FP&A | ACCA
+- **Profile:** https://www.linkedin.com/in/nandinivijayan/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Nandini, 21 mutual connections and you're in FP&A in Dubai — seemed like a natural connect. I'm moving from finance ops into FP&A and your profile came up multiple times. Would love to connect.
+- **Their response:** —
+- **Notes:** Highest mutual connection count in database (21). Senior FA/Finance BP, ACCA. Top networking target.
+
+---
+
+### 9. Muhammad Danish Ali
+- **Role:** Senior Finance Manager | FP&A | Oracle FCCS/Fusion | Power BI | ERP Implementation
+- **Profile:** https://www.linkedin.com/in/danishali3/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Danish, the FP&A plus ERP implementation combination on your profile stands out — most people have one or the other. I'm in finance in Dubai building toward FP&A and wanted to connect.
+- **Their response:** —
+- **Notes:** 14 mutual connections, 33K followers. ACCA, MCSI, PMP. Great visibility contact.
+
+---
+
+### 10. Sabith Mohmed
+- **Role:** Financial Analyst | Dubai Holding | FP&A | Financial Modelling | CMA | MBA
+- **Profile:** https://www.linkedin.com/in/sabithmh/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Sabith, Financial Analyst at Dubai Holding is exactly the kind of role I'm targeting. 13 mutual connections — seemed like a good time to reach out and connect.
+- **Their response:** —
+- **Notes:** 13 mutual connections. Dubai Holding is a top target employer. Direct peer.
+
+---
+
+### 11. Mudasir Aslam
+- **Role:** Senior FP&A Analyst | CMA | FMVA | Financial Analysis & Reporting
+- **Profile:** https://www.linkedin.com/in/mudasir-aslam/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Mudasir, your CMA and FMVA combination alongside FP&A experience stood out. I'm in finance in Dubai moving toward FP&A and wanted to connect with people doing the work.
+- **Their response:** —
+- **Notes:** 12 mutual connections, 10K followers. Based in Jeddah not Dubai but strong FP&A insights. CMA validates Ashnad's certification path.
+
+---
+
+### 12. Haider Javed
+- **Role:** CFA | Portfolio Manager | FP&A | Private Equity | M&A
+- **Profile:** https://www.linkedin.com/in/haider-javed-cfa-8a5bb099/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Haider, the FP&A and private equity mix on your profile is something I don't see often. I'm in finance in Dubai working toward FP&A roles and your background caught my attention. Would love to connect.
+- **Their response:** —
+- **Notes:** 11 mutual connections. CFA. Good senior contact for long-term network building.
+
+---
+
+### 13. Subodh Lamichhane
+- **Role:** CA | Financial Modelling | IFRS | Budgeting and Forecasting | Emaar | Dubai Opera
+- **Profile:** https://www.linkedin.com/in/subodh-lamichhane/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Subodh, FP&A at Emaar is a benchmark role in Dubai. I'm in finance here transitioning into FP&A and your profile came up through mutual connections. Would love to connect.
+- **Their response:** —
+- **Notes:** 10 mutual connections, 7K followers. CA, Emaar confirmed. High-value employer connection.
+
+---
+
+### 14. Jeff Landers, ACA
+- **Role:** ACA | Finance Professional | Dubai
+- **Profile:** https://www.linkedin.com/in/jeff-landers-aca-7bb604aa/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Jeff, you keep coming up as a mutual connection across several FP&A profiles I've come across in Dubai. I'm in finance here working toward FP&A roles. Would love to stay connected.
+- **Their response:** —
+- **Notes:** Bridge person — appears as mutual for 8+ people in the database. Connecting here unlocks large portion of Dubai FP&A network via 2nd degree.
+
+---
+
+### 15. Zaynah Aboobaker
+- **Role:** Finance Professional | Dubai
+- **Profile:** https://www.linkedin.com/in/zaynah-aboobaker/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Zaynah, you show up as mutual across a lot of FP&A profiles I've found in Dubai. I'm in finance here and moving toward FP&A. Would love to connect.
+- **Their response:** —
+- **Notes:** Bridge person — appears as mutual for 7+ people in the database. Second most important bridge after Jeff Landers.
+
+---
+
+### 16. Shobhit Gupta
+- **Role:** CA | FMVA | FP&A Analyst | Multi-Entity Forecasting & Variance Analysis | Dubai
+- **Profile:** https://www.linkedin.com/in/shobhit-gupta-fpa/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Shobhit, the career break you used to build FMVA and portfolio projects before landing an FP&A role in Dubai is one of the more honest paths I've come across. Would love to connect.
+- **Their response:** —
+- **Notes:** Most similar trajectory to Ashnad — used 9-month intentional break to earn FMVA + build portfolio projects, then landed Dubai FP&A. Direct proof the strategy works.
+
+---
+
+### 17. Anjali C
+- **Role:** ACCA | Finance Analyst | FP&A & Business Partnering | Ex-EY | Olam
+- **Profile:** https://www.linkedin.com/in/anjali-c-9a5a54121/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Anjali, the EY to FP&A path you've taken is almost exactly what I'm working on. Post-EY, in finance ops right now, pushing toward FP&A in Dubai. Would love to connect.
+- **Their response:** —
+- **Notes:** Ex-EY audit India → UAE FP&A. Very similar background to Ashnad. Good peer for transition insights.
+
+---
+
+### 18. Ayush Sitani
+- **Role:** Finance Business Partner | FP&A | dubizzle (Bayut) | Ex-Goldman Sachs | ADNOC
+- **Profile:** https://www.linkedin.com/in/ayushsitani/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Ayush, I just applied for a Finance role at dubizzle and came across your profile. Would love to connect and hear what the finance environment there is like.
+- **Their response:** —
+- **Notes:** Finance BP at dubizzle — Ashnad applied to dubizzle Associate Commercial Analyst role. Insider perspective on the team and hiring.
+
+---
+
+### 19. CA Tony Thomas
+- **Role:** CA | Associate Finance Manager | ex-EY | FP&A | Budgeting & Forecasting | IFRS
+- **Profile:** https://www.linkedin.com/in/ca-tony-thomas-04852b209/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Tony, ex-EY in finance in Dubai here too. Your connections across the space suggest you know the market well. Would love to stay connected.
+- **Their response:** —
+- **Notes:** 6K+ connections himself — excellent bridge/connector. ex-EY, same transition path.
 
 ---
 
