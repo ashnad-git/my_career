@@ -62,8 +62,16 @@ Théodore used "controlling" (European/French corporate term). UAE mostly uses "
 - **Their reply (2026-08-23):** "Hi Muhammed, The position has been filled last week I think. Regarding the scope on this kind of position, yes it is heavily energy driven and project finance modelling driven."
 - **Reply sent (2026-08-23):**
   > "Hey Théodore, thanks for checking. Appreciate you getting back. I'm still trying to figure out how to break into FP&A here in Dubai. What would you say actually mattered when you were looking — was it the tools, the modelling experience, or more about who you knew?"
-- **Next message:** Wait for his reply on what matters for breaking in.
-- **Notes:** Role filled. FP&A at TotalEnergies = heavily energy-driven + project finance modelling. Good intel. Conversation open — he's engaged.
+- **Their reply (2026-08-23):**
+  > "My experience is quite different because I was in France when I got it, I got this opportunity by applying, not by connection, I got hired by HR in France for this expat contract, so what made the difference was my school, my previous experiences in audit, controlling and finance. But also, my experiences abroad. But I think here in Dubai it is quite different, people tend to find a lot with networking, and applying on linkedin. I would suggest working on your linkedin profile, to make it look more controlling. EY is a great experience; you should leverage on that. Regarding your current experience, it is not quite clear what you do, maybe tailor it toward controlling. Then I would suggest connecting a lot with CFO, HR, managers, in the finance industry, have a chat, meet people through events, and once a position will open in these company, you will have the leverage to have connected to the managers before. But connect to higher senior people, not analysts, they will have small leverage. You should go from the top. And yes, definitely your skills are important, hard and soft ones. You must be confident about your controlling skills, and know how to talk about them"
+- **Follow-up sent (2026-08-23):**
+  > "Hey Théodore, that's actually a useful shift in how I've been thinking about this. I've been connecting mostly with analysts and peers which is probably the wrong direction.
+  >
+  > The controlling framing is interesting — is that generally how finance leaders in Dubai frame FP&A work or more of a European company thing? Trying to figure out whether to use that language when reaching out to senior people.
+  >
+  > What kind of events do you mean? Anything specific you'd recommend in Dubai?"
+- **Next message:** Wait for his reply on controlling language + events.
+- **Notes:** Role filled. FP&A at TotalEnergies = heavily energy-driven + project finance modelling. Key intel from second reply: Dubai is networking-heavy (not application-driven like France). Connect with CFOs, HR, finance managers — NOT analysts. EY is a strong asset, should be leveraged. Current Promotech experience reads as unclear — tailor LinkedIn toward "controlling". Attend finance events in Dubai. Be confident talking about controlling skills. His path was school + Big 4 audit + international experience + expat contract — different from Ashnad's but the networking advice applies.
 
 ---
 
