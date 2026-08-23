@@ -31,7 +31,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 7 | 7 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
-| Learning hours logged | 3 | 3 | 5–7 hrs |
+| Learning hours logged | 4.5 | 4.5 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -190,6 +190,19 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 **Responses received:** None  
 **Blockers:** None  
 **Claude notes:** Full Phase 2 infrastructure built today. PHASE2_MASTER_PLAN.md, JOB_PIPELINE.md, DAILY_CHECKLIST.md, DAILY_LOG.md, checkpoint system, session prompts all in place. Audit identified 7 gaps — resume and LinkedIn profile are the most urgent (blocking current applications). Resume reframe and LinkedIn profile update to be done before or alongside Week 1 Excel learning.
+
+---
+
+### 2026-08-23 | Session 13 — Charts Day 6 + CHECKPOINT 2A-3 Complete
+
+**Session type:** Learning (Charts)
+**Jobs applied:** None
+**Connections sent:** None
+**LinkedIn activity:** None — 5 comments still pending
+**Learning outside session:** None
+**Responses received:** 2 LinkedIn messages received — not yet reviewed, carry to next session
+**Blockers/notes:** 5 LinkedIn comments still pending. ABDULLA ALARIF still not applied. 2 LinkedIn responses to review.
+**Claude notes:** Column chart (Budget vs Actual, 3 outlets) built and formatted. Waterfall chart (Variance Bridge: Budget → Actual through outlet variances) built and formatted. Key concept taught: "Set as Total" for anchor bars vs chain bars. CHECKPOINT 2A-3 fully passed — all 5 criteria met. CLAUDE.md Files table updated. Process discipline saved as hard rule. Next: Day 8-9 Modeling Best Practices.
 
 ---
 

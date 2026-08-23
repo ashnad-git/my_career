@@ -148,9 +148,14 @@ python3 scripts/build_resume_pdf.py <key>
 
 | File | Purpose |
 |---|---|
+| **PHASE2_MASTER_PLAN.md** | Single source of truth for Phase 2 — status dashboard, full timeline, checkpoints, session log. Read this first every session. |
+| **DAILY_LOG.md** | Timestamped log of every day's activity — Claude fills this via Q&A, Ashnad never writes in it. |
+| **JOB_PIPELINE.md** | Live job tracker — jobs found, applied, responses, follow-up dates. Update every session. |
+| **DAILY_CHECKLIST.md** | Ashnad's daily 45-min routine — apply + network + learn + log. Reference document. |
+| **NETWORKING.md** | All connection requests sent, messages exchanged, recruiter outreach. Tracks status and drafts next replies. |
 | **USER_PROFILE.md** | Comprehensive, evolving profile: role, competencies, work patterns, values, collaboration model. Updated as you provide new context. |
-| **Muhammed_Ashnad_Resume.md** | Current resume (accounting operations focus). Needs reframing to align with actual capabilities. |
-| **Ashnad_Career_Transition_Brief_for_Claude_Cowork.md** | Career transition context document (existing). To be integrated/updated. |
+| **Muhammed_Ashnad_Resume.md** | Master resume — broad FP&A/Finance positioning. Source of truth for resume content. |
+| **Ashnad_Career_Transition_Brief_for_Claude_Cowork.md** | Career transition context document (Phase 1). Background reading. |
 | **CHANGELOG.md** | Timestamped log of all changes (what was done, when). Never delete entries. |
 | **PENDING.md** | Open items, decisions pending, backlog. Clear as items complete. |
 | **CLAUDE.md** | This file — session context, conventions, collaboration patterns. |
@@ -343,6 +348,6 @@ Capture for each role:
 
 ---
 
-**Last Updated:** 2026-08-20 00:45  
-**Current Phase:** Job Market Research (Phase 1)  
-**Next Review:** After first batch of research findings
+**Last Updated:** 2026-08-23  
+**Current Phase:** Phase 2A — Excel Foundations (Day 6: Charts)  
+**Next Review:** After CHECKPOINT 2A-3 fully passes

@@ -14,12 +14,12 @@
 | Field | Value |
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
-| **Current Phase** | Phase 2A — Excel Foundations (Day 6: Charts — next session) |
-| **Current Task** | Charts Day 6-7: column chart (budget vs actual) + waterfall chart (variance bridge). Then 5 LinkedIn comments + ABDULLA ALARIF HOLDING (STRETCH). |
+| **Current Phase** | Phase 2A — Excel Foundations (Day 8-9: Modeling Best Practices — next session) |
+| **Current Task** | Day 8-9: Modeling Best Practices (named ranges, structured tables, color coding, 3-tab skeleton). Then 5 LinkedIn comments + ABDULLA ALARIF HOLDING (STRETCH). |
 | **Last Session Date** | 2026-08-23 |
-| **Last Session Summary** | Session 12: Pivot Tables Day 5 complete. CHECKPOINT 2A-3 partially passed — basic PT, date grouping (month/quarter), slicers, calculated field all done independently. Charts still pending to fully close checkpoint. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Check NETWORKING.md — any responses?  4. Leave 5 LinkedIn comments  5. Apply ABDULLA ALARIF HOLDING (STRETCH)  6. Charts Day 6 |
-| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. |
+| **Last Session Summary** | Session 13: Charts Day 6 complete. Column chart (Budget vs Actual) + Waterfall chart (Variance Bridge) built, formatted, no gridlines. CHECKPOINT 2A-3 fully passed. 2 LinkedIn responses received — not yet reviewed, carry to next session. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Review 2 LinkedIn responses + draft replies  4. Leave 5 LinkedIn comments  5. Apply ABDULLA ALARIF HOLDING (STRETCH)  6. Day 8-9 Modeling Best Practices |
+| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. 2 LinkedIn responses not yet reviewed. |
 | **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
@@ -163,14 +163,14 @@ Claude must give an honest, independent assessment of whether Ashnad is ready to
 
 ---
 
-### CHECKPOINT 2A-3 — Pivot Tables + Charts ✅
+### CHECKPOINT 2A-3 — Pivot Tables + Charts ✅ PASSED 2026-08-23
 **Call when:** Ashnad can build a Pivot Table from scratch, apply slicers, group dates, and create a formatted bar/waterfall chart.
 **Pass criteria:**
-- [ ] Can build a Pivot Table from a data table
-- [ ] Can group dates by month and quarter
-- [ ] Can add a calculated field
-- [ ] Can build a column chart + a waterfall chart
-- [ ] Charts are formatted (no gridlines, clean labels, consistent colours)
+- [x] Can build a Pivot Table from a data table
+- [x] Can group dates by month and quarter
+- [x] Can add a calculated field
+- [x] Can build a column chart + a waterfall chart
+- [x] Charts are formatted (no gridlines, clean labels, consistent colours)
 **What it unlocks:** Modeling structure (Week 2)
 
 ---
@@ -415,6 +415,10 @@ These checkpoints are conditional — only build if interviews aren't converting
 **Tools:** Excel only (no Power BI yet)  
 **LinkedIn post:** Yes — written and posted when model is complete
 
+**READ AT PHASE 2B START (before any building):**
+- `RESEARCH_Phase1D_Skills_Matrix.md` — confirms which skills, tools, and metrics appear in 70%+ of UAE FP&A job postings. Model must demonstrate these specifically.
+- Phase 1 Deliverables 3 and 4 — Career Target Ranking + Portfolio Roadmap. Validate that the business scenario and chart types match what employers actually look for.
+
 ### Business Scenario
 *Mid-size UAE fashion retail company, 3 outlets (Dubai Mall, Marina Mall, Online). FY2025 annual budget with monthly tracking, variance analysis vs. actuals, rolling forecast, and scenario analysis. Company name: "Zara & Co." (fictional UAE fashion retailer).*
 
@@ -597,6 +601,20 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-23 — Session 13: Charts Day 6 — CHECKPOINT 2A-3 Fully Passed
+
+**Covered:**
+- Column chart: built from Budget vs Actual table (3 outlets). Formatted: title, no gridlines, comma labels, grey Budget / dark blue Actual bars.
+- Waterfall chart: built variance bridge (Budget → Dubai Mall +70k → Marina Mall -40k → Online +30k → Actual). Explained "Set as Total" concept — why Budget and Actual must be anchor bars not chain steps. Formatted: title, no gridlines, comma labels, green increases / red decreases.
+- CHECKPOINT 2A-3 fully called and passed — all 5 criteria met.
+- CLAUDE.md Files table updated (missing files added). Process discipline memory updated to hard rule.
+- 2 LinkedIn responses received but not reviewed — carry to next session.
+
+**Next session START WITH:** Catch-up Q&A → review 2 LinkedIn responses → 5 LinkedIn comments → ABDULLA ALARIF → Day 8-9 Modeling Best Practices.
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-23 — Session 12: Pivot Tables Day 5 — CHECKPOINT 2A-3 Partially Passed
 
