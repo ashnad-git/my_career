@@ -305,9 +305,9 @@ Théodore used "controlling" (European/French corporate term). UAE mostly uses "
 - **Status:** 🟢 REPLIED (accepted, no reply to note)
 - **Invite note:** Hi Tony, ex-EY in finance in Dubai here. Came across your profile and it seemed worth connecting.
 - **Their response:** Accepted — no reply to note
-- **First message (draft):**
+- **First message sent (2026-08-23):**
   > Hi Tony, thanks for connecting. Ex-EY background making the move into FP&A in Dubai, pretty much the path you've been on. Would love to hear how you found that transition if you're ever open to a chat.
-- **Next message:** Send first message above.
+- **Next message:** Wait for his reply.
 - **Notes:** 6K+ connections — active on LinkedIn, gets a lot of messages, keep it short. Ex-EY, same transition path. Good bridge/connector. If he responds, ask about what made the EY to FP&A move work and what he'd do differently.
 
 ---
