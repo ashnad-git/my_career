@@ -265,14 +265,13 @@ Théodore used "controlling" (European/French corporate term). UAE mostly uses "
 - **Status:** 🟢 REPLIED
 - **Invite note:** Hi Shobhit, using a career break to build FMVA and projects before landing FP&A in Dubai genuinely caught my eye. Working on something similar. Would love to connect.
 - **Their response (2026-08-23):** "Hi Muhammed, sounds good, how has your experience been in your current company? I see you have implemented things from scratch here"
-- **Reply sent:** —
-- **Next message:** Draft below — be genuine, honest about the gap between title and actual work, end by asking how his path worked out.
-- **Draft reply:**
-  > Honestly more than I expected it to be. The title is accounting ops but I ended up running the ERP migration from scratch, Tally to Odoo, mapped the full chart of accounts, cleaned three years of data, got it live. That's been the most interesting part.
+- **Reply sent (2026-08-23):**
+  > Honestly the most interesting part has been the ERP migration, we were on Tally and I moved the whole thing to Odoo from scratch, mapped the chart of accounts, cleaned three years of data, got it live. That was genuinely good experience.
   >
-  > Day to day is financial reporting, variance analysis, management packs for the CEO. Good exposure but the title doesn't reflect it.
+  > The day to day is more accounting ops than FP&A though, that's the honest truth. Which is why I'm actively building the skills now, Excel modeling, Power BI. Still in progress, not there yet.
   >
-  > Came to Dubai from EY Bangalore and the market was harder to crack than I thought. Took this role while building toward FP&A properly, Excel modeling, Power BI, projects on the side. Which is actually why I reached out, you did exactly what I'm trying to do. How did that path work out for you?
+  > Came to Dubai from EY Bangalore and the market was harder than I expected. Took this role in the meantime. Saw you did the intentional skill-building thing before landing FP&A here and that's actually why I reached out. How did that work out?
+- **Next message:** Wait for his reply.
 - **Notes:** Most similar trajectory to Ashnad — used 9-month intentional break to earn FMVA + build portfolio projects, then landed Dubai FP&A. HIGHEST VALUE connection in the network. He looked at Ashnad's LinkedIn and noticed the "built from scratch" work. Ashnad wants to be honest here, no fake FP&A experience claims. This is the right person to ask Q1 and Q2 from the KEY QUESTIONS section. Develop this conversation carefully.
 
 ---
@@ -303,10 +302,13 @@ Théodore used "controlling" (European/French corporate term). UAE mostly uses "
 - **Role:** CA | Associate Finance Manager | ex-EY | FP&A | Budgeting & Forecasting | IFRS
 - **Profile:** https://www.linkedin.com/in/ca-tony-thomas-04852b209/
 - **Date sent:** 2026-08-23
-- **Status:** 🟡 PENDING
+- **Status:** 🟢 REPLIED (accepted, no reply to note)
 - **Invite note:** Hi Tony, ex-EY in finance in Dubai here. Came across your profile and it seemed worth connecting.
-- **Their response:** —
-- **Notes:** 6K+ connections himself — excellent bridge/connector. ex-EY, same transition path.
+- **Their response:** Accepted — no reply to note
+- **First message (draft):**
+  > Hi Tony, thanks for connecting. Ex-EY background making the move into FP&A in Dubai, pretty much the path you've been on. Would love to hear how you found that transition if you're ever open to a chat.
+- **Next message:** Send first message above.
+- **Notes:** 6K+ connections — active on LinkedIn, gets a lot of messages, keep it short. Ex-EY, same transition path. Good bridge/connector. If he responds, ask about what made the EY to FP&A move work and what he'd do differently.
 
 ---
 
