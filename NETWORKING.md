@@ -82,13 +82,22 @@ Théodore used "controlling" (European/French corporate term). UAE mostly uses "
 - **Status:** 🟢 REPLIED
 - **Invite note sent:**
   > "Hi Nadiya, the revenue & pricing analytics angle at LIVBNB caught my eye — most FP&A roles I see in Dubai are pure reporting/variance. How did you carve out that pricing scope within FP&A? Would love to connect and hear more."
-- **Their response:**
+- **Their response (2026-08-23):**
   > "Hi Ashnad, thanks for reaching out! My pricing and revenue analytics scope at LIVBNB evolved from my broader financial analysis responsibilities. I started analyzing occupancy, ADR, revenue trends, market/competitor pricing and seasonality, and gradually took ownership of pricing decisions and revenue optimization using tools such as PriceLabs. What I particularly enjoyed was that it went beyond reporting — the analysis directly influenced commercial decisions and revenue outcomes. It also allowed me to leverage my earlier financial operations and reconciliation experience in a more commercially focused environment. Happy to connect and discuss this further. I'd also love to learn more about your FP&A experience and current work."
-- **Next message (draft):**
+- **Reply sent (2026-08-23):**
   > Haha wait, Northern Trust, were you in Bangalore? EY was in the same campus there, might have walked past each other at some point.
   >
   > The pricing feeding into actual commercial decisions bit stood out to me. Most FP&A I see here is just reporting and variance. I'm in a similar spot to where you started actually, financial ops and reporting right now, trying to get into more analytical work. How did you end up making the Dubai move?
-- **Notes:** Responded warmly, asked about Ashnad's experience. Personal connection: Northern Trust Bangalore may be same campus as EY. Next conversation: how she landed Dubai role, what the transition from ops to analytical looked like.
+- **Their second response (2026-08-23):**
+  > "I started my career with Northern Trust Corporation in Bangalore, where I worked at Manyata Tech Park from 2018 to 2022. I was part of the Securities Services – Income Operations team, where I gained experience in income processing, reconciliations, payment processing, income event postings and trade lifecycle management. During my time there, I progressed into senior-level roles and built a strong foundation in financial operations. After around four and a half years with Northern Trust, I decided to pursue my Master's degree in Milan, Italy. After completing my studies, I moved to Dubai, as my cousins were based here, and I wanted to establish my career in the UAE. When I moved to Dubai, transitioning directly back into a large financial institution was more challenging than I had expected. Although Northern Trust has a presence in Dubai, the opportunities here are more focused on the business/front-end side compared with the back-end operations experience I had in Bangalore. While exploring opportunities, I came across an opportunity with Livbnb, which at the time operated under Castle's Plaza Holiday Homes. When I joined, the company was managing around 20 homes, and since then, the business has grown significantly and become an important player in Dubai's holiday-home sector. My role has given me valuable experience in pricing, revenue analysis, financial reporting, forecasting and planning, which has helped me develop a broader commercial and analytical perspective. However, I feel my strongest experience and long-term career interest remain within financial services and financial operations. My experience in reconciliations, payments, income events and trade lifecycle management is something I genuinely enjoyed, and I would like to build my career further in that direction. I'm therefore looking for an opportunity where I can move back into financial services, asset management, wealth management, custody or investment operations, while also bringing the analytical, reporting, forecasting and revenue-management skills I've gained in Dubai."
+- **Second reply sent (2026-08-23):**
+  > Small world, both came through Bangalore finance and landed in Dubai trying to figure out the next step.
+  >
+  > Sounds like we're in similar spots but opposite directions. You built up the analytical side at Livbnb but want to go back into financial services. I'm in finance ops right now trying to move into FP&A. Both navigating the same market basically.
+  >
+  > How have you found it here? Is it mostly LinkedIn or are you finding other channels work better?
+- **Next message:** Wait for her reply.
+- **Notes:** She did NOT strategically move into FP&A. She stumbled into Livbnb because she couldn't get back into financial services (Northern Trust Dubai is front-end focused, not operations). She actually wants to go BACK into financial services/asset management/custody — she's trying to leave FP&A. NOT a source of advice on how to break into FP&A. Good peer connection — similar crossroads situation in Dubai but opposite direction. Ashnad was at RMZ Infinity/Manyata, not same campus as her Manyata Tech Park. She moved to Dubai before Ashnad joined EY so there's no real Bangalore overlap either. Keep warm but don't push for FP&A entry advice she can't give.
 
 ---
 
@@ -253,10 +262,18 @@ Théodore used "controlling" (European/French corporate term). UAE mostly uses "
 - **Role:** CA | FMVA | FP&A Analyst | Multi-Entity Forecasting & Variance Analysis | Dubai
 - **Profile:** https://www.linkedin.com/in/shobhit-gupta-fpa/
 - **Date sent:** 2026-08-23
-- **Status:** 🟡 PENDING
+- **Status:** 🟢 REPLIED
 - **Invite note:** Hi Shobhit, using a career break to build FMVA and projects before landing FP&A in Dubai genuinely caught my eye. Working on something similar. Would love to connect.
-- **Their response:** —
-- **Notes:** Most similar trajectory to Ashnad — used 9-month intentional break to earn FMVA + build portfolio projects, then landed Dubai FP&A. Direct proof the strategy works.
+- **Their response (2026-08-23):** "Hi Muhammed, sounds good, how has your experience been in your current company? I see you have implemented things from scratch here"
+- **Reply sent:** —
+- **Next message:** Draft below — be genuine, honest about the gap between title and actual work, end by asking how his path worked out.
+- **Draft reply:**
+  > Honestly more than I expected it to be. The title is accounting ops but I ended up running the ERP migration from scratch, Tally to Odoo, mapped the full chart of accounts, cleaned three years of data, got it live. That's been the most interesting part.
+  >
+  > Day to day is financial reporting, variance analysis, management packs for the CEO. Good exposure but the title doesn't reflect it.
+  >
+  > Came to Dubai from EY Bangalore and the market was harder to crack than I thought. Took this role while building toward FP&A properly, Excel modeling, Power BI, projects on the side. Which is actually why I reached out, you did exactly what I'm trying to do. How did that path work out for you?
+- **Notes:** Most similar trajectory to Ashnad — used 9-month intentional break to earn FMVA + build portfolio projects, then landed Dubai FP&A. HIGHEST VALUE connection in the network. He looked at Ashnad's LinkedIn and noticed the "built from scratch" work. Ashnad wants to be honest here, no fake FP&A experience claims. This is the right person to ask Q1 and Q2 from the KEY QUESTIONS section. Develop this conversation carefully.
 
 ---
 
