@@ -193,6 +193,19 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 ---
 
+### 2026-08-23 | Session 12 — Pivot Tables Day 5 + Networking Updates
+
+**Session type:** Learning (Pivot Tables) + Networking
+**Jobs applied:** None
+**Connections sent:** None
+**LinkedIn activity:** None — 5 comments still pending
+**Learning outside session:** None
+**Responses received:** Théodore Bros (second reply — key intel on Dubai networking strategy), Nadiya Simran (second reply — wants to go back to financial services, not FP&A source), Shobhit Gupta (first reply — asked about current role), CA Tony Thomas (accepted connection)
+**Blockers/notes:** 5 LinkedIn comments still pending. ABDULLA ALARIF still not applied. No job responses yet.
+**Claude notes:** Pivot Tables Day 5 complete. Skills covered: basic PT, date grouping (month/quarter), slicers, calculated field (Gross Margin %). CHECKPOINT 2A-3 partially passed — charts (bar + waterfall) still pending for Day 6-7. Networking: Théodore gave major strategy intel (connect up to CFOs not analysts, LinkedIn toward controlling, attend events). Shobhit is highest-value connection — honest reply sent about accounting ops reality. Nadiya is peer in opposite direction, not FP&A source. Tony Thomas first message sent.
+
+---
+
 ### 2026-08-23 | Session 11 — Recruiter Outreach + LinkedIn Networking
 
 **Session type:** Recruiter cold emails + LinkedIn connection batch + first messages

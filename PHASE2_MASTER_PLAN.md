@@ -14,12 +14,12 @@
 | Field | Value |
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
-| **Current Phase** | Phase 2A — Excel Foundations (Day 5: Pivot Tables — next session) |
-| **Current Task** | Pivot Tables Day 5–7 (next). Then recruiter emails (4) + LinkedIn comments (5) + ABDULLA ALARIF HOLDING (STRETCH). |
+| **Current Phase** | Phase 2A — Excel Foundations (Day 6: Charts — next session) |
+| **Current Task** | Charts Day 6-7: column chart (budget vs actual) + waterfall chart (variance bridge). Then 5 LinkedIn comments + ABDULLA ALARIF HOLDING (STRETCH). |
 | **Last Session Date** | 2026-08-23 |
-| **Last Session Summary** | Session 10: Power Query Day 3 completed. CHECKPOINT 2A-2 passed — connected CSV, cleaned data, unpivoted 6 monthly columns, refreshed query. Key lesson: never open source CSVs in Excel (corrupts date-like headers). |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Check NETWORKING.md — any responses to connections?  4. Send 4 recruiter emails (Talha, Hensa, Nupur, Maleek)  5. Leave 5 LinkedIn comments  6. Apply ABDULLA ALARIF HOLDING (STRETCH)  7. Pivot Tables Day 5 |
-| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 4 recruiter emails not yet sent. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. |
+| **Last Session Summary** | Session 12: Pivot Tables Day 5 complete. CHECKPOINT 2A-3 partially passed — basic PT, date grouping (month/quarter), slicers, calculated field all done independently. Charts still pending to fully close checkpoint. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Check NETWORKING.md — any responses?  4. Leave 5 LinkedIn comments  5. Apply ABDULLA ALARIF HOLDING (STRETCH)  6. Charts Day 6 |
+| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. |
 | **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 0% — Not started |
@@ -597,6 +597,21 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-23 — Session 12: Pivot Tables Day 5 — CHECKPOINT 2A-3 Partially Passed
+
+**Covered:**
+- Basic Pivot Table: built Revenue by Outlet from scratch without guidance
+- Slicers: inserted Category slicer, filtered to 2 outlets, read correct total (301,110)
+- Date grouping: dragged Date into rows, manually grouped by Quarter + Month via right-click → Group
+- Calculated field: Gross Margin % = (Revenue - COGS) / Revenue — built without guidance, formatted as %
+- Final build: rebuilt full PT (Quarters/Months rows, Outlet columns, Revenue + GM%, Category slicer) from scratch — all correct
+- CHECKPOINT 2A-3 partially called — Pivot Tables complete, charts still pending
+
+**Next session START WITH:** Catch-up Q&A → 5 LinkedIn comments + ABDULLA ALARIF → Charts Day 6 (column chart + waterfall chart).
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-23 — Session 10: Power Query Day 3 — CHECKPOINT 2A-2 Passed
 
