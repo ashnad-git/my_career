@@ -190,22 +190,22 @@ When a response comes in, paste it here and Claude will help craft the next mess
 ### 14. Jeff Landers, ACA
 - **Role:** ACA | Finance Professional | Dubai
 - **Profile:** https://www.linkedin.com/in/jeff-landers-aca-7bb604aa/
-- **Date sent:** —
-- **Status:** ⬜ NOT YET SENT
-- **Invite note:** Hi Jeff, came across your profile while looking at finance folks in Dubai. I'm in finance ops making the move into FP&A. Would love to stay connected.
+- **Status:** 🟢 REPLIED (already connected — no invite needed)
+- **First message (draft):**
+  > Hi Jeff, reaching out as I'm in finance in Dubai trying to get into FP&A. Would love to chat about the market if you're ever open to it.
 - **Their response:** —
-- **Notes:** Bridge person — appears as mutual for 8+ people in the database. Connecting here unlocks large portion of Dubai FP&A network via 2nd degree.
+- **Notes:** Already connected. Bridge person across Dubai FP&A network.
 
 ---
 
 ### 15. Zaynah Aboobaker
 - **Role:** Finance Professional | Dubai
 - **Profile:** https://www.linkedin.com/in/zaynah-aboobaker/
-- **Date sent:** —
-- **Status:** ⬜ NOT YET SENT
-- **Invite note:** Hi Zaynah, came across your profile through a few people in common. I'm in finance in Dubai working toward FP&A. Would love to connect.
+- **Status:** 🟢 REPLIED (already connected — no invite needed)
+- **First message (draft):**
+  > Hi Zaynah, reaching out as I'm in finance in Dubai trying to make the move into FP&A. Would love to chat if you're ever open to it.
 - **Their response:** —
-- **Notes:** Bridge person — appears as mutual for 7+ people in the database. Second most important bridge after Jeff Landers.
+- **Notes:** Already connected. Bridge person across Dubai FP&A network.
 
 ---
 
