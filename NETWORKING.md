@@ -22,6 +22,31 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ---
 
+## KEY QUESTIONS TO SURFACE IN CONVERSATIONS
+
+These are intel questions Ashnad wants answered. Weave them in naturally as conversations progress — never ask all at once, never ask too early. One per conversation, at the right moment.
+
+**Q1: Is self-taught enough to pivot into FP&A in Dubai?**
+Ashnad has no FP&A job title on his CV. He has self-built skills (Excel modeling, Power BI, portfolio projects). The real question: do Dubai employers care about demonstrated capability or do they filter on job title/years of direct experience?
+*Ask when:* conversation has warmed up, person knows his background, feels like a candid chat.
+*Example framing:* "I've been building FP&A skills on the side but my current job title is accounting ops. Is that kind of self-taught background actually enough to get a foot in the door here, or do companies mostly filter on job title?"
+
+**Q2: Do portfolio projects on LinkedIn actually move the needle in UAE?**
+Ashnad is building 3-5 Excel and Power BI portfolio projects to publish on LinkedIn. Does this kind of evidence land with Dubai hiring managers, or is it mostly about CV job titles and who you know?
+*Ask when:* person has given advice about LinkedIn or hiring preferences.
+*Example framing:* "I'm building some FP&A portfolio projects to put on LinkedIn. Do you think that kind of thing actually registers with hiring managers here, or is it mostly about what your CV says?"
+
+**Q3: What actually tips a hiring decision for someone without the exact background?**
+What would make someone in Ashnad's position (accounting ops, no FP&A title) stand out enough to get hired? Is it the interview, the network contact, the projects, the EY brand? What does the tipping point look like?
+*Ask when:* person is in hiring/management and has seen both sides.
+*Example framing:* "For someone coming from accounting ops trying to move into FP&A, what would actually tip the decision in their favour? I'm trying to figure out where to put my energy."
+
+**Q4: "Controlling" vs "FP&A" — which language to use in UAE?**
+Théodore used "controlling" (European/French corporate term). UAE mostly uses "FP&A" or "financial analysis". Worth understanding which term resonates better with which type of company or hiring manager.
+*Ask when:* talking to someone who has hired or been hired in UAE finance.
+
+---
+
 ## CONNECTIONS — FP&A Professionals
 
 ### 1. Théodore Bros
