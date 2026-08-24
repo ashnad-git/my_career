@@ -4,6 +4,36 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-24] — Session 14: Modeling Best Practices + Textbook + CF Intro
+
+### Added
+- `learning/EXCEL_TEXTBOOK.md` — cumulative study textbook created. 7 chapters covering all Phase 2A learning to date: SUMIFS, VLOOKUP, INDEX-MATCH/IFERROR, Power Query, Pivot Tables, Charts, Modeling Best Practices. Every practice question with formula and answer.
+- `learning/phase2a_excel/04_index_match_practice.xlsx` — INDEX-MATCH + IFERROR practice file. 30 employees, 11 exercises (right lookup, left lookup, IFERROR, MAX combo). Answer Key hidden.
+- `learning/phase2a_excel/generate_index_match_practice.py` — generator script for above
+- `learning/phase2a_excel/07_conditional_formatting_practice.xlsx` — CF practice file. P&L variance table with 4 tasks (Highlight Rules, Data Bars, Icon Sets, Custom Formula Rule).
+- `learning/phase2a_excel/generate_cf_practice.py` — generator script for above
+- `06_Model_Structure_practice.xlsx` — 3-tab linked model skeleton built this session (Assumptions → Calculations → Output, named ranges, color coding)
+
+### Changed
+- `CLAUDE.md` — two hard rules added: (1) Always generate Excel practice files, never ask Ashnad to type data manually. (2) Update EXCEL_TEXTBOOK.md after every teaching session.
+- `learning/phase2a_excel/README.md` — file index corrected to match actual files created (not planned numbering)
+- `DAILY_LOG.md` — retroactive entries written for Sessions 12 and 13 (Pivot Tables + Charts), scoreboard updated to 7.5 learning hours
+- `PHASE2_MASTER_PLAN.md` — status dashboard and session log updated
+
+### Learning (Day 8-9: Modeling Best Practices)
+- 3-tab model structure: Assumptions (inputs only, blue) → Calculations (formulas only, black) → Output (links only, green)
+- Named ranges: Name Box → type name → Enter. Formula reads `=Base_Revenue*(1+Growth_Rate)` not `=Assumptions!B2*(1+Assumptions!B3)`
+- Color coding convention: blue = hardcoded, black = formula, green = cross-sheet link
+- Practice build: 3-tab skeleton, Growth Rate changed 10%→20%, all tabs updated automatically ✅
+
+### Learning (Day 10-11: Conditional Formatting — intro)
+- 4 types explained: Highlight Cell Rules, Data Bars, Icon Sets, Custom Formula Rules
+- Threshold concept: ±5% is noise, >5% is signal — only custom formula rules can enforce this
+- $ anchor rule in custom formulas: `=$E5<-0.10` locks column, lets row move
+- Task 1 (Highlight Rules) deferred to next session
+
+---
+
 ## [2026-08-21] — Session 6: Block 2 Fresh Job Search + Search Terms Master List
 
 ### Added

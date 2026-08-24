@@ -31,7 +31,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 7 | 7 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
-| Learning hours logged | 4.5 | 4.5 | 5–7 hrs |
+| Learning hours logged | 9.5 | 9.5 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -39,6 +39,45 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-24 | Session 14: Modeling Best Practices + Textbook + CF Intro
+
+**Session type:** Learning — Modeling Structure + Conditional Formatting intro
+**Jobs applied:** None
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** 2 LinkedIn responses still not reviewed — deferred again to next session
+**Blockers/notes:** 5 LinkedIn comments still pending. ABDULLA ALARIF still not applied. 2 LinkedIn responses not reviewed (Ashnad will paste in next session).
+**Claude notes:** EXCEL_TEXTBOOK.md created (7 chapters). Hard rules added: always generate practice files, update textbook every session. 04_index_match_practice.xlsx generated retroactively. Day 8-9 Modeling complete — 3-tab skeleton built + tested. Day 10-11 CF intro done, Task 1 deferred. ~2 hrs learning.
+
+---
+
+### 2026-08-23 | Session 13: Charts Day 6 — CHECKPOINT 2A-3 Fully Passed
+
+**Session type:** Learning — Excel Charts
+**Jobs applied:** None
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** 2 LinkedIn responses received during session — not yet reviewed (carry to next session)
+**Blockers/notes:** 5 LinkedIn comments still pending. ABDULLA ALARIF still not applied.
+**Claude notes:** Built Column chart (Budget vs Actual by outlet — 3 series, formatted: no gridlines, comma labels, grey Budget / dark blue Actual). Built Waterfall chart (Variance Bridge: Budget → Dubai Mall +70k → Marina Mall -40k → Online +30k → Actual — "Set as Total" concept taught). CHECKPOINT 2A-3 fully called and passed — all 5 criteria met (Pivot Tables, date grouping, calculated field, column chart, waterfall chart, all formatted). CLAUDE.md updated. 2 LinkedIn responses received but not reviewed — carry to next session. ~1.5 hrs learning.
+
+---
+
+### 2026-08-23 | Session 12: Pivot Tables Day 5 — CHECKPOINT 2A-3 Partially Passed
+
+**Session type:** Learning — Pivot Tables
+**Jobs applied:** None
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None
+**Blockers/notes:** Charts still pending to complete CHECKPOINT 2A-3.
+**Claude notes:** Built Pivot Table (Revenue by Outlet) from scratch without guidance. Slicers: inserted Category slicer, filtered to 2 outlets, read correct total (301,110). Date grouping: manually grouped by Quarter + Month via right-click → Group. Calculated field: Gross Margin % = (Revenue - COGS) / Revenue — built without guidance, formatted as %. Final build: full PT (Quarters/Months rows, Outlet columns, Revenue + GM%, Category slicer) rebuilt from scratch — all correct. CHECKPOINT 2A-3 partially called — Pivot Tables complete, charts still pending. ~1.5 hrs learning.
 
 ---
 

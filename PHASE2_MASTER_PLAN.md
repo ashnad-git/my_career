@@ -14,11 +14,11 @@
 | Field | Value |
 |---|---|
 | **Current Week** | Week 1 — Applications + Excel Foundations |
-| **Current Phase** | Phase 2A — Excel Foundations (Day 8-9: Modeling Best Practices — next session) |
-| **Current Task** | Day 8-9: Modeling Best Practices (named ranges, structured tables, color coding, 3-tab skeleton). Then 5 LinkedIn comments + ABDULLA ALARIF HOLDING (STRETCH). |
-| **Last Session Date** | 2026-08-23 |
-| **Last Session Summary** | Session 13: Charts Day 6 complete. Column chart (Budget vs Actual) + Waterfall chart (Variance Bridge) built, formatted, no gridlines. CHECKPOINT 2A-3 fully passed. 2 LinkedIn responses received — not yet reviewed, carry to next session. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Review 2 LinkedIn responses + draft replies  4. Leave 5 LinkedIn comments  5. Apply ABDULLA ALARIF HOLDING (STRETCH)  6. Day 8-9 Modeling Best Practices |
+| **Current Phase** | Phase 2A — Excel Foundations (Day 10-11: Conditional Formatting) |
+| **Current Task** | Day 10-11: CF Task 1 — Highlight Cell Rules in 07_conditional_formatting_practice.xlsx |
+| **Last Session Date** | 2026-08-24 |
+| **Last Session Summary** | Session 14: EXCEL_TEXTBOOK.md created (7 chapters, all learning to date). 04_index_match_practice.xlsx + 07_conditional_formatting_practice.xlsx generated. Day 8-9 Modeling Best Practices complete — 3-tab skeleton built, named ranges, color coding, Growth Rate test passed. CF intro taught (4 types, threshold concept, $ anchor rule). Task 1 deferred to next session. 2 LinkedIn responses still not reviewed. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Review 2 LinkedIn responses + draft replies (Ashnad will paste them)  4. Leave 5 LinkedIn comments  5. Apply ABDULLA ALARIF HOLDING (STRETCH)  6. Day 10-11 CF: open 07_conditional_formatting_practice.xlsx → Task 1 (Highlight Rules) |
 | **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. 2 LinkedIn responses not yet reviewed. |
 | **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
@@ -601,6 +601,22 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-24 — Session 14: Modeling Best Practices + Textbook + CF Intro
+
+**Covered:**
+- EXCEL_TEXTBOOK.md created from scratch — 7 chapters, all Phase 2A learning documented with exact questions + answers + formulas. Hard rule added to CLAUDE.md + memory.
+- Hard rule added: Claude always generates practice Excel files — never asks Ashnad to type data manually.
+- 04_index_match_practice.xlsx created (retroactive — INDEX-MATCH was taught verbally, no file existed). 30 employees, 11 exercises, left lookup, IFERROR, MAX combo.
+- Day 8-9 Modeling Best Practices: 3-tab model structure (Assumptions → Calculations → Output), named ranges, blue/black/green color coding, never hardcode in formula rule. 3-tab skeleton built — Growth Rate changed 10%→20%, all tabs cascaded correctly. 06_Model_Structure_practice.xlsx saved.
+- Day 10-11 Conditional Formatting intro: 4 types (Highlight Rules, Data Bars, Icon Sets, Custom Formula), threshold concept (±5% noise vs signal), $ anchor rule. 07_conditional_formatting_practice.xlsx generated. Task 1 deferred.
+- DAILY_LOG retroactive entries written for Sessions 12 and 13.
+- 2 LinkedIn responses still not reviewed — carry again.
+
+**Next session START WITH:** Catch-up Q&A → 2 LinkedIn responses (Ashnad pastes them) + draft replies → 5 LinkedIn comments → ABDULLA ALARIF → Day 10-11 CF Task 1.
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-23 — Session 13: Charts Day 6 — CHECKPOINT 2A-3 Fully Passed
 

@@ -20,13 +20,13 @@
 
 | File | Topic | Rows | Difficulty | Status |
 |---|---|---|---|---|
-| `01_SUMIFS_practice.xlsx` | SUMIFS (multi-condition sum) | 30 | Level 1–4 (★★ max) | ✅ Ready |
-| `02_VLOOKUP_practice.xlsx` | VLOOKUP + IFERROR | ~40 | Level 1–4 | 🔒 Next session |
-| `03_INDEX_MATCH_practice.xlsx` | INDEX-MATCH (replaces VLOOKUP) | ~40 | Level 2–4 | 🔒 After VLOOKUP |
-| `04_IF_IFERROR_practice.xlsx` | IF / IFS / IFERROR + nesting | ~40 | Level 2–5 | 🔒 Week 1 Day 4 |
-| `05_Power_Query_practice.csv` | Power Query — import + clean | 100+ rows messy CSV | Level 3–5 | 🔒 Day 3–4 |
-| `06_Pivot_Tables_practice.xlsx` | Pivot Tables + Slicers + Charts | 200 rows | Level 3–5 | 🔒 Day 5–7 |
-| `07_Model_Structure_practice.xlsx` | 3-tab linked model skeleton | Multi-sheet | Level 4–5 | 🔒 Week 2 |
+| `01_SUMIFS_practice.xlsx` | SUMIFS (multi-condition sum) | 30 | Level 1–4 (★★ max) | ✅ Complete |
+| `02_vlookup_practice.xlsx` | VLOOKUP + IFERROR | ~40 | Level 1–4 | ✅ Complete |
+| `03_powerquery_raw.csv` + `03_powerquery_worked.xlsx` | Power Query — import, clean, unpivot | 54 rows output | Level 3–5 | ✅ Complete |
+| `04_index_match_practice.xlsx` | INDEX-MATCH + IFERROR | 30 rows | Level 1–4 (★★ max) | ✅ Complete |
+| `05_pivottable_practice.xlsx` | Pivot Tables + Slicers + Calculated Fields + Charts | 108 rows | Level 3–5 | ✅ Complete |
+| `06_Model_Structure_practice.xlsx` | 3-tab linked model skeleton (Assumptions → Calculations → Output) | Multi-sheet | Level 4–5 | ✅ Complete (Day 8-9) |
+| `07_` | Conditional Formatting | — | Level 3–5 | 🔒 Day 10-11 |
 
 ---
 

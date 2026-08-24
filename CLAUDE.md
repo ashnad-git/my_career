@@ -33,6 +33,42 @@ This file documents the collaboration model, conventions, and context for workin
 
 ---
 
+## Practice Files — Hard Rule
+
+**Never ask Ashnad to manually type out practice data.** Always generate the Excel practice file before the practice segment begins.
+
+**Protocol:**
+1. Write the generator script (`generate_<topic>_practice.py`) in `learning/phase2a_excel/`
+2. Run it to produce the `.xlsx` file
+3. Tell Ashnad to open the file — then give the tasks
+4. Update `README.md` file index and `EXCEL_TEXTBOOK.md` with the exact questions and answers
+
+Manually typing data wastes session time and energy. Claude generates it, Ashnad learns from it.
+
+---
+
+## Learning Textbook — Hard Rule
+
+**File:** `learning/EXCEL_TEXTBOOK.md`
+
+This file is the cumulative study textbook for all Phase 2 learning. It must be updated during or immediately after every teaching session — no exceptions.
+
+**What to add every session:**
+- Concept explanation (the *why*, not just the *how*)
+- Syntax with argument-by-argument breakdown
+- At least one worked example with real numbers
+- Every practice question used in the session — with the answer and the correct formula
+- Common mistakes section for each topic
+
+**Hard rules:**
+- A topic is not "taught" until it is documented here
+- Practice questions are never lost — they go into the textbook the moment they're written
+- The file grows forward — never delete existing entries, only add
+- After teaching a new concept, update this file before ending the session
+- Add "Next: Chapter X — Topic" at the bottom to signal what's coming
+
+---
+
 ## Job Description Archive
 
 **Every JD must be saved immediately after fetching it — no exceptions.**
