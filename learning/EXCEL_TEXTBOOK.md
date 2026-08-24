@@ -3,7 +3,7 @@
 **Owner:** Muhammed Ashnad  
 **Tutor:** Claude  
 **Purpose:** Cumulative textbook — every concept taught, every example used, every practice question with answers. Use this to revise without needing the chat history.  
-**Last Updated:** 2026-08-23  
+**Last Updated:** 2026-08-24  
 **Rule:** Updated every session during or immediately after teaching. No exceptions.
 
 ---
@@ -744,5 +744,161 @@ Name the cells: B2 = `Base_Revenue`, B3 = `Growth_Rate`, B4 = `Profit_Margin`
 
 ---
 
-*More chapters will be added as sessions progress.*  
-*Next: Chapter 8 — Conditional Formatting*
+---
+
+## Chapter 8: Conditional Formatting
+
+### Concept
+
+Conditional Formatting (CF) changes how a cell looks based on its value — automatically. You set the rules once; Excel updates the colours every time the data changes.
+
+In FP&A this is not decoration. It is a signal layer on top of your numbers:
+- A variance table where red/green updates live as actuals come in
+- An entire row lighting up when a line item breaches a threshold
+- Traffic lights that tell a CFO which KPIs need attention without reading every number
+
+The skill is not clicking the menu — it's knowing which of the four rule types to use and when.
+
+### The Four Types
+
+| Type | What it does | When to use |
+|---|---|---|
+| **Highlight Cell Rules** | Colour individual cells — less than, greater than, equal to, between, text contains | Single-column variance colouring |
+| **Data Bars** | Horizontal bar inside the cell — length proportional to value | Comparing budget sizes at a glance |
+| **Icon Sets** | Traffic lights, arrows, flags based on thresholds you set | KPI dashboards, variance % status |
+| **Custom Formula Rule** | Evaluate any formula — colour whatever range the formula returns TRUE for | Highlighting entire rows, cross-column logic |
+
+### Important: Always Edit the Default Thresholds for Icon Sets
+
+Excel defaults to percentile-based splits (33rd, 67th percentile of the selected data). This is almost always wrong for finance. The default depends on your data range, so it changes every time data changes.
+
+**Always change to Number:**
+- Manage Rules → Edit Rule → change "Percent" dropdowns to "Number"
+- Type your actual thresholds (e.g. 0 and -0.05 for a ±5% rule)
+
+### The $ Anchor Rule for Custom Formula Rules
+
+**Why CF needs $ when a normal formula doesn't:**
+
+When you write a formula in one cell, Excel evaluates it once. When CF applies a custom formula rule to a **multi-column range** (e.g. A5:E12), it re-evaluates the formula for every cell individually — shifting the reference exactly like fill-right does.
+
+**Without $ column lock — what goes wrong:**
+
+Formula: `=E5<-0.10` applied to A5:E12
+
+| CF evaluates cell... | Formula shifts to... | Result |
+|---|---|---|
+| A5 | `=E5<-0.10` | Checks E5 ✓ |
+| B5 | `=F5<-0.10` | Checks F5 — wrong column ✗ |
+| C5 | `=G5<-0.10` | Checks G5 — wrong column ✗ |
+
+**With $ column lock — correct:**
+
+Formula: `=$E5<-0.10` applied to A5:E12
+
+| CF evaluates cell... | Formula becomes... | Result |
+|---|---|---|
+| A5 | `=$E5<-0.10` | Checks E5 ✓ |
+| B5 | `=$E5<-0.10` | Still checks E5 ✓ |
+| C5 | `=$E5<-0.10` | Still checks E5 ✓ |
+
+The column E is locked. The row is NOT locked — as CF moves down rows, `=$E5` becomes `=$E6`, `=$E7`, etc., checking the right row each time.
+
+**The rule:**
+> Lock the column you're checking (`$E`). Never lock the row. If you lock both (`$E$5`), every row checks the same cell — either all rows light up or none do.
+
+### Practice — File: `07_conditional_formatting_practice.xlsx`
+
+**Data:** Zara & Co. P&L Variance, Jan 2025 — 8 rows (Revenue through EBITDA), columns: Line Item / Budget / Actual / Variance AED / Variance %
+
+Formulas already in place:
+- Column D: `=C-B` (Variance AED = Actual − Budget)
+- Column E: `=IFERROR(D/B, 0)` (Variance %)
+
+---
+
+**Task 1 — Highlight Cell Rules on D5:D12**
+
+Apply three rules to the Variance (AED) column:
+
+| Condition | Fill | Font |
+|---|---|---|
+| `< 0` (negative) | Red `#FFC7CE` | Dark red `#9C0006` |
+| `> 0` (positive) | Green `#C6EFCE` | Dark green `#276221` |
+| `= 0` (zero) | Yellow `#FFEB9C` | Dark yellow `#9C6500` |
+
+**Steps:** Select D5:D12 → Home → Conditional Formatting → Highlight Cells Rules → Less Than / Greater Than / Equal To → Custom Format for each.
+
+**Expected result:**
+
+| Row | Variance AED | Colour |
+|---|---|---|
+| Revenue | -20,000 | Red |
+| COGS | +25,000 | Green |
+| Gross Profit | -45,000 | Red |
+| Salaries | -2,000 | Red |
+| Marketing | +21,000 | Green |
+| Rent | 0 | Yellow |
+| Other OpEx | +11,000 | Green |
+| EBITDA | -64,000 | Red |
+
+---
+
+**Task 2 — Data Bars on B5:B12**
+
+Select B5:B12 → Conditional Formatting → Data Bars → Blue Data Bar.
+
+Revenue (500,000) gets the longest bar. Other OpEx and EBITDA (20,000 each) get the shortest. No formula needed — Excel scales automatically.
+
+---
+
+**Task 3 — Icon Sets on E5:E12 (Variance %)**
+
+Apply 3 Traffic Light icons, then edit the thresholds:
+
+| Icon | Threshold |
+|---|---|
+| Green circle | >= `0` |
+| Yellow circle | >= `-0.05` |
+| Red circle | everything below (automatic) |
+
+**Critical step:** After applying, go to Manage Rules → Edit Rule → change both dropdowns from "Percent" to **"Number"** → type `0` and `-0.05`.
+
+**Expected result:**
+
+| Row | Variance % | Icon |
+|---|---|---|
+| Revenue | -4.0% | Yellow (between -5% and 0%) |
+| COGS | 12.5% | Green |
+| Gross Profit | -15.0% | Red |
+| Salaries | -1.3% | Yellow |
+| Marketing | 42.0% | Green |
+| Rent | 0.0% | Green |
+| Other OpEx | 55.0% | Green |
+| EBITDA | -320.0% | Red |
+
+---
+
+**Task 4 ★ — Custom Formula Rule on A5:E12 (entire row)**
+
+If Variance % (column E) is worse than -10%, highlight the **entire row** light red.
+
+**Steps:**
+1. Select A5:E12
+2. Conditional Formatting → New Rule → "Use a formula to determine which cells to format"
+3. Formula: `=$E5<-0.10`
+4. Format → Fill → light red `#FFD7D7`
+
+**Expected result:** Gross Profit row (-15%) and EBITDA row (-320%) highlighted light red across all 5 columns. Revenue (-4%) does NOT trigger — it's only -4%, above the -10% threshold.
+
+**Common mistakes:**
+
+| Formula used | What happens | Why wrong |
+|---|---|---|
+| `=E5<-0.10` | Columns B, C, D, E check wrong columns | No $ — reference shifts right as CF scans across columns |
+| `=$E$5<-0.10` | Either all rows light up or none | Both locked — every row checks row 5 only |
+| `=$E5<-0.10` | Correct | Column locked, row moves — checks E5, E6, E7... per row |
+
+---
+
+*Next: Chapter 9 — Charts for Finance (Day 12-13)*
