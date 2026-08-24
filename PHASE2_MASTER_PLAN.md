@@ -1,7 +1,7 @@
 # Phase 2 Master Plan — Portfolio Build + Job Applications
 
 **Tutor/Mentor Protocol:** Claude reads this file at the START of every Phase 2 session.  
-**Last Updated:** 2026-08-23 22:00  
+**Last Updated:** 2026-08-24 22:00  
 **Phase 2 Start Date:** TBD (next session)  
 **Notice Deadline:** 2026-10-28 (Oct 28, 2026)  
 **Contract End:** 2027-01-28
@@ -13,16 +13,16 @@
 
 | Field | Value |
 |---|---|
-| **Current Week** | Week 1 — Applications + Excel Foundations |
-| **Current Phase** | Phase 2A — Excel Foundations (Day 10-11: Conditional Formatting) |
-| **Current Task** | Day 10-11: CF Task 1 — Highlight Cell Rules in 07_conditional_formatting_practice.xlsx |
+| **Current Week** | Week 2 — Phase 2B begins |
+| **Current Phase** | Phase 2B — Project 1: FP&A Model (Week 3: Assumptions + Revenue Tab) |
+| **Current Task** | Build Assumptions tab — Zara & Co. FP&A model (08_fpa_model.xlsx) |
 | **Last Session Date** | 2026-08-24 |
-| **Last Session Summary** | Session 14: EXCEL_TEXTBOOK.md created (7 chapters, all learning to date). 04_index_match_practice.xlsx + 07_conditional_formatting_practice.xlsx generated. Day 8-9 Modeling Best Practices complete — 3-tab skeleton built, named ranges, color coding, Growth Rate test passed. CF intro taught (4 types, threshold concept, $ anchor rule). Task 1 deferred to next session. 2 LinkedIn responses still not reviewed. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → write DAILY_LOG entry  3. Review 2 LinkedIn responses + draft replies (Ashnad will paste them)  4. Leave 5 LinkedIn comments  5. Apply ABDULLA ALARIF HOLDING (STRETCH)  6. Day 10-11 CF: open 07_conditional_formatting_practice.xlsx → Task 1 (Highlight Rules) |
-| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. 2 LinkedIn responses not yet reviewed. |
+| **Last Session Summary** | Session 15: Day 10-11 CF all 4 tasks complete (Highlight Rules, Data Bars, Icon Sets, Custom Formula). Chapter 8 added to EXCEL_TEXTBOOK.md. Day 14 Sign-off Check run — 6/6 passed (2 minor labeling slips confirmed as typos, concept confirmed via follow-up on named range auto-expand). CHECKPOINT 2A-4 called and passed. Phase 2A complete. Catch-up Q&A deferred again. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → DAILY_LOG entry  3. Pending: 2 LinkedIn responses (Ashnad will paste) + 5 comments + ABDULLA ALARIF + 3 recruiters unsent  4. Phase 2B: read RESEARCH_Phase1D_Skills_Matrix.md → build Assumptions tab in new 08_fpa_model.xlsx |
+| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. 2 LinkedIn responses not yet reviewed. 3 recruiters unsent: Brian Casey, Darius Dosieah, Morgan Tull. |
 | **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
-| **Project 1 Progress** | 0% — Not started |
+| **Project 1 Progress** | 0% — Starting next session |
 | **Project 2 Progress** | 0% — Not started |
 | **Project 3 Progress** | 0% — Not started |
 
@@ -175,15 +175,15 @@ Claude must give an honest, independent assessment of whether Ashnad is ready to
 
 ---
 
-### CHECKPOINT 2A-4 — PHASE 2A COMPLETE → Move to Project 1 🎉
+### CHECKPOINT 2A-4 — PHASE 2A COMPLETE → Move to Project 1 ✅ PASSED 2026-08-24
 **Call when:** All of the Day 14 sign-off questions pass.
 **Pass criteria (all must be yes):**
-- [ ] Can build a 3-tab linked model (Assumptions → Calculations → Output) from a blank sheet
-- [ ] SUMIFS written without looking it up
-- [ ] Power Query import + refresh working
-- [ ] Variance analysis with red/green conditional formatting built
-- [ ] Named ranges used correctly in at least one formula
-- [ ] Can explain what Power Query does and why it's better than copy-paste
+- [x] Can build a 3-tab linked model (Assumptions → Calculations → Output) from a blank sheet
+- [x] SUMIFS written without looking it up
+- [x] Power Query import + refresh working
+- [x] Variance analysis with red/green conditional formatting built
+- [x] Named ranges used correctly in at least one formula
+- [x] Can explain what Power Query does and why it's better than copy-paste
 **Checkpoint call:**
 > **✅ CHECKPOINT 2A-4 — Excel Foundations Complete**
 > Phase 2A is done. You can now build, link, and format a financial model in Excel. This took [X weeks].
@@ -601,6 +601,24 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-24 — Session 15: CF Complete + CHECKPOINT 2A-4 — Phase 2A Done
+
+**Covered:**
+- Day 10-11 Conditional Formatting: all 4 tasks completed in 07_conditional_formatting_practice.xlsx.
+  - Task 1: Highlight Cell Rules on Variance AED column (red/green/yellow).
+  - Task 2: Data Bars on Budget column.
+  - Task 3: Icon Sets on Variance % with manual thresholds (0 and -0.05, changed from default Percent to Number).
+  - Task 4 ★: Custom formula rule `=$E5<-0.10` on A5:E12 — full row highlight. $ anchor concept explained and understood: lock column, not row, when applying to multi-column range.
+- Chapter 8 added to EXCEL_TEXTBOOK.md: all 4 CF types, icon set threshold warning, $ anchor rule with full table, all 4 tasks with expected outputs and common mistakes.
+- Day 14 Sign-off Check: 6 questions, 6 passed. Two minor labeling slips (Tab 1 vs Tab 2; with/without named range label reversed) confirmed as typos via follow-up question on named range auto-expand behavior — answered correctly and precisely.
+- **CHECKPOINT 2A-4 called and passed. Phase 2A Excel Foundations is complete.**
+- Catch-up Q&A deferred again (second session in a row).
+
+**Next session START WITH:** Catch-up Q&A → LinkedIn replies (2) + comments (5) + ABDULLA ALARIF + 3 unsent recruiter emails → Phase 2B: read RESEARCH_Phase1D_Skills_Matrix.md → build Assumptions tab.
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-24 — Session 14: Modeling Best Practices + Textbook + CF Intro
 

@@ -31,7 +31,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 7 | 7 | 10–14 |
 | LinkedIn posts/comments | 0 | 0 | 5+ |
-| Learning hours logged | 9.5 | 9.5 | 5–7 hrs |
+| Learning hours logged | 11 | 11 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -39,6 +39,19 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-24 | Session 15: CF Complete + CHECKPOINT 2A-4 — Phase 2A Done
+
+**Session type:** Learning — Conditional Formatting + Day 14 Sign-off Check
+**Jobs applied:** None (catch-up Q&A deferred — second session in a row)
+**Connections sent:** None
+**LinkedIn activity:** None
+**Learning outside session:** Not asked — Q&A deferred
+**Responses received:** 2 LinkedIn responses still not reviewed — deferred again
+**Blockers/notes:** 5 comments, ABDULLA ALARIF, 3 unsent recruiter emails, 2 LinkedIn responses all carried forward. Must address next session.
+**Claude notes:** All 4 CF tasks done. $ anchor concept for custom formula rules understood — correctly identified the key question on named range auto-expand without prompting. Day 14 Sign-off passed — 6/6. CHECKPOINT 2A-4 called and passed. Phase 2A complete. ~1.5 hrs learning.
 
 ---
 

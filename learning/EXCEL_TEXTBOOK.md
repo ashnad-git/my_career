@@ -901,4 +901,4 @@ If Variance % (column E) is worse than -10%, highlight the **entire row** light 
 
 ---
 
-*Next: Chapter 9 — Charts for Finance (Day 12-13)*
+*Next: Day 14 Sign-off Check → CHECKPOINT 2A-4 (Phase 2A Complete)*
