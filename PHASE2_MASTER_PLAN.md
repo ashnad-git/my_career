@@ -37,6 +37,8 @@
 | **JOB_PIPELINE.md** | 3rd | Live jobs, applied, responses — update every session |
 | **DAILY_CHECKLIST.md** | Reference | Ashnad's daily 45-min routine instructions |
 
+**Before drafting any email, message, resume, cover letter, or LinkedIn note — check the Writing Style Rules section in CLAUDE.md.** It has a routing table: different rules apply for resumes vs. emails vs. messages. Applying the wrong style to the wrong content type is a hard failure. CLAUDE.md is auto-loaded every session — the rules are already in context, just follow them.
+
 ---
 
 ## TUTOR PROTOCOL (How Every Session Works)
