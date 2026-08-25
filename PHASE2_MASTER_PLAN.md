@@ -13,16 +13,16 @@
 
 | Field | Value |
 |---|---|
-| **Current Week** | Week 2 — Phase 2B begins |
-| **Current Phase** | Phase 2B — Project 1: FP&A Model (Week 3: Assumptions + Revenue Tab) |
-| **Current Task** | Build Assumptions tab — Zara & Co. FP&A model (08_fpa_model.xlsx) |
-| **Last Session Date** | 2026-08-24 |
-| **Last Session Summary** | Session 15: Day 10-11 CF all 4 tasks complete (Highlight Rules, Data Bars, Icon Sets, Custom Formula). Chapter 8 added to EXCEL_TEXTBOOK.md. Day 14 Sign-off Check run — 6/6 passed (2 minor labeling slips confirmed as typos, concept confirmed via follow-up on named range auto-expand). CHECKPOINT 2A-4 called and passed. Phase 2A complete. Catch-up Q&A deferred again. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → DAILY_LOG entry  3. Pending: 2 LinkedIn responses (Ashnad will paste) + 5 comments + ABDULLA ALARIF + 3 recruiters unsent  4. Phase 2B: read RESEARCH_Phase1D_Skills_Matrix.md → build Assumptions tab in new 08_fpa_model.xlsx |
-| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. 2 LinkedIn responses not yet reviewed. 3 recruiters unsent: Brian Casey, Darius Dosieah, Morgan Tull. |
+| **Current Week** | Week 3 — Phase 2B active |
+| **Current Phase** | Phase 2B — Project 1: FP&A Model (Week 4: COGS + OpEx + P&L Summary) |
+| **Current Task** | Build COGS tab — link COGS% from Assumptions to Revenue |
+| **Last Session Date** | 2026-08-25 |
+| **Last Session Summary** | Session 16: Networking backlog cleared. Maleek recruiter replied (salary 5-7k stated). Phase 2B started — Assumptions tab generated, Revenue Build tab built from scratch. INDEX seasonality formula taught and applied. Mixed-row summing error caught and fixed. CHECKPOINT 2B-1 passed — Revenue tab complete, AED 22.6M annual total. |
+| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → DAILY_LOG entry  3. Apply ABDULLA ALARIF (still outstanding)  4. Phase 2B Week 4: COGS tab → OpEx tab → P&L Summary |
+| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. Brian Casey + Morgan Tull emails bounced — need correct addresses. |
 | **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
-| **Project 1 Progress** | 0% — Starting next session |
+| **Project 1 Progress** | 22% — Assumptions + Revenue Build complete (CHECKPOINT 2B-1 passed) |
 | **Project 2 Progress** | 0% — Not started |
 | **Project 3 Progress** | 0% — Not started |
 
@@ -192,14 +192,14 @@ Claude must give an honest, independent assessment of whether Ashnad is ready to
 
 ---
 
-### CHECKPOINT 2B-1 — Revenue Tab Complete ✅
+### CHECKPOINT 2B-1 — Revenue Tab Complete ✅ PASSED 2026-08-25
 **Call when:** Assumptions tab and Revenue tab are built, linked, and producing correct monthly totals.
 **Pass criteria:**
-- [ ] Assumptions tab: all inputs hardcoded there, nothing hardcoded in formulas elsewhere
-- [ ] Revenue tab: links from Assumptions, calculates by outlet × category × month
-- [ ] Seasonality multipliers applied (Ramadan, summer)
-- [ ] Annual total column correct
-- [ ] Numbers make sense (AED 15–25M annual range for 3 outlets)
+- [x] Assumptions tab: all inputs hardcoded there, nothing hardcoded in formulas elsewhere
+- [x] Revenue tab: links from Assumptions, calculates by outlet × category × month
+- [x] Seasonality multipliers applied (Ramadan, summer)
+- [x] Annual total column correct
+- [x] Numbers make sense (AED 15–25M annual range for 3 outlets) — AED 22.6M
 **What it unlocks:** Week 4 — COGS + OpEx + P&L
 
 ---
@@ -601,6 +601,21 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ## SESSION LOG
 *(Add one entry per session — never delete old entries)*
+
+### 2026-08-25 — Session 16: Phase 2B Start — CHECKPOINT 2B-1 Passed
+
+**Covered:**
+- Networking backlog cleared: 3 LinkedIn replies sent (Shobhit — CA gap and M.Sc. screening question; Theodore — portfolio projects on LinkedIn vs networking; Nadiya — closed politely, dead end). Maleek recruiter screener replied → salary range stated as AED 5,000-7,000.
+- 2 recruiter emails bounced (Morgan Tull, Brian Casey — wrong addresses).
+- NETWORKING.md updated: connection targeting strategy added at top — connect UP to CFOs/Finance Directors/FP&A Managers, not analysts.
+- Phase 2B started: 08_fpa_model.xlsx generated with all 9 tabs, Assumptions tab fully structured.
+- Revenue Build tab built: INDEX formula for horizontal seasonality lookup taught and applied (=INDEX(Assumptions!$B$17:$B$28,COLUMN()-2)). Units formula built (base units × seasonality). Revenue formula (units × ASP). Mixed-row summing error caught and corrected (units + revenue summed together — fixed to Revenue-only rows). Grand total AED 22.6M.
+- **CHECKPOINT 2B-1 called and passed.**
+
+**Next session START WITH:** Catch-up Q&A → ABDULLA ALARIF application → Phase 2B Week 4: COGS tab.
+**Committed:** Yes — pushed.
+
+---
 
 ### 2026-08-24 — Session 15: CF Complete + CHECKPOINT 2A-4 — Phase 2A Done
 

@@ -6,6 +6,27 @@ When a response comes in, paste it here and Claude will help craft the next mess
 
 ---
 
+## CONNECTION TARGETING STRATEGY
+*(Based on intel from Theodore Bros — TotalEnergies Dubai, 2026-08-23)*
+
+**Connect UP, not across.** Dubai hiring is relationship-driven. Analysts and peers have no leverage to help you get hired. The people who matter are:
+
+| Priority | Who to target | Why |
+|---|---|---|
+| 🔴 High | CFOs, Finance Directors, VP Finance | Decision-makers — a prior connection matters when a role opens |
+| 🔴 High | Finance Managers, FP&A Managers, Head of FP&A | Direct hiring managers for analyst-level roles |
+| 🟡 Medium | Senior Financial Analysts (3-5yr exp), Finance BPs | Referrers — can forward your name internally |
+| 🟡 Medium | HR/Talent Acquisition at target companies | Gate-keepers — knowing you = your CV gets pulled |
+| 🟢 Low | Junior analysts, peers at similar level | Little leverage. Connect if there's a genuine shared context, not for job leads |
+
+**When searching for new connections each session:**
+- Search by title: "CFO Dubai", "Finance Director Dubai [sector]", "Head of FP&A UAE", "FP&A Manager [company]"
+- Prioritise: Retail, FMCG, Energy, Real Estate (top sectors from skills matrix)
+- Invite note: reference something specific about their company or sector — never generic
+- Goal per week: 5-7 senior connections (CFO/Director/Manager level) + 2-3 mid-level referrers
+
+---
+
 ## HOW THIS WORKS
 
 1. **Invite sent** → logged here with the exact note used

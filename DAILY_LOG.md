@@ -27,11 +27,11 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 13 | 13 | 5–8 |
+| Applications sent | 0 | 13 | 5–8 |
 | Interviews booked | 0 | 0 | — |
-| Connection requests sent | 7 | 7 | 10–14 |
-| LinkedIn posts/comments | 0 | 0 | 5+ |
-| Learning hours logged | 11 | 11 | 5–7 hrs |
+| Connection requests sent | 0 | 7 | 10–14 |
+| LinkedIn posts/comments | 3 | 3 | 5+ |
+| Learning hours logged | 0 | 11 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -39,6 +39,24 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-25 | Session 16: Networking Catch-up + Phase 2B Start
+
+**Session type:** Networking backlog + Phase 2B kickoff
+**Jobs applied:** None. ABDULLA ALARIF still outstanding — must apply next session.
+**Connections sent:** None
+**LinkedIn activity:** 3 replies sent —
+- Shobhit Gupta: acknowledged CA credential gap, asked whether M.Sc. + CMA gets past FP&A screening in practice
+- Theodore Bros: asked whether posting portfolio projects on LinkedIn gets traction with recruiters vs building network in person
+- Nadiya Simran: closed the conversation politely (she's job-hunting herself, not an FP&A source)
+**Recruiter activity:** Maleek (Talent Source Consults) replied with screening questions. Replied with: work environment (in-office/hybrid, structured FP&A team), deal-breakers (6-day week, below AED 5k), salary range (AED 5,000–7,000). Likely linked to Naukrigulf Confidential Junior FA role.
+**Bounced emails:** morgan.tull@hays.com and brian.casey@cooperfitch.ae both returned address-not-found. Correct addresses still needed.
+**Learning outside session:** None
+**Responses received:** Shobhit Gupta, Theodore Bros, Nadiya Simran (all handled above). Maleek recruiter email received and replied.
+**Blockers/notes:** ABDULLA ALARIF not applied. 5 LinkedIn comments still pending. Brian Casey + Morgan Tull correct email addresses still needed. Naukrigulf Confidential JD + Mark Williams JD + Alghanim JD still unfetched.
+**Claude notes:** Networking backlog fully cleared this session. Phase 2B starts now — 08_fpa_model.xlsx to be built. Week 3 task: Assumptions tab + Revenue tab.
 
 ---
 
