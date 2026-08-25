@@ -71,9 +71,8 @@ All 14 pending LinkedIn JDs processed:
 - ❌ Marsh McLennan — Company page unavailable; job likely expired
 - ➕ Bonus: Al Khayyat Investments (AKI) — FPA Finance Analyst (STRETCH, 4-6yr)
 
-### 2. LinkedIn Connections — 20 Targets (NOT STARTED)
-Connect UP — CFOs, Finance Directors, FP&A Managers at target companies. Min 10 per session.
-Strategy: Find decision-makers at companies from today's JD pipeline (ITP Media, Rapyd, Taptap Send, Abbott, Fresha, Greenbull, Al Tayer). Short note + company reference.
+### 2. LinkedIn Connections — ✅ COMPLETE (2026-08-25)
+19 Finance Directors / CFOs / Heads of FP&A identified, profiled, and added to NETWORKING.md (#20–38) with invite notes ready to send. All 2nd-degree connections. Sources: LinkedIn people search pages 1 and 2. Notes drafted — Ashnad sends.
 
 ### 3. Recruiter Emails — 3 Outstanding (drafted 2026-08-23, NOT sent)
 - Brian Casey — Cooper Fitch

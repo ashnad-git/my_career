@@ -4,6 +4,16 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-25] — Session: LinkedIn Connections Batch — 19 Finance Directors / CFOs
+
+### Added
+- **2026-08-25** — `NETWORKING.md` — Entries #20–38: 19 Finance Directors, CFOs, Heads of FP&A identified via LinkedIn people search (pages 1–2, "FP&A Manager finance director" UAE). All 2nd-degree. All have invite notes drafted. Key targets: Niraj Madhogaria (FP&A Director Etihad), Veeshal T. (Finance Dir ex-Landmark/GMG), Mortada Hammoud (FD Americana Foods), CA Hariprasad Nair (Group CFO FMCG/Retail), Maaz Dastagir (Commercial FD Live Nation ME).
+
+### Updated
+- **2026-08-25** — `PENDING.md` — LinkedIn connections task marked complete.
+
+---
+
 ## [2026-08-25] — Session: LinkedIn JD Extraction + STRETCH Audit
 
 ### Added

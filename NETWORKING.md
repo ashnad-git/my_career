@@ -333,6 +333,219 @@ Théodore used "controlling" (European/French corporate term). UAE mostly uses "
 
 ---
 
+## CONNECTIONS — Finance Directors / CFOs / Heads of FP&A (Batch: 2026-08-25)
+
+*Strategy: Connect UP. All 2nd-degree. All in Dubai/UAE finance leadership. Send notes as written — do not modify the tone.*
+
+### 20. Niraj Madhogaria
+- **Role:** Director of FP&A | Etihad Airways | Abu Dhabi
+- **Profile:** https://www.linkedin.com/in/nirajmadhogaria/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Niraj, Director of FP&A at Etihad is exactly the kind of role I'm working toward. I'm in finance in Dubai making the move into FP&A. Would love to connect.
+- **Their response:** —
+- **Notes:** Senior FP&A leader at major airline. If he responds, ask Q1 (self-taught enough?) or Q3 (what tips hiring decision?).
+
+---
+
+### 21. Mohammed Afzal Volli
+- **Role:** Finance Director | Ras Al Khaimah Economic Zone (RAKEZ)
+- **Profile:** https://www.linkedin.com/in/mohammedafzal/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Mohammed, the finance transformation work at RAKEZ caught my attention. I'm building toward FP&A in Dubai and would love to connect.
+- **Their response:** —
+- **Notes:** Finance Director with SAP and AI-driven analytics focus. Good for understanding digital finance transformation in UAE.
+
+---
+
+### 22. Mohamed Bachiri
+- **Role:** Finance Director FP&A | Egis MESA | Dubai
+- **Profile:** https://www.linkedin.com/in/mohamed-bachiri-3b641741/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Mohamed, Finance Director FP&A at Egis caught my attention. I'm making the move into FP&A in Dubai and would love to be in your network.
+- **Their response:** —
+- **Notes:** FP&A Director at Egis (infrastructure/consulting). Mutual: Jeff Landers, Roshni Pinto.
+
+---
+
+### 23. Binu Chenthamarakshan
+- **Role:** Group FP&A Controller | GMS Leadership | Oil & Gas / Shipping | Dubai
+- **Profile:** https://www.linkedin.com/in/binu-chenthamarakshan-acca-ifrs-fmva-mba-nibm-cfm-cssbb-cpim-fpap-bida-ftip-40a4569a/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Binu, your group FP&A background in oil and gas caught my attention. I'm in finance in Dubai working toward FP&A. Would love to connect.
+- **Their response:** —
+- **Notes:** Group FP&A Controller level, ACCA. Oil & Gas/Shipping sector. Mutual: Adel Ansar.
+
+---
+
+### 24. Ahmed Alshehhi
+- **Role:** Director Financial Affairs | Family Care Authority | Abu Dhabi
+- **Profile:** https://www.linkedin.com/in/ahmed-alshehhi-certifrs-acca-ii-730019166/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Ahmed, your financial planning and transformation background in UAE caught my attention. I'm in finance here working toward FP&A. Would love to connect.
+- **Their response:** —
+- **Notes:** Government sector FP&A Director. ACCA. Mutual: Anushka Setia. Abu Dhabi based — less direct for private sector roles but government finance is a large employer.
+
+---
+
+### 25. Karanjyot Singh Sethi
+- **Role:** Associate Director — Finance & Accounting Advisory | KPMG Lower Gulf | Dubai
+- **Profile:** https://www.linkedin.com/in/karanjyot-singh-sethi-681a3151/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Karanjyot, your finance transformation and FP&A advisory work at KPMG caught my attention. I'm in finance in Dubai building toward FP&A and would love to connect.
+- **Their response:** —
+- **Notes:** KPMG advisory — sees inside many companies' FP&A functions. LinkedIn shows Follow button (2K followers) — can still connect. Mutual: Subodh, Anushka. Good for Q2 (do portfolio projects land with hiring managers?).
+
+---
+
+### 26. Nilesh Ghatwal
+- **Role:** CFO | Finance Director | Financial Controller | 25+ Years Hospitality | UAE
+- **Profile:** https://www.linkedin.com/in/nilesh-ghatwal-106446128/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Nilesh, 25 years of finance leadership in UAE is impressive. I'm a finance professional here making the move into FP&A. Would love to be in your network.
+- **Their response:** —
+- **Notes:** Very senior, hospitality sector. Mutual: Medulaj KV, GHAZANFAR ALI. Good long-game connection — if hiring ever opens, being in his network matters.
+
+---
+
+### 27. Mortada Hammoud
+- **Role:** Financial Director | Americana Foods | Ex-Pepsico, Ex-Nestle | Dubai
+- **Profile:** https://www.linkedin.com/in/mortada-hammoud-9958549a/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Mortada, FMCG finance leadership across Americana, Pepsico and Nestle is impressive. I'm working toward FP&A in Dubai and would love to connect.
+- **Their response:** —
+- **Notes:** FMCG Finance Director — relevant sector. Americana is a major MENA FMCG player (fast food and food distribution). Mutual: Joseph George.
+
+---
+
+### 28. Maaz Dastagir
+- **Role:** Commercial Finance Director — UAE | Live Nation Middle East | Dubai
+- **Profile:** https://www.linkedin.com/in/maaz-dastagir-4a418146/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Maaz, commercial finance at Live Nation Middle East sounds like a challenging environment. I'm making the move into FP&A in Dubai and would love to be in your network.
+- **Their response:** —
+- **Notes:** Commercial Finance Director at entertainment company. Mutual: Muhammed Rasheem. If responds, good Q1 ask.
+
+---
+
+### 29. Shahab Ahmed, ACA, CMA, CIA
+- **Role:** Assistant Director Finance | FP&A | Big 4 | Dubai Integrated Economic Zones Authority
+- **Profile:** https://www.linkedin.com/in/shahab-ahmed-aca-cma-cia-18a7a724/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Shahab, Big 4 background into government FP&A in Dubai is an interesting path. I'm post-EY making the same transition into FP&A. Would love to connect.
+- **Their response:** —
+- **Notes:** EY/Big 4 background, now government sector FP&A. CMA (same as Ashnad's path). Real estate/asset management angle. Good peer for transition advice.
+
+---
+
+### 30. Rohit Dhanuka
+- **Role:** CFO | UAE
+- **Profile:** https://www.linkedin.com/in/rohit-dhanuka-649b4a20/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Rohit, reaching out as a finance professional in Dubai working toward FP&A roles. Would love to be in your network.
+- **Their response:** —
+- **Notes:** CFO, UAE. Mutual: Jeff Landers, Subodh. Not much detail on current company — generic note is appropriate.
+
+---
+
+### 31. Veeshal T.
+- **Role:** Finance Director | Head of Finance UAE & GCC | FP&A | Ex-Landmark Group, GMG Group, Future Group
+- **Profile:** https://www.linkedin.com/in/vishalt1507/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Veeshal, retail FP&A across Landmark and GMG is exactly the space I'm targeting. I'm in finance in Dubai building toward FP&A. Would love to connect.
+- **Their response:** —
+- **Notes:** VERY HIGH VALUE. Finance Director with direct experience at Landmark Group and GMG — two of Ashnad's target employers. Retail FP&A expert. Mutual: Zaynah, Tejaswini. If responds, ask Q1 and Q3. IIM Bangalore + CA — will appreciate directness.
+
+---
+
+### 32. Syed Bilal Hasan
+- **Role:** Group Finance Director | CFO | M&A | FP&A | Board Advisor | Dubai
+- **Profile:** https://www.linkedin.com/in/syed-bilal-hasan/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Syed, your range across FP&A, M&A and board advisory caught my eye. I'm a finance professional in Dubai working toward FP&A. Would love to be in your network.
+- **Their response:** —
+- **Notes:** Group Finance Director/CFO level. Mutual: Amir Tantawi, Subodh. Senior connection.
+
+---
+
+### 33. Nitin Agarwal
+- **Role:** Head of Finance | Former Treasury, FP&A & Financial Control Lead | UAE
+- **Profile:** https://www.linkedin.com/in/nitin-agarwal-47b5851b/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Nitin, your experience across treasury, FP&A and financial control is exactly the breadth I'm building toward. I'm in finance in Dubai moving into FP&A. Would love to connect.
+- **Their response:** —
+- **Notes:** Head of Finance. Mutual: Shafeeq, Rasha. Finance transformation + capital strategy background.
+
+---
+
+### 34. Sabah Saleem
+- **Role:** Finance | FP&A | Strategy | Risk Management | Transformation | Dubai
+- **Profile:** https://www.linkedin.com/in/sabah-saleem-a2957116/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Sabah, your mix of FP&A, strategy and transformation in Dubai caught my attention. I'm building toward FP&A here and would love to be in your network.
+- **Their response:** —
+- **Notes:** Broad FP&A + strategy + risk profile. Mutual: Zaynah, Ghaya Al Saleh CFA. Dubai-based.
+
+---
+
+### 35. Wajid Khan, FCMA
+- **Role:** Group CFO & COO | Diversified Holding Groups | Family Office | UAE, Qatar, KSA
+- **Profile:** https://www.linkedin.com/in/wajidcfodubai/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Wajid, group CFO and COO in one role is rare. I'm a finance professional in Dubai working toward FP&A roles. Would love to be in your network.
+- **Their response:** —
+- **Notes:** Very senior, diversified holding group + family office. FCMA. Mutual: Subodh, Jonathan Von Bock. Long-term network investment.
+
+---
+
+### 36. Himanshu Malhotra
+- **Role:** Director Finance | Strategic Finance Leader UAE & GCC | Dubai
+- **Profile:** https://www.linkedin.com/in/himanshu-malhotra-hm/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Himanshu, your finance leadership across UAE and GCC caught my attention. I'm in finance here building toward FP&A roles. Would love to connect.
+- **Their response:** —
+- **Notes:** Director Finance, UAE & GCC scope. Mutual: Zaynah, Anasua Bagchi. Good senior connection.
+
+---
+
+### 37. CA Hariprasad Nair
+- **Role:** Group CFO | Board Advisor | FMCG, F&B, Omnichannel Retail | UAE
+- **Profile:** https://www.linkedin.com/in/ca-hariprasad-nair-834ab442/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Hariprasad, group CFO experience across FMCG and retail in UAE is very relevant to the space I'm targeting. I'm making the move into FP&A here. Would love to connect.
+- **Their response:** —
+- **Notes:** Group CFO across FMCG, F&B and omnichannel retail — directly relevant sectors. 4K followers, Board Advisor. Mutual: Jonathan Von Bock. High-value connection for FMCG/retail FP&A roles.
+
+---
+
+### 38. Vassim Sha
+- **Role:** FP&A Analyst | Finance Manager | MIS | Financial Reporting | Dubai
+- **Profile:** https://www.linkedin.com/in/vassim-sha-530986a9/
+- **Date sent:** —
+- **Status:** ⬜ NOT YET SENT
+- **Invite note:** Hi Vassim, your FP&A work in Dubai caught my attention and we have quite a few mutual connections. I'm making the transition into FP&A here and would love to connect.
+- **Their response:** —
+- **Notes:** FP&A Analyst/Finance Manager level — 9 mutual connections and 3K followers. Good peer-level connection with high mutual overlap. Could lead to referrals.
+
+---
+
 ## RECRUITERS OUTREACH
 
 ### 1. Talha Sajjad — Synthify HR Solutions
