@@ -4,6 +4,27 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-25] — Session 19: Applications (3) + Script Refactor
+
+### Added
+- **2026-08-25** — `scripts/resume_utils.py` — Extracted all shared infrastructure from build_resume_pdf.py: styles, helpers (b, section, job, edu_row, proj_row, header, build_pdf), shared content (ey_tax_analyst_bullets, ey_intern_bullets, education_section). 157 lines. Import with `from resume_utils import *`.
+- **2026-08-25** — `scripts/resumes/` — Package directory. 10 individual resume modules (master, chalhoub, naffco, dubizzle, totalenergies_cl, altayer, altayer_cl, itp, greenbull, nep). Each has a single `build()` function. ~80–140 lines each. Adding new resume = create one file + 2 lines in dispatcher.
+- **2026-08-25** — `resumes/Muhammed_Ashnad_NEP_CommercialFinanceAnalyst.md` + `.pdf` — Tailored resume for NEP Singapore Commercial Finance Analyst. Audit score 66/100 (structural gap: 3-5yr required). Fixes: media/advertising sector framing, 475 active accounts bullet, CEO presentation language, sensitivity analysis in projects.
+- **2026-08-25** — `resumes/Muhammed_Ashnad_ITPMediaGroup_AsstMgmtAccountant.md` + `.pdf` — Tailored for ITP Media Group Assistant Management Accountant. Applied.
+- **2026-08-25** — `resumes/Muhammed_Ashnad_Greenbull_JuniorFinancialAnalyst.md` + `.pdf` — Tailored for Greenbull Junior FA. NOT applied (French fluency required, discovered on application page, not visible in Indeed preview).
+
+### Changed
+- **2026-08-25** — `scripts/build_resume_pdf.py` — Refactored from 1364-line monolith to 62-line dispatcher. Imports resume modules from scripts/resumes/, maps keys to build() functions. Script size now fixed regardless of how many resumes are added.
+- **2026-08-25** — `JOB_PIPELINE.md` — Row 16 added: NEP Singapore Applied 2026-08-25 (STRONG FIT, tailored PDF).
+- **2026-08-25** — `jds/Greenbull_Dubai_JuniorFinancialAnalyst_2026-08-25.md` — Status updated to NOT SUITABLE (French fluency required).
+
+### Fixed
+- **2026-08-25** — All resume files and build functions: `CMA (US / IMA)` → `CMA (US)` throughout. IMA is the administering body, not part of the credential name.
+- **2026-08-25** — All resume files and build functions: em dashes removed from all bullets. Replacements: colon, comma, semicolon, parentheses, "by", split sentence.
+- **2026-08-25** — ITP resume: removed false claim "(equivalent to part-qualified ACCA/CIMA)" from summary.
+
+---
+
 ## [2026-08-25] — Session: LinkedIn Connections Batch — 19 Finance Directors / CFOs
 
 ### Added

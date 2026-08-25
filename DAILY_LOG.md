@@ -27,7 +27,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 0 | 13 | 5–8 |
+| Applications sent | 3 | 16 | 5–8 |
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 (notes ready, Ashnad sends) | 7 | 10–14 |
 | LinkedIn posts/comments | 3 | 3 | 5+ |
@@ -40,6 +40,31 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-25 | Session 19: Job Applications (3) + Script Refactor
+
+**Session type:** Applications + infrastructure refactor
+**Jobs applied:** 3
+- ABDULLA ALARIF HOLDING — Strategy Analyst (Indeed Easy Apply, master PDF, STRETCH)
+- ITP Media Group — Assistant Management Accountant (Indeed Easy Apply, tailored PDF, STRONG FIT)
+- NEP Singapore — Commercial Finance Analyst (Indeed portal, tailored PDF, STRONG FIT)
+- Greenbull — NOT applied. French fluency required, discovered on application page (not in JD preview)
+**Connections sent:** Not done this session
+**LinkedIn activity:** None
+**Learning outside session:** Not asked
+**Responses received:** None
+**Session work:**
+- Built NEP tailored resume from content prepared previous session; ran /hr-audit (66/100); applied 3 fixes (media sector framing, 475 accounts bullet, CEO presentation language); rebuilt PDF; applied
+- Refactored build_resume_pdf.py: 1364 lines → 62-line dispatcher + scripts/resume_utils.py (157 lines) + 10 individual files in scripts/resumes/. All 10 builds verified. New resumes now cost ~100 lines per file; main dispatcher never grows
+- JOB_PIPELINE.md updated: row 16 added (NEP)
+**Blockers/notes:**
+- 3 recruiter emails still unsent (Brian Casey / Cooper Fitch, Darius Dosieah / Robert Walters, Morgan Tull / Hays UAE) — now 4+ sessions overdue
+- 19 LinkedIn connection notes ready to send (Ashnad sends)
+- Remaining STRONG FIT queue: Bayt Associate Commercial Analyst x2 (Property Finder/BT-74868496/BT-74866070), zcreatix Junior Finance Analyst, Confidential Junior Process Performance Analyst (NG jid-130826000672)
+- GOOD FIT batch not started (Black Pearl, Michael Page, Fresha, Rapyd, Taptap Send, Abbott, Al Tayer Retail Finance etc.)
+- Phase 2B model paused for applications — resume next session (COGS tab)
 
 ---
 

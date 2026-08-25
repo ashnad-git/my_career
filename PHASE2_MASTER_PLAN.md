@@ -17,10 +17,10 @@
 | **Current Phase** | Phase 2B — Project 1: FP&A Model (Week 4: COGS + OpEx + P&L Summary) |
 | **Current Task** | Build COGS tab — link COGS% from Assumptions to Revenue |
 | **Last Session Date** | 2026-08-25 |
-| **Last Session Summary** | Session 18: LinkedIn JD extraction complete (7 JDs saved, 3 confirmed expired). 19 Finance Director/CFO connections identified with notes in NETWORKING.md (#20–38). No applications submitted — Ashnad handles all submissions. ABDULLA ALARIF draft saved on Indeed. Shiseido GOOD FIT saved. |
-| **Next Session: Start With** | 1. Read this file + PENDING.md 2. Catch-up Q&A → DAILY_LOG entry 3. Send 3 recruiter emails (Brian Casey, Darius, Morgan) 4. Work through STRONG FIT applications one by one: JD → /hr-audit → tailored resume → PDF → handoff |
-| **Blockers** | 3 recruiter emails still unsent (2+ sessions overdue). 44+ jobs in pipeline unapplied. ABDULLA ALARIF draft saved. 19 connection notes ready to send (Ashnad sends). |
-| **Applications Sent** | 13 |
+| **Last Session Summary** | Session 19: Applied to 3 jobs — ABDULLA ALARIF (STRETCH, master), ITP Media Group (STRONG, tailored), NEP Singapore (STRONG, tailored). Greenbull NOT applied (French required, discovered on form). Refactored build_resume_pdf.py: 1364 lines → 62-line dispatcher + resume_utils.py + 10 individual files in scripts/resumes/. All builds verified. Applications total: 16. |
+| **Next Session: Start With** | 1. Read this file + PENDING.md 2. Catch-up Q&A → DAILY_LOG entry 3. Resume Phase 2B — COGS tab (link COGS% from Assumptions, build COGS row formula across 12 months) |
+| **Blockers** | 3 recruiter emails still unsent (4+ sessions overdue — Brian Casey, Darius Dosieah, Morgan Tull). 19 LinkedIn connection notes ready (Ashnad sends). STRONG FIT queue remaining: Property Finder x2, zcreatix, Confidential Junior Process Performance. |
+| **Applications Sent** | 16 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 22% — Assumptions + Revenue Build complete (CHECKPOINT 2B-1 passed) |
 | **Project 2 Progress** | 0% — Not started |

@@ -10,18 +10,19 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ---
 
-## APPLY NEXT SESSION — 2026-08-25 priority list
+## APPLY NEXT SESSION — Remaining queue
 
-**Context:** 82 new JDs saved today across Indeed/Bayt/Naukrigulf/GulfTalent. 110 total in jds/. Apply in order below — STRONG FIT first.
+### ✅ Applied 2026-08-25 (Session 19) — DONE
+- ABDULLA ALARIF HOLDING — Strategy Analyst (master PDF, STRETCH)
+- ITP Media Group — Assistant Management Accountant (tailored PDF, STRONG FIT)
+- NEP Singapore — Commercial Finance Analyst (tailored PDF, STRONG FIT, score 66/100)
+- Greenbull Dubai — NOT SUITABLE (French fluency required, discovered on application page)
 
-### ✅ STRONG FIT — Apply with cover letter
+### STRONG FIT — Still to apply (do next application session)
 
 | Company | Role | ID / URL | Notes |
 |---|---|---|---|
-| ITP Media Group | Assistant Management Accountant | Indeed jk-76bec186c0f27329 | Mgmt accounts, budgeting, variance. Leading UAE media group. |
-| Greenbull Dubai | Junior Financial Analyst (AED 15–18k) | Indeed jk-5470dd9ed1387d64 | 0–2yr, M&A/Ventures, M.Sc. = advantage |
-| NEP Singapore | Commercial Finance Analyst | Indeed jk-4c8377bbab0ef6c5 | 3–5yr, CIMA preferred not required, Power BI plus |
-| Bayt | Associate Commercial Analyst (x2) | BT-74868496 / BT-74866070 | Check if same role — 2 listings |
+| Property Finder / Bayt | Associate Commercial Analyst (x2) | BT-74868496 / BT-74866070 | Check if same role — 2 listings |
 | zcreatix | Junior Finance Analyst | Indeed (jobspy) | Junior level |
 | Confidential | Junior Process Performance Analyst | NG jid-130826000672 | 2–5yr |
 
@@ -74,7 +75,7 @@ All 14 pending LinkedIn JDs processed:
 ### 2. LinkedIn Connections — ✅ COMPLETE (2026-08-25)
 19 Finance Directors / CFOs / Heads of FP&A identified, profiled, and added to NETWORKING.md (#20–38) with invite notes ready to send. All 2nd-degree connections. Sources: LinkedIn people search pages 1 and 2. Notes drafted — Ashnad sends.
 
-### 3. Recruiter Emails — 3 Outstanding (drafted 2026-08-23, NOT sent)
+### 3. Recruiter Emails — 3 Outstanding (drafted 2026-08-23, NOT sent — 4+ sessions overdue)
 - Brian Casey — Cooper Fitch
 - Darius Dosieah — Robert Walters
 - Morgan Tull — Hays UAE
