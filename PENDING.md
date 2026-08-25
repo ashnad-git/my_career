@@ -10,28 +10,60 @@ Track of work in progress, decisions pending, and things to circle back to. Time
 
 ---
 
-## APPLY TOMORROW — 2026-08-21 (in deadline order)
+## APPLY NEXT SESSION — 2026-08-25 priority list
 
-**Context:** 6 applications submitted today (2026-08-20). These 5 are the next batch — all STRETCH, Easy Apply only, master resume. No tailoring needed.
+**Context:** 82 new JDs saved today across Indeed/Bayt/Naukrigulf/GulfTalent. 110 total in jds/. Apply in order below — STRONG FIT first.
 
-| Priority | Company | Role | Deadline | LinkedIn URL | Method | Notes |
-|---|---|---|---|---|---|---|
-| 🔴 URGENT | TotalEnergies | FP&A and Economist | Aug 25 | linkedin.com/jobs/view/4440531428 | Easy Apply | French MNC; "Economist" in title = M.Sc. Economics angle plays well |
-| 🔴 URGENT | Huda Beauty | Finance Analyst MEAI (Fixed Term) | Aug 25 | linkedin.com/jobs/view/4448961337 | Easy Apply | Fixed-term contract; consumer brand FP&A; lower competition than perm roles |
-| 🟡 | Sundus | Budget Analyst | Aug 26 | linkedin.com/jobs/view/4441466287 | Easy Apply | Abu Dhabi location; staffing firm; pure budgeting focus |
-| 🟡 | Mohamed Hilal Group | Financial Analyst | Aug 26 | linkedin.com/jobs/view/4454495190 | Easy Apply | Sharjah; retail exp preferred but not mandatory |
-| 🟢 | Khazna Data Centers | Financial Modeller | Aug 28 | linkedin.com/jobs/view/4445665949 | Easy Apply | Data center sector; financial modelling focus |
+### ✅ STRONG FIT — Apply with cover letter
 
-**Also in active pipeline (no deadline pressure yet):**
-- AD Ports Group — Treasury Analyst, Abu Dhabi (4444301466) — STRETCH, treasury ≠ FP&A, low priority
+| Company | Role | ID / URL | Notes |
+|---|---|---|---|
+| ITP Media Group | Assistant Management Accountant | Indeed jk-76bec186c0f27329 | Mgmt accounts, budgeting, variance. Leading UAE media group. |
+| Greenbull Dubai | Junior Financial Analyst (AED 15–18k) | Indeed jk-5470dd9ed1387d64 | 0–2yr, M&A/Ventures, M.Sc. = advantage |
+| NEP Singapore | Commercial Finance Analyst | Indeed jk-4c8377bbab0ef6c5 | 3–5yr, CIMA preferred not required, Power BI plus |
+| Bayt | Associate Commercial Analyst (x2) | BT-74868496 / BT-74866070 | Check if same role — 2 listings |
+| zcreatix | Junior Finance Analyst | Indeed (jobspy) | Junior level |
+| Confidential | Junior Process Performance Analyst | NG jid-130826000672 | 2–5yr |
 
-**JDs spotted but not yet fetched — check at start of next session:**
-- Revolut — Data Analyst (Finance), UAE Remote — potentially interesting, check if still live
-- Mark Williams Recruitment — Financial Analyst, Abu Dhabi (4444421989)
-- Alghanim Industries — Financial Analyst, Kirby, RAK (4444415740)
-- finera — Treasury Officer, Dubai — likely NOT SUITABLE (treasury)
-- Tabby — Treasury Associate, Dubai — likely NOT SUITABLE
-- Invenire Group — Treasury Analyst, Abu Dhabi — likely NOT SUITABLE
+### 🟡 GOOD FIT — Apply this week
+
+Black Pearl FP&A Analyst (BT-5472291), Michael Page FP&A (BT-5478477), Fresha Finance Analyst (BT-74569901), Rapyd Financial Operations (GT-617022), Taptap Send Finance Reconciliation (GT-608935), Abbott Finance Analyst (GT-601337), Leading Investment Company BI Analyst (GT-612094), Halian Finance Data Analytics (BT-74838895), Huda Beauty MEAI Fixed Term (jk-31bde5c27f0621e1), AEJEA-POML Finance Business Partner (jk-0409304582cb919a), Milele Finance Executive (jk-e447160cbfebe473), Al Tayer Retail Finance (BT-75060496), IHG Cluster Revenue Analyst, Atlantis Revenue Analyst, Bahmani Manufacturing FP&R (jid-250826000673), Ladwig Consulting FA (jid-130826500252), Confidential Strategic Business Analyst (jid-120826001180)
+
+### 🟠 STRETCH — Easy Apply only
+
+Al Futtaim Senior FA (BT-5476792), Talent21 Senior BA Oracle ERP (jid-170826501085), Sephora FP&A Lead, WSP Financial Analyst, TECHORBIT Senior Analyst Finance Strategy
+
+### 🔴 OUTSTANDING — ABDULLA ALARIF (3 sessions overdue)
+Apply immediately: https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05
+
+---
+
+## NEXT SESSION TASKS
+
+### 1. LinkedIn JD Extraction — 14 Jobs Pending
+Fetch JDs via browser for these LinkedIn jobs (spotted before context summary — find via LinkedIn search):
+Emarat FA, Shiseido Finance Analyst, Fitch Ratings Analyst, TALENTMATE x3 Finance Analyst, GymNation Finance Analyst, Sharaf DG FA, Michael Page Finance Analyst, Emirates Flight Catering FA, Eaton Project Controlling, Cost Analyst EFC, Marsh McLennan Finance Analyst, ENGIE Finance Analyst AMEA
+
+### 2. LinkedIn Connections — 20 Targets (NOT STARTED)
+Connect UP — CFOs, Finance Directors, FP&A Managers at target companies. Min 10 per session.
+Strategy: Find decision-makers at companies from today's JD pipeline (ITP Media, Rapyd, Taptap Send, Abbott, Fresha, Greenbull, Al Tayer). Short note + company reference.
+
+### 3. Recruiter Emails — 3 Outstanding (drafted 2026-08-23, NOT sent)
+- Brian Casey — Cooper Fitch
+- Darius Dosieah — Robert Walters
+- Morgan Tull — Hays UAE
+
+---
+
+## Cleared 2026-08-25
+- ✅ TotalEnergies FP&A applied 2026-08-23
+- ✅ Huda Beauty MEAI LinkedIn applied 2026-08-23
+- ✅ Mohamed Hilal Group applied 2026-08-23
+- ✅ Khazna Data Centers applied 2026-08-23
+- ✅ AD Ports Treasury applied 2026-08-23
+- ✅ Sundus — CLOSED (no longer accepting)
+- ✅ 82 new JDs saved to jds/ — bulk job search complete
+- ✅ JobSpy established as Indeed scraper (python-jobspy, free, no auth)
 
 ---
 

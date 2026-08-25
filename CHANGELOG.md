@@ -4,6 +4,22 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-25] — Session: Bulk Job Search — 82 New JDs Across 5 Platforms
+
+### Added
+- **2026-08-25** — `jds/` — 82 new JD files: Indeed (37 via JobSpy), Bayt (17 via crawl4ai), Naukrigulf (10 via browser + crawl4ai), GulfTalent (6), individual browser fetches (12). Total archive: 110 files.
+- **2026-08-25** — `python-jobspy` established as primary Indeed scraper: 20 keyword queries, full JD text returned, no auth/API key needed. Documented in CLAUDE.md.
+- **2026-08-25** — `JOB_PIPELINE.md` — Rows 19–63 added: 44 new STRONG/GOOD FIT roles. Includes ITP Media Group (STRONG), Greenbull Junior FA (STRONG), NEP Commercial Finance (STRONG), Associate Commercial Analyst x2 (STRONG), plus 20+ GOOD FIT analyst roles across all platforms.
+
+### Fixed
+- **2026-08-25** — `jds/` — 4 bad Indeed JD files that contained login page content instead of JD replaced with real content: Huda Beauty MEAI, Binance Business Analyst (NOT SUITABLE — Chinese/Mandarin required), Bahmani Group FP&R, AEJEA-POML MCV Finance Business Partner.
+- **2026-08-25** — 9 duplicate JD files removed (same role saved twice from different crawl batches).
+
+### Updated
+- **2026-08-25** — `JOB_PIPELINE.md` — Last Updated updated to 2026-08-25. Old stale "APPLY TOMORROW 2026-08-21" content superseded by Session 2026-08-25 section.
+
+---
+
 ## [2026-08-24] — Session 14: Modeling Best Practices + Textbook + CF Intro
 
 ### Added

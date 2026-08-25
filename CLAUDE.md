@@ -384,6 +384,7 @@ Capture for each role:
 
 ---
 
-**Last Updated:** 2026-08-23  
-**Current Phase:** Phase 2A — Excel Foundations (Day 6: Charts)  
-**Next Review:** After CHECKPOINT 2A-3 fully passes
+**Last Updated:** 2026-08-25  
+**Current Phase:** Applications active — 110 JDs in archive, 13 applied, 44 new STRONG/GOOD FIT queued. Phase 2B FP&A model in parallel.  
+**Indeed scraper:** `python-jobspy` (free, no auth). Run: `from jobspy import scrape_jobs` — see scratchpad/scrape_jobs.py for reference.  
+**Next Review:** Read PENDING.md first — ABDULLA ALARIF overdue (3 sessions), 44 jobs to apply, 14 LinkedIn JDs to fetch, 20 connections + 3 recruiter emails pending.

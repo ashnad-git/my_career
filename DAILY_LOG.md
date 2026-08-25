@@ -33,12 +33,31 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | LinkedIn posts/comments | 3 | 3 | 5+ |
 | Learning hours logged | 3 | 14 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
+| JDs saved in archive | — | 110 | — |
 
 ---
 
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-25 | Session 17: Bulk Job Search — 82 New JDs
+
+**Session type:** Bulk job search across 5 platforms (Indeed, Bayt, Naukrigulf, GulfTalent, browser viewjob fetches)
+**Jobs applied:** None this session — pure research/collection
+**Connections sent:** 0 — not started (carry to next session)
+**LinkedIn activity:** None
+**Learning outside session:** Not confirmed — carry to next session log
+**Responses received:** Not confirmed — carry to next session log
+**Blockers/notes:**
+- ABDULLA ALARIF still not applied — now 3 sessions overdue. Apply FIRST next session.
+- 14 LinkedIn JDs still pending extraction from browser
+- 20 LinkedIn connections not started (CFOs/Finance Directors/FP&A Managers)
+- 3 recruiter emails (Brian Casey/Cooper Fitch, Darius Dosieah/Robert Walters, Morgan Tull/Hays) not sent — drafted 2026-08-23
+- 44 new STRONG/GOOD FIT jobs identified — none applied yet; ready to go next session
+**Claude notes:** Established python-jobspy as permanent Indeed scraper (free, 20 keyword queries → 120+ jobs in 3 mins, full JD text). Total JD archive: 110 files (28 pre-existing + 82 new today). Top STRONG FIT from today: ITP Media Group (Asst Mgmt Accountant), Greenbull Junior FA (AED 15–18k), NEP Commercial Finance Analyst, Associate Commercial Analyst x2 (Bayt). JOB_PIPELINE.md updated rows 19–63.
 
 ---
 
