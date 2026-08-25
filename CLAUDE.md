@@ -178,6 +178,27 @@ python3 scripts/build_resume_pdf.py <key>
 - Margins: left/right 17mm, top/bottom 14mm
 - Page size: A4, single column, all text selectable (ATS-safe)
 
+### Resume prose style — hard rules
+
+**English:** British throughout. `analysed` not analyzed. `organised` not organized. `co-ordination` not coordination. `behaviour` not behavior.
+
+**Bullet format:** Strong active verb → specific task/scope → outcome or scale where genuinely true. No padding. No soft adjectives ("effectively", "successfully"). No "responsible for" — replace with the actual verb.
+
+**Bullet length:** One line where possible. Two lines maximum. If it needs three lines, split into two bullets.
+
+**Honesty rule:** Never claim experience that does not exist. Portfolio projects are presented as personal projects (under PROJECTS section), never implied as work experience. If Ashnad hasn't done something professionally, say "exposure to" or "developed skills in" at most — not "led" or "managed".
+
+**Sub-header structure (Promotech role):**
+- "Finance Systems Transformation" — ERP migration, chaos-to-order rebuild story
+- "Financial Reporting & Analysis" — P&L, variance, management packs, month-end close
+- Order these sub-headers based on what the JD cares about most. FP&A roles: Reporting first. Systems/ERP roles: Transformation first.
+
+**Summary paragraph:** Always references the company name and specific role. Never generic. Pull 2–3 of the most relevant JD keywords into the summary naturally.
+
+**Core Competencies:** Restructure for each JD — put the skills that appear in the JD first. Don't add skills Ashnad doesn't have just because the JD lists them.
+
+**Tailoring precedent:** Read `resumes/Muhammed_Ashnad_Chalhoub_FPnA_Associate.md` before building any new tailored version — it is the established reference for how we approach tailoring depth, bullet reordering, and summary rewriting.
+
 ---
 
 ## Files & Their Purpose
