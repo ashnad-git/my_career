@@ -1,7 +1,7 @@
 # Job Pipeline — Live Applications Tracker
 
 **Purpose:** Every job Claude finds goes here. Ashnad applies. Status tracked every session.  
-**Last Updated:** 2026-08-20  
+**Last Updated:** 2026-08-25  
 **Rule:** Apply to every STRONG FIT and GOOD FIT job within 24 hours of it appearing here.
 
 ---
@@ -265,6 +265,86 @@
 
 ---
 
-**Last job search run:** 2026-08-21  
+---
+
+## SESSION 2026-08-25 — BULK SEARCH (82 new JDs)
+
+**Method:** JobSpy (Indeed, 20+ keyword searches) + crawl4ai (Bayt, GulfTalent, Naukrigulf) + browser extraction  
+**Tool answered:** JobSpy (`python-jobspy`) is now the primary Indeed scraper — free, no auth needed, full JD returned  
+**Total JD files in jds/:** 110 (28 pre-existing + 82 new today)
+
+### ✅ STRONG FIT — Apply immediately
+
+| # | Company | Role | Source | URL / Job ID | JD Saved |
+|---|---|---|---|---|---|
+| 19 | ITP Media Group | Assistant Management Accountant | Indeed | https://ae.indeed.com/viewjob?jk=76bec186c0f27329 | ✅ |
+| 20 | Greenbull Dubai | Junior Financial Analyst (AED 15–18k/month) | Indeed | https://ae.indeed.com/viewjob?jk=5470dd9ed1387d64 | ✅ |
+| 21 | zcreatix | Junior Finance Analyst | Indeed (JobSpy) | https://ae.indeed.com/viewjob | ✅ |
+| 22 | Confidential | Junior Process Performance Analyst | Naukrigulf | jid-130826000672 | ✅ |
+| 23 | Property Finder / Bayt | Associate Commercial Analyst | Bayt | BT-74868496 / BT-74866070 | ✅ |
+| 24 | NEP Singapore | Commercial Finance Analyst | Indeed | https://ae.indeed.com/viewjob?jk=4c8377bbab0ef6c5 | ✅ |
+
+### 🟡 GOOD FIT — Apply this week
+
+| # | Company | Role | Source | Job ID | JD Saved |
+|---|---|---|---|---|---|
+| 25 | Black Pearl | Financial Analyst FP&A | Bayt | BT-5472291 | ✅ |
+| 26 | Michael Page | FP&A Analyst | Bayt | BT-5478477 | ✅ |
+| 27 | Fresha | Finance Analyst | Bayt | BT-74569901 | ✅ |
+| 28 | Rapyd | Financial Operations Analyst | GulfTalent | GT-617022 | ✅ |
+| 29 | Taptap Send | Finance Reconciliation Analyst | GulfTalent | GT-608935 | ✅ |
+| 30 | Abbott | Finance Analyst | GulfTalent | GT-601337 | ✅ |
+| 31 | Leading Investment Company | BI & Digital Transformation Analyst | GulfTalent | GT-612094 | ✅ |
+| 32 | Talent Bridge HR | Financial Analyst | GulfTalent | GT-617711 | ✅ |
+| 33 | Delphi Star Training Center | Financial Analyst | GulfTalent | GT-620471 | ✅ |
+| 34 | Halian | Finance Data Analytics & Automation Consultant | Bayt | BT-74838895 | ✅ |
+| 35 | Confidential | Strategic Business Analyst (2–5yr) | Naukrigulf | jid-120826001180 | ✅ |
+| 36 | Ladwig Consulting Client | Financial Analyst (2–7yr) | Naukrigulf | jid-130826500252 | ✅ |
+| 37 | Bahmani Manufacturing | Financial Analyst FP&R (3–8yr, Big 4) | Naukrigulf | jid-250826000673 | ✅ |
+| 38 | AEJEA-POML Corporate | MCV Finance Business Partner (maritime) | Indeed | jk-0409304582cb919a | ✅ |
+| 39 | Milele | Finance Executive (AP/ops/month-end) | Indeed | jk-e447160cbfebe473 | ✅ |
+| 40 | Huda Beauty | Finance Analyst – MEAI Fixed Term | Indeed | jk-31bde5c27f0621e1 | ✅ |
+| 41 | Atlantis The Palm | Revenue Analyst – Rooms | Indeed (JobSpy) | — | ✅ |
+| 42 | IHG Hotels & Resorts | Cluster Revenue Analyst – DFC | Indeed (JobSpy) | — | ✅ |
+| 43 | Danube Group | Merchandise Analyst | Indeed (JobSpy) | — | ✅ |
+| 44 | Delivery Hero (InstaShop) | Business Analyst | Indeed (JobSpy) | — | ✅ |
+| 45 | Johnson Controls | iScala Functional Analyst (ERP finance) | Indeed (JobSpy) | — | ✅ |
+| 46 | Al Tayer Group | Finance Analyst – Retail Finance | Bayt / Indeed | BT-75060496 / jk-18a689b7a1730655 | ✅ |
+| 47 | Finclutech FZO | Technical Business Analyst | Indeed (JobSpy) | — | ✅ |
+| 48 | Keolis | Performance Analyst | Indeed (JobSpy) | — | ✅ |
+| 49 | Ocean Rubber Factory | Business Analyst (Sharjah) | Naukrigulf | jid-030826001102 | ✅ |
+| 50 | Sundus Consultancy | Budget Analyst (Abu Dhabi) | Naukrigulf | jid-200726000797 | ✅ |
+| 51 | Confidential | Financial Planning & Reporting Analyst | Naukrigulf | jid-160726001022 | ✅ |
+| 52 | EDI Staffbuilders | Treasury Analyst | Naukrigulf | jid-010726500973 | ✅ |
+| 53 | Confidential | Financial Analyst (5–6yr, Dubai) | Naukrigulf | jid-140726001142 | ✅ |
+
+### 🟠 STRETCH — Easy Apply only (volume play)
+
+| # | Company | Role | Source | Notes |
+|---|---|---|---|---|
+| 54 | Al Futtaim | Senior Financial Analyst (4–6yr) | Naukrigulf/Bayt | jid-130826000525 + BT-5476792 |
+| 55 | Talent21 | Senior Business Analyst – Oracle ERP Fusion | Naukrigulf | jid-170826501085 |
+| 56 | Bahmani Group | Financial Analyst FP&R (CA/ACCA mandatory) | Indeed | jk-c85125ce4adf4ab7 |
+| 57 | Dicetek LLC | Finance & Projects Data Analyst (Oracle Fusion) | Indeed | jk-4115e4ea1fef62d1 |
+| 58 | Sephora | FP&A Lead | Indeed (JobSpy) | "Lead" = senior but company is strong |
+| 59 | WSP Middle East | Financial Analyst (3–5yr) | Naukrigulf | jid-160626501438 |
+| 60 | Sr. Financial Analyst | Various (Bayt) | Bayt | BT-74809067, BT-75026525 |
+| 61 | TECHORBIT TRADING | Senior Analyst Finance Strategy | Indeed (JobSpy) | CMA required |
+| 62 | XAD Technologies | Senior Business Analyst | Indeed (JobSpy) | IT-focused |
+| 63 | UNISON Group | Lead Business Analyst – Lending Products | Naukrigulf | jid-230426500569 |
+
+### ❌ NOT SUITABLE — Documented, do not apply
+
+| Company | Role | Reason |
+|---|---|---|
+| Binance | Business Analyst | Mandarin/Chinese language required (bilingual JD) |
+| Imdaad LLC | Financial Analyst | UAE National only |
+| TG Holding | Settlement & Data Analyst | Chinese speaker required |
+| DICETEK LLC | Business Analyst Arabic Speakers | Arabic mandatory |
+| Various | Senior Accountants, Cost Engineers, QS | Wrong field — accounting/construction |
+
+---
+
+**Last job search run:** 2026-08-25  
 **Next scheduled search:** Next session  
-**Search terms used 2026-08-21:** See SEARCH_TERMS.md (Tier 1 exhausted; start from Tier 2 next session)
+**Search terms used 2026-08-25:** JobSpy (20 Indeed queries), Bayt (7 search pages), Naukrigulf (10 search pages), GulfTalent (4 search pages)
