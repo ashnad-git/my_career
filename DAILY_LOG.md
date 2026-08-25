@@ -31,7 +31,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 | 7 | 10–14 |
 | LinkedIn posts/comments | 3 | 3 | 5+ |
-| Learning hours logged | 0 | 11 | 5–7 hrs |
+| Learning hours logged | 3 | 14 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 
 ---
@@ -56,7 +56,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 **Learning outside session:** None
 **Responses received:** Shobhit Gupta, Theodore Bros, Nadiya Simran (all handled above). Maleek recruiter email received and replied.
 **Blockers/notes:** ABDULLA ALARIF not applied. 5 LinkedIn comments still pending. Brian Casey + Morgan Tull correct email addresses still needed. Naukrigulf Confidential JD + Mark Williams JD + Alghanim JD still unfetched.
-**Claude notes:** Networking backlog fully cleared this session. Phase 2B starts now — 08_fpa_model.xlsx to be built. Week 3 task: Assumptions tab + Revenue tab.
+**Claude notes:** Networking backlog cleared at start of session. Phase 2B: 08_fpa_model.xlsx generated (9 tabs, Assumptions tab structured with all inputs). Revenue Build tab built from scratch — INDEX seasonality formula taught and applied, units × seasonality × ASP pattern built across 3 outlets × 4 categories × 12 months. Mixed-row summing error caught and fixed by Ashnad. Grand total AED 22.6M. CHECKPOINT 2B-1 called and passed. ~3 hrs learning. Committed and pushed.
 
 ---
 
