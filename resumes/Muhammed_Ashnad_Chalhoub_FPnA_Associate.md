@@ -71,7 +71,7 @@ Month-End Close | Account Reconciliation | AP / AR Management | ERP Implementati
 
 ## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
 
-- **CMA (US / IMA)** — Pursuing
+- **CMA (US)** — Pursuing
 - **Bloomberg Market Concepts** — Bloomberg
 - **ESG Certificate** — Bloomberg
 - **Financial Reporting** — University of Illinois

@@ -94,7 +94,7 @@ Month-End Close | Account Reconciliation | ERP Systems (Odoo, Tally) | Audit Sup
 
 ### Certifications & Professional Development
 
-- **CMA (US / IMA)** — Pursuing
+- **CMA (US)** — Pursuing
 - **Applied Econometrics** — Dr. BR Ambedkar School of Economics *(quantitative methods, economic modelling)*
 - **Bloomberg Market Concepts** — Bloomberg
 - **Economics of Money and Banking** — Columbia University

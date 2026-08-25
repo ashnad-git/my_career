@@ -3,9 +3,9 @@ Date Found: 2026-08-25
 Source: Indeed
 Job ID: ID-5470dd9ed1387d64
 URL: https://ae.indeed.com/viewjob?jk=5470dd9ed1387d64
-Status: Found — not yet applied
-Fit: 🟡 GOOD FIT
-Fit Reason: Junior level, M&A/Ventures focus — recent grad oriented
+Status: ❌ NOT SUITABLE — French fluency required (not visible in Indeed preview; found on application page)
+Fit: ❌ NOT SUITABLE
+Fit Reason: French language fluency required. Not captured in JD preview — appeared on full application. Resume built; do not apply.
 Salary: AED 15,000–18,000/month
 ---
 

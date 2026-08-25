@@ -43,7 +43,7 @@
 | 15 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 🟠 STRETCH | 2026-08-20 | Aug 28 | https://www.linkedin.com/jobs/view/4444301466 | ✅ jds/ |
 | 16 | Mega Health Insurance Brokers | Financial Analyst (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://www.linkedin.com/jobs/view/4457300095 | ✅ jds/ | CLOSED — no longer accepting |
 | 17 | Al Tayer Group | Business Support Analyst – Beauty Distribution (Dubai) | 🟡 GOOD FIT | 2026-08-21 | — | https://ae.indeed.com/jobs?q=Business+Support+Analyst+Beauty+Al+Tayer&l=Dubai | ✅ jds/ | ✅ APPLIED 2026-08-23 |
-| 18 | ABDULLA ALARIF HOLDING | Strategy Analyst (Dubai) | 🟠 STRETCH | 2026-08-21 | — | https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05 | ✅ jds/ |
+| 18 | ABDULLA ALARIF HOLDING | Strategy Analyst (Dubai) | 🟠 STRETCH | 2026-08-21 | — | https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05 | ✅ jds/ | ✅ APPLIED 2026-08-25 |
 
 **⏳ PENDING — JD not fully fetched yet (retry next session):**
 - Confidential Company (Naukrigulf) — Financial Analyst Junior (2–3 yrs, Dubai) — https://www.naukrigulf.com/financial-analyst-junior-jobs-in-dubai-uae-in-confidential-2-to-3-years-n-jid-030726000985
@@ -198,6 +198,9 @@
 | 11 | Khazna Data Centers | Financial Modeller (Dubai) | 2026-08-23 | LinkedIn Easy Apply | 2026-08-30 | Applied — master PDF, STRETCH. |
 | 12 | AD Ports Group | Analyst — Treasury (Abu Dhabi) | 2026-08-23 | Oracle HCM portal | 2026-08-30 | Applied — master PDF, STRETCH. Ashnad completed form. |
 | 13 | Al Tayer Group | Business Support Analyst – Beauty Distribution (Dubai) | 2026-08-23 | Oracle HCM portal | 2026-08-30 | Applied — tailored PDF + cover letter. GOOD FIT. |
+| 14 | ABDULLA ALARIF HOLDING | Strategy Analyst (Dubai) | 2026-08-25 | Indeed Easy Apply | 2026-09-01 | Applied — master PDF. STRETCH. |
+| 15 | ITP Media Group | Assistant Management Accountant (Dubai) | 2026-08-25 | Indeed Easy Apply | 2026-09-01 | Applied — tailored PDF. STRONG FIT. |
+| 16 | NEP Singapore, India & MENA | Commercial Finance Analyst (Dubai) | 2026-08-25 | Indeed portal | 2026-09-01 | Applied — tailored PDF. STRONG FIT. Audit score 66/100 (structural gap: 3-5yr required). |
 
 ---
 
@@ -278,7 +281,7 @@
 | # | Company | Role | Source | URL / Job ID | JD Saved |
 |---|---|---|---|---|---|
 | 19 | ITP Media Group | Assistant Management Accountant | Indeed | https://ae.indeed.com/viewjob?jk=76bec186c0f27329 | ✅ |
-| 20 | Greenbull Dubai | Junior Financial Analyst (AED 15–18k/month) | Indeed | https://ae.indeed.com/viewjob?jk=5470dd9ed1387d64 | ✅ |
+| 20 | Greenbull Dubai | Junior Financial Analyst (AED 15–18k/month) | Indeed | https://ae.indeed.com/viewjob?jk=5470dd9ed1387d64 | ❌ NOT SUITABLE — French fluency required (hidden in Indeed preview) |
 | 21 | zcreatix | Junior Finance Analyst | Indeed (JobSpy) | https://ae.indeed.com/viewjob | ✅ |
 | 22 | Confidential | Junior Process Performance Analyst | Naukrigulf | jid-130826000672 | ✅ |
 | 23 | Property Finder / Bayt | Associate Commercial Analyst | Bayt | BT-74868496 / BT-74866070 | ✅ |
@@ -337,6 +340,7 @@
 
 | Company | Role | Reason |
 |---|---|---|
+| Greenbull Dubai | Junior Financial Analyst | French fluency required — not visible in Indeed preview, found on full application page. Resume built but do not apply. |
 | Binance | Business Analyst | Mandarin/Chinese language required (bilingual JD) |
 | Imdaad LLC | Financial Analyst | UAE National only |
 | TG Holding | Settlement & Data Analyst | Chinese speaker required |
