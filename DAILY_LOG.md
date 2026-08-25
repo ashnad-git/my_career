@@ -29,17 +29,34 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 |---|---|---|---|
 | Applications sent | 0 | 13 | 5–8 |
 | Interviews booked | 0 | 0 | — |
-| Connection requests sent | 0 | 7 | 10–14 |
+| Connection requests sent | 0 (notes ready, Ashnad sends) | 7 | 10–14 |
 | LinkedIn posts/comments | 3 | 3 | 5+ |
-| Learning hours logged | 3 | 14 | 5–7 hrs |
+| Learning hours logged | 0 | 14 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
-| JDs saved in archive | — | 110 | — |
+| JDs saved in archive | — | 117 | — |
 
 ---
 
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-25 | Session 18: LinkedIn JD Extraction + Connections Batch
+
+**Session type:** JD extraction (LinkedIn voyager API) + STRETCH job audit + connections batch
+**Jobs applied:** 0 — Ashnad handles all submissions. ABDULLA ALARIF Indeed draft still saved (not submitted).
+**Connections sent:** 0 this session — 19 Finance Director/CFO targets identified, notes written in NETWORKING.md (#20–38). Ashnad sends.
+**LinkedIn activity:** None
+**Learning outside session:** Not asked — applying-focused session
+**Responses received:** None new logged
+**Blockers/notes:**
+- ABDULLA ALARIF: Indeed draft saved, user to submit when ready
+- 3 recruiter emails (Brian Casey, Darius Dosieah, Morgan Tull): still NOT SENT — deferred two sessions running
+- 44+ STRONG/GOOD FIT jobs in pipeline awaiting applications — NEXT SESSION priority
+- No Phase 2B model work this session (job admin took full session)
+**Claude notes:** 7 new JD files saved (Emarat STRETCH, Shiseido GOOD FIT, Fitch NOT SUITABLE, ENGIE STRETCH, Eaton STRETCH, EKFC NOT SUITABLE, AKI STRETCH bonus). GymNation/Sharaf DG/Marsh McLennan confirmed expired. 19 senior connections added to NETWORKING.md with invite notes — all 2nd-degree Finance Directors/CFOs/Heads of FP&A. Total JD archive: 117 files.
 
 ---
 

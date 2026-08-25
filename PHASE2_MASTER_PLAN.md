@@ -17,9 +17,9 @@
 | **Current Phase** | Phase 2B — Project 1: FP&A Model (Week 4: COGS + OpEx + P&L Summary) |
 | **Current Task** | Build COGS tab — link COGS% from Assumptions to Revenue |
 | **Last Session Date** | 2026-08-25 |
-| **Last Session Summary** | Session 16: Networking backlog cleared. Maleek recruiter replied (salary 5-7k stated). Phase 2B started — Assumptions tab generated, Revenue Build tab built from scratch. INDEX seasonality formula taught and applied. Mixed-row summing error caught and fixed. CHECKPOINT 2B-1 passed — Revenue tab complete, AED 22.6M annual total. |
-| **Next Session: Start With** | 1. Read this file first  2. Catch-up Q&A → DAILY_LOG entry  3. Apply ABDULLA ALARIF (still outstanding)  4. Phase 2B Week 4: COGS tab → OpEx tab → P&L Summary |
-| **Blockers** | Naukrigulf Confidential Junior FA + Mark Williams + Alghanim JDs still unfetched. 5 LinkedIn comments pending. ABDULLA ALARIF not yet applied. Brian Casey + Morgan Tull emails bounced — need correct addresses. |
+| **Last Session Summary** | Session 18: LinkedIn JD extraction complete (7 JDs saved, 3 confirmed expired). 19 Finance Director/CFO connections identified with notes in NETWORKING.md (#20–38). No applications submitted — Ashnad handles all submissions. ABDULLA ALARIF draft saved on Indeed. Shiseido GOOD FIT saved. |
+| **Next Session: Start With** | 1. Read this file + PENDING.md 2. Catch-up Q&A → DAILY_LOG entry 3. Send 3 recruiter emails (Brian Casey, Darius, Morgan) 4. Work through STRONG FIT applications one by one: JD → /hr-audit → tailored resume → PDF → handoff |
+| **Blockers** | 3 recruiter emails still unsent (2+ sessions overdue). 44+ jobs in pipeline unapplied. ABDULLA ALARIF draft saved. 19 connection notes ready to send (Ashnad sends). |
 | **Applications Sent** | 13 |
 | **Interviews Booked** | 0 |
 | **Project 1 Progress** | 22% — Assumptions + Revenue Build complete (CHECKPOINT 2B-1 passed) |
