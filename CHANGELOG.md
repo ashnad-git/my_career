@@ -4,6 +4,19 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-25] — Session: LinkedIn JD Extraction + STRETCH Audit
+
+### Added
+- **2026-08-25** — `jds/ENGIE_FinancialAnalyst_AMEA_2026-08-25.md` — STRETCH. Project finance/infrastructure role at ENGIE Middle East AIFA team. Banking/deal experience required.
+- **2026-08-25** — `jds/Eaton_FPAAnalyst_Manufacturing_2026-08-25.md` — STRETCH. FP&A at Eaton Dubai manufacturing plant. SAP + 2yr manufacturing mandatory.
+- **2026-08-25** — `jds/EmiratesFlightCatering_CostAnalyst_2026-08-25.md` — NOT SUITABLE. 5yr + production accounting + JDE ERP. Cost accounting track, not FP&A.
+- **2026-08-25** — `jds/AlKhayyatInvestments_FinanceAnalystFPA_2026-08-25.md` — STRETCH (bonus find). AKI Central Finance FP&A; 4-6yr multinational + qualification required. Strong automation/BI focus aligns with profile.
+
+### Updated
+- **2026-08-25** — `PENDING.md` — LinkedIn JD extraction task marked complete. 12/14 jobs resolved; GymNation/Marsh McLennan/Sharaf DG confirmed expired/unavailable. New AKI STRETCH added to STRETCH list.
+
+---
+
 ## [2026-08-25] — Session: Bulk Job Search — 82 New JDs Across 5 Platforms
 
 ### Added

@@ -31,7 +31,23 @@ Black Pearl FP&A Analyst (BT-5472291), Michael Page FP&A (BT-5478477), Fresha Fi
 
 ### 🟠 STRETCH — Easy Apply only
 
-Al Futtaim Senior FA (BT-5476792), Talent21 Senior BA Oracle ERP (jid-170826501085), Sephora FP&A Lead, WSP Financial Analyst, TECHORBIT Senior Analyst Finance Strategy
+**Previously listed:** Al Futtaim Senior FA (BT-5476792), Talent21 Senior BA Oracle ERP (jid-170826501085), Sephora FP&A Lead (⚠️ company site apply, NOT Easy Apply — also rated STRONG FIT in JD file, needs tailored resume), TECHORBIT Senior Analyst Finance Strategy (jk=6becc8b44de3724b)
+
+**WSP Financial Analyst — SKIP:** NOT SUITABLE in JD file (CFA/CA + Oracle/Hyperion mandatory)
+
+**New STRETCH from 2026-08-25 bulk search (apply yourself — master PDF, no cover letter):**
+
+| Role | Company | Platform | URL | Notes |
+|---|---|---|---|---|
+| Financial Analyst – FP&R | Bahmani Group | Indeed Easy Apply | https://ae.indeed.com/viewjob?jk=c85125ce4adf4ab7 | CA/ACCA mandatory — heavy stretch |
+| Finance & Projects Data Analyst | Dicetek | Indeed Easy Apply | https://ae.indeed.com/viewjob?jk=4115e4ea1fef62d1 | ERP migration (Sage/Deltek → Oracle Fusion). Odoo work is relevant |
+| Senior Finance Controller | Louis Vuitton | Indeed Easy Apply | https://ae.indeed.com/viewjob?jk=d611a3daa1d7cdfb | Prestige brand, senior level |
+| Senior Analyst – Real Estate | Flow | Indeed Easy Apply | https://ae.indeed.com/viewjob?jk=a595998c58f22fcd | Real estate analytics |
+| Senior FA – BP&A, Retail/Corporate | Unknown | Bayt | https://www.bayt.com/en/uae/jobs/senior-financial-analyst-bp-a-retail-corporate-5469947/ | CA + 5yr or grad + 8yr |
+| Senior FA – BP&A, Retail/Corporate | Unknown | Bayt | https://www.bayt.com/en/uae/jobs/senior-financial-analyst-bp-a-retail-corporate-5470754/ | Same title, possibly same company |
+| Senior Financial Analyst | Unknown | Bayt | https://www.bayt.com/en/uae/jobs/senior-financial-analyst-75026525/ | Senior level |
+| Senior Analyst – Corp & Structured Finance | Unknown | Bayt | https://www.bayt.com/en/uae/jobs/senior-analyst-financial-corp-structured-finance-75060328/ | Very niche — investment/structured finance |
+| Senior Business/Process Analyst (6-mo contract) | Unknown | Bayt | https://www.bayt.com/en/uae/jobs/senior-business-process-analyst-6-month-contract-5467685/ | Contract role |
 
 ### 🔴 OUTSTANDING — ABDULLA ALARIF (3 sessions overdue)
 Apply immediately: https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05
@@ -40,9 +56,20 @@ Apply immediately: https://ae.indeed.com/viewjob?jk=2d7e2a232b5b4d05
 
 ## NEXT SESSION TASKS
 
-### 1. LinkedIn JD Extraction — 14 Jobs Pending
-Fetch JDs via browser for these LinkedIn jobs (spotted before context summary — find via LinkedIn search):
-Emarat FA, Shiseido Finance Analyst, Fitch Ratings Analyst, TALENTMATE x3 Finance Analyst, GymNation Finance Analyst, Sharaf DG FA, Michael Page Finance Analyst, Emirates Flight Catering FA, Eaton Project Controlling, Cost Analyst EFC, Marsh McLennan Finance Analyst, ENGIE Finance Analyst AMEA
+### 1. LinkedIn JD Extraction — ✅ COMPLETE (2026-08-25)
+All 14 pending LinkedIn JDs processed:
+- ✅ Emarat — TransformationFinanceAnalyst (STRETCH, 6yr min)
+- ✅ Shiseido — CommercialAnalyst (GOOD FIT, 1-2yr)
+- ✅ Fitch Ratings — AssociateAnalyst IslamicFinance (NOT SUITABLE)
+- ✅ TALENTMATE x2 — ID 4457817938 = Shiseido duplicate; ID 4457821763 = dubizzle (existing)
+- ✅ Emirates Flight Catering — CostAnalyst (NOT SUITABLE, 5yr+manufacturing)
+- ✅ Eaton — FPAAnalyst Manufacturing (STRETCH, SAP+manufacturing mandatory)
+- ✅ ENGIE — FinancialAnalyst AMEA (STRETCH, project finance/infrastructure)
+- ✅ Michael Page — FPA Analyst (already existed in jds/)
+- ❌ GymNation — No active finance jobs found (expired)
+- ❌ Sharaf DG — 0 jobs on company page (confirmed)
+- ❌ Marsh McLennan — Company page unavailable; job likely expired
+- ➕ Bonus: Al Khayyat Investments (AKI) — FPA Finance Analyst (STRETCH, 4-6yr)
 
 ### 2. LinkedIn Connections — 20 Targets (NOT STARTED)
 Connect UP — CFOs, Finance Directors, FP&A Managers at target companies. Min 10 per session.
