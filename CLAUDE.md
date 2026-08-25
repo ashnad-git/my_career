@@ -184,6 +184,8 @@ python3 scripts/build_resume_pdf.py <key>
 
 **Bullet format:** Strong active verb → specific task/scope → outcome or scale where genuinely true. No padding. No soft adjectives ("effectively", "successfully"). No "responsible for" — replace with the actual verb.
 
+**No corporate fluff:** Ban the following words and phrases entirely: "spearheaded", "leveraged", "ideated", "synergized", "transformative", "robust", "dynamic", "cross-functional collaboration" (use the specific teams instead), "results-driven", "passionate". If a bullet could appear on any random finance resume without being specific to Ashnad's actual work, rewrite it until it can't.
+
 **Bullet length:** One line where possible. Two lines maximum. If it needs three lines, split into two bullets.
 
 **Honesty rule:** Never claim experience that does not exist. Portfolio projects are presented as personal projects (under PROJECTS section), never implied as work experience. If Ashnad hasn't done something professionally, say "exposure to" or "developed skills in" at most — not "led" or "managed".
