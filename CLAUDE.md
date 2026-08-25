@@ -33,6 +33,46 @@ This file documents the collaboration model, conventions, and context for workin
 
 ---
 
+## Writing Style Rules — Check This Before Drafting Anything
+
+Every piece of writing produced in this repo falls into one of these categories. Apply the correct style for each — they are different.
+
+| Content type | Style to use |
+|---|---|
+| Recruiter emails | Humanized — see rules below |
+| LinkedIn connection notes | Humanized — see rules below |
+| LinkedIn direct messages | Humanized — see rules below |
+| Cover letters | Humanized — see rules below |
+| Resume bullets | Professional formal — see Resume section |
+| Resume summary paragraph | Professional formal — see Resume section |
+| JD Portfolio Relevance section | Plain analytical — factual, no filler |
+| NETWORKING.md notes/replies | Humanized — see rules below |
+| Any other text Ashnad sends to a person | Humanized — see rules below |
+
+### Humanized writing rules (emails, messages, notes)
+
+**Hard rule: write like Ashnad typed it himself, not like Claude drafted it.**
+
+- **No em dashes (—). Ever.** This is the single most repeated failure. Use a comma, a full stop, or nothing.
+- **No AI opener patterns:** do not start with a credential label ("Ex-EY Tax Analyst with an M.Sc..."), a compliment ("I came across your impressive profile"), or a structured pitch.
+- **No bullet points inside emails or messages.**
+- **No mid-message headers** ("What I bring:", "The ask:", "Background:").
+- **No corporate compound phrases:** "Big Four analytical training", "technical toolkit", "hands-on experience", "actively targeting", "results-driven".
+- **No formal sign-offs:** "I would welcome a brief conversation", "happy to connect", "please do not hesitate".
+- **No arrow symbols (→) in body text.**
+- **Length:** 3–5 short sentences for networking messages. Recruiter emails can be slightly longer but still short paragraphs, no headers, no bullets.
+- **Tone:** Gets to the point in sentence one. One specific observation. One direct question to close. Reads like he typed it in two minutes while thinking about it.
+
+**How Ashnad actually writes (use this as the benchmark):**
+> "I'm looking to move into FP&A in Dubai and wanted to send my CV across."
+> "came across your profile while looking at FP&A folks in Dubai"
+> "The ERP migration was the most interesting part honestly — moved the whole thing from Tally to Odoo from scratch."
+> "How did you find that transition if you're open to a chat?"
+
+**Quick self-check before sending:** Read the draft out loud. If it sounds like a press release or a LinkedIn post written by a bot, rewrite it.
+
+---
+
 ## Practice Files — Hard Rule
 
 **Never ask Ashnad to manually type out practice data.** Always generate the Excel practice file before the practice segment begins.
