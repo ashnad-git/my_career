@@ -352,3 +352,114 @@
 **Last job search run:** 2026-08-25  
 **Next scheduled search:** Next session  
 **Search terms used 2026-08-25:** JobSpy (20 Indeed queries), Bayt (7 search pages), Naukrigulf (10 search pages), GulfTalent (4 search pages)
+
+## NEW BATCH — 2026-08-28 (automated multi-source harvest: Indeed + LinkedIn)
+
+**91 net-new apply-ready JDs saved to jds/ this session — all deduped vs the 117-file archive and fit-audited.**
+
+| # | Fit | Company | Role | Location | Source | URL |
+|---|---|---|---|---|---|---|
+| 1 | ✅ STRONG FIT | 3C METAL | (VIE - Volontariat International en Entreprise) - Junior Financial Controller F/M | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=b9bbdbfc483dd8b7 |
+| 2 | ✅ STRONG FIT | Aspen Pharma Group | Commercial Finance Analyst - Europe & Middle East | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4459003771 |
+| 3 | ✅ STRONG FIT | Fruitful Day | Cost Controller / Junior Accountant | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=599915fcb0675c5c |
+| 4 | ✅ STRONG FIT | Gulftainer | Financial Planning Analyst | Sharjah Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4443699157 |
+| 5 | ✅ STRONG FIT | Hire Rightt - Executive Search & HR Advisory | Financial Analyst - Emarati Talent. | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457699840 |
+| 6 | ✅ STRONG FIT | MENA Careers | Financial Analyst | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457736787 |
+| 7 | ✅ STRONG FIT | MTL HUMAN RESOURCES CONSULTANCIES | Junior Finance Associate | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=ad99d7295164afdb |
+| 8 | ✅ STRONG FIT | PCS Gulf | Project Financial Analyst | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4444746574 |
+| 9 | ✅ STRONG FIT | PFC Group | Finance Associate | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=0cb464872cb56955 |
+| 10 | ✅ STRONG FIT | Rakbank | Financial Analyst | Salary: Not specified | linkedin | https://www.linkedin.com/jobs/view/4436751960 |
+| 11 | ✅ STRONG FIT | Rakbank | Financial Analyst - Financial Planning & Analysis | Salary: Not specified | linkedin | https://www.linkedin.com/jobs/view/4441452471 |
+| 12 | ✅ STRONG FIT | STAR Services | Budget Analyst | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=af3a7f589feea211 |
+| 13 | ✅ STRONG FIT | STAR Services | Sr.Financial Analyst | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=9b546f3b34840122 |
+| 14 | ✅ STRONG FIT | Shamal Holding | Associate - Financial Reporting | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4456242086 |
+| 15 | ✅ STRONG FIT | Shamal LLC | Associate - Financial Reporting | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=97867accd5b10614 |
+| 16 | ✅ STRONG FIT | VRTUAL CFO FINANCIAL CONSULTANTS | Finance Associate – CA Final / CA inter with experience | Mussafah, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=51e17b426578b858 |
+| 17 | ✅ STRONG FIT | WhiteCrow Research | Infrastructure Finance Analyst | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457338296 |
+| 18 | 🟡 GOOD FIT | ACCA Careers | Senior Financial Analyst | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4454513219 |
+| 19 | 🟡 GOOD FIT | Accor | Portfolio Revenue Analyst | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=26b08758f22acc02 |
+| 20 | 🟡 GOOD FIT | Acwa | Quantity cost Analyst | Salary: Not specified | linkedin | https://www.linkedin.com/jobs/view/4450605034 |
+| 21 | 🟡 GOOD FIT | DICETEK LLC | Jedox Techno-Functional Consultant – FP&A Production Support | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=f01526090ca2c3c5 |
+| 22 | 🟡 GOOD FIT | Emirates Flight Catering | Senior Financial Analyst | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4455831693 |
+| 23 | 🟡 GOOD FIT | First Point Group | Financial Reporting Specialist | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4452232158 |
+| 24 | 🟡 GOOD FIT | Grand Millennium Al Wahda | Revenue Analyst | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=8e4df687795faf16 |
+| 25 | 🟡 GOOD FIT | Hilton | General Cashier & Cost Accountant - Waldorf Astoria Ras Al Khaimah | Ras Al Khaimah, Ras al-Khaimah, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4438671581 |
+| 26 | 🟡 GOOD FIT | Human Resources Department of Ras Al Khaimah Government | Senior Budget Analyst | Ras al-Khaimah, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4446988156 |
+| 27 | 🟡 GOOD FIT | JARRAH FOODSTUFF TRADING L.L.C. | Cost Accountant | Al-Ayn, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=110bbfdc69732fe7 |
+| 28 | 🟡 GOOD FIT | M42 Health | Senior Finance Analyst | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457106044 |
+| 29 | 🟡 GOOD FIT | Marriott International | Cluster Revenue Analyst - The Ritz-Carlton Abu Dhabi Grand Canal | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=07827e95629064ec |
+| 30 | 🟡 GOOD FIT | Merz Aesthetics | Senior Financial Analyst – MENA | Salary: Not specified | linkedin | https://www.linkedin.com/jobs/view/4430688580 |
+| 31 | 🟡 GOOD FIT | Midis Group | Senior Financial Analyst | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4441593711 |
+| 32 | 🟡 GOOD FIT | National Food Products Company / NFPC Group | Senior Financial Analyst | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4444124461 |
+| 33 | 🟡 GOOD FIT | Royal Furniture Group | Cost Accountant | Ajman, AJ, AE | indeed | https://ae.indeed.com/viewjob?jk=076a7f512d906b19 |
+| 34 | 🟡 GOOD FIT | Solution Team General Contracting | Cost Accountant | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=01f5f5b29b70cda6 |
+| 35 | 🟡 GOOD FIT | Spinneys | Cost Accountant | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4459194441 |
+| 36 | 🟡 GOOD FIT | Tamim Chartered Accountant | Senior Financial Analyst | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=bbf61a88705a4367 |
+| 37 | 🟡 GOOD FIT | Tariq Riaz | Finance & Cost Accountant | Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457264375 |
+| 38 | 🟡 GOOD FIT | The Ritz-Carlton Hotel Company, L.L.C. | Cluster Revenue Analyst - The Ritz-Carlton Abu Dhabi Grand Canal | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4456822408 |
+| 39 | 🟡 GOOD FIT | Weatherford | Cost Accountant | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4432364494 |
+| 40 | 🟡 GOOD FIT | Worley | Trainee Cost Analyst | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=270080d841126922 |
+| 41 | 🟡 GOOD FIT | edari | Senior Specialist - Financial reporting | Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4454504441 |
+| 42 | 🟡 GOOD FIT | nan | Cost Accountant | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=115c3af614f43e71 |
+| 43 | 🟠 STRETCH | AVI-SPL | Finance Manager | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4449460926 |
+| 44 | 🟠 STRETCH | Affle | Assistant Manager - Financial Planning & Analysis,Dubai | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4443261939 |
+| 45 | 🟠 STRETCH | Agility | Senior Manager - FP&A and Value creation | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=918220d31bfd77b0 |
+| 46 | 🟠 STRETCH | Airalo | Principal Finance Business Partner - Networks | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4431252195 |
+| 47 | 🟠 STRETCH | Al-Futtaim | FP&A Manager, Healthcare, HealthHub, Dubai | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4434986624 |
+| 48 | 🟠 STRETCH | Al-Futtaim | Financial Planning and Analysis Manager | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4451755006 |
+| 49 | 🟠 STRETCH | Al Sharif Al Sheikh Trading Est. | Accountant – FP&A and Office Manager | Ajman, AJ, AE | indeed | https://ae.indeed.com/viewjob?jk=c728b22b4262a94c |
+| 50 | 🟠 STRETCH | Americana Restaurants | Financial Planning and Analysis Manager | Sharjah Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4446632317 |
+| 51 | 🟠 STRETCH | Avenue Hotel | Asst. Financial Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=8bc199a21ff74b8f |
+| 52 | 🟠 STRETCH | Druids | Commercial Finance Manager | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=feda3b25cd961bd2 |
+| 53 | 🟠 STRETCH | Emarat - Emirates Petroleum Company P.J.S.C | Financial Controller | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4456572445 |
+| 54 | 🟠 STRETCH | Euro Systems | Group Finance Manager – Contracting & Construction | Al Quoz, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=4d8d0a4c3607ca08 |
+| 55 | 🟠 STRETCH | Euro Systems LLC | Finance Manager – Contracting & Construction | Al Quoz, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=a45953a4848ca2a9 |
+| 56 | 🟠 STRETCH | Every Where General Trading Co LLC | Production Cost Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=d2f132e7b9f2a23b |
+| 57 | 🟠 STRETCH | HAWK ENERGY LLC | Financial Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=9567aa0459ad9773 |
+| 58 | 🟠 STRETCH | Hayati® | Finance Manager | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4447517664 |
+| 59 | 🟠 STRETCH | Hays | Manager – Real Estate FP&A | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457230157 |
+| 60 | 🟠 STRETCH | HiDe Cafe | HIDE CAFE – F&B Cost Controller | Ras al-Khaimah, RK, AE | indeed | https://ae.indeed.com/viewjob?jk=f42f46c3ea7647d8 |
+| 61 | 🟠 STRETCH | Hintel Middle East | Finance Manager | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4446575679 |
+| 62 | 🟠 STRETCH | IFS | Senior FP&A Manager - Global ARR | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=bf2eae6bebb11604 |
+| 63 | 🟠 STRETCH | JUSTLIFE | Financial Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=bef5671880cd6c3d |
+| 64 | 🟠 STRETCH | J S T LIMITED ELECTRONIC - L.L.C - O.P.C | Finance Manager / Senior Accountant | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=90f66f47fd01e87b |
+| 65 | 🟠 STRETCH | Keeta | Keeta Finance Business Partner | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457919062 |
+| 66 | 🟠 STRETCH | Mövenpick Hotel Jumeirah Lakes Towers | Cluster Financial Controller | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4446765259 |
+| 67 | 🟠 STRETCH | Madison Pearl | Senior Finance Manager / DIFC | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4456219700 |
+| 68 | 🟠 STRETCH | Maison Samira Maatouk | F&B Cost Controller | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=cab2f74fdea30e01 |
+| 69 | 🟠 STRETCH | Mandarin Oriental | Cost Controller | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4455963729 |
+| 70 | 🟠 STRETCH | Marriott International | Finance Executive- Cost Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=73d91c030ba1dc48 |
+| 71 | 🟠 STRETCH | Modon | Senior Manager - FP&A | Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457901729 |
+| 72 | 🟠 STRETCH | Modon | Senior Manager – Financial Planning & Analysis (FP&A) | Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4446042664 |
+| 73 | 🟠 STRETCH | Muzna Food & Beverages LLC | Inventory and Cost Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=e3daa34331583fde |
+| 74 | 🟠 STRETCH | Pavilion Palace Hotel LLC | Financial Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=f955fe44313c8ca3 |
+| 75 | 🟠 STRETCH | PlaceUp | Finance Manager | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=d3a3a57250d892f0 |
+| 76 | 🟠 STRETCH | Printerpix | Management Accountant - Financial Controller | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4449030600 |
+| 77 | 🟠 STRETCH | RIKAS Hospitality Group | Financial Planning and Analysis Manager | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4451201962 |
+| 78 | 🟠 STRETCH | Radisson Hotel Group | Regional Financial Controller Northern Africa | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4443915948 |
+| 79 | 🟠 STRETCH | Rightangled | Finance Manager | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=b851be37a897b0e8 |
+| 80 | 🟠 STRETCH | SO/ Hotels & Resorts | Cost Controller | Ras al-Khaimah, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4440497113 |
+| 81 | 🟠 STRETCH | STAR Services | Project Cost Controller | Sharjah, SH, AE | indeed | https://ae.indeed.com/viewjob?jk=98e8fb97ea073b27 |
+| 82 | 🟠 STRETCH | Salt | Financial Controller | Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4450892242 |
+| 83 | 🟠 STRETCH | Stella Stays | Financial Controller | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=bef04f922b25c899 |
+| 84 | 🟠 STRETCH | The Meydan Hotel | Cost Controller | Dubai, Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4457745244 |
+| 85 | 🟠 STRETCH | The National Insurance Company – Daman | Assistant Manager, Financial Planning and analysis | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4452807122 |
+| 86 | 🟠 STRETCH | Wafi Group | Cost Controller | Dubai, United Arab Emirates | linkedin | https://www.linkedin.com/jobs/view/4440122598 |
+| 87 | 🟠 STRETCH | Worley | Senior Cost Controller | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=c7039a58c2299d7a |
+| 88 | 🟠 STRETCH | corner villa cafe | Cost Controller | Ajman, AJ, AE | indeed | https://ae.indeed.com/viewjob?jk=35468135aa85363f |
+| 89 | 🟠 STRETCH | imediaop | F&B Cost Controller | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=a7b49775baa9beb5 |
+| 90 | 🟠 STRETCH | nan | Accounts & Finance Manager | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=3651ec0fce083eb6 |
+| 91 | 🟠 STRETCH | nan | Finance Manager | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=0967f3625f3e5db1 |
+## QUEUED — Naukrigulf FA batch (full JD fetch pending, 2026-08-28)
+
+*Fresh net-new keepers identified via logged-in Naukrigulf (131 scanned → filtered). Full verbatim JD to be fetched + saved to jds/ next.*
+
+| Fit | Company | Role | URL slug |
+|---|---|---|---|
+| GOOD | Aspen Holdings | Commercial Finance Analyst | commercial-finance-analyst-...aspen-holdings-...jid-270826500696 |
+| GOOD | TotalEnergies | VIE Financial Analyst (Abu Dhabi) | vie-financial-analyst-...totalenergies-...jid-270826500644 |
+| GOOD | Yas Partner LLC FZ | Financial Analyst | financial-analyst-...yas-partner...jid |
+| GOOD | Client of Ladwig Consulting | Financial Analyst | financial-analyst-...ladwig-consulting...jid |
+| GOOD | Al Kabeer Group | Financial Planning Analyst | financial-planning-analyst-...al-kabeer-group...jid |
+| GOOD | Talents Tide HR | Financial Planning & Reporting Analyst | financial-planning-reporting-analyst-...jid-160726001022 |
+| STRONG | Confidential | Financial Analyst Junior (2-3 yrs, Dubai) | financial-analyst-junior-...jid-030726000985 |
