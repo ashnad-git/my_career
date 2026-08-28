@@ -58,6 +58,11 @@ STRONG_TITLE = [
     "pricing analyst","treasury analyst","business support analyst","fp&a manager",
     "finance manager","decision support analyst","financial controller","forecasting analyst",
     "financial planning & analysis","financial planning and analysis","business support - finance",
+    # adjacent titles (user-approved 2026-08-28): accountant family + finance officer + BA-finance
+    "accountant","senior accountant","management accountant","general accountant",
+    "financial accountant","chief accountant","accounts manager","finance officer",
+    "accounts executive","gl accountant","staff accountant","finance controller",
+    "business analyst",
 ]
 # hard reject if any of these appear in TITLE (wrong domain / too senior / reserved)
 TITLE_EXCLUDE = [
@@ -86,6 +91,10 @@ def classify(title, desc):
     matched=[k for k in STRONG_TITLE if k in t]
     if not matched:
         return None, "no-strong-finance-title"
+    # business-analyst needs finance context in description (avoid IT/product BAs)
+    if matched==["business analyst"]:
+        if not re.search(r'financ|fp&a|budget|forecast|p&l|variance|accounting|revenue|cost', d):
+            return None, "business-analyst-non-finance"
     # national only (title or explicit desc reservation)
     if NATIONAL_RE.search(t):
         return None, "national-only-title"
@@ -178,6 +187,10 @@ SEARCH_TERMS = [
     "decision support analyst","forecasting analyst","planning and reporting analyst","finance executive",
     "financial data analyst","reporting accountant","senior financial analyst","treasury analyst",
     "budgeting analyst","financial planning specialist","business finance analyst","cost controller",
+    # adjacent-title search queries (user-approved 2026-08-28)
+    "accountant","senior accountant","management accountant","general accountant",
+    "financial accountant","chief accountant","finance officer","accounts executive",
+    "business analyst finance","staff accountant","accounts manager",
 ]
 LOCATIONS = ["Dubai","Abu Dhabi","Sharjah","United Arab Emirates"]
 

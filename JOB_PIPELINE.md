@@ -463,3 +463,80 @@
 | GOOD | Al Kabeer Group | Financial Planning Analyst | financial-planning-analyst-...al-kabeer-group...jid |
 | GOOD | Talents Tide HR | Financial Planning & Reporting Analyst | financial-planning-reporting-analyst-...jid-160726001022 |
 | STRONG | Confidential | Financial Analyst Junior (2-3 yrs, Dubai) | financial-analyst-junior-...jid-030726000985 |
+
+## ADJACENT-TITLE BATCH — 2026-08-28 (Indeed sweep, user-approved adjacent titles)
+
+**+224 additional net-new apply-ready JDs saved to jds/ (after clerical/junior junk trim).**
+Today's total: 315 net-new · Archive total: 432 JDs. Split: ~61 core finance-analyst/FP&A/planning roles + ~254 adjacent (accountant/finance-officer/cost-accountant).
+
+### Priority-apply — core finance-analyst / FP&A / planning roles from today (65):
+
+| Fit | Company | Role | URL |
+|---|---|---|---|
+| ✅ STRONG FIT | 3C METAL | (VIE - Volontariat International en Entreprise) - Junior Financial Controller F/M | https://ae.indeed.com/viewjob?jk=b9bbdbfc483dd8b7 |
+| ✅ STRONG FIT | Aspen Pharma Group | Commercial Finance Analyst - Europe & Middle East | https://www.linkedin.com/jobs/view/4459003771 |
+| ✅ STRONG FIT | Bukhatir Education Advancement & Management International | FP&A Analyst | https://ae.indeed.com/viewjob?jk=52d2d91cdf988d6c |
+| ✅ STRONG FIT | Gulftainer | Financial Planning Analyst | https://www.linkedin.com/jobs/view/4443699157 |
+| ✅ STRONG FIT | Hire Rightt - Executive Search & HR Advisory | Financial Analyst - Emarati Talent. | https://www.linkedin.com/jobs/view/4457699840 |
+| ✅ STRONG FIT | MENA Careers | Financial Analyst | https://www.linkedin.com/jobs/view/4457736787 |
+| ✅ STRONG FIT | PCS Gulf | Project Financial Analyst | https://www.linkedin.com/jobs/view/4444746574 |
+| ✅ STRONG FIT | Rakbank | Financial Analyst | https://www.linkedin.com/jobs/view/4436751960 |
+| ✅ STRONG FIT | Rakbank | Financial Analyst - Financial Planning & Analysis | https://www.linkedin.com/jobs/view/4441452471 |
+| ✅ STRONG FIT | STAR Services | Budget Analyst | https://ae.indeed.com/viewjob?jk=af3a7f589feea211 |
+| ✅ STRONG FIT | STAR Services | Sr.Financial Analyst | https://ae.indeed.com/viewjob?jk=9b546f3b34840122 |
+| ✅ STRONG FIT | Shamal Holding | Associate - Financial Reporting | https://www.linkedin.com/jobs/view/4456242086 |
+| ✅ STRONG FIT | Shamal LLC | Associate - Financial Reporting | https://ae.indeed.com/viewjob?jk=97867accd5b10614 |
+| ✅ STRONG FIT | WhiteCrow Research | Infrastructure Finance Analyst | https://www.linkedin.com/jobs/view/4457338296 |
+| ✅ STRONG FIT | مجموعة الطاير | Finance Analyst - Retail Finance - Dubai | https://ae.indeed.com/viewjob?jk=18a689b7a1730655 |
+| 🟡 GOOD FIT | ACCA Careers | Senior Financial Analyst | https://www.linkedin.com/jobs/view/4454513219 |
+| 🟡 GOOD FIT | Accor | Portfolio Revenue Analyst | https://ae.indeed.com/viewjob?jk=26b08758f22acc02 |
+| 🟡 GOOD FIT | Acwa | Quantity cost Analyst | https://www.linkedin.com/jobs/view/4450605034 |
+| 🟡 GOOD FIT | BlackStone eIT | Senior Oracle Fusion Business Analyst | https://ae.indeed.com/viewjob?jk=59083e1af92849ca |
+| 🟡 GOOD FIT | DICETEK LLC | Business Analyst | https://ae.indeed.com/viewjob?jk=6e1bce386e4cc0ea |
+| 🟡 GOOD FIT | DICETEK LLC | Business Analyst-Retail Banking / Corporate Banking | https://ae.indeed.com/viewjob?jk=4748958adddcae9e |
+| 🟡 GOOD FIT | DICETEK LLC | Jedox Techno-Functional Consultant – FP&A Production Support | https://ae.indeed.com/viewjob?jk=f01526090ca2c3c5 |
+| 🟡 GOOD FIT | DICETEK LLC | Sr. Business Analyst | https://ae.indeed.com/viewjob?jk=aa248907ff906774 |
+| 🟡 GOOD FIT | Emirates Flight Catering | Senior Financial Analyst | https://www.linkedin.com/jobs/view/4455831693 |
+| 🟡 GOOD FIT | First Point Group | Financial Reporting Specialist | https://www.linkedin.com/jobs/view/4452232158 |
+| 🟡 GOOD FIT | Grand Millennium Al Wahda | Revenue Analyst | https://ae.indeed.com/viewjob?jk=8e4df687795faf16 |
+| 🟡 GOOD FIT | Human Resources Department of Ras Al Khaimah Government | Senior Budget Analyst | https://www.linkedin.com/jobs/view/4446988156 |
+| 🟡 GOOD FIT | INNOVATION WORLDWIDE DMCC | Compliance / Finance Officer | https://ae.indeed.com/viewjob?jk=575220c65dd50407 |
+| 🟡 GOOD FIT | IPT Energy | Finance Officer | https://ae.indeed.com/viewjob?jk=fff0ccedb319b6b2 |
+| 🟡 GOOD FIT | M42 Health | Senior Finance Analyst | https://www.linkedin.com/jobs/view/4457106044 |
+| 🟡 GOOD FIT | Marriott International | Cluster Revenue Analyst - The Ritz-Carlton Abu Dhabi Grand Canal | https://ae.indeed.com/viewjob?jk=07827e95629064ec |
+| 🟡 GOOD FIT | Merz Aesthetics | Senior Financial Analyst – MENA | https://www.linkedin.com/jobs/view/4430688580 |
+| 🟡 GOOD FIT | Midis Group | Senior Financial Analyst | https://www.linkedin.com/jobs/view/4441593711 |
+| 🟡 GOOD FIT | National Food Products Company / NFPC Group | Senior Financial Analyst | https://www.linkedin.com/jobs/view/4444124461 |
+| 🟡 GOOD FIT | STAR Services | Finance Officer | https://ae.indeed.com/viewjob?jk=31ff5baa39d6ce8f |
+| 🟡 GOOD FIT | Sener | Finance Officer - KSA | https://ae.indeed.com/viewjob?jk=c41005d8b3dba70e |
+| 🟡 GOOD FIT | Tamim Chartered Accountant | Senior Financial Analyst | https://ae.indeed.com/viewjob?jk=bbf61a88705a4367 |
+| 🟡 GOOD FIT | The Ritz-Carlton Hotel Company, L.L.C. | Cluster Revenue Analyst - The Ritz-Carlton Abu Dhabi Grand Canal | https://www.linkedin.com/jobs/view/4456822408 |
+| 🟡 GOOD FIT | Worley | Trainee Cost Analyst | https://ae.indeed.com/viewjob?jk=270080d841126922 |
+| 🟡 GOOD FIT | edari | Senior Specialist - Financial reporting | https://www.linkedin.com/jobs/view/4454504441 |
+| 🟠 STRETCH | Affle | Assistant Manager - Financial Planning & Analysis,Dubai | https://www.linkedin.com/jobs/view/4443261939 |
+| 🟠 STRETCH | Agility | Senior Manager - FP&A and Value creation | https://ae.indeed.com/viewjob?jk=918220d31bfd77b0 |
+| 🟠 STRETCH | Airalo | Principal Finance Business Partner - Networks | https://www.linkedin.com/jobs/view/4431252195 |
+| 🟠 STRETCH | Al-Futtaim | FP&A Manager, Healthcare, HealthHub, Dubai | https://www.linkedin.com/jobs/view/4434986624 |
+| 🟠 STRETCH | Al-Futtaim | Financial Planning and Analysis Manager | https://www.linkedin.com/jobs/view/4451755006 |
+| 🟠 STRETCH | Al Sharif Al Sheikh Trading Est. | Accountant – FP&A and Office Manager | https://ae.indeed.com/viewjob?jk=c728b22b4262a94c |
+| 🟠 STRETCH | Americana Restaurants | Financial Planning and Analysis Manager | https://www.linkedin.com/jobs/view/4446632317 |
+| 🟠 STRETCH | Avenue Hotel | Asst. Financial Controller | https://ae.indeed.com/viewjob?jk=8bc199a21ff74b8f |
+| 🟠 STRETCH | Druids | Commercial Finance Manager | https://ae.indeed.com/viewjob?jk=feda3b25cd961bd2 |
+| 🟠 STRETCH | Emarat - Emirates Petroleum Company P.J.S.C | Financial Controller | https://www.linkedin.com/jobs/view/4456572445 |
+| 🟠 STRETCH | HAWK ENERGY LLC | Financial Controller | https://ae.indeed.com/viewjob?jk=9567aa0459ad9773 |
+| 🟠 STRETCH | Hays | Manager – Real Estate FP&A | https://www.linkedin.com/jobs/view/4457230157 |
+| 🟠 STRETCH | IFS | Senior FP&A Manager - Global ARR | https://ae.indeed.com/viewjob?jk=bf2eae6bebb11604 |
+| 🟠 STRETCH | JUSTLIFE | Financial Controller | https://ae.indeed.com/viewjob?jk=bef5671880cd6c3d |
+| 🟠 STRETCH | Keeta | Keeta Finance Business Partner | https://www.linkedin.com/jobs/view/4457919062 |
+| 🟠 STRETCH | Mövenpick Hotel Jumeirah Lakes Towers | Cluster Financial Controller | https://www.linkedin.com/jobs/view/4446765259 |
+| 🟠 STRETCH | Modon | Senior Manager - FP&A | https://www.linkedin.com/jobs/view/4457901729 |
+| 🟠 STRETCH | Modon | Senior Manager – Financial Planning & Analysis (FP&A) | https://www.linkedin.com/jobs/view/4446042664 |
+| 🟠 STRETCH | Pavilion Palace Hotel LLC | Financial Controller | https://ae.indeed.com/viewjob?jk=f955fe44313c8ca3 |
+| 🟠 STRETCH | Printerpix | Management Accountant - Financial Controller | https://www.linkedin.com/jobs/view/4449030600 |
+| 🟠 STRETCH | RIKAS Hospitality Group | Financial Planning and Analysis Manager | https://www.linkedin.com/jobs/view/4451201962 |
+| 🟠 STRETCH | Radisson Hotel Group | Regional Financial Controller Northern Africa | https://www.linkedin.com/jobs/view/4443915948 |
+| 🟠 STRETCH | Salt | Financial Controller | https://www.linkedin.com/jobs/view/4450892242 |
+| 🟠 STRETCH | Stella Stays | Financial Controller | https://ae.indeed.com/viewjob?jk=bef04f922b25c899 |
+| 🟠 STRETCH | The National Insurance Company – Daman | Assistant Manager, Financial Planning and analysis | https://www.linkedin.com/jobs/view/4452807122 |
+
+*The ~254 adjacent accountant/finance-officer roles are all saved in `jds/` (dated 2026-08-28) for high-volume Easy-Apply. Not listed here individually to keep this tracker readable.*
