@@ -482,3 +482,10 @@ All 6 Phase 1 research questions in CLAUDE.md have been answered with data-backe
 - **Categories:** Added, Updated, Fixed, Removed, Changed
 - **Always commit + push:** No staging, continuous integration
 - **State tracking:** Open items go to PENDING.md (timestamped, cleared when done)
+
+## 2026-08-28 — Mass harvest: 315 jobs + 201 connections + 100 emails
+- Built resumable scrape→filter→dedup pipeline (`scripts/job_harvest/`) on python-jobspy.
+- **Jobs:** 315 net-new apply-ready JDs saved today (23 STRONG, 234 GOOD, 58 STRETCH) after discarding 1,205+ rejects and ~80 clerical/junior junk. Archive 117 → 432. Sources: Indeed + LinkedIn (Bayt/Naukri-API/Glassdoor blocked; Naukrigulf done via logged-in Chrome). Adjacent titles (accountant/finance officer) included per user approval.
+- **People:** 201 UAE finance connection targets (CFO/Director/VP/FP&A-Mgr/HR-TA) via logged-in LinkedIn people search, with humanized ~200-char notes. → NETWORKING.md.
+- **Emails:** 100 real employer/recruiter contacts harvested from postings, with humanized cold-email drafts. → COLD_EMAILS.md.
+- Sending invites/emails remains Ashnad's action (LinkedIn automation limits).

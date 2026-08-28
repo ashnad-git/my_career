@@ -372,3 +372,10 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ---
 
 *(New entries go above this line)*
+
+## 2026-08-28 (Fri)
+**Mega-harvest session.** Claude built an automated job-harvest pipeline and ran a full multi-source sweep.
+- Jobs found today (apply-ready, after rejections): **315** (target was 200). Archive now 432 JDs.
+- LinkedIn connection targets built: **201** (senior finance + HR/TA), with draft notes → NETWORKING.md.
+- Cold-email contacts harvested: **100** real recruiter/HR emails → COLD_EMAILS.md.
+- Next action for Ashnad: start sending connection invites (~20/day) and cold emails in batches; apply to STRONG/GOOD roles.
