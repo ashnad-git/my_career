@@ -450,19 +450,24 @@
 | 89 | 🟠 STRETCH | imediaop | F&B Cost Controller | Abu Dhabi, AZ, AE | indeed | https://ae.indeed.com/viewjob?jk=a7b49775baa9beb5 |
 | 90 | 🟠 STRETCH | nan | Accounts & Finance Manager | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=3651ec0fce083eb6 |
 | 91 | 🟠 STRETCH | nan | Finance Manager | Dubai, DU, AE | indeed | https://ae.indeed.com/viewjob?jk=0967f3625f3e5db1 |
-## QUEUED — Naukrigulf FA batch (full JD fetch pending, 2026-08-28)
+## RESOLVED — Naukrigulf FA batch (full JDs fetched, 2026-08-28)
 
-*Fresh net-new keepers identified via logged-in Naukrigulf (131 scanned → filtered). Full verbatim JD to be fetched + saved to jds/ next.*
+Full Naukrigulf FA search re-scanned (125 listings across 5 pages), fit-filtered and deduped vs the archive. **10 net-new apply-ready JDs fetched with verbatim descriptions and saved to `jds/`:**
 
-| Fit | Company | Role | URL slug |
-|---|---|---|---|
-| GOOD | Aspen Holdings | Commercial Finance Analyst | commercial-finance-analyst-...aspen-holdings-...jid-270826500696 |
-| GOOD | TotalEnergies | VIE Financial Analyst (Abu Dhabi) | vie-financial-analyst-...totalenergies-...jid-270826500644 |
-| GOOD | Yas Partner LLC FZ | Financial Analyst | financial-analyst-...yas-partner...jid |
-| GOOD | Client of Ladwig Consulting | Financial Analyst | financial-analyst-...ladwig-consulting...jid |
-| GOOD | Al Kabeer Group | Financial Planning Analyst | financial-planning-analyst-...al-kabeer-group...jid |
-| GOOD | Talents Tide HR | Financial Planning & Reporting Analyst | financial-planning-reporting-analyst-...jid-160726001022 |
-| STRONG | Confidential | Financial Analyst Junior (2-3 yrs, Dubai) | financial-analyst-junior-...jid-030726000985 |
+| Fit | Company | Role |
+|---|---|---|
+| STRONG | Confidential Company | Financial Analyst - Junior (2-3 yrs) |
+| GOOD | Confidential Company | Financial Analyst |
+| GOOD | YAS PARTNER L.L.C-FZ | Financial Analyst |
+| GOOD | Aspen Holdings | Commercial Finance Analyst |
+| GOOD | TotalEnergies | VIE - Financial Analyst (Controlling, Abu Dhabi) |
+| GOOD | Al Kabeer Group | Financial Planning Analyst (Sales Business Partnering) |
+| STRETCH | Al Futtaim Private Company | Manager FP&A (Jebel Ali) |
+| STRETCH | Confidential (Giftery) | Finance Manager (digital commerce, 2-3 yrs) |
+| STRETCH | Sheikh Shakhbout Medical City | Senior Financial Analyst - Business Support & Analytics |
+| STRETCH | Client of Mark Williams | Senior Finance Analyst (Financial Services, treasury-leaning) |
+
+**Skipped from the queue (not apply-ready):** Confidential FP&A Manager (7+ yrs), Ghayn Capital Finance Manager (8-10 yrs), Talents Tide FP&R Analyst (UAE-National only), Talents Tide Junior Finance Officer (AP/AR clerical, PNG posting), AI Acquisition Finance Manager (5-10 yrs, Jan posting). **Archive dups skipped:** Bahmani, WSP, Client of Ladwig, NEP Group, Huda Beauty, Sundus, Midis, Al Futtaim Senior FA, Al Futtaim FP&A Manager Healthcare.
 
 ## ADJACENT-TITLE BATCH — 2026-08-28 (Indeed sweep, user-approved adjacent titles)
 
