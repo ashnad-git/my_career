@@ -489,3 +489,9 @@ All 6 Phase 1 research questions in CLAUDE.md have been answered with data-backe
 - **People:** 201 UAE finance connection targets (CFO/Director/VP/FP&A-Mgr/HR-TA) via logged-in LinkedIn people search, with humanized ~200-char notes. → NETWORKING.md.
 - **Emails:** 100 real employer/recruiter contacts harvested from postings, with humanized cold-email drafts. → COLD_EMAILS.md.
 - Sending invites/emails remains Ashnad's action (LinkedIn automation limits).
+
+## 2026-08-28 (later) — GulfTalent deep-fetch pass
+- Scraped 95 GulfTalent finance-title listings (logged-in), fetched full verbatim JDs via same-origin fetch + persist-to-file extraction, fit-filtered and deduped vs archive.
+- **+35 net-new apply-ready JDs** (1 STRONG, 17 GOOD, 17 STRETCH). Archive 442 → 477.
+- Skipped UAE-National, clerical (PA-cum-accountant, assistant cost controller) and archive dups (Abbott, Al Futtaim Sr FA, Worley, Michael Page FP&A, Delphi Star, Talent Bridge).
+- Also fetched the queued Naukrigulf batch earlier (+10). Today total: 360 net-new apply-ready JDs.

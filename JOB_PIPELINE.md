@@ -545,3 +545,45 @@ Today's total: 315 net-new · Archive total: 432 JDs. Split: ~61 core finance-an
 | 🟠 STRETCH | The National Insurance Company – Daman | Assistant Manager, Financial Planning and analysis | https://www.linkedin.com/jobs/view/4452807122 |
 
 *The ~254 adjacent accountant/finance-officer roles are all saved in `jds/` (dated 2026-08-28) for high-volume Easy-Apply. Not listed here individually to keep this tracker readable.*
+
+## GULFTALENT DEEP-FETCH — 2026-08-28
+
+**35 net-new apply-ready JDs fetched (verbatim) from GulfTalent** — 95 finance-title listings scanned, fit-filtered, deduped vs archive. Saved to `jds/`.
+
+| Fit | Company | Role | URL |
+|---|---|---|---|
+| ✅ STRONG FIT | WorleyParsons | Trainee Cost Analyst | https://www.gulftalent.com/uae/jobs/trainee-cost-analyst-625793 |
+| 🟡 GOOD FIT | Adcourt | Outsource Accountant | https://www.gulftalent.com/uae/jobs/outsource-accountant-624186 |
+| 🟡 GOOD FIT | Lexin | General Accountant | https://www.gulftalent.com/uae/jobs/general-accountant-615746 |
+| 🟡 GOOD FIT | Al Futtaim Group | Financial Analyst | https://www.gulftalent.com/uae/jobs/financial-analyst-592038 |
+| 🟡 GOOD FIT | RTC | Accountant F B | https://www.gulftalent.com/uae/jobs/accountant-f-b-619281 |
+| 🟡 GOOD FIT | Talent Bridge HR Consultancy | Accountant | https://www.gulftalent.com/uae/jobs/accountant-618189 |
+| 🟡 GOOD FIT | Michael Page | Accountant | https://www.gulftalent.com/uae/jobs/accountant-623736 |
+| 🟡 GOOD FIT | Kershaw Leonard | Accountant Family Office | https://www.gulftalent.com/uae/jobs/accountant-family-office-618160 |
+| 🟡 GOOD FIT | RTC | Accountant | https://www.gulftalent.com/uae/jobs/accountant-614857 |
+| 🟡 GOOD FIT | Al Tayer Group | Finance Analyst | https://www.gulftalent.com/uae/jobs/finance-analyst-624537 |
+| 🟡 GOOD FIT | Valida Group | Accountant Client Advisory Support | https://www.gulftalent.com/uae/jobs/accountant-client-advisory-support-623727 |
+| 🟡 GOOD FIT | Global Corporation | Corporate Finance Analyst | https://www.gulftalent.com/uae/jobs/corporate-finance-analyst-622305 |
+| 🟡 GOOD FIT | Paw Revolution | Manufacturing Accountant | https://www.gulftalent.com/uae/jobs/manufacturing-accountant-624185 |
+| 🟡 GOOD FIT | Global Corporation | Cost Management Accountant | https://www.gulftalent.com/uae/jobs/cost-management-accountant-602124 |
+| 🟡 GOOD FIT | Abdelrahman Almaazmi Advocates and Legal Consultants | Accountant | https://www.gulftalent.com/uae/jobs/accountant-611439 |
+| 🟡 GOOD FIT | RTC | Accountant General | https://www.gulftalent.com/uae/jobs/accountant-general-607543 |
+| 🟡 GOOD FIT | Ourshopee.com | Chartered Accountant | https://www.gulftalent.com/uae/jobs/chartered-accountant-621751 |
+| 🟡 GOOD FIT | International Vision Investments | Accountant | https://www.gulftalent.com/uae/jobs/accountant-618180 |
+| 🟠 STRETCH | Inspire Selection | Finance Business Partner | https://www.gulftalent.com/uae/jobs/finance-business-partner-620446 |
+| 🟠 STRETCH | Marriott International | Multi Property Finance Manager | https://www.gulftalent.com/uae/jobs/multi-property-finance-manager-607756 |
+| 🟠 STRETCH | Global Corporation | Senior Financial Analyst | https://www.gulftalent.com/uae/jobs/senior-financial-analyst-604842 |
+| 🟠 STRETCH | Marriott International | Finance Manager | https://www.gulftalent.com/uae/jobs/finance-manager-606794 |
+| 🟠 STRETCH | Hilton Luxor Resort & Spa | Finance Manager | https://www.gulftalent.com/uae/jobs/finance-manager-612604 |
+| 🟠 STRETCH | Ziva | Senior Cost Accountant | https://www.gulftalent.com/uae/jobs/senior-cost-accountant-620875 |
+| 🟠 STRETCH | Michael Page | Finance Manager | https://www.gulftalent.com/uae/jobs/finance-manager-616235 |
+| 🟠 STRETCH | SOHO Development | Senior Accountant | https://www.gulftalent.com/uae/jobs/senior-accountant-607680 |
+| 🟠 STRETCH | Talent Bridge HR Consultancy | Finance Manager | https://www.gulftalent.com/uae/jobs/finance-manager-593705 |
+| 🟠 STRETCH | ADNOC | Senior Financial Analyst | https://www.gulftalent.com/uae/jobs/senior-financial-analyst-624221 |
+| 🟠 STRETCH | The Talents Nation | Senior Accountant Client Onboarding | https://www.gulftalent.com/uae/jobs/senior-accountant-client-onboarding-597953 |
+| 🟠 STRETCH | Chalhoub Group | Finance Manager | https://www.gulftalent.com/uae/jobs/finance-manager-614448 |
+| 🟠 STRETCH | RTC | Finance Manager Agribusiness | https://www.gulftalent.com/uae/jobs/finance-manager-agribusiness-611481 |
+| 🟠 STRETCH | Kershaw Leonard | Senior Accountant Brokerage And Family Office | https://www.gulftalent.com/uae/jobs/senior-accountant-brokerage-and-family-office-592308 |
+| 🟠 STRETCH | Leocor Advisory | Finance Manager | https://www.gulftalent.com/uae/jobs/finance-manager-600234 |
+| 🟠 STRETCH | MAG Group Holding | Financial Planning And Analysis Manager | https://www.gulftalent.com/uae/jobs/financial-planning-and-analysis-manager-620419 |
+| 🟠 STRETCH | Crazy Pets | Senior Accountant | https://www.gulftalent.com/uae/jobs/senior-accountant-604159 |
