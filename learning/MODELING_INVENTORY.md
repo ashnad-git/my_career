@@ -1,10 +1,33 @@
 # Financial Modeling Practice — Case Inventory
 
-Source: https://financial-modeling.carrd.co (hosted on Quantus — quantus.finance)
+Source: https://financial-modeling.carrd.co (hosted on Quantus — quantus.finance)  
+**Documented:** 2026-08-29 | **Full decision log:** PHASE2_MASTER_PLAN.md → "QUANTUS MODELING CASES" section
 
-**19 cases selected. 7 skipped (M&A + LBO — not relevant for FP&A roles).**
+**19 cases selected. 7 skipped (M&A + LBO — not relevant for UAE FP&A roles).**
 
-Each case will be replicated as a standalone Excel file in `learning/phase2c_modeling/` and solved in order. Completed models get posted on LinkedIn.
+Each case replicated as a standalone Excel file in `learning/phase2c_modeling/` and solved in order. Completed Hard cases posted on LinkedIn.
+
+---
+
+## UAE Data Replacement Rule — HARD CASES ONLY (Decided 2026-08-29)
+
+The 5 Hard/real-company cases swap US company data for UAE listed company data. The model structure and mechanics stay identical — only the source data changes.
+
+| Case | Original Company | Replace With | Reason |
+|---|---|---|---|
+| Case 3 — P&L Hard | Apple (US GAAP) | **Air Arabia PJSC** (IFRS, ADX) | UAE company, IFRS, recruiter-relevant |
+| Case 6 — CFS Hard | Apple (US GAAP) | **Air Arabia PJSC** (same) | Same source as Case 3 — consistent company |
+| Case 9 — BS Hard | Apple (US GAAP) | **Air Arabia PJSC** (same) | Same source — builds toward 3SM |
+| Case 12 — 3SM Hard ★ | Amazon (US GAAP) | **Air Arabia PJSC** (IFRS, ADX) | MAIN PORTFOLIO PIECE — UAE 3-statement model |
+| Case 16 — DCF Hard | Oracle (US GAAP) | **Air Arabia or Emaar** (IFRS) | UAE valuation is more credible for regional roles |
+
+**Backup companies if Air Arabia data is insufficient:** Emaar Properties, Aldar Properties, Agthia Group — all ADX/DFM listed, IFRS, annual reports publicly available.
+
+**Easy and Medium cases:** Keep original fictional or US data — these are mechanics practice, not showcase pieces. The company name doesn't matter when you're learning how to wire formulas.
+
+**Advanced schedules (Cases 17–19):** Keep Microsoft and Delta data — schedule mechanics are universal, company name irrelevant.
+
+---
 
 ---
 

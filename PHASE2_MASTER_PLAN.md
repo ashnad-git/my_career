@@ -529,21 +529,71 @@ These checkpoints are conditional — only build if interviews aren't converting
 
 ---
 
-## PHASE 2E — PROJECT 4: FINANCIAL STATEMENT ANALYSIS
-**Duration:** 2 weeks (Weeks 11–12)  
-**Deliverable:** Analyst-style financial review of a real UAE listed company  
-**Company options:** Agthia Group (FMCG), Air Arabia (aviation), Aldar Properties (real estate)  
-**Format:** PDF report + Excel ratio workings
+## QUANTUS MODELING CASES — PARALLEL LEARNING TRACK
+**Documented:** 2026-08-29  
+**Full spec:** `learning/MODELING_INVENTORY.md` — read that file for case-by-case data, tasks, and instructions  
+**Folder:** `learning/phase2c_modeling/` — one Excel file per case
 
-### What to Build
-- Income statement analysis (revenue trends, margin evolution, YoY)
-- Balance sheet analysis (asset mix, leverage, working capital)
-- Cash flow analysis (operating/investing/financing)
-- Key ratios (liquidity, profitability, efficiency, leverage)
-- Peer comparison (1 comparable company)
-- 2-3 page narrative: what's driving performance, what risks exist
+### The Plan (Decided 2026-08-29)
 
-*Uses real public company data from investor relations page — annual report download.*
+19 cases from financial-modeling.carrd.co (hosted on Quantus), worked through in order. 7 skipped (M&A + LBO — not relevant for UAE FP&A). Each case replicated as a standalone Excel file and solved. Completed Hard cases posted on LinkedIn.
+
+**Critical rule — UAE data replaces US data for all Hard cases:**
+
+| Case | Original (Quantus) | Replace with |
+|---|---|---|
+| Case 3 — P&L Hard | Apple (US GAAP) | Air Arabia (IFRS, ADX-listed) |
+| Case 6 — CFS Hard | Apple (US GAAP) | Air Arabia (same source) |
+| Case 9 — BS Hard | Apple (US GAAP) | Air Arabia (same source) |
+| Case 12 — 3SM Hard ★ | Amazon (US GAAP) | Air Arabia or Emaar (IFRS, UAE) |
+| Case 16 — DCF Hard | Oracle (US GAAP) | Air Arabia or Emaar (IFRS, UAE) |
+
+Why: UAE FP&A employers use IFRS. US GAAP public company models don't signal UAE-readiness. Swapping to Air Arabia or Emaar data keeps all the mechanics identical but makes the portfolio piece credible to a regional employer.
+
+Easy and Medium cases (fictional or US data): keep as-is — they're for building mechanics, not showcasing.
+
+**When to do this track:**
+- Easy/Medium cases (1, 2, 4, 5, 7, 8, 10, 11, 13): Run these in parallel during Phase 2B/2C as supplementary practice — one case per week alongside the main project.
+- Hard UAE cases (3, 6, 9, 12, 16): These are portfolio pieces. Build them during Phase 2E (replacing the original FSA report, or alongside it).
+- Advanced schedules (17, 18, 19): After Phase 2E, as optional depth work.
+
+**LinkedIn post for each Hard case completed** — see MODELING_INVENTORY.md for post template.
+
+**Priority order:**
+1. Phase 2B finishes first (COGS → OpEx → P&L → Variance → Dashboard) — nothing changes here
+2. Phase 2C (Power BI) — nothing changes here
+3. Phase 2D (Cash Flow) — nothing changes here
+4. Phase 2E replaces the FSA report with the Air Arabia 3-Statement Model (Case 12 equivalent) — that IS the financial statement analysis, just built as a model instead of a PDF report
+5. Cases 3, 6, 9 (Air Arabia P&L, CFS, BS Hard) are the building blocks toward the 3SM
+
+---
+
+## PHASE 2E — PROJECT 4: UAE 3-STATEMENT MODEL + FSA
+**Duration:** 3 weeks (Weeks 11–13)  
+**Updated:** 2026-08-29 — now combines original FSA plan with the Quantus UAE Hard cases  
+**Company:** Air Arabia PJSC (ADX: AIRARABI) — clean IFRS, publicly listed, detailed annual reports  
+**Backup company:** Emaar Properties, Aldar Properties, or Agthia Group (if Air Arabia data is insufficient)  
+**Deliverable:** Fully integrated 3-statement model + analyst commentary + ratio analysis  
+**Format:** Excel model + short PDF write-up (key findings, business insights)
+
+### Why Air Arabia
+- Publicly listed on Abu Dhabi Securities Exchange (ADX) — annual reports freely downloadable
+- IFRS throughout — matches what UAE employers use
+- Simple, clean business model (airline: revenue = passengers × yield, costs = fuel + staff + aircraft)
+- No complex consolidation or minority interests
+- Annual report has sufficient line-item detail for IS, BS, CFS
+
+### What to Build (Weeks 11–12)
+- **Week 11 — Build Cases 3, 6, 9 (P&L, CFS, BS):** Use Air Arabia historical data (3 years actual). Build each statement separately to practice the mechanics with real IFRS data.
+- **Week 12 — Build Case 12 (3SM):** Integrate all three into a linked 3-statement model. Add forecast years (2 or 3 years forward). This is the LinkedIn showpiece.
+- **Week 13 — Analysis layer:** Key ratios (EBITDA margin, load factor, cost per seat, net debt/EBITDA), YoY commentary, peer comparison (flydubai or Emirates if data available), 2-page narrative explaining what the numbers mean.
+
+### What it replaces from the original Phase 2E plan
+- ~~PDF report + Excel ratio workings~~ → Replaced by the full integrated model (the model IS the work product)
+- ~~"Analyst-style financial review"~~ → The 3SM + commentary IS the financial review — more rigorous, not less
+
+### LinkedIn post for this project
+This is the main portfolio showpiece post. Screenshots of the completed model (3 tabs: IS, BS, CFS) + key finding (e.g. "Air Arabia's EBITDA margin recovered to X% in 2023, driven by Y. Here's how I modelled the 3-year forecast."). This signals: IFRS literacy, UAE market awareness, financial modeling skill, analytical thinking.
 
 ---
 
