@@ -12,7 +12,7 @@ An FP&A model is a structured Excel workbook that translates business assumption
 2. **Where do we end up?** (Rolling Forecast — full-year view)
 3. **What if things go wrong (or right)?** (Scenario Analysis — Bull/Bear/Base)
 
-The model is not a reporting tool — it is a decision-making tool. Its value is that changing one assumption (e.g., COGS%) automatically cascades through Revenue → Gross Profit → EBITDA across all 12 months and all three scenarios.
+The model is not a reporting tool — it is a decision-making tool. Its value is that changing one assumption (e.g., COGS%) automatically cascades through Revenue → Gross Profit → Operating Profit across all 12 months and all three scenarios.
 
 ### The 9-Tab Architecture
 
@@ -22,7 +22,7 @@ The model is not a reporting tool — it is a decision-making tool. Its value is
 | Revenue Build | Calculation | Units × Price × Seasonality = monthly revenue by outlet/category |
 | COGS Build | Calculation | Revenue × COGS% per category |
 | OpEx Detail | Calculation | Fixed costs + variable marketing % per outlet |
-| P&L Summary | Output | Budget P&L: Revenue → GP → EBITDA, monthly + annual |
+| P&L Summary | Output | Budget P&L: Revenue → GP → Operating Profit, monthly + annual |
 | Variance Analysis | Output | Actual vs Budget, $ and % variance, Fav/Unfav |
 | Rolling Forecast | Output | Actuals locked for past months, budget for future |
 | Scenario Analysis | Output | Base/Bull/Bear — one assumption change moves the entire P&L |
@@ -217,8 +217,8 @@ The P&L Summary is the first "output" tab — it consolidates all build tabs int
 | 9 | Gross Margin % |
 | 10 | spacer |
 | 11 | Less: OpEx |
-| 12 | EBITDA |
-| 13 | EBITDA Margin % |
+| 12 | Operating Profit |
+| 13 | Operating Margin % |
 
 ### Key Formulas
 
@@ -229,8 +229,8 @@ The P&L Summary is the first "output" tab — it consolidates all build tabs int
 | C11 | `='OpEx Detail'!C23` | Jan budget OpEx from grand total row |
 | C8 | `=C6-C7` | Gross Profit = Revenue − COGS |
 | C9 | `=C8/C6` | Gross Margin % = GP / Revenue |
-| C12 | `=C8-C11` | EBITDA = GP − OpEx |
-| C13 | `=C12/C6` | EBITDA% = EBITDA / Revenue |
+| C12 | `=C8-C11` | Operating Profit = GP − OpEx |
+| C13 | `=C12/C6` | Operating Margin % = Operating Profit / Revenue |
 | O6 | `=SUM(C6:N6)` | Annual budget revenue |
 
 ### Hardcoded Actuals (Jan/Feb/Mar)
@@ -241,7 +241,7 @@ The P&L Summary is the first "output" tab — it consolidates all build tabs int
 | COGS | 858,000 | 840,000 | 1,040,000 |
 | OpEx | 685,000 | 658,000 | 710,000 |
 
-Derived actuals (GP, GM%, EBITDA, EBITDA%) are formula cells — same formulas as the budget columns, just referencing the actuals.
+Derived actuals (GP, GM%, Operating Profit, Operating Margin %) are formula cells — same formulas as the budget columns, just referencing the actuals.
 
 ---
 
@@ -262,7 +262,7 @@ A variance is only meaningful if you know whether it's good or bad. The label de
 
 | Line type | Positive $Var (Actual > Budget) | Negative $Var (Actual < Budget) |
 |---|---|---|
-| Revenue, GP, EBITDA, margins | **Fav** — you made more than planned | **Unfav** — you made less |
+| Revenue, GP, Operating Profit, margins | **Fav** — you made more than planned | **Unfav** — you made less |
 | COGS, OpEx | **Unfav** — you spent more than planned | **Fav** — you spent less |
 
 ### IF Formula for Fav/Unfav
@@ -295,12 +295,12 @@ Jan = B–F, Feb = H–L, Mar = N–R, Q1 = T–X. Spacers at G, M, S (width 2).
 
 ### Q1 Aggregation — Common Mistake
 
-For AED rows (Revenue, COGS, GP, OpEx, EBITDA):
+For AED rows (Revenue, COGS, GP, OpEx, Operating Profit):
 ```excel
 Q1 Budget (T7) = B7 + H7 + N7   ← SUM Jan + Feb + Mar
 ```
 
-For margin % rows (GM%, EBITDA%):
+For margin % rows (GM%, Operating Margin %):
 ```excel
 Q1 Budget GM% (T10) = T9 / T7   ← Q1 GP ÷ Q1 Revenue
 ```
@@ -352,7 +352,7 @@ The result is always a realistic full-year number. A static budget becomes stale
 
 ### Key Formula Patterns
 
-Derived rows (GP, EBITDA) — use cells within the same tab, consistent across all 12 months:
+Derived rows (GP, Operating Profit) — use cells within the same tab, consistent across all 12 months:
 ```excel
 B9 = B7 - B8    (Jan GP = Jan Revenue - Jan COGS)
 E9 = E7 - E8    (Apr GP = Apr Revenue - Apr COGS)
@@ -390,7 +390,7 @@ N10 = N9 / N7    ← GP / Revenue, NOT SUM of monthly %s
 ### What It Is and Why It Matters
 
 A scenario analysis shows the P&L under different futures simultaneously. Management can see:
-- How much EBITDA upside in a good year (Bull)
+- How much Operating Profit upside in a good year (Bull)
 - How much downside in a bad year (Bear)
 - Whether the risk/reward is symmetric or skewed
 
@@ -421,8 +421,8 @@ A scenario analysis shows the P&L under different futures simultaneously. Manage
 | GP (B16) | `=B14-B15` |
 | GM% (B17) | `=B16/B14` |
 | OpEx (B19) | `=B9` — pull from assumption row |
-| EBITDA (B20) | `=B16-B19` |
-| EBITDA% (B21) | `=B20/B14` |
+| Operating Profit (B20) | `=B16-B19` |
+| Operating Margin % (B21) | `=B20/B14` |
 
 Same pattern for C (Bull) and D (Bear) — just reference those columns.
 
@@ -441,7 +441,7 @@ Base COGS:  22,602,000 × 44.86% = 10,138,140
 Bear COGS:  21,471,900 × 47.00% = 10,091,793  ← lower in AED
 ```
 
-This doesn't mean the Bear case is okay — GP still falls because revenue fell more. Always look at GP and EBITDA as the bottom line, not COGS in isolation.
+This doesn't mean the Bear case is okay — GP still falls because revenue fell more. Always look at GP and Operating Profit as the bottom line, not COGS in isolation.
 
 ---
 
@@ -461,9 +461,9 @@ The dashboard is a one-page executive view. It answers three questions in 30 sec
 | Metric | Source |
 |---|---|
 | Q1 Revenue Actual | ='Variance Analysis'!U7 |
-| Q1 EBITDA Actual | ='Variance Analysis'!U13 |
+| Q1 Operating Profit Actual | ='Variance Analysis'!U13 |
 | Q1 Gross Margin % | ='Variance Analysis'!U9/'Variance Analysis'!U7 |
-| Q1 EBITDA Margin % | ='Variance Analysis'!U13/'Variance Analysis'!U7 |
+| Q1 Operating Margin % | ='Variance Analysis'!U13/'Variance Analysis'!U7 |
 
 **Section 2 — Q1 Scorecard:** Full P&L comparison, Budget vs Actual. Links from Variance Analysis Q1 block (T=Budget, U=Actual, V=$Var, W=Fav/Unfav, X=%Var).
 
@@ -510,7 +510,7 @@ FY %Var (F22)           = D22/B22
 ### Margin %
 ```excel
 =GP / Revenue
-=EBITDA / Revenue
+=Operating_Profit / Revenue
 ```
 
 ### $ Variance
@@ -565,9 +565,9 @@ FY %Var (F22)           = D22/B22
 
 **OpEx:** Overspent by AED 67k (+3.4%) vs budget. Marketing spend in Q1 ran above plan, likely to drive Ramadan traffic.
 
-**EBITDA:** Squeezed from both directions — revenue miss and OpEx overrun — landing at AED 1.25M vs 1.39M budgeted, a shortfall of AED 141k (-10.1%). EBITDA margin 20.7% vs 22.7% budgeted (-2.0pp).
+**Operating Profit:** Squeezed from both directions — revenue miss and OpEx overrun — landing at AED 1.25M vs 1.39M budgeted, a shortfall of AED 141k (-10.1%). Operating margin 20.7% vs 22.7% budgeted (-2.0pp).
 
-**FY Outlook:** If Apr–Dec performs exactly to budget, full-year EBITDA will be AED 4.43M vs 4.57M budgeted (the Q1 miss flows through). A recovery in H2 revenue or tighter OpEx control is needed to close the gap.
+**FY Outlook:** If Apr–Dec performs exactly to budget, full-year Operating Profit will be AED 4.43M vs 4.57M budgeted (the Q1 miss flows through). A recovery in H2 revenue or tighter OpEx control is needed to close the gap.
 
 ---
 
