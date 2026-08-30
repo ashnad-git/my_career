@@ -13,16 +13,16 @@
 
 | Field | Value |
 |---|---|
-| **Current Week** | Week 3 — Phase 2B active |
-| **Current Phase** | Phase 2B — Project 1: FP&A Model (Week 4: COGS + OpEx + P&L Summary) |
-| **Current Task** | Build COGS tab — link COGS% from Assumptions to Revenue |
-| **Last Session Date** | 2026-08-25 |
-| **Last Session Summary** | Session 19: Applied to 3 jobs — ABDULLA ALARIF (STRETCH, master), ITP Media Group (STRONG, tailored), NEP Singapore (STRONG, tailored). Greenbull NOT applied (French required, discovered on form). Refactored build_resume_pdf.py: 1364 lines → 62-line dispatcher + resume_utils.py + 10 individual files in scripts/resumes/. All builds verified. Applications total: 16. |
-| **Next Session: Start With** | 1. Read this file + PENDING.md 2. Catch-up Q&A → DAILY_LOG entry 3. Resume Phase 2B — COGS tab (link COGS% from Assumptions, build COGS row formula across 12 months) |
-| **Blockers** | 3 recruiter emails still unsent (4+ sessions overdue — Brian Casey, Darius Dosieah, Morgan Tull). 19 LinkedIn connection notes ready (Ashnad sends). STRONG FIT queue remaining: Property Finder x2, zcreatix, Confidential Junior Process Performance. |
+| **Current Week** | Week 5 — Phase 2B near-complete |
+| **Current Phase** | Phase 2B — Project 1: FP&A Model (all 9 tabs built) |
+| **Current Task** | Remaining for CHECKPOINT 2B-4: (1) Management Commentary in Variance Analysis (2) GitHub repo + README (3) LinkedIn post |
+| **Last Session Date** | 2026-08-31 |
+| **Last Session Summary** | Session 20 (2-part): Full Phase 2B model complete. Built Rolling Forecast (actuals locked Jan-Mar, Apr-Dec links from build tabs), Scenario Analysis (Base/Bull/Bear, P&L output, impact columns), Dashboard (KPI tiles, Q1 Scorecard, FY Outlook — all verified end-to-end). Fixed Variance Analysis Q1 margin % $Var formulas. Fixed Rolling Forecast EBITDA% FY Total. Wrote FPA_TEXTBOOK.md (12 chapters). Model fully verified. |
+| **Next Session: Start With** | 1. Read this file + PENDING.md 2. Catch-up Q&A → DAILY_LOG entry 3. Write Management Commentary in Variance Analysis tab (2 paragraphs) 4. GitHub repo + README 5. LinkedIn post draft |
+| **Blockers** | 3 recruiter emails still unsent (5+ sessions overdue — Brian Casey, Darius Dosieah, Morgan Tull). STRONG FIT queue: Property Finder x2, zcreatix, Confidential Junior Process Performance. GOOD FIT batch not started. |
 | **Applications Sent** | 16 |
 | **Interviews Booked** | 0 |
-| **Project 1 Progress** | 22% — Assumptions + Revenue Build complete (CHECKPOINT 2B-1 passed) |
+| **Project 1 Progress** | 85% — All 9 tabs built and verified. Remaining: management commentary + GitHub + LinkedIn post |
 | **Project 2 Progress** | 0% — Not started |
 | **Project 3 Progress** | 0% — Not started |
 

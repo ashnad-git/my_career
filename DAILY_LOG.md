@@ -27,11 +27,11 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 
 | Metric | This Week | Total | Target/Week |
 |---|---|---|---|
-| Applications sent | 3 | 16 | 5–8 |
+| Applications sent | 0 | 16 | 5–8 |
 | Interviews booked | 0 | 0 | — |
-| Connection requests sent | 0 (notes ready, Ashnad sends) | 7 | 10–14 |
-| LinkedIn posts/comments | 3 | 3 | 5+ |
-| Learning hours logged | 0 | 14 | 5–7 hrs |
+| Connection requests sent | 0 | 7 | 10–14 |
+| LinkedIn posts/comments | 0 | 3 | 5+ |
+| Learning hours logged | ~4 (model session) | 18 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 | JDs saved in archive | — | 117 | — |
 
@@ -40,6 +40,29 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-31 | Session 20: Phase 2B FP&A Model — Complete
+
+**Session type:** Learning — Phase 2B model build (multi-part session)
+**Jobs applied:** 0
+**Connections sent:** 0
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None
+**Session work:**
+- Completed Rolling Forecast tab: Q1 actuals locked (Jan-Mar hardcoded), Apr-Dec linked from Revenue Build/COGS Build/OpEx Detail, FY Total = SUM of 12 months. Fixed EBITDA% FY Total formula (was dividing by COGS row instead of Revenue).
+- Completed Scenario Analysis tab: Section 1 assumptions (Base/Bull/Bear inputs for Revenue growth, COGS%, OpEx growth), Section 2 P&L output formula-driven from Section 1. Impact columns (Bull vs Base, Bear vs Base). Learned volume vs rate effect — Bear COGS lower in AED despite higher COGS% because revenue volume drop dominated.
+- Completed Dashboard tab: KPI tiles (Q1 Revenue/EBITDA/margins from Variance Analysis), Q1 Scorecard (links from VA Q1 block), FY Outlook (Budget from P&L Summary col O, Forecast from Rolling Forecast col N). All three sections verified end-to-end.
+- Fixed Variance Analysis bugs: Q1 $Var for GM% and EBITDA% rows were dividing $Vars instead of doing Actual%-Budget%. Fixed V10=U10-T10 and V14=U14-T14. Forced recalculation (Cmd+Option+F9).
+- Fixed Variance Analysis conditional formatting: replaced "Text Contains" rule (catches "Fav" inside "Unfav") with formula-based exact match (=$E7="Fav") across all Fav/Unfav columns in one range selection.
+- Generated FPA_TEXTBOOK.md (12 chapters): covers all 9 tabs, every formula pattern, reference decision, Fav/Unfav convention, margin % aggregation pitfall, scenario analysis structure, management commentary for Q1.
+- All 9 model tabs now built and verified: Assumptions, Revenue Build, COGS Build, OpEx Detail, P&L Summary, Variance Analysis, Rolling Forecast, Scenario Analysis, Dashboard.
+**Blockers/notes:**
+- No applications this week — 6-day gap since last session. STRONG FIT queue untouched (Property Finder x2, zcreatix, Confidential Junior Process Performance). GOOD FIT batch not started.
+- 3 recruiter emails still unsent (5+ sessions overdue): Brian Casey/Cooper Fitch, Darius Dosieah/Robert Walters, Morgan Tull/Hays UAE
+- Remaining for CHECKPOINT 2B-4: management commentary in Variance Analysis tab (2 paragraphs) + GitHub repo + README + LinkedIn post
 
 ---
 
