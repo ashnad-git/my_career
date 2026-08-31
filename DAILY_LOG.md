@@ -31,7 +31,7 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 | Interviews booked | 0 | 0 | — |
 | Connection requests sent | 0 | 7 | 10–14 |
 | LinkedIn posts/comments | 0 | 3 | 5+ |
-| Learning hours logged | ~4 (model session) | 18 | 5–7 hrs |
+| Learning hours logged | ~6 (model + portfolio) | 20 | 5–7 hrs |
 | Days with full checklist | 0 | 0 | 7/7 |
 | JDs saved in archive | — | 117 | — |
 
@@ -40,6 +40,28 @@ Claude writes the answers into a log entry below. Ashnad never writes anything i
 ## LOG ENTRIES
 
 *(Claude writes all entries. Most recent at top.)*
+
+---
+
+### 2026-08-31 | Session 21: Notion Portfolio Page — Built and Published
+
+**Session type:** Portfolio build — Notion page for Zara & Co. FP&A Model
+**Jobs applied:** 0
+**Connections sent:** 0
+**LinkedIn activity:** None
+**Learning outside session:** None
+**Responses received:** None
+**Session work:**
+- Completed Notion portfolio page build for Zara & Co. FP&A Model
+- Page structure: title, humanized description, contact line (email + Dubai), 3 charts (Q1 Revenue Actual vs Budget, Q1 P&L Summary, FY2025 Scenario Analysis), "What's in the model" section with 9 bullet points covering all tabs, downloadable Excel file (Zara_Co_FPA_Model_2025.xlsx)
+- Charts generated via matplotlib (clean finance palette, dark navy + light blue, no chart junk)
+- Excel uploaded to Notion via presigned S3 URL — injected base64 in browser, PUT to S3, file block created via Notion API
+- Stray image block deleted via right-click UI (API approach returned 200 but did not persist on reload)
+- Page published publicly: https://rust-teal-362.notion.site/Muhammed-Ashnad-Finance-Portfolio-3cce8e1148b0800aa16feeb11a1e7bdc
+**Blockers/notes:**
+- LinkedIn post not yet written — next immediate step
+- 3 recruiter emails still unsent (6+ sessions overdue): Brian Casey/Cooper Fitch, Darius Dosieah/Robert Walters, Morgan Tull/Hays UAE
+- STRONG FIT queue untouched: Property Finder x2, zcreatix, Confidential Junior Process Performance
 
 ---
 

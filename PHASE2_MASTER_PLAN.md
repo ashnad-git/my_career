@@ -13,16 +13,16 @@
 
 | Field | Value |
 |---|---|
-| **Current Week** | Week 5 — Phase 2B near-complete |
-| **Current Phase** | Phase 2B — Project 1: FP&A Model (all 9 tabs built) |
-| **Current Task** | Remaining for CHECKPOINT 2B-4: (1) Management Commentary in Variance Analysis (2) GitHub repo + README (3) LinkedIn post |
+| **Current Week** | Week 5 — Phase 2B complete, LinkedIn post pending |
+| **Current Phase** | Phase 2B — Project 1: FP&A Model (complete — portfolio page live) |
+| **Current Task** | NEXT: Write + post LinkedIn post for Zara & Co. FP&A Model |
 | **Last Session Date** | 2026-08-31 |
-| **Last Session Summary** | Session 20 (2-part): Full Phase 2B model complete. Built Rolling Forecast (actuals locked Jan-Mar, Apr-Dec links from build tabs), Scenario Analysis (Base/Bull/Bear, P&L output, impact columns), Dashboard (KPI tiles, Q1 Scorecard, FY Outlook — all verified end-to-end). Fixed Variance Analysis Q1 margin % $Var formulas. Fixed Rolling Forecast EBITDA% FY Total. Wrote FPA_TEXTBOOK.md (12 chapters). Model fully verified. |
-| **Next Session: Start With** | 1. Read this file + PENDING.md 2. Catch-up Q&A → DAILY_LOG entry 3. Write Management Commentary in Variance Analysis tab (2 paragraphs) 4. GitHub repo + README 5. LinkedIn post draft |
-| **Blockers** | 3 recruiter emails still unsent (5+ sessions overdue — Brian Casey, Darius Dosieah, Morgan Tull). STRONG FIT queue: Property Finder x2, zcreatix, Confidential Junior Process Performance. GOOD FIT batch not started. |
+| **Last Session Summary** | Session 21: Notion portfolio page built and published. Page live at https://rust-teal-362.notion.site/Muhammed-Ashnad-Finance-Portfolio-3cce8e1148b0800aa16feeb11a1e7bdc — 3 charts, full project copy, downloadable Excel file, availability footer. GitHub replaced by Notion as showcase platform. |
+| **Next Session: Start With** | 1. Read this file + PENDING.md 2. Catch-up Q&A → DAILY_LOG entry 3. Write LinkedIn post for Zara & Co. FP&A Model (draft here, Ashnad posts) 4. Send 3 overdue recruiter emails 5. Apply STRONG FIT jobs (Property Finder x2, zcreatix, Confidential) |
+| **Blockers** | 3 recruiter emails still unsent (6+ sessions overdue — Brian Casey, Darius Dosieah, Morgan Tull). STRONG FIT queue: Property Finder x2, zcreatix, Confidential Junior Process Performance. GOOD FIT batch not started. |
 | **Applications Sent** | 16 |
 | **Interviews Booked** | 0 |
-| **Project 1 Progress** | 85% — All 9 tabs built and verified. Remaining: management commentary + GitHub + LinkedIn post |
+| **Project 1 Progress** | 95% — All 9 tabs built, Notion page live, Excel downloadable. Remaining: LinkedIn post only |
 | **Project 2 Progress** | 0% — Not started |
 | **Project 3 Progress** | 0% — Not started |
 

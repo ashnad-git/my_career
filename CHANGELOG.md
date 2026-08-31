@@ -4,6 +4,25 @@ All notable changes to this repository are documented here. Timestamped entries 
 
 ---
 
+## [2026-08-31] — Session 21: Notion Portfolio Page — Published
+
+### Added
+- **2026-08-31** — Notion portfolio page built and published publicly: https://rust-teal-362.notion.site/Muhammed-Ashnad-Finance-Portfolio-3cce8e1148b0800aa16feeb11a1e7bdc
+- **2026-08-31** — 3 portfolio charts generated (`learning/phase2b_project1/screenshots/`): `01_q1_revenue.png`, `02_q1_pl.png`, `03_scenarios.png` — matplotlib, finance palette, 160dpi
+- **2026-08-31** — `Zara_Co_FPA_Model_2025.xlsx` uploadd to Notion page as downloadable file block (base64 → presigned S3 PUT → Notion file block via saveTransactions API)
+
+### Page contents (live)
+- Title: "Muhammed Ashnad — Finance Portfolio"
+- Humanized description (accounting/ERP background, building toward financial analysis)
+- Contact line: email + Dubai, UAE
+- Project section: "01 — Zara & Co. FP&A Model" with tags (August 2026, Excel, Financial Modelling, UAE Retail)
+- Project description (9 tabs, Assumptions driver, model structure)
+- 3 inline charts
+- "What's in the model" bullet list (9 components, Assumptions through Dashboard)
+- Footer: availability note + email + downloadable Excel
+
+---
+
 ## [2026-08-25] — Session 19: Applications (3) + Script Refactor
 
 ### Added

@@ -82,6 +82,12 @@ All 14 pending LinkedIn JDs processed:
 
 ---
 
+## Cleared 2026-08-31
+- ✅ Notion portfolio page: built + published — https://rust-teal-362.notion.site/Muhammed-Ashnad-Finance-Portfolio-3cce8e1148b0800aa16feeb11a1e7bdc
+- ✅ Phase 2B FP&A model: all 9 tabs complete, verified, Excel file uploaded to Notion
+
+---
+
 ## Cleared 2026-08-25
 - ✅ TotalEnergies FP&A applied 2026-08-23
 - ✅ Huda Beauty MEAI LinkedIn applied 2026-08-23
