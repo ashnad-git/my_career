@@ -587,3 +587,32 @@ Today's total: 315 net-new · Archive total: 432 JDs. Split: ~61 core finance-an
 | 🟠 STRETCH | Leocor Advisory | Finance Manager | https://www.gulftalent.com/uae/jobs/finance-manager-600234 |
 | 🟠 STRETCH | MAG Group Holding | Financial Planning And Analysis Manager | https://www.gulftalent.com/uae/jobs/financial-planning-and-analysis-manager-620419 |
 | 🟠 STRETCH | Crazy Pets | Senior Accountant | https://www.gulftalent.com/uae/jobs/senior-accountant-604159 |
+---
+
+## BATCH SESSION 22 — 2026-09-04 (jobspy Indeed+LinkedIn + Naukrigulf browser harvest)
+
+**Sources:** Indeed (full sweep, 38 search terms × 4 UAE cities), LinkedIn (6 FP&A terms), Naukrigulf (6 search terms, 229 unique records after dedup)
+**Net-new keepers today:** 280 JDs (25 ✅ STRONG + 183 🟡 GOOD + 72 🟠 STRETCH) — after removing 26 slippage/dups
+**Total archive:** 737 JDs
+
+### ✅ STRONG FIT — Apply First (today's batch highlights)
+
+| Company | Role | URL |
+|---|---|---|
+| Chalhoub Group | FP&A Associate I | https://www.naukrigulf.com/fp-a-associate-i-jobs-in-dubai-uae-in-chalhoub-group-2-to-7-years-n-cd-10003174-jid-190826500656 |
+| Eaton | FP&A Analyst | https://www.naukrigulf.com/fp-a-analyst-jobs-in-uae-in-eaton-3-to-5-years-n-cd-10000265-jid-170726500853 |
+| NEP Group | Commercial Finance Analyst | https://www.naukrigulf.com/commercial-finance-analyst-jobs-in-dubai-uae-in-nep-group-3-to-5-years-n-cd-40002162-jid-070726501946 |
+| Aspen Holdings | Commercial Finance Analyst | https://www.naukrigulf.com/commercial-finance-analyst-jobs-in-dubai-uae-in-aspen-holdings-4-to-5-years-n-cd-10005001-jid-030926500912 |
+| Elliott Company (Abu Dhabi) | Financial Analyst | https://www.naukrigulf.com/financial-analyst-jobs-in-abu-dhabi-uae-in-elliott-company-4-to-6-years-n-cd-10001012-jid-030926500817 |
+| Client of Michael Page | FP&A Analyst | https://www.naukrigulf.com/fp-a-analyst-jobs-in-uae-in-client-of-michael-page-4-to-9-years-n-cd-10050002-jid-030926500293 |
+| Huda Beauty | Finance Analyst | https://www.naukrigulf.com/finance-analyst-jobs-in-uae-in-huda-beauty-5-to-10-years-n-cd-10001177-jid-060826501004 |
+| MishiPay | Finance Associate | https://www.naukrigulf.com/finance-associate-jobs-in-dubai-uae-in-mishipay-2-to-4-years-n-cd-10009780-jid-160726501133 |
+| Bukhatir (BEAM) | FP&A Analyst | Archive |
+| GBM | Financial Analyst | Archive |
+
+**Note:** Many of these are Naukrigulf-only listings not visible via Indeed/LinkedIn — apply directly via each Naukrigulf URL.
+
+### New filter improvements this session
+- Added to HARD_JUNK: `(MALE)` / `(FEMALE)` title suffix, `front office` cum-account, unpaid intern, Papua New Guinea, Tagalog, Tamil, French-speaking
+- Ran `--all` on archive: 0 removals (archive clean)
+

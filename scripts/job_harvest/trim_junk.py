@@ -45,14 +45,26 @@ HARD_JUNK = re.compile(r'''(
   | accounts?\s+(payable|receivable)\b         # AP/AR clerk roles
   | \bcashier\b | \bteller\b | \bclerk\b | bookkeep
   | receptionist | \bdriver\b | \bnurse\b | \bwarehouse\b
-  | (admin|office|recep|purchase|data\s*entry|coordinator|store|warehouse|document\s*control|cashier)
+  | \buaen\b                                   # UAE National abbreviated
+  | \bmale\s+account                           # gender-gated
+  | account\w*[–\-\s]+(?:male|female)\b        # gender-gated suffix
+  | \(male\)\s*$ | \(female\)\s*$              # (MALE) or (FEMALE) at end of title
+  | secretary\s+(?:cum|and|&)\s+account | account\w*\s+(?:cum|and|&)\s+secretary
+  | collector\s+(?:cum|and|&)\s+account | account\w*\s+(?:cum|and|&)\s+collector
+  | account\w*\s*(?:cum|&)\s*(?:typist|biller(?!\s+analyst)|peon)
+  | account\w*\s*(?:&|and)\s*pro\b            # accountant & PRO (public relations officer)
+  | (admin|office|recep|purchase|data\s*entry|coordinator|store|warehouse|document\s*control|cashier|front\s*office)
     \s*(cum|&|/|-|–)\s*account
-  | account\w*\s*(cum|&|/|-|–)\s*(admin|office|recep|purchase|data|coordinator|store|warehouse|invoic|document|hr|sales|cashier)
+  | account\w*\s*(cum|&|/|-|–)\s*(admin|office|recep|purchase|data|coordinator|store|warehouse|invoic|document|hr|sales|cashier|front\s*office)
+  | unpaid\s+intern                            # unpaid internship roles
+  | papua\s+new\s+guinea                       # non-UAE location
+  | \btagalog\b | \btamil\b(?!\s+nadu)        # language-gated
+  | french[\s-]speaking | french[\s-]speaker   # language-gated
 )''', re.I | re.X)
 
 # ── JUNK: remove unless KEEP overrides ────────────────────────────────────────
 JUNK = re.compile(r'''(
-    \bjunior\s+account | \bassistant\s+account
+    \bjunior\s+account | \bjr\.?\s+account | \bassistant\s+account
   | \baudit\s+(intern|associate|assistant)\b
   | \bauditor\s+assistant\b
   | \binformation\s+security\s+(audit|risk)\b
@@ -87,7 +99,8 @@ JUNK = re.compile(r'''(
   | product\s+manager | product\s+management
   | \bseo\b
   | spouse\s*visa
-  | philippine\s*national
+  | philippine\s*national | philipino | filipino\s+(?:only|national|speaker)
+  | arabic\s+account                           # Arabic-speaking accountant required
   | russian\s*speak(?:er|ing)
   | chinese\s*speak(?:er|ing)
   | mandarin\s*speak(?:er|ing)
