@@ -6,6 +6,7 @@ Each keeper saved to jds/ as a verbatim JD file. Rejects discarded on the spot.
 import os, re, json, sys, datetime, hashlib
 import pandas as pd
 from jobspy import scrape_jobs
+from trim_junk import should_remove as _trim_check
 
 ROOT = "/Users/ashnad/my_career"
 JD_DIR = os.path.join(ROOT, "jds")
@@ -103,6 +104,12 @@ def classify(title, desc):
     # too-senior years requirement
     if SENIOR_YEARS.search(d):
         return None, "senior-6plus-years"
+
+    # pass through trim_junk's full rules (title + desc together)
+    orig_title = str(title or "")
+    drop, reason = _trim_check(orig_title, d)
+    if drop:
+        return None, f"trim: {reason}"
     # fit rating
     fit="🟡 GOOD FIT"; reason=f"core finance title: {matched[0]}"
     if any(k in t for k in ["manager","controller","business partner"]):
@@ -233,6 +240,8 @@ def run_batch(terms, sites, locations, results=40, hours=1000):
                 existing_urls.add(url); existing_sigs.add(s)
                 kept+=1
                 print(f"  [SAVE {st['saved']:>3}] {fit} {company} — {title[:50]}")
+                if kept % 5 == 0:
+                    save_state(st)
             save_state(st)
             print(f"[batch] {term}@{loc}: kept={kept} rej={rejected} dup={dup} | total saved={st['saved']}")
     # write emails

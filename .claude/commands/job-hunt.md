@@ -63,7 +63,35 @@ Any job title + URL seen anywhere → save to `jds/CompanyName_Role_YYYY-MM-DD.m
 Needs Ashnad's Mac Chrome, logged into LinkedIn. Connect-UP strategy (see `NETWORKING.md`): CFOs, Finance Directors, VP Finance, FP&A/Finance Managers, Heads of FP&A, and HR/Talent-Acquisition gatekeepers — Dubai/Abu Dhabi/Sharjah + UAE-wide.
 
 1. For each search, navigate to `https://www.linkedin.com/search/results/people/?keywords=<query>&origin=SWITCH_SEARCH_VERTICAL` (rotate queries: "Finance Director Dubai", "CFO UAE", "Head of FP&A UAE", "FP&A Manager Dubai/Abu Dhabi", "Finance Manager <city>", "Financial Controller <city>", "Talent Acquisition Finance Dubai", "Finance Recruiter Dubai", "Finance Business Partner UAE", etc.). Diversify cities/titles once returns start overlapping.
-2. Extract cards with the JS parser (LinkedIn classes are obfuscated — find each card as the tightest ancestor containing a Connect/Message action; parse name / headline / location / mutuals from its innerText). Accumulate into `localStorage['__people']` (dedup by profile URL). ~10 real cards/page.
+2. **Before opening LinkedIn, pre-seed the accumulator with already-known profiles** so you never scrape someone already in NETWORKING.md:
+
+```bash
+python3 -c "
+import re, json
+txt = open('/Users/ashnad/my_career/NETWORKING.md', encoding='utf-8', errors='ignore').read()
+urls = list(set(re.findall(r'https://www\.linkedin\.com/in/[a-zA-Z0-9\-_%]+', txt)))
+print('Known profile URLs:', len(urls))
+print(json.dumps(urls))
+" > /tmp/known_people.json
+```
+
+Then in Chrome, before the first search, run:
+
+```javascript
+const known = JSON.parse(/* paste content of /tmp/known_people.json — the JSON array line only */);
+const existing = JSON.parse(localStorage['__people'] || '[]');
+const existingUrls = new Set([...existing.map(p => p.url), ...known]);
+localStorage['__people_known'] = JSON.stringify([...existingUrls]);
+`Pre-seeded with ${existingUrls.size} known URLs`;
+```
+
+In the accumulator JS, add this check after extracting `profile_url`:
+```javascript
+const known_set = new Set(JSON.parse(localStorage['__people_known'] || '[]'));
+if (profile_url && known_set.has(profile_url.split('?')[0].replace(/\/$/, ''))) return; // already saved
+```
+
+Extract cards with the JS parser (LinkedIn classes are obfuscated — find each card as the tightest ancestor containing a Connect/Message action; parse name / headline / location / mutuals from its innerText). Accumulate into `localStorage['__people']` (dedup by profile URL). ~10 real cards/page.
 3. Get the data to disk: `download()` a `linkedin_targets.json` (ask permission first per the download rule; the first download usually lands). Copy into `scratchpad/jobpipe/` and run `python3 scripts/job_harvest/build_networking.py` → appends a tiered section to `NETWORKING.md` with a **humanized ≤200-char connection note** per person (follow the repo humanized-writing rules: no em dashes, no AI openers, specific to their company).
 4. **Sending is Ashnad's action** — never auto-send invites (LinkedIn flags automation; ~20/day cap). Commit + push.
 
@@ -83,6 +111,33 @@ Needs Ashnad's Mac Chrome, logged into LinkedIn. Load browser tools:
 `select:mcp__claude-in-chrome__list_connected_browsers,mcp__claude-in-chrome__select_browser,mcp__claude-in-chrome__tabs_context_mcp,mcp__claude-in-chrome__navigate,mcp__claude-in-chrome__get_page_text,mcp__claude-in-chrome__javascript_tool`
 
 **ALWAYS** call `list_connected_browsers` and confirm with Ashnad, then `select_browser` the **macOS / isLocal:true** device.
+
+### Step 0 — Pre-seed accumulator with already-saved posts
+
+```bash
+python3 -c "
+import re, json
+txt = open('/Users/ashnad/my_career/HIRING_POSTS.md', encoding='utf-8', errors='ignore').read()
+urls = list(set(re.findall(r'https://www\.linkedin\.com/feed/update/[^\s)\]]+', txt)))
+urls += re.findall(r'\*\*Post:\*\*\s*(https://[^\s\n]+)', txt)
+urls = list(set(u.rstrip('/') for u in urls))
+print('Known post URLs:', len(urls))
+print(json.dumps(urls))
+" > /tmp/known_posts.json
+```
+
+Then in Chrome before the first search:
+```javascript
+const known_posts = JSON.parse(/* paste the JSON array line from /tmp/known_posts.json */);
+localStorage['__posts_known'] = JSON.stringify(known_posts);
+`Pre-seeded with ${known_posts.length} known post URLs`;
+```
+
+In the accumulator JS, after extracting `post_url`, add:
+```javascript
+const posts_known = new Set(JSON.parse(localStorage['__posts_known'] || '[]'));
+if (posts_known.has(post_url)) return; // already saved
+```
 
 ### Step 1 — Search LinkedIn Posts
 

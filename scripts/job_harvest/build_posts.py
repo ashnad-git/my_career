@@ -230,11 +230,26 @@ if not os.path.exists(SRC):
     print(f"No posts file at {SRC}. Run LinkedIn posts harvest first.")
     exit(0)
 
+# Load already-saved post URLs from HIRING_POSTS.md
+_known_post_urls: set = set()
+if os.path.exists(OUT):
+    _hp_text = open(OUT, encoding="utf-8", errors="ignore").read()
+    _known_post_urls = set(re.findall(r'https://www\.linkedin\.com/feed/update/[^\s)\]]+', _hp_text))
+    _known_post_urls |= set(re.findall(r'\*\*Post:\*\*\s*(https://[^\s\n]+)', _hp_text))
+    print(f"Loaded {len(_known_post_urls)} existing post URLs from HIRING_POSTS.md")
+
 raw = json.load(open(SRC))
 print(f"Loaded {len(raw)} raw posts from JSON.")
 
 kept = []
+skipped_dups = 0
 for p in raw:
+    # dedup against already-saved posts
+    post_url = p.get("post_url", "").split("?")[0].rstrip("/")
+    if post_url and post_url in _known_post_urls:
+        skipped_dups += 1
+        continue
+
     ok, reason = is_relevant(p)
     if not ok:
         print(f"  skip ({reason}): {p.get('poster_name','?')} — {p.get('poster_headline','')[:50]}")
@@ -246,6 +261,9 @@ for p in raw:
     p["_score"] = score
     p["_action"] = action_type(p)
     kept.append(p)
+
+if skipped_dups:
+    print(f"Skipped {skipped_dups} already-saved posts (dedup)")
 
 # Sort: email actions first, then DM, then connect; within each by score desc
 ACTION_ORDER = {"EMAIL": 0, "DM": 1, "CONNECT": 2}

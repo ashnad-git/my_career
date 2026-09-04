@@ -6,6 +6,14 @@ import json, re, os
 
 SRC="/Users/ashnad/my_career/scratchpad/jobpipe/linkedin_targets.json"
 NET="/Users/ashnad/my_career/NETWORKING.md"
+
+# Load already-saved profile URLs from NETWORKING.md so we never duplicate
+_known_urls: set = set()
+if os.path.exists(NET):
+    _net_text = open(NET, encoding="utf-8", errors="ignore").read()
+    _known_urls = set(re.findall(r'https://www\.linkedin\.com/in/[a-zA-Z0-9\-_%]+', _net_text))
+    print(f"Loaded {len(_known_urls)} existing profile URLs from NETWORKING.md")
+
 data=json.load(open(SRC))
 
 def clean_name(n):
@@ -65,21 +73,28 @@ def note(fn, comp, t, headline):
         n=n[:196].rsplit(' ',1)[0]+'...'
     return n
 
-rows=[]; seen=set()
+rows=[]; seen=set(); skipped_dups=0
 NONFIN=re.compile(r'financ|account|fp&a|fpa\b|cfo|controller|treasury|audit|budget|fp and a|commercial finance|revenue', re.I)
 for d in data:
     name=clean_name(d.get('name',''))
     if not name or name.lower() in seen: continue
     hl=d.get('headline','')
     t=tier(hl)
-    # every record came from a finance-title search, so all are finance-relevant.
-    # only drop obvious non-people / empty headlines.
     if len(hl.strip())<3:
+        continue
+    # dedup against already-saved profiles
+    profile_url = d.get('url', '')
+    norm_url = profile_url.split('?')[0].rstrip('/').lower()
+    if norm_url and any(norm_url in k.lower() or k.lower() in norm_url for k in _known_urls):
+        skipped_dups += 1
         continue
     seen.add(name.lower())
     comp=company(hl)
     fn=first_name(name)
-    rows.append({"name":name,"first":fn,"headline":hl.strip(),"company":comp,"loc":d.get('loc',''),"tier":t,"url":d.get('url',''),"note":note(fn,comp,t,hl)})
+    rows.append({"name":name,"first":fn,"headline":hl.strip(),"company":comp,"loc":d.get('loc',''),"tier":t,"url":profile_url,"note":note(fn,comp,t,hl)})
+
+if skipped_dups:
+    print(f"Skipped {skipped_dups} already-saved profiles (dedup)")
 
 # order by tier priority
 prio={"Decision-maker (CFO/VP)":0,"Decision-maker (Director/Head)":1,"Hiring manager":2,"Gatekeeper (HR/TA)":3,"Senior finance":4}
