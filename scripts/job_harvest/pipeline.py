@@ -78,7 +78,7 @@ TITLE_EXCLUDE = [
     "investment analyst","portfolio manager","actuar","payroll","accounts payable","accounts receivable",
 ]
 # desc / title-level hard rejects
-NATIONAL_RE = re.compile(r'uae national|emirati|emiratis?\b|emiratisation|emiratization', re.I)
+NATIONAL_RE = re.compile(r'uae national|emirati|emiratis?\b|emarati|emiratisation|emiratization|\bvie\b|volontariat\s+international', re.I)
 SENIOR_YEARS = re.compile(r'(minimum|min\.?|at least|over|require[sd]?)?\s*(6|7|8|9|10|11|12|15)\s*\+?\s*years', re.I)
 
 def classify(title, desc):
@@ -213,7 +213,7 @@ def run_batch(terms, sites, locations, results=40, hours=1000):
                 jobs=scrape_jobs(site_name=sites, search_term=term, location=loc,
                                  results_wanted=results, hours_old=hours,
                                  country_indeed="United Arab Emirates",
-                                 linkedin_fetch_description=("linkedin" in sites))
+                                 linkedin_fetch_description=False)
             except Exception as e:
                 print(f"  [scrape-fail] {term}@{loc}: {e}")
                 continue

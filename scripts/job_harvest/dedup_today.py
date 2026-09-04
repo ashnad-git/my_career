@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""SAFE dedup: only removes TODAY's (2026-08-28) scraped files that duplicate an
+"""SAFE dedup: only removes TODAY's scraped files that duplicate an
 earlier-dated archive file or an earlier today's file. Never deletes archive files."""
-import os, re, unicodedata as ud
-JD="/Users/ashnad/my_career/jds"; TODAY="2026-08-28"
+import os, re, datetime, unicodedata as ud
+JD="/Users/ashnad/my_career/jds"; TODAY=datetime.date.today().isoformat()
 
 def norm(s):
     s=ud.normalize("NFKD",s or ""); return re.sub(r'[^a-z0-9]','',s.lower())

@@ -60,6 +60,8 @@ HARD_JUNK = re.compile(r'''(
   | papua\s+new\s+guinea                       # non-UAE location
   | \btagalog\b | \btamil\b(?!\s+nadu)        # language-gated
   | french[\s-]speaking | french[\s-]speaker   # language-gated
+  | \bVIE\b | volontariat\s+international      # French VIE scheme (French nationals only)
+  | emarati\s+talent | emarati\s+(?:only|candidate|role)  # misspelled Emirati
 )''', re.I | re.X)
 
 # ── JUNK: remove unless KEEP overrides ────────────────────────────────────────
