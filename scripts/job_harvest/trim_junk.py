@@ -49,6 +49,7 @@ HARD_JUNK = re.compile(r'''(
   | \bmale\s+account                           # gender-gated
   | account\w*[–\-\s]+(?:male|female)\b        # gender-gated suffix
   | \(male\)\s*$ | \(female\)\s*$              # (MALE) or (FEMALE) at end of title
+  | males?\s+only | females?\s+only            # explicit gender-gate in title (singular or plural)
   | secretary\s+(?:cum|and|&)\s+account | account\w*\s+(?:cum|and|&)\s+secretary
   | collector\s+(?:cum|and|&)\s+account | account\w*\s+(?:cum|and|&)\s+collector
   | account\w*\s*(?:cum|&)\s*(?:typist|biller(?!\s+analyst)|peon)
@@ -107,7 +108,7 @@ JUNK = re.compile(r'''(
   | chinese\s*speak(?:er|ing)
   | mandarin\s*speak(?:er|ing)
   | cantonese\s*speak(?:er|ing)
-  | female\s*only | male\s*only
+  | females?\s*only | males?\s*only
   | external\s+audit(?:or|s)?\b
   | audit\s+(?:semi\s+)?senior\b
   | audit\s+associate\b | associate\s+auditor\b
@@ -147,6 +148,9 @@ DESC_DISQUALIFY = re.compile(r'''(
   | b\.?\s*e\.?\/b\.?\s*tech\s+(?:required|mandatory|essential)
   | minimum\s+(?:of\s+)?(?:8|9|10|11|12|13|14|15)\s+years
   | at\s+least\s+(?:8|9|10|11|12|13|14|15)\s+years
+  | males?\s+only\s+(?:can\s+)?(?:apply|need\s+apply)  # body: "Males Only can apply"
+  | females?\s+only\s+(?:can\s+)?(?:apply|need\s+apply)
+  | (?:job|role|position)\s+(?:overview\s+.{0,30})?\W\s*(?:male|female)\s+only  # "Job Overview – Female Only"
 )''', re.I | re.X)
 
 # ── KEEP: these title patterns always pass (HARD_JUNK still overrides) ────────
